@@ -1,0 +1,40 @@
+---
+title: Index of all pages
+layout: page
+---
+
+
+{% assign items = site.pages | sort: 'title' %}
+
+{% assign group = "Numbers" %}
+{% assign last = false %}
+<!-- String.fromCharCode(94 + i); -->
+Index: 
+{% for node in items %}
+	{% if forloop.first == true %}[{% endif %}
+	{% assign first = node.title | slice: 0 %}
+	{% if first < 'A' %}
+		<!-- numbers -->
+	{% elsif last != first %}
+		<!-- letters -->
+		{% if first > 'A' %}&nbsp;|{% endif %}
+		&nbsp;<a href="#{{first}}">{{first}}</a>
+	{% endif %}
+	{% assign last = first %}
+{% endfor %}
+&nbsp;]
+<!-- <h4>Numbers</h4> -->
+<ul>
+{% for node in items %}
+	{% assign first = node.title | slice: 0 %}
+	{% if first < 'A' %}
+		<!-- numbers -->
+	{% elsif last != first %}
+		<!-- letters -->
+		</ul><a name="{{first}}"><h4>- {{first}} -</h4></a><ul>
+	{% endif %}
+	{% assign last = first %}
+
+	<li><a href="{{ node.url | absolute_url }}">{{ node.title }}</a></li>
+{% endfor %}
+</ul>

@@ -1,0 +1,17 @@
+- title: The Technical Symposium
+  url: events/symposia/index.html
+  image: files/images/home/2020canceled.jpg
+  imagealt: SIGCSE 2020 Canceled due to Virus
+  byline: "The Technical Symposium is SIGCSE's flagship conference. It has been held annually in February or March in North America since 1970. Attendance regularly exceeds 1,500 and includes computer science educators from around the globe."
+
+- title: Because we Teach
+  url: about/profile.html
+  image: files/images/home/teaching.jpg
+  imagealt: SIGCSE attendees
+  byline: "SIGCSE provides a forum for educators to discuss issues related to the development, implementation, and/or evaluation of computing programs, curricula, and courses, as well as syllabi, laboratories, and other elements of teaching and pedagogy."
+
+- title: The SIGCSE Board
+  url: about/board.html
+  image: files/images/home/board.jpg
+  imagealt: SIGCSE Board
+  byline: 'SIGCSE is managed by an elected Board of volunteers that serve three-year terms. The Board consists of a chair, vice chair, secretary, treasurer, the past chair, and three "at large" members.'

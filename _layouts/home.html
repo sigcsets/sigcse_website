@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include html-header.html %}
+  </head>
+  <body>
+
+    <div class="container">
+      {% include page-header.html %}
+
+      <div class="card-group">
+        {% for banner in site.data.banners %}
+          <div class="card">
+            <!-- 239 x 180 -->
+            <img class="card-img-top" src="{{banner.image}}" alt="{{banner.imagealt}}">
+            <div class="card-body">
+              <h5 class="card-title">{{banner.title}}</h5>
+              <p class="card-text">{{banner.byline}}<br>
+                <small class="text-muted"><a href="{{banner.url}}">More...</a></small></p>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+
+      <main role="main" class="container mt-2">
+        <div class="row">
+          <div class="col-md-8 blog-main">
+            {{content}}
+          </div><!-- /.blog-main -->
+
+          {% include sidebar.html %}
+
+        </div><!-- /.row -->
+      </main>
+    </div><!-- /.container -->
+
+    {% include page-footer.html %}
+    {% include bootstrap-core-js.html %}
+  </body>
+</html>

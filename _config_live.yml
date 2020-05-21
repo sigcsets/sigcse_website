@@ -1,0 +1,28 @@
+title: SIGCSE
+email: webmaster@sigcse.org
+description: >-
+  ACM SIGCSE group, special interest group in computer science education
+
+# For deployment
+baseurl: "/sigcse" # the subpath of your site, e.g. /blog
+
+# The base hostname & protocol for your site
+url: "https://sigcse.org" 
+
+exclude: ["Gemfile", "Gemfile.lock", "documentation", "pending", "bin"]
+
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+
+permalink: /about/news/:title:output_ext
+
+# long sequence of numbers to make loop go for a while, contents
+# of colletion is irrelevant
+breadcrumb_list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+

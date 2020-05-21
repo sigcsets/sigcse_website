@@ -1,0 +1,21 @@
+<h5 class="font-italic">SIGCSE Events</h5>
+<ol class="list-unstyled mb-0">
+
+  {% for conf in site.data.events %}
+
+    <li><strong>
+      {% if conf.url %}
+        <a href="{{conf.url}}">{{conf.title}}</a>
+      {% else %}
+        {{conf.title}}
+      {% endif %}
+      </strong><br />
+      {{conf.dates}}<br />
+      {{conf.location}}<br />&nbsp;
+    </li>
+
+  {% endfor %}
+</ol>
+<p>Many conferences across the world are held <strong><a href={{ "events/incoop.html" | absolute_url }}>in-cooperation with SIGCSE</a></strong>.</p>
+
+

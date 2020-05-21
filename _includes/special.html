@@ -1,0 +1,52 @@
+
+{% assign prev = false %}
+{% assign next = false %}
+{% assign looking = true %}
+{% assign onemore = false %}
+{% assign first_yr = 0 %}
+{% assign last_yr = 0 %}
+
+{% assign items = site.pages | where: "event","special-award" | sort: 'year' %}
+{% for c in items %}
+    {% if forloop.first == true %}
+        {% assign first_yr = c.year %}
+    {% elsif forloop.last == true %}
+        {% assign last_yr = c.year %}
+    {%endif%}
+
+    {% if looking %}
+        {% if c.year == page.year %}
+            {% assign looking = false %}
+            {% assign onemore = true %}
+        {% else %}
+            {% assign prev = c.year %}
+        {% endif %}
+    {% elsif onemore %}
+        {% assign next = c.year %}
+        {% assign onemore = false %}
+    {% endif %}
+{% endfor %}
+
+
+{% if page.year <= first_yr %}{% else %}<a href="{{prev}}.html">← {{prev}}</a> &#124; {% endif %}<a href="index.html">Special Projects</a>{% if page.year >= last_yr %}{% else %} &#124; <a href="{{next}}.html">{{next}} →</a>{% endif %}
+
+
+<p>Since {{first_yr}} SIGCSE has awarded a limited number of Special Projects Grants each year. These grants help SIGCSE members investigate and introduce new ideas in the learning and teaching of computing. Projects must provide some clear benefit to the wider disciplinary community in the form of new knowledge, developing or sharing of a resource, or good practice in learning, teaching, or assessment.</p>
+
+<p>Here is a list of the awards given in {{page.year}}.</p>
+
+{% for aw in page.special-awards %}
+  <h5>{{aw.title}}</h5>
+  <p>{% for au in aw.authors %}
+    {{au.name}}{% if au.affiliation %}, {{au.affiliation}}{% endif %}{% if au.email %} &lt;<a href="mailto:{{au.email}}">{{au.email}}</a>&gt;{% endif %}<br/>
+  {% endfor %}
+  {% if aw.award %}Award: {{aw.award}}<br />{% endif %}
+  {% if aw.date %}Award date: {{aw.date}}{% endif %}</p>
+  {% if aw.description %}<p>Description: {{aw.description}}</p>{% endif %}
+  <p>{% for af in aw.files %}
+    <bold>Report: <a href='{{ "/files/SpecialProjectReports/" | append: af.file | absolute_url }}'>{{af.label}}</a></bold><br />
+  {% endfor %}</p>
+  
+{% endfor %}
+
+<p><a href="#Top">↑ Back to top</a></p>

@@ -1,0 +1,18 @@
+---
+title: News
+layout: page
+---
+
+The following news items were featured on the SIGCSE site's front page:
+
+{% for post in site.posts %}
+	{% assign year = post.date | date: '%Y' %}
+	{% if last != year %}
+		<!-- letters -->
+		</ul><a name="{{year}}"><h4>{{year}}</h4></a><ul>
+	{% endif %}
+	{% assign last = year %}
+
+	<li><a href="{{post.url | absolute_url }}">{{post.title}}</a> ({{post.date | date: '%B %d, %Y' }})</li>
+{% endfor %}
+</ul>

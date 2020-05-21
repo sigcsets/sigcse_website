@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+- name: About
+  link: /about/
+- name: Membership
+  link: /membership/
+- name: Events
+  link: /events/
+- name: Programs
+  link: /programs/
+- name: Policies
+  link: /policies/
+- name: Resources
+  link: /resources/

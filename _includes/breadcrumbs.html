@@ -1,0 +1,33 @@
+<!-- https://stackoverflow.com/questions/9612235/what-are-some-good-ways-to-implement-breadcrumbs-on-a-jekyll-site -->
+<!-- &#187;  -->
+
+<div class="nav-scroller">
+
+  {% capture url_parts %} {{ page.url | remove: "/index.html" | replace:'/'," " }}{% endcapture %}
+  {% capture num_parts %}{{ url_parts | number_of_words | minus: 1 }}{% endcapture %}
+
+  {% assign previous="" %}
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      {% if num_parts == "0" or num_parts == "-1" %}
+        <li class="breadcrumb-item"><a href={{"/" | absolute_url}}>Home</a></li>
+      {% else %}
+        <li class="breadcrumb-item"><a href={{"/" | absolute_url}}>Home</a></li>
+
+        <!-- From Bootstrap's documentation -->
+        <!-- Separators are automatically added in CSS through ::before and content. -->
+        {% for unused in site.breadcrumb_list limit:num_parts %}
+
+          {% capture first_word %}{{ url_parts | truncatewords:1 | remove:"..."}}{% endcapture %}
+          {% capture previous %}{{ previous }}/{{ first_word }}{% endcapture %}
+          <li class="breadcrumb-item"><a href="{{ previous | absolute_url }}">{{ first_word | capitalize }}</a></li>
+          {% capture url_parts %}{{ url_parts | remove_first:first_word }}{% endcapture %}
+
+        {% endfor %}
+      {% endif %}
+      <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+    </ol>
+  </nav>
+
+
+</div>

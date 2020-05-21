@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include html-header.html %}
+  </head>
+  <body>
+
+    <div class="container">
+      {% include page-header.html %}
+      {% include breadcrumbs.html %}
+    </div>
+
+    <main role="main" class="container">
+      <div class="row">
+        <div class="col-md-8 blog-main">
+
+          <div class="blog-post">
+            <h2 class="blog-post-title pt-2 border-bottom">News: {{page.title}}</h2>
+            <p class="blog-post-meta">{{page.date | date: '%B %d, %Y' }}
+               {% if page.author == true %}by {{page.author}}{% endif %}</p>
+            {{content}}
+          </div><!-- /.blog-post -->
+
+        </div><!-- /.blog-main -->
+
+        {% include sidebar.html %}
+
+      </div><!-- /.row -->
+
+    </main><!-- /.container -->
+
+    {% include page-footer.html %}
+    {% include bootstrap-core-js.html %}
+  </body>
+</html>

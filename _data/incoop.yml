@@ -1,0 +1,128 @@
+- name: "CCSC-NE '20"
+  year: 2020
+  url: http://ccscne.org/conferences/ccscne-2020/
+
+- name: "CCSC-MS '20"
+  year: 2020
+  url: http://www.ccsc-ms.org/
+
+- name: "CCSC-SC '20"
+  year: 2020
+  url: http://www.ccsc.org/southcentral/conference2020.html
+
+- name: "CCSC-SW '20"
+  year: 2020
+  url: http://ccsc.org/southwestern/2020/index.php 
+
+- name: "ACE 2019: Australasian Computing Education conference "
+  year: 2019
+  url: https://aceconference.wordpress.com/
+  contacts:
+    - name: Andrew Luxton-Reilly
+      email: a.luxton-reilly@auckland.ac.nz
+
+- name: Computing Education Practice (CEP) conference
+  year: 2019
+  url: http://community.dur.ac.uk/cep.conference
+  contacts:
+      - name: Alexandra I. Cristea
+
+- name: "CCSC-CP '19"
+  year: 2019
+  url: https://www.ccsc.org/centralplains/
+  contacts:
+    - name: Rex McKanry
+      email: rmckanry@stchas.edu
+
+- name: "CCSC-EA '19"
+  year: 2019
+  url: https://sites.google.com/site/ccsceastern/Home
+  contacts:
+    - name: Karen Paullet
+      email: paullet@rmu.edu
+
+- name: "CCSC-MS '19"
+  year: 2019
+  url: http://www.ccsc-ms.org/
+  contacts:
+    - name: Gabriel Ferrer
+      email: ferrer@hendrix.edu
+
+- name: "CCSC-MW '19"
+  year: 2019
+  url: http://www.ccsc.org/northwest/2018/index.html
+  contacts:
+    - name: Deborah Hwang
+      email: hwang@evansville.edu
+
+- name: "CCSC-NE '19"
+  year: 2019
+  url: http://ccscne.org/conferences/ccscne-2019/
+  contacts:
+    - name: Alice Fischer
+      email: AFischer@newhaven.edu
+
+- name: "CCSC-NW '19"
+  year: 2019
+  url: http://www.ccsc.org/northwest/2019/index.html
+  contacts:
+    - name: Khoja Shereen
+      email: shereen@pacificu.edu
+
+- name: "CCSC-RM '19"
+  year: 2019
+  url: http://www.ccsc.org/rockymt/
+  contacts:
+    - name: Zhang Juh
+      email: zheng@cs.nmt.edu
+
+- name: "CCSC-SC '19"
+  year: 2019
+  url: http://www.ccsc.org/southcentral/conference2019.html
+  contacts:
+    - name: Shyam Karrah
+      email: skarrah@utdallas.edu
+
+- name: "CCSC-SE '19"
+  year: 2019
+  url: http://www.ccscse.org/
+  contacts:
+    - name: Richard Chapman
+      email: chapmro@auburn.edu
+
+- name: "CCSC-SW '19"
+  year: 2019
+  url: http://www.ccsc.org/southwestern/index.php
+  contacts:
+    - name: Cynthia Lee
+      email: cbl@stanford.edu
+
+- name: "JADIPro '19"
+  year: 2019
+  url: https://jadipro.unc.edu.ar/
+  contacts:
+    - name: Luciana Benotti
+      email: luciana.benotti@gmail.com
+
+- name: "WCCCE '19"
+  year: 2019
+  url: https://wccce2019.cpsc.ucalgary.ca/
+  contacts:
+    - name: Ben Stephenson
+      email: ben.stephenson@ucalgary.ca
+
+- name: "18th Koli Calling International Conference on Computing Education Research"
+  year: 2018
+  url: http://www.kolicalling.fi/
+  contacts:
+    - name: Mike Joy
+      email: m.s.joy@warwick.ac.uk
+    - name: Petri Ihantola
+      email: petri.ihantola@helsinki.fi
+
+- name: "WiPSCE '18"
+  year: 2018
+  url: http://www.informatikdidaktik.de/WiPSCE2018
+  contacts:
+    - name: Andreas Schwill
+      email: schwill@cs.uni-potsdam.de

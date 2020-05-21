@@ -1,0 +1,6 @@
+_site
+documentation
+.DS_Store
+.jekyll-cache
+bin
+pending

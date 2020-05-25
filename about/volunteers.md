@@ -110,9 +110,9 @@ Some more information about volunteering for SIGCSE can be found in this
 -   Manuel A. Pérez-Quiñones sigcse.org administrator (July 1 2019 -- June 30 2022)
 
 
-**Social media coordinator**
+**Social Media Coordinator**
 
--   Briana Morrison, University of Omaha, USA (2015-2018)
+-   Zahra Atiq, Ohio State University, USA (2020-2023)
 
 **Special Projects/Speaker's Fund/Travel Grant reviewers**
 

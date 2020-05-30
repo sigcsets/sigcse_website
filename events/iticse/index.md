@@ -169,7 +169,7 @@ conferences:
 - title: ITiCSE 1999
   proceedings: "ITiCSE '99: Proceedings of the 4th annual SIGCSE/SIGCUE ITiCSE conference on Innovation and technology in computer science education"
   year: 1999
-  date: "June 27 - July 1 1999"
+  date: "June 27-July 1 1999"
   location: "Cracow, Poland"
   companion: "ITiCSE-WGR '99: Working group reports from ITiCSE on Innovation and technology in computer science education"
 

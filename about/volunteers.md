@@ -121,8 +121,3 @@ Some more information about volunteering for SIGCSE can be found in this
     30 2019)
 -   Daniel Toll, Linnaeus University, Sweden (2017-2020)
 -   Dave Musicant, Carleton College, USA (2018-2021)
-
-**ACM Inroads editors**
-
--   James Harland, RMIT University, Australia
--   Margaret Hamilton, RMIT University, Australia

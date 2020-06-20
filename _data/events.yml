@@ -1,7 +1,3 @@
-- title: ITiCSE 2020
-  url: https://iticse.acm.org/
-  dates: "June 17-19, 2020"
-  location: "Online - (was Trondheim, Norway)"
 
 - title: ICER 2020
   url: https://icer.acm.org/
@@ -9,9 +5,11 @@
   location: "Online - (was Dunedin, New Zealand)"
 
 - title: Technical Symposium 2021
+  url: https://sigcse2021.sigcse.org
   dates: "March 17 - 20, 2021"
   location: "Toronto, Canada"
 
 - title: Technical Symposium 2022
   dates: "March 02 - 05, 2022"
   location: "Providence, RI, USA"
+

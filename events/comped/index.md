@@ -32,7 +32,7 @@ More information on the structure of the conference is here: [Information about 
  -->
 **Call for volunteers for Program Chair and other committee positions**
 
-Fill out the form below if you are interested in volunteering as a Program Co-Chair or other position for CompEd 2021 (possibly to be held in India) or a future CompEd: [Program Chair and other committee positions volunteer form.](https://forms.gle/JHJoaSsSUPEK9Lfj9)
+Fill out the form below if you are interested in volunteering as a Program Co-Chair or other position for CompEd 2021 (to be held in India) or a future CompEd: [Program Chair and other committee positions volunteer form.](https://forms.gle/JHJoaSsSUPEK9Lfj9)
 
 Please respond by March 2, 2020, though we will continue to look at responses after that date if required.
 

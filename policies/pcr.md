@@ -1,6 +1,7 @@
 ---
 title: Program Chair Responsibilities
 layout: page
+changes: changed "double-blind" for "dual-anonymous" 7/25/2020
 ---
 
 **\*\*\* Please note this policy is currently under review for ICER and
@@ -51,7 +52,7 @@ Call for Reviewers and review assignment letter
 The PC should ensure all papers receive proper consideration. Towards
 this goal, the PC should:
 
--   Continue to use the double-blind reviewing process.
+-   Continue to use the <a href="#dualanonymous">dual-anonymous</a> reviewing process.
 -   The number of reviews for each paper:
     -   Technical Symposium: at least four reviews plus a meta-review -.
     -   ITiCSE: at least three and at most four reviews (not counting
@@ -80,3 +81,10 @@ simply \"opt in\" for reviewing the following year. However, if someone
 is guilty of repeated offenses (two offenses within a three year
 period), SIGCSE will remove them from reviewing for three years. This
 protocol should be communicated to the recalcitrant reviewers.
+
+----
+**Notes**
+
+<ol>
+<li id="dualanonymous"><i>dual-anonymous</i> means that the author and the reviewer identities are hidden to each other. Thus both, reviewer and author, are anonymous (dual-anonymous). <a href="javascript:window.history.back();">[back]</a></li>
+</ol>

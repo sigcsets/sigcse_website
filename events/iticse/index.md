@@ -73,35 +73,8 @@ Follow the links to conference web sites and proceedings.
 
 {% assign items = site.data.iticse.conferences | sort: 'year' | reverse %}
 {% for c in items %}
-- {% if c.url %}[{{c.title}}]({{c.url}}){%else%}{{c.title}}{%endif%}: {{c.date}}, {{c.location}}{% if c.doi %}, [proceedings]({{c.doi}}){%endif%}{% endfor %}
+- {% if c.url %}[{{c.title}}]({{c.url}}){%else%}{{c.title}}{%endif%}: {{c.date}}, {{c.location}}{% if c.doi %}, [proceedings]({{c.doi}}){% if c.companion-doi %}, [companion]({{c.companion-doi}}){%endif%}{%endif%}{% endfor %}
 
-<!-- 
-
--  [ITiCSE 2020](http://iticse.hosting.acm.org/), June 15-19, 2020, Trondheim, Norway
--  [ITiCSE 2019](https://iticse.acm.org/ITiCSE2019/), July 5-8, 2019, Aberdeen, Scotland-UK
--  [ITiCSE 2018](http://iticse.acm.org/ITiCSE2018/), July 1-3, 2018, Larnaca, Cyprus
--  [ITiCSE 2017](https://iticse.acm.org/ITiCSE2017/), July 3-5, 2017, Bologna, Italy
--  [ITiCSE 2016](http://ucsp.edu.pe/iticse2016/), July 11-13, 2016, Arequipa, Peru
--  [ITiCSE 2015](http://iticse2015.mii.vu.lt/), July 6-8, 2015, Vilnius, Lithuania
--  [ITiCSE 2014](http://iticse2014.it.uu.se/), 23-25 June 2014, Uppsala, Sweden
--  [ITiCSE 2013](http://www.cs.kent.ac.uk/events/iticse2013), 1-3 July 2013, University of Kent, Cantebury England
--  [ITiCSE 2012](http://cse.proj.ac.il/iticse/www.iticse12.org.il/HTMLs/home-2.html), 3-5 July 2012, Haifa, Israel
--  [ITiCSE 2011](http://www.iticse2011.tu-darmstadt.de/), 25-29 June 2011, Darmstadt, Germany
--  [ITiCSE 2010](http://iticse2010.bilkent.edu.tr/), 26-30 June 2010, Bilkent, Ankara, Turkey
--  [ITiCSE 2009](http://iticse09.lrde.org/), 3-8 July 2009, Université Pierre et Marie Curie, Paris, France
--  [ITiCSE 2008](http://www.iticse08.fi.upm.es/), 30 June-2 July 2008, Universidad Politecnica de Madrid, Madrid, Spain
--  [ITiCSE 2007](http://iticse2007.computing.dundee.ac.uk/), 25-27 June 2007, University of Dundee, Dundee, Scotland
--  [ITiCSE 2006](http://www.iticse06.cs.unibo.it/cfp.html), 26-28 June 2006, University of Bologna, Italy
--  [ITiCSE 2005](http://iticse05.di.fct.unl.pt/), 27-29 June 2005, Universidade Nova de Lisboa, Lisbon, Portugal
--  [ITiCSE 2004](http://www.iticse04.leeds.ac.uk/), 28-30 June 2004, The University Of Leeds, United Kingdom
--  [ITiCSE 2003](http://iticse2003.uom.gr/), 30 June-2 July 2003, University of Macedonia, Thessaloniki, Greece
--  [ITiCSE 2002](http://www.iticse2002.dk/), 24-26 June 2002, Aarhus Universitet, Aarhus, Denmark
--  [ITiCSE 2001](http://www.cs.ukc.ac.uk/events/iticse2001/index.html), 24-30 June 2001, City University of Kent at Canterbury, Canterbury, Kent, United Kingdom
--  [ITiCSE 2000](http://www.cs.helsinki.fi/events/iticse/), 10-14 July 2000, Helsinki, Finland
--  ITiCSE1999, June 27 - July 1 1999, Cracow, Poland
--  ITiCSE1998, 17-21 August 1998, Dublin City University, Ireland
--  ITiCSE1997, 2-4 June 1997, Uppsala, Sweden
--  ITiCSE1996, 2-5 June 1996, Barcelona, Spain -->
 
 ### ITiCSE History
 

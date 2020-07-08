@@ -45,6 +45,10 @@
 <tr><th>Attendance</th><td>{{page.attendance}}</td></tr>{%endif%}
 {% if page.acceptance %}
 <tr><th>Acceptance</th><td>{{page.acceptance}}</td></tr>{%endif%}
+{% if page.wgr-title %}
+<tr><th>wgr-title</th><td>{{page.wgr-title}}</td></tr>{%endif%}
+{% if page.doi-wgr %}
+<tr><th>doi-wgr</th><td>{{page.doi-wgr}</td></tr>{%endif%}
 {% if page.website %}
 <tr><th>Website</th><td><a href="{{page.website}}">{{page.website}}</a></td></tr>{%endif%}
 {% if page.year < 2018 %}

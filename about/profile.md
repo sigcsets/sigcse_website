@@ -50,10 +50,13 @@ The following events are held annually:
 In addition to sponsoring events and awarding awards, SIGCSE is active
 in many other ways:
 
--   Publications - SIGCSE sponsors the [ACM
+<!-- -   Publications - SIGCSE sponsors the [ACM
     Inroads](http://inroads.acm.org/) magazine and also publishes a
     quarterly newsletter the [SIGCSE Bulletin](bulletin.html).
--   [Mailing Lists]({{"/membership/mailing-lists.html" | absolute_url}}) - Two moderated
+ -->
+-   Publications - SIGCSE publishes a
+    quarterly newsletter, the [SIGCSE Bulletin](bulletin.html).
+ -   [Mailing Lists]({{"/membership/mailing-lists.html" | absolute_url}}) - Two moderated
     mailing lists for announcements and discussion of topics of general
     interest to SIGCSE members are maintained.
 -   [Special Projects]({{"/programs/special/index.html" | absolute_url}}) - SIGCSE awards a

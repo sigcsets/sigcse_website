@@ -1,6 +1,7 @@
 ---
 title: SIGCSE Volunteers
-layout: page
+layout: page 
+
 ---
 
 There are many ways that you can contribute to SIGCSE through a range of
@@ -65,18 +66,14 @@ Some more information about volunteering for SIGCSE can be found in this
 
 **ITiCSE Steering committee**
 
--   Anna Eckerdal, Uppsala University, 2018 – 2020
--   Ari Korhonen, Aalto University, 2018 – 2021
--   Michael Caspersen It-vest Networking Universities, (Informatics Europe), 2018 – 2021
--   Michael Kӧlling, King’s College London, (ACM Europe), 2018 – 2022
--   Amber Settle, DePaul University, (SIGCSE Board), 2019 – 2022 
+{% for c in site.data.iticse.steering %}
+- {{c.name}}, {{c.affiliation}} ({{c.dates}}){% endfor %}
 
 **ITiCSE submissions/database administrator**
 
--   Simon, University of Newcastle, Australia (2017 - until
-    November 2020)
--   Janet Carter, University of Kent at Canterbury, UK (2017 - until
-    November 2020)
+{% for c in site.data.iticse.database %}
+- {{c.name}}, {{c.affiliation}} ({{c.dates}}){% endfor %}
+
 
 
 **CompEd Steering committee**
@@ -110,9 +107,9 @@ Some more information about volunteering for SIGCSE can be found in this
 -   Manuel A. Pérez-Quiñones sigcse.org administrator (July 1 2019 -- June 30 2022)
 
 
-**Social media coordinator**
+**Social Media Coordinator**
 
--   Briana Morrison, University of Omaha, USA (2015-2018)
+-   Zahra Atiq, Ohio State University, USA (2020-2023)
 
 **Special Projects/Speaker's Fund/Travel Grant reviewers**
 
@@ -124,8 +121,3 @@ Some more information about volunteering for SIGCSE can be found in this
     30 2019)
 -   Daniel Toll, Linnaeus University, Sweden (2017-2020)
 -   Dave Musicant, Carleton College, USA (2018-2021)
-
-**ACM Inroads editors**
-
--   James Harland, RMIT University, Australia
--   Margaret Hamilton, RMIT University, Australia

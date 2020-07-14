@@ -1,6 +1,8 @@
 _site
-documentation
+_documentation
 .DS_Store
 .jekyll-cache
 bin
 pending
+SIGCSE.sublime-project
+SIGCSE.sublime-workspace

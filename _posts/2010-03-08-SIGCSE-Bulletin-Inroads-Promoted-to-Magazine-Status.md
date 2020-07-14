@@ -16,10 +16,10 @@ offer somewhat expanded content and a new reviewing process. Altogether,
 ACM and SIGCSE will now be supporting at least 3 levels of publications
 for computing education:
 
--   ACM Transactions on Computing Education (formerly JERIC): all
+-   [ACM Transactions on Computing Education](https://dl.acm.org/journal/toce) (formerly JERIC): all
     articles formally refereed following a feedback process.
--   ACM Inroads (formerly the SIGCSE Bulletin inroads): all articles
-    reviewed or formally reviewed \-\-- a step up from the expectations
+-   [ACM Inroads](http://inroads.acm.org/) (formerly the SIGCSE Bulletin inroads): all articles
+    reviewed or formally reviewed -- a step up from the expectations
     for a SIG newsletter.
--   SIGCSE Bulletin: a new newsletter intended to bring members SIG
+-   [SIGCSE Bulletin]({{"/about/bulletin.html"|absolute_url}}): a new newsletter intended to bring members SIG
     news, together with SIGCSE conference proceedings on CD.

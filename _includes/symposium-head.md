@@ -45,10 +45,14 @@
 <tr><th>Attendance</th><td>{{page.attendance}}</td></tr>{%endif%}
 {% if page.acceptance %}
 <tr><th>Acceptance</th><td>{{page.acceptance}}</td></tr>{%endif%}
+{% if page.wgr-title %}
+<tr><th>Companion (WGR)</th><td>{{page.wgr-title}}</td></tr>{%endif%}
+{% if page.doi-wgr %}
+<tr><th>Companion (WGR) DOI</th><td>{{page.doi-wgr}</td></tr>{%endif%}
 {% if page.website %}
 <tr><th>Website</th><td><a href="{{page.website}}">{{page.website}}</a></td></tr>{%endif%}
-{% if page.year < 2018 %}
-<tr><th>History Blog</th><td><a href='{{"/events/50years.html" | absolute_url}}#{{page.year}}'>Blog entry</a></td></tr>{%endif%}
+{% if page.year < 2020 %}
+<tr><th>History Blog</th><td><a href='{{"/events/history_blog/" | absolute_url}}{{page.year}}'>Blog entry</a></td></tr>{%endif%}
   </tbody>
 </table>
 

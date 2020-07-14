@@ -3,32 +3,20 @@ title: Conflict of Interest Policy
 layout: page
 ---
 
-Approved by the SIGCSE Board: October 22, 2017
+Approved by the SIGCSE Board: October 22, 2017   
+Ammended by the SIGCSE Board: March 11, 2020
 
 This policy for defining and handling conflicts of interest applies to
 all SIGCSE conferences.
 
 **Who can submit?**
 
-1.  Program chairs and Conference chairs may not submit any scholarship
-    (papers, posters, special sessions, panels, lightning talks, working
-    groups, etc) to their conference, but their students are permitted
-    to do so. Other members of the Program and Review Committees and
-    their students may submit scholarship to the conference for which
-    they serve.
-2.  A specific chair (e.g., Poster Chair, Workshop Chair etc.) may not
-    submit scholarship of that type (e.g. Poster Chair may not submit a
-    poster proposal).
-3.  Working Group Chairs may not submit a Working Group proposal, nor
-    may they participate in a Working Group.
-4.  Panel Chairs may not submit a Panel proposal, nor may they
-    participate in a Panel.
+1. Program chairs may not submit any scholarship (papers, posters, special sessions, panels, lightning talks, working groups, etc) to their conference, but their students are permitted to do so. Other members of the Program and Review Committees and their students may submit scholarship to the conference for which they serve.
+2.  A specific chair (e.g., Poster Chair, Workshop Chair etc.) may not submit scholarship of that type (e.g. Poster Chair may not submit a poster proposal).
+3.  Working Group Chairs may not submit a Working Group proposal, nor may they participate in a Working Group.
+4.  Panel Chairs may not submit a Panel proposal, nor may they participate in a Panel.
 
-Summary: Program Chairs and Conference Chairs are to "run" the
-conference and may not submit anything. A specific chair of a track may
-not submit to that track (or be an active working participant). Students
-of committee volunteers may submit, but not with advisor name on the
-scholarship.
+Summary: Program Chairs are in charge of the program and may not submit anything. A specific chair of a track may not submit to that track (or be an active working participant). Students of committee volunteers may submit, but not with advisor name on the scholarship. Conference chairs are free to submit to the conference in any track should they choose to do so.
 
 If it is discovered that a piece of scholarship violating the above
 guidelines is submitted, the submission will be withdrawn from

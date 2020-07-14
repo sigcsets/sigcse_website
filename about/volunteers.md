@@ -69,6 +69,10 @@ Some more information about volunteering for SIGCSE can be found in this
 {% for c in site.data.iticse.steering %}
 - {{c.name}}, {{c.affiliation}} ({{c.dates}}){% endfor %}
 
+**ITICSE supporter liaison**
+
+- Keith Quille, Department of Computing at TU Dublin
+
 **ITiCSE submissions/database administrator**
 
 {% for c in site.data.iticse.database %}
@@ -90,7 +94,7 @@ Some more information about volunteering for SIGCSE can be found in this
 -   Simon, University of Newcastle, Australia (- 2019)
 
 
-**Bulletin editors**
+**SIGCSE Bulletin editors**
 
 -   Karen C. Davis, Miami University, Oxford, Ohio, USA (May 1 2018 --
     April 30 2021)
@@ -107,11 +111,11 @@ Some more information about volunteering for SIGCSE can be found in this
 -   Manuel A. Pérez-Quiñones sigcse.org administrator (July 1 2019 -- June 30 2022)
 
 
-**Social Media Coordinator**
+**SIGCSE Social Media Coordinator**
 
 -   Zahra Atiq, Ohio State University, USA (2020-2023)
 
-**Special Projects/Speaker's Fund/Travel Grant reviewers**
+**SIGCSE Special Projects/Speaker's Fund/Travel Grant reviewers**
 
 -   Sue Fitzgerald, Metropolitan State University, USA (July 1 2016 --
     June 30 2019)

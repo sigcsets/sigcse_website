@@ -95,12 +95,8 @@ Some more information about volunteering for SIGCSE can be found in this
 
 **ICER Steering committee**
 
-- Sally Fincher (2020-2021)
-- Quintin Cutts (2020-2022)
-- Mark Guzdial (2020-2023)
-- Brian Dorn (2020-2024)
-- Leo Porter (SIGCSE Board Liaison, 2019-2022)
-
+{% for c in site.data.icer.steering %}
+- {{c.name}}, {{c.affiliation}} ({{c.dates}}){% endfor %}
 
 
 **SIGCSE Bulletin editors**

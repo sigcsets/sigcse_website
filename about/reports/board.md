@@ -5,19 +5,29 @@ minutes:
   - board: 
     year: "2019 to 2022 Board"
     approved: 
-      - url: "/files/BoardMinutes/2019-2022/BoardNov_2_2019.pdf"
+      - description: Minutes of a SIGCSE Board conference call
+        url: "/files/BoardMinutes/2019-2022/Board Call - Aug 5 2020.pdf"
+        date: August 5 2019
+
+      - description: "Minutes of a SIGCSE Board meeting in Chicago, IL, USA"
+        url: "/files/BoardMinutes/2019-2022/BoardNov_2_2019.pdf"
         date: November 2019
-        description: "Minutes of a SIGCSE Board meeting in Chicago, IL, USA"
-      - url: "/files/BoardMinutes/2019-2022/Board Meeting - March 11 2020.pdf"
-        date: March 11 2019
-        description: "Minutes of a SIGCSE Board meeting in Portland, OR, USA"
-      - url: "/files/BoardMinutes/2019-2022/Board Meeting - March 16 2020.pdf"
-        date: March 16 2019
-        description: "Minutes of a SIGCSE Board conference call"
-      - url: "/files/BoardMinutes/2019-2022/Board Meeting - March 18 2020.pdf"
-        description: "Minutes of a SIGCSE Board meeting in Chicago, IL, USA"
-        date: March 18 2019
-        description: "Minutes of a SIGCSE Board conference call"
+
+      - description: "Minutes of a SIGCSE Board conference call"
+        url: "/files/BoardMinutes/2019-2022/Board Call - Jan 16 2020.pdf"
+        date: January 16 2020
+
+      - description: "Minutes of a SIGCSE Board meeting in Portland, OR, USA"
+        url: "/files/BoardMinutes/2019-2022/Board Meeting - March 11 2020.pdf"
+        date: March 11 2020
+
+      - description: "Minutes of a SIGCSE Board conference call"
+        url: "/files/BoardMinutes/2019-2022/Board Meeting - March 16 2020.pdf"
+        date: March 16 2020
+
+      - description: "Minutes of a SIGCSE Board conference call"
+        url: "/files/BoardMinutes/2019-2022/Board Meeting - March 18 2020.pdf"
+        date: March 18 2020
 
   - board: 
     year: "2016 to 2019 Board"
@@ -73,6 +83,7 @@ minutes:
       - url: "/files/BoardMinutes/2016-2019/BoardPhoneApril2019.pdf"
         date: April 2019
         description: "Minutes of a SIGCSE Board conference call"
+
   - board: 
     year: "2013 to 2016 Board"
     approved: 

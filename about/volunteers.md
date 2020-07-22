@@ -93,6 +93,15 @@ Some more information about volunteering for SIGCSE can be found in this
 -   Ray Pettit, University of Virginia , USA (2019-2021)
 -   Simon, University of Newcastle, Australia (- 2019)
 
+**ICER Steering committee**
+
+- Sally Fincher (2020-2021)
+- Quintin Cutts (2020-2022)
+- Mark Guzdial (2020-2023)
+- Brian Dorn (2020-2024)
+- Leo Porter (SIGCSE Board Liaison, 2019-2022)
+
+
 
 **SIGCSE Bulletin editors**
 

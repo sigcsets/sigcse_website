@@ -29,6 +29,10 @@ minutes:
         url: "/files/BoardMinutes/2019-2022/Board Meeting - March 18 2020.pdf"
         date: March 18 2020
 
+      - description: "Minutes of a SIGCSE Board conference call"
+        url: "/files/BoardMinutes/2019-2022/Board Minutes - May 4 2020.pdf"
+        date: May 4 2020
+
   - board: 
     year: "2016 to 2019 Board"
     approved: 

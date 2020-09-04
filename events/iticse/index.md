@@ -1,13 +1,10 @@
 ---
 title: ITiCSE Conference
 layout: page
-
-
 ---
 
-**[\*\*\* We are calling for expressions of interest in the ITiCSE
-leadership for 2022.
-\*\*\*]({{"/files/documents/pdfs/Call%20for%20Expressions%20of%20Interest%20to%20Host%20ITiCSE%202021.pdf" | absolute_url}})**
+**[We are calling for expressions of interest in the ITiCSE
+leadership for future years.](interesthosting.html)**
 
 The Innovation and Technology in Computer Science Education conference
 (ITiCSE) is a SIGCSE conference that has been held annually since 1996,
@@ -35,10 +32,10 @@ go. You will not regret it!
 
 ### Get Involved: Proposing an ITiCSE Location
 
-The ITiCSE Steering Committee would like to hearing from computing
+The ITiCSE Steering Committee would like to hear from computing
 faculty interested in hosting an ITiCSE conference at their institution
 or those interested in serving as program chairs. [Here is the call for
-Expressing Interest in the leadership for 2022.]({{"/files/documents/pdfs/Call%20for%20Expressions%20of%20Interest%20to%20Host%20ITiCSE%202021.pdf" | absolute_url}})
+Expressing Interest in the leadership for future ITiCSE.](interesthosting.html)
 
 For further information about hosting ITiCSE, [here are some
 guidelines](iticse/host.html).

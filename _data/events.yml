@@ -1,19 +1,24 @@
-
-- title: ICER 2020
-  url: https://icer.acm.org/
-  dates: "August 11-13, 2020"
-  location: "Online - (was Dunedin, New Zealand)"
-
 - title: Technical Symposium 2021
   url: https://sigcse2021.sigcse.org
   dates: "March 17 - 20, 2021"
-  location: "Toronto, Canada"
+  location: "Online - (was Toronto, Canada)"
 
 - title: ITiCSE 2021
   dates: "June 25 - 30, 2021"
   location: "Paderborn, Germany"
 
+- title: ICER 2021
+  dates: "August 2021"
+  location: "Charleston, SC"
+
+- title: CompEd 2021
+  dates: "December 9 - 11, 2021"
+  location: "Hyderabad, India"
+
 - title: Technical Symposium 2022
   dates: "March 02 - 05, 2022"
   location: "Providence, RI, USA"
 
+- title: ITiCSE 2022
+  dates: "June/July 2022"
+  location: "Dublin, Ireland"

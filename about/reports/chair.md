@@ -3,6 +3,13 @@ title: Chair's Annual Report
 layout: page
 reports:
   - board:
+    chair: Adrienne Decker (2019 to 2022)
+    reports:
+      - year: 2020
+        title: Chair's Report 2020
+        url: "/files/AnnualReports/annualReport2020.pdf"
+
+  - board:
     chair: Amber Settle (2016 to 2019)
     reports:
       - year: 2019

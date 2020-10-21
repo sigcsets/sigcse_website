@@ -20,7 +20,11 @@
 
           {% capture first_word %}{{ url_parts | truncatewords:1 | remove:"..."}}{% endcapture %}
           {% capture previous %}{{ previous }}/{{ first_word }}{% endcapture %}
-          <li class="breadcrumb-item"><a href="{{ previous | absolute_url }}">{{ first_word | capitalize }}</a></li>
+          {% if include.capitalize %}
+            <li class="breadcrumb-item"><a href="{{ previous | absolute_url }}">{{ first_word | capitalize }}</a></li>
+          {% else %}
+            <li class="breadcrumb-item"><a href="{{ previous | absolute_url }}">{{ first_word }}</a></li>
+          {% endif %}
           {% capture url_parts %}{{ url_parts | remove_first:first_word }}{% endcapture %}
 
         {% endfor %}

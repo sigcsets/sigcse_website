@@ -20,12 +20,14 @@
     </div>
   </header>
 
+  <!-- Top level menu : Home/About/Membership/Events... -->
   <div class="nav-scroller py-1 mb-2">
     <nav class="nav d-flex justify-content-between">
       {% capture url_parts %} {{ page.url | remove: "/index.html" | replace:'/'," " }}{% endcapture %}
       {% capture first_word %}{{ url_parts | truncatewords:1 | remove:"..."}}{% endcapture %}
-      {% capture second_word %}{{ url_parts | truncatewords:1 | remove:"..." | capitalize }}{% endcapture %}
-
+      {% capture second_word %}{{ url_parts | truncatewords:1 | remove:"..."}}{% endcapture %}
+<!--       {% capture second_word %}{{ url_parts | truncatewords:1 | remove:"..." | capitalize }}{% endcapture %}
+ -->
       {% for item in site.data.navigation %}
         {% if item.name == second_word %}
           <a class="p-2 text-primary font-weight-bold" href="{{ item.link | absolute_url }}" >{{ item.name }}</a>

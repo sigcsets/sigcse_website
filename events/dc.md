@@ -17,7 +17,8 @@ areas who are planning a career in academia. Students whose research
 focus is related to computing education are a primary focus, although
 doctoral students in any computing-related area are welcome to apply.
 
-**Past, present and future Doctoral Consortiums**
+#### Past, present and future Doctoral Consortiums
+{: .mt4 .border-bottom}
 
 Follow the links to available DC web sites.
 
@@ -72,7 +73,8 @@ Follow the links to available DC web sites.
     1998](http://userweb.cs.utexas.edu/users/csed/doc_consortium/DC98/)
     held in conjunction with SIGCSE 1998 in Atlanta, GA, USA
 
-**Doctoral Consortium History**
+#### Doctoral Consortium History
+{:.mt4 .border-bottom}
 
 [A History of SIGCSE
 Events](https://users.cs.duke.edu/~rodger/sigcseconferences.html)

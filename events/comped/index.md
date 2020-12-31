@@ -3,8 +3,8 @@ title: CompEd Conference
 layout: page
 
 conferences:
-- title: CompEd 2021
-  year: 2021
+- title: CompEd 202x
+  year: 202x
   location: "Hyderabad, India"
 
 - title: CompEd 2019
@@ -26,27 +26,35 @@ The ACM Global Computing Education Conference (CompEd) is SIGCSE's new and fourt
 
 <!-- The 2019 website is [here.](http://www.acmcomped.org/)
  -->
-More information on the structure of the conference is here: [Information about ACM Global Computing Education Conference](https://docs.google.com/document/d/1kbI3dl3pcQxnlgFMHGmpbE0PN173WhaCZICmNw2EKME/edit?usp=sharing)
+More information on the structure of the conference is available here: [Information about ACM Global Computing Education Conference.](https://docs.google.com/document/d/1kbI3dl3pcQxnlgFMHGmpbE0PN173WhaCZICmNw2EKME/edit?usp=sharing)
 
-<!-- We are considering a site in India for the second CompEd in 2021. There is some flexibility on holding the conference at different times of the year, as long as it is not too close to one of our other conferences. The language of the conference will be English.
- -->
-**Call for volunteers for Program Chair and other committee positions**
+###### CompEd Specific Policies
 
-Fill out the form below if you are interested in volunteering as a Program Co-Chair or other position for CompEd 2021 (to be held in India) or a future CompEd: [Program Chair and other committee positions volunteer form.](https://forms.gle/JHJoaSsSUPEK9Lfj9)
+{% for policy in site.data.policies.comped %}
+- [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
 
-Please respond by March 2, 2020, though we will continue to look at responses after that date if required.
+###### All Conference Policies
+
+{% for policy in site.data.policies.conferences %}
+- [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
+
+###### Proposing an ACM Global Computing Education Conference Location
+
+CompEd will be hosted by universities whose computing faculty are committed to the improvement of computing education. SIGCSE seeks proposals from universities interested in hosting CompEd. The conference takes place any time during the year, but at least 6 weeks away from one of SIGCSE's other conference. [More information](https://www.acmcomped.org/host/).
 
 
-**Past, present and future CompEd conferences**\
+###### Call for volunteers for Program Chair and other committee positions
+
+Fill out the form below if you are interested in volunteering as a Program Co-Chair or other position for CompEd 202x (to be held in India) or a future CompEd: [Program Chair and other committee positions volunteer form.](https://forms.gle/JHJoaSsSUPEK9Lfj9)
+
+
+#### Past, present and future CompEd conferences
+{:.mt4 .border-bottom}
+
 Follow the links to conference web sites and proceedings.
 
 {% assign items = page.conferences | sort: 'year' | reverse %}
 {% for c in items %}
 - {% if c.url %}[{{c.title}}]({{c.url}}){%else%}{{c.title}}{%endif%}: {{c.location}}{% if c.doi %}, [Proceedings]({{c.doi}}){%endif%}{% if c.companion-doi %}, [{{c.companion-title}}]({{c.companion-doi}}){%endif%}{% endfor %}
 
-
-
-**Proposing an ACM Global Computing Education Conference Location**
-
-CompEd will be hosted by universities whose computing faculty are committed to the improvement of computing education. SIGCSE seeks proposals from universities interested in hosting CompEd. The conference takes place any time during the year, but at least 6 weeks away from one of SIGCSE's other conference. [More information](https://www.acmcomped.org/host/).
 

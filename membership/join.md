@@ -3,7 +3,7 @@ title: How to Join
 layout: page
 ---
 
-**Membership Dues**
+##### Membership Dues
 
 -   Professional/affiliate/institutional electronic-only: \$25
 -   Professional/affiliate/institutional physical-copy: \$45
@@ -16,7 +16,7 @@ ACM Inroads four times a year. Electronic-only members will only have
 digital access to ACM Inroads. Subscribers will receive a printed copy
 of ACM Inroads four times a year.
 
-**How can I join?**
+##### How can I join?
 
 -   [Physical-copy membership](https://services.acm.org/public/qj/login_gensigqj.cfm?rdr=&promo=QJSIG&offering=011&form_type=SIG)
 -   [Electronic-only membership](https://services.acm.org/public/qj/login_gensigqj.cfm?rdr=promo=QJSIG&offering=411&form_type=SIG)

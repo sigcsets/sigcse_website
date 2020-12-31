@@ -19,7 +19,7 @@ tutorials are also offered. Plus good food, good company and interesting
 locales. If you have never been to an ITiCSE, do yourself a favor and
 go. You will not regret it!
 
-### Typical ITiCSE Schedule
+###### Typical ITiCSE Schedule
 
 -   Saturday Working groups arrive and meet
 -   Sunday Working groups meet, delegates arrive, opening reception
@@ -30,7 +30,18 @@ go. You will not regret it!
 -   Wednesday Plenary meeting followed by a full day of sessions
 -   Poster sessions at coffee breaks Monday through Wednesday.
 
-### Get Involved: Proposing an ITiCSE Location
+###### ITiCSE Specific Policies
+
+{% for policy in site.data.policies.iticse %}
+- [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
+
+###### All Conference Policies
+
+{% for policy in site.data.policies.conferences %}
+- [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
+
+#### Get Involved: Proposing an ITiCSE Location
+{:.mt4 .border-bottom}
 
 The ITiCSE Steering Committee would like to hear from computing
 faculty interested in hosting an ITiCSE conference at their institution
@@ -38,9 +49,10 @@ or those interested in serving as program chairs. [Here is the call for
 Expressing Interest in the leadership for future ITiCSE.](interesthosting.html)
 
 For further information about hosting ITiCSE, [here are some
-guidelines](iticse/host.html).
+guidelines](host.html).
 
-### Get Involved: Application for Membership of the Conference Committee
+#### Get Involved: Application for Membership of the Conference Committee
+{:.mt4 .border-bottom}
 
 Prospective ITiCSE Conference Committee members are expected to have
 previous ITiCSE involvement including previous conference attendance.
@@ -52,19 +64,8 @@ filling out [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSfskKUSpxSe
 See the section on Policies (below) for details on responsibilities for
 the different positions.
 
-### Policies
-
-Policies set by the SIGCSE Board regarding conferences:
-
--   [Conference Chair Selection]({{"/policies/chairs.html" | absolute_url}}) - Guidelines for the selection of conference chairs.
--   [Program Chair Responsibilities]({{"/policies/pcr.html" | absolute_url}}) - Guidelines to help ensure that conference programs provide both short and long term benefits to the conference attendees and the wider community.
--   [Conflict of Interest]({{"/policies/COI.html" | absolute_url}}) - Conflict of Interest policy for all SIGCSE conferences.
--   [Presenter Substitution]({{"/policies/substitute.html" | absolute_url}}) - Conference presenter substitution / no-show policy.
--   [Corporate Sponsorship]({{"/policies/corporate.html" | absolute_url}}) - Guidelines for corporate support for conferences.
--   [Committee Remuneration Guidelines]({{"/policies/remuneration.html" | absolute_url}}) - Guidelines for the remuneration of volunteers who work on conference committees.
--   [Volunteer Travel Policy]({{"/policies/travel.html" | absolute_url}}) - Applies to travel by the SIGCSE Board and its representatives.
-
-### Past, present and future ITiCSE conferences
+#### Past, present and future ITiCSE conferences
+{:.mt4 .border-bottom}
 
 Follow the links to conference web sites and proceedings.
 
@@ -73,7 +74,8 @@ Follow the links to conference web sites and proceedings.
 - {% if c.url %}[{{c.title}}]({{c.url}}){%else%}{{c.title}}{%endif%}: {{c.date}}, {{c.location}}{% if c.doi %}, [proceedings]({{c.doi}}){% if c.companion-doi %}, [companion]({{c.companion-doi}}){%endif%}{%endif%}{% endfor %}
 
 
-### ITiCSE History
+#### ITiCSE History
+{:.mt4 .border-bottom}
 
 [A History of SIGCSE Events](https://users.cs.duke.edu/~rodger/sigcseconferences.html)
 (maintained by Susan Rodger)

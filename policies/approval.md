@@ -3,10 +3,12 @@ title: SIGCSE Volunteer positions
 layout: page
 ---
 
-Approved by the SIGCSE Board: March 9, 2017\
-Updated: October 29, 2017; October 27, 2018; (webpage updated August 8, 2019)
+_Approved by the SIGCSE Board: March 9, 2017_\
+_Updated: October 29, 2017; October 27, 2018; (webpage updated August 8, 2019)_
 
 #### SIGCSE volunteer positions requiring Board approval
+{:.border-bottom}
+
 ##### Conference organizers
 
 -   Technical Symposium Conference and Program co-chairs (2
@@ -44,6 +46,7 @@ Conference or Event organizer positions._
 _+ Note SIGCSE Board members are not permitted to have these positions._
 
 #### SIGCSE volunteer positions NOT requiring Board approval
+{:.border-bottom}
 
 The following positions are not approved by the SIGCSE Board but input is solicited from the board.
 

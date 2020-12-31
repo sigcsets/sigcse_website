@@ -20,6 +20,7 @@ Feel free to contact [Amber Settle](mailto:asettle@cdm.depaul.edu) if you have q
 
 
 #### Fellow
+{:.mt4 .border-bottom}
 
 This is ACM's most prestigious member grade recognizing the top 1% of
 ACM members for their outstanding accomplishments in computing and
@@ -29,9 +30,9 @@ September. Fellows require five endorsements from current ACM
 Professional Members and must be nominated by an ACM Professional
 Member.
 
-**SIGCSE members who are ACM Fellows**
+###### SIGCSE members who are ACM Fellows
 
-<table class="table table-hover">
+<table class="table">
   <tr>
     <td>William Richards Adrion</td>
     <td>Robert M Aiken</td>
@@ -69,7 +70,9 @@ Member.
   </tr></table>
 
 <p>&nbsp;</p>
+
 #### Distinguished Member
+{:.mt4 .border-bottom}
 
 This membership grade recognizes members with exemplary achievements
 that have advanced the science, engineering and education of computing.
@@ -79,7 +82,7 @@ and the ability to demonstrate that the member has had significant
 accomplishments or impact in the computing field. Distinguished Members
 must be nominated by a current ACM Professional Member.
 
-**SIGCSE members with Distinguished grades**
+###### SIGCSE members with Distinguished grades
 
 <table class="table table-hover">
   <tr><td>Joel Adams</td><td>Distinguished Educator</td></tr>
@@ -147,7 +150,9 @@ must be nominated by a current ACM Professional Member.
 
 
 <p>&nbsp;</p>
+
 #### Senior Member
+{:.mt4 .border-bottom}
 
 ACM members can apply for the first advanced membership grade, Senior
 Membership, approximately every three months. Senior Membership requires
@@ -156,7 +161,7 @@ and 5 years of continuous Professional Membership. Senior members are
 self-nominating, and three letters of recommendation from colleagues are
 required.
 
-**SIGCSE members with Senior grade**
+###### SIGCSE members with Senior grade
 
 <table class="table table-hover">
 <tr>

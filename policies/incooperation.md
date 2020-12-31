@@ -3,19 +3,11 @@ title: In Cooperation
 layout: page
 ---
 
-ACM SIGCSE will lend its name to non-SIGCSE events that are fully
-sponsored by other non-profit organizations. To be approved, the
-event(s) must be relevant to SIGCSE and provide some sort of benefit to
-SIGCSE members. An event granted in-cooperation status with SIGCSE must
-focus on computing education (as opposed to, for example, uses of
-computing to support education in general). SIGCSE will not share in the
-direct financial support, benefit, or risk of the event.
+ACM SIGCSE will lend its name to non-SIGCSE events that are fully sponsored by other non-profit organizations. To be approved, the event(s) must be relevant to SIGCSE and provide some sort of benefit to SIGCSE members. An event granted in-cooperation status with SIGCSE must focus on computing education (as opposed to, for example, uses of computing to support education in general). SIGCSE will not share in the direct financial support, benefit, or risk of the event.
 
-If the SIGCSE Board approves in-cooperation status, events may include
-the SIGCSE logo and the following phrase on their notices:
+If the SIGCSE Board approves in-cooperation status, events may include the SIGCSE logo and the following phrase on their notices:
 
-> "In Cooperation with the ACM Special Interest Group on Computer Science
-Education (SIGCSE)."
+> "In Cooperation with the ACM Special Interest Group on Computer Science Education (SIGCSE)."
 
 A representative of the non-SIGCSE event(s) should initiate this process
 several months in advance of the event(s). The recommended procedure is

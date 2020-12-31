@@ -7,14 +7,9 @@ changes: changed "double-blind" for "dual-anonymous" 7/25/2020
 **\*\*\* Please note this policy is currently under review for ICER and
 CompEd \*\*\***
 
-The main goal of the Program Chair(s) and Committee (the PC) is to
-create a good, well balanced program at the SIGCSE Technical Symposium,
-the ITiCSE conference, the ICER conference and the CompEd conference.
-The program should provide both short and long term benefits to the
-conference attendees and the wider community.
+The main goal of the Program Chair(s) and Committee (the PC) is to create a good, well balanced program at the SIGCSE Technical Symposium, the ITiCSE conference, the ICER conference and the CompEd conference. The program should provide both short and long term benefits to the conference attendees and the wider community.
 
-The PC should communicate clearly with the community. This communication
-includes
+The PC should communicate clearly with the community. This communication includes
 
 Call for Participation (CFP)
 

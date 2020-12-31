@@ -41,7 +41,7 @@ Most SIGCSE members typically subscribe to SIGCSE-announce and
 SIGCSE-members. Those who only want to hear about the most important
 events and activities should subscribe to SIGCSE-announce.
 
-### To Be Added or Removed
+#####  To Be Added or Removed
 
 All SIGCSE members are automatically subscribed to the SIGCSE-announce
 list. To manage your subscription to the SIGCSE-announce list, log in to
@@ -58,7 +58,8 @@ administrators who moderate these lists:
 -   Haris Skiadas, Associate Professor of Mathematics and Computer
     Science - Hanover College, Hanover, IN 47243 USA
 
-### <a name="#guidelines">Guidelines for Posting to the SIGCSE-members List</a>
+#### <a name="#guidelines">Guidelines for Posting to the SIGCSE-members List</a>
+{:.mt4 .border-bottom}
 
 1.  The Listserv software does not allow us to edit what you send before
     it is posted. We can only approve or disapprove your original

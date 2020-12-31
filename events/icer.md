@@ -132,23 +132,20 @@ discipline. It has been held annually since 2005 at sites around the
 world, and recently has been attracting an audience of over 100
 computing education researchers.
 
-**Policies specific to ICER**
+###### ICER Specific Policies
 
-- [Review process for ICER](https://icer.acm.org/icer-2018/review-process/)
-- [Steering Committee Membership and Terms of Reference]({{"/policies/icersteering.html" | absolute_url}})
+{% for policy in site.data.policies.icer %}
+- [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
 
-**Policies**\
-Policies set by the SIGCSE Board for all conferences:
+###### All Conference Policies
 
--   [Conference Chair Selection]({{"/policies/chairs.html" | absolute_url}}) - Guidelines for the selection of conference chairs.
--   [Program Chair Responsibilities]({{"/policies/pcr.html" | absolute_url}}) - Guidelines to help ensure that conference programs provide both short and long term benefits to the conference attendees and the wider community.
--   [Conflict of Interest]({{"/policies/COI.html" | absolute_url}}) - Conflict of Interest policy for all SIGCSE conferences.
--   [Presenter Substitution]({{"/policies/substitute.html" | absolute_url}}) - Conference presenter substitution / no-show policy.
--   [Corporate Sponsorship]({{"/policies/corporate.html" | absolute_url}}) - Guidelines for corporate support for conferences.
--   [Committee Remuneration Guidelines]({{"/policies/remuneration.html" | absolute_url}}) - Guidelines for the remuneration of volunteers who work on conference committees.
--   [Volunteer Travel Policy]({{"/policies/travel.html" | absolute_url}}) - Applies to travel by the SIGCSE Board and its representatives.
+{% for policy in site.data.policies.conferences %}
+- [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
 
-**Past, present and future ICER conferences**\
+
+#### Past, present and future ICER conferences
+{:.mt4 .border-bottom}
+
 Follow the links to conference web sites and proceedings.
 
 {% assign items = page.conferences | sort: 'year' | reverse %}
@@ -156,5 +153,7 @@ Follow the links to conference web sites and proceedings.
 - {% if c.url %}[{{c.title}}]({{c.url}}){%else%}{{c.title}}{%endif%}: {{c.location}}{% if c.doi %}, [proceedings]({{c.doi}}){%endif%}{% endfor %}
 
 
-**ICER History**\
+#### ICER History
+{:.mt4 .border-bottom}
+
 [A History of SIGCSE Events](https://users.cs.duke.edu/~rodger/sigcseconferences.html) (maintained by Susan Rodger)

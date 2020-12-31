@@ -3,7 +3,10 @@ title: Places to Publish
 layout: page
 ---
 
-**Journals**
+This is a partial list of venues where computing education work is published.
+
+#### Journals
+
 
 -   [ACM Inroads](http://dl.acm.org/citation.cfm?id=J1268)
 -   [ACM Transactions on Computing Education
@@ -94,7 +97,7 @@ layout: page
 -   [Teaching in Higher
     Education](https://www.tandfonline.com/toc/cthe20/current)
 
-**ACM SIGCSE Conferences**
+#### ACM SIGCSE Conferences
 
 -   [SIGCSE Technical Symposium](https://sigcse2019.sigcse.org/)
 -   [Innovation and Technology in Computer Science Education (ITiCSE)
@@ -104,7 +107,7 @@ layout: page
 -   [SIGCSE Global Computing Education Conference
     (CompEd)](www.acmcomped.org/index.html)
 
-**Other Conferences**
+#### Other Conferences
 
 -   [Australasian Computing Education (ACE)
     Conference](https://aceconference.wordpress.com/)

@@ -7,14 +7,14 @@ _Approved by SIGCSE Board on February 21, 2018_
 
 At its October, 2017 meeting, the SIGCSE Board agreed to run a three-conference pilot to introduce a fourth annual conference. The working title is the “Global Conference”. The global conference will be offered every other year initially (e.g., 2019, 2021, 2023). The Board will commit to 3-offering pilot. Evaluation will be ongoing and a decision about continuation will be made in a timely fashion so as to avoid pipeline stoppage.This document is a draft of a framework for introducing and running such a conference.
 
-**Identity**
+##### Identity
 
 * The SIGCSE Global Computing Education Conference is intended to promote computing and computer science education around the world, and particularly in areas of the world that are not served by an annual SIGCSE-sponsored conference.
 * SIGCSE Global is committed to providing a high-quality experience for conference authors, attendees, and exhibitors.
 * The conference submissions will include papers, panels and posters.
 * Other submission categories may be added at the discretion of the steering committee, in consultation with the SIGCSE Board. Ideally this conference will develop some unique features over time. 
 
-**Ongoing steering committee**
+##### Ongoing steering committee
 
 * A steering committee of 6 people will be established to maintain the conference.
 * The steering committee will initially include at least two people well-versed in running SIGCSE conferences.
@@ -37,7 +37,7 @@ At its October, 2017 meeting, the SIGCSE Board agreed to run a three-conference 
 * The steering committee will recommend a Registrar for Board approval. The Registrar will be appointmented for a six year (three conference) term renewable at most once.
 * The steering committee will recommend a reviewer database and software administrator for Board approval. The database administrator will be appointed for a six year (three conference) term renewable at most once.
 
-**Conference Committee Organization**
+##### Conference Committee Organization
 
 The individual conferences will be jointly organized by the conference host and the program chair together with committee members they (together) recruit.
 
@@ -56,7 +56,7 @@ The individual conferences will be jointly organized by the conference host and 
 * Conference proceedings will be included in the ACM Digital Library.
 * The language of the conferences will be English.
 
-**Finances and conference proposals**
+##### Finances and conference proposals
 
 * The steering committee will issue a call for conference site proposals bi-annually.
 * The conference proposal must include a realistic budget which projects a profit from the conference.

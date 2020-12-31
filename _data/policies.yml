@@ -1,0 +1,54 @@
+organization:
+  - title: Volunteer Travel Policy
+    url: policies/travel.html
+    description: Applies to travel by the SIGCSE Board and its representatives.
+  - title: In Cooperation Status requests
+    url: policies/incooperation.html
+    description: Approval process for SIGCSE support of non-SIGCSE events.
+  - title: Volunteer positions requiring SIGCSE Board approval
+    url: policies/approval.html
+    description: A list of SIGCSE volunteer positions requiring SIGCSE Board approval and their length of term.
+
+conferences:
+  - title: Conference Chair Selection
+    url: policies/chairs.html
+    description: Guidelines for the selection of conference chairs.
+  - title: Program Chair Responsibilities
+    url: policies/pcr.html
+    description: Guidelines to help ensure that conference programs provide both short and long term benefits to the conference attendees and the wider community.
+  - title: Conflict of Interest
+    url: policies/COI.html
+    description: Conflict of Interest policy for all SIGCSE conferences.
+  - title: Presenter Substitution
+    url: policies/substitute.html
+    description: Conference presenter substitution / no-show policy.
+  - title: Corporate Sponsorship
+    url: policies/corporate.html
+    description: Guidelines for corporate support for conferences.
+  - title: Committee Remuneration Guidelines
+    url: policies/remuneration.html
+    description: Guidelines for the remuneration of volunteers who work on conference committees.
+  - title: Volunteer Travel Policy
+    url: policies/travel.html
+    description: Applies to travel by the SIGCSE Board and its representatives.
+
+symposium:
+  - title: Technical Symposium Site Visit Team
+    url: policies/site_visit_team.html
+    description: Structure of the SIGCSE Technical Symposium Site Visit Team and rotation of positions.
+
+icer:
+  - title: ICER Steering Committee Membership and Terms of Reference
+    url: policies/icersteering.html
+  - title: Policy on Replacement of Program and Site Chairs
+    url: policies/icer-chair-replacement.html
+
+iticse:
+  - title: ITiCSE Organisation and Governance
+    url: policies/itcseorganization.html
+  - title: ITiCSE Steering Committee
+    url: policies/iticsesteering.html
+
+comped:
+  - title: CompEd Organization and Governance
+    url: policies/globalstructure.html

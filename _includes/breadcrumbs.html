@@ -1,5 +1,4 @@
 <!-- https://stackoverflow.com/questions/9612235/what-are-some-good-ways-to-implement-breadcrumbs-on-a-jekyll-site -->
-<!-- &#187;  -->
 
 <div class="nav-scroller">
 
@@ -19,12 +18,19 @@
         {% for unused in site.breadcrumb_list limit:num_parts %}
 
           {% capture first_word %}{{ url_parts | truncatewords:1 | remove:"..."}}{% endcapture %}
+          {% assign entry = site.data.capitalization | where: 'word', first_word %}
           {% capture previous %}{{ previous }}/{{ first_word }}{% endcapture %}
-          {% if include.capitalize %}
-            <li class="breadcrumb-item"><a href="{{ previous | absolute_url }}">{{ first_word | capitalize }}</a></li>
-          {% else %}
-            <li class="breadcrumb-item"><a href="{{ previous | absolute_url }}">{{ first_word }}</a></li>
-          {% endif %}
+
+            <li class="breadcrumb-item">
+              <a href="{{ previous | absolute_url }}">
+              
+              {% assign wordLength = entry | size %}
+              {% if wordLength > 0 %}
+                {{ entry[0].display }}
+              {% else %}
+                {{ first_word | capitalize }}
+              {% endif %}
+              </a></li>
           {% capture url_parts %}{{ url_parts | remove_first:first_word }}{% endcapture %}
 
         {% endfor %}

@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-**Membership**
+##### Membership
 5 ​ ​members in total
 
 * 2 members representing ACM SIGCSE - selected by ​the​ SIGCSE Board at least one of whom should be a European
@@ -13,13 +13,13 @@ layout: page
 	* 1 member representing Informatics Europe
 * 1 SIGCSE Board member
 
-**Roles within the steering committee**
+##### Roles within the steering committee
 
 * Chair ​ --​ to be chosen by the committee after each ITiCSE conference and communicated by July 31 to the SIGCSE, IE, and ACM Europe Boards. The ITiCSE Steering Committee chair cannot be the SIGCSE Board member.
 * Secretary ​--​ to be chosen by the committee after each ITiCSE conference and communicated by July 31 to the SIGCSE, IE, and ACM Europe Boards. The ITiCSE Steering Committee secretary cannot be the SIGCSE Board member. All minutes of ITiCSE Steering Committee meetings (after approval) should be sent to the SIGCSE, IE, and ACM Europe Boards.
 * Site inspection -- At least 3 members of the steering committee should be identified as able/willing to serve for site inspections; On any site visit there should be at least one site inspection person who has previous experience with this task; There should be intentional training of novices so that there is continuity of knowledge.
 
-**Terms of service**
+##### Terms of service
 
 Each member of the Steering Committee serves a term of three years, with a maximum of two terms. Terms should be offset so that at least one person and not more than two are finishing at the same time. In order to accomplish this, some initial terms may be adjusted.
 The Role of the Steering Committee is:
@@ -37,11 +37,11 @@ The Role of the Steering Committee is:
 10. To collaborate with and support conference committees. This includes guidance for the organisation and program of the conference, and putting in place mechanisms to accumulate and transfer experience between conferences.
 11. To present to the SIGCSE Board any changes to the structure of the organising committee.
 
-**Working**
+##### Working
 
 The Steering Committee should meet as needed, typically at least three times a year via phone/teleconference and once a year face to face at the ITiCSE conference​.
 The agenda and minutes of the Steering Committee meetings are circulated to committee members, and to the ACM SIGCSE, ACM Europe and Informatics Europe boards.
 
-**Expenses and Expectations**
+##### Expenses and Expectations
 
 Steering committee members are expected to attend the conference at their own expense (travel and accommodation). In recognition of the work they put into the conference, they will be given discounted registration. Expenses for site visits will be covered by SIGCSE. The steering committee is encouraged to minimize these costs by sending Europeans to do these visits and avoiding intercontinental travel where possible.

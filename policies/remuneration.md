@@ -6,14 +6,14 @@ layout: page
 **\*\*\* Please note this policy is currently under review for ICER and
 CompEd \*\*\***
 
-Approved by the SIGCSE Board: May 1, 2009\
-Updated: January 14, 2019
+_Approved by the SIGCSE Board: May 1, 2009_\
+_Updated: January 14, 2019_
 
 This policy applies to remuneration for conference committee members. A
 separate policy for remuneration for the SIGCSE board and its
 representatives is stated elsewhere.
 
-<h5>General Statements</h5>
+##### General Statements
 
 -   This document contains guidelines provided by the SIGCSE Board to be
     used by conference committee chairs when planning conference related
@@ -53,7 +53,7 @@ representatives is stated elsewhere.
     inviting participation from distant places to agree to a \"ceiling\"
     amount of travel coverage, rather than a percent of the cost.
 
-<h5>SIGCSE Technical Symposium</h5>
+##### SIGCSE Technical Symposium
 
 -   Typically, all committee members receive free registration. However,
     depending on circumstances it may be necessary at times for the
@@ -64,14 +64,14 @@ representatives is stated elsewhere.
 -   For a \"significant contribution,\" up to full expenses will be paid
     for other committee members (at the discretion of the Chair).
 
-<h5>ITiCSE Conference</h5>
+##### ITiCSE Conference
 -   Registration is waived for Conference Chairs, Program Chairs, Working
 Group chairs, and Registrar. For any of the above roles where the person
 is not local, travel expenses and accommodations are covered.\
 The Database Coordinator, Website Coordinator and Proceedings Chair are
 given complimentary registration.
 
-<h5>ICER Workshop</h5>
+##### ICER Workshop
 
 -   Typically, registration is waived, and all expenses are covered, for
     the two visiting program chairs. Registration for the local chair is

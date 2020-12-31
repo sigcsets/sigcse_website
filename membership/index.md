@@ -17,7 +17,9 @@ countries.
 -   [ACM Membership Grades](grades.html) Information on
     ACM\'s advanced membership grades.
 
-**Questions about your membership?**
+
+##### Questions about your membership?
+
 
 -   Contact ACM member services help desk at <acmhelp@acm.org>
 -   For questions about SIGCSE member benefits, contact us at

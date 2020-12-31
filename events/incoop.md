@@ -18,7 +18,8 @@ Future and recent in-cooperation events:
 {% for coop in items %}
 {% if last != coop.year %}
 {% unless forloop.first %}</ul>{% endunless %}
-**{{coop.year}} Events**
+
+#### {{coop.year}} Events
 <ul>
 {% endif %}
 <li>{{coop.name}} - 

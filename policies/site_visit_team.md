@@ -2,10 +2,10 @@
 title: SIGCSE Technical Symposium Site Visit Committee
 layout: page
 ---
-Approved by the SIGCSE Board: May 30, 2017\
-Revised: August 14, 2017
+_Approved by the SIGCSE Board: May 30, 2017_\
+_Revised: August 14, 2017_
 
-**Structure of SIGCSE Site Visit committee and rotation of positions**
+##### Structure of SIGCSE Site Visit committee and rotation of positions
 
 -   The SIGCSE Site Visit committee comprises a chair, junior chair and
     a pool of site visitors.
@@ -55,7 +55,7 @@ Revised: August 14, 2017
     provide any insight from an international perspective about proposed
     sites.
 
-**Process for bids from potential sites**
+##### Process for bids from potential sites
 
 1.  The Board and site visit chair propose a list of cities (5-8) and/or
     region to request bids from for a specified year.
@@ -92,7 +92,7 @@ The suggested timeline is:
 -   August (ideally) or October Board meeting 20XX (at latest)\
     20XX+3 Symposium site approved
 
-**Documentation of site visits**\
+##### Documentation of site visits
 Each site visit team is requested to enter the site visit information in
 a spreadsheet that will be used as a comparison mechanism for the Board.
 The Board also encourages the team to supplement the spreadsheet with

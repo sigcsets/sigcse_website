@@ -3,19 +3,9 @@ title: Corporate Sponsorship
 layout: page
 ---
 
-ACM SIGCSE encourages commercial and industrial organizations to
-participate in SIGCSE-sponsored events in exchange for financial
-support. Commercial or industrial participation in and support of SIGCSE
-Symposia and Conferences must be in harmony with the purpose and theme
-of the Conference. Examples of past vendors include software designers,
-textbook publishers, research units, headhunters, and special interest
-organizations. Financial support at Conferences will be acknowledged in
-appropriate ways, for example with a sign at the event or in the
-Conference program with a corporate logo.
+ACM SIGCSE encourages commercial and industrial organizations to participate in SIGCSE-sponsored events in exchange for financial support. Commercial or industrial participation in and support of SIGCSE Symposia and Conferences must be in harmony with the purpose and theme of the Conference. Examples of past vendors include software designers, textbook publishers, research units, headhunters, and special interest organizations. Financial support at Conferences will be acknowledged in appropriate ways, for example with a sign at the event or in the Conference program with a corporate logo.
 
-The following are examples of ways in which commercial and industrial
-organizations might sponsor an event at a SIGCSE Symposium or
-Conference.
+The following are examples of ways in which commercial and industrial organizations might sponsor an event at a SIGCSE Symposium or Conference.
 
 -   **Exhibits**: A company may provide an exhibit in the exhibits area.
     Some companies include floor events or presentations, others simply

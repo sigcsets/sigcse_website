@@ -2,16 +2,16 @@
 title: Special Project Grants
 layout: page
 ---
-<p><strong>NOTE: The SIGCSE Board regrets to announce that, due to the financial impact of the cancellation of the 2020 Technical Symposium on the SIGCSE organization, there will only be one round of SIGCSE Special Projects Grant submissions this year. The next deadline for submissions will be <i>November 15, 2020</i>.</strong></p>
 
-<p><strong>Deadlines: <strike>May 15th and</strike> November 15th</strong></p>
+
+<p><strong>Deadlines: May 15th and November 15th</strong></p>
 
 <p>Since {{site.special_first_yr}} SIGCSE has awarded a limited number of Special Projects Grants each year. These grants help SIGCSE members investigate and introduce new ideas in the learning and teaching of computing. Projects must provide some clear benefit to the wider disciplinary community in the form of new knowledge, developing or sharing of a resource, or good practice in learning, teaching, or assessment.</p>
 
 <p>The list of Special Project Awards displays an amazing depth and breadth of productive work performed for the computing education community through the work of the investigators and the support of SIGCSE. Click on the year below to see the awards made in that year.</p>
 
 {% assign items = site.pages | where: "event","special-award" | sort: 'year' %}
-<p>Years: [&nbsp;{% for idx in items %}
+<p><strong>Awards made on:</strong> [&nbsp;{% for idx in items %}
     {% if forloop.last == true %}<a href="{{idx.year}}.html">{{idx.year}}</a>&nbsp;]
     {% else %}<a href="{{idx.year}}.html">{{idx.year}}</a>&nbsp;|&nbsp;{%endif%}
 {% endfor %}</p>
@@ -22,7 +22,7 @@ layout: page
 	<li>Publish results for the SIGCSE community, for example as papers or posters at such SIGCSE-sponsored conferences as the Symposium, ITiCSE, and ICER, or by submitting to such computer science education publications as ACM Inroads or ACM Transactions on Computing Education.</li>
 </ul>
 
-<p><strong>Application Guidelines</strong></p>
+<h4>Application Guidelines</h4>
 <p>To apply for a Special Projects grant:</p>
 <ol>
 	<li>Describe within 1,200 words a narrative (general overview) of the project for which you seek SIGCSE support.</li>
@@ -51,13 +51,14 @@ layout: page
 	<li>Proposers may submit only one proposal per application cycle.</li>
 </ul>
 
-<p><strong>Process for Making Awards</strong></p>
+<h4>Process for Making Awards</h4>
 <p>A SIGCSE Special Projects Review Panel will judge the value and timeliness of proposals and to make the awards.  Limited feedback will be given to unsuccessful applicants and applicants have the option of re-submitting in a future round.  The Reviewing Panel will consider all applications to be confidential.</p>
-<p><strong>Application</strong></p>
+
+<h4>Application</h4>
 <p>Use the following online submission form to complete your application.</p>
 <ul>
 	<li><a href="https://form.jotform.com/62945329086162">Special Projects Application</a></li>
 </ul>
 
-<p><strong>Questions?</strong></p>
+<h4>Questions?</h4>
 <p>Send any questions to: <a href="mailto:apply@sigcse.org">apply@sigcse.org</a>.</p>

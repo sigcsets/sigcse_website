@@ -3,7 +3,7 @@ title: ICER Steering Committee Membership and Terms of Reference
 layout: page
 ---
 
-**Membership (5 voting members in total)**
+##### Membership (5 voting members in total)
 
 - 4 general members
 
@@ -13,13 +13,13 @@ layout: page
 
 - Current SIGCSE Board Liaison to ICER (SIGCSE Board Member)
 
-**Terms of service**
+##### Terms of service
 
 * The general members of the Steering Committee serve a term of three years, with a maximum of two terms. Terms should be offset so that the two general members do not rotate off of the committee at the same time. Initial terms may need to be adjusted to accommodate this requirement. Please see the end of this document for initial membership terms. Terms will begin and end with an ICER conference. Term will commence at the ICER conference of the starting year and end at the ICER conference of the ending year.
 
 * Members can be reappointed to the committee after a period of 2 years of not being on the committee.
 
-**Roles within the steering committee:**
+##### Roles within the steering committee:
 
 * Chair &mdash; to be chosen by the committee after each ICER conference and communicated by September 1 to the SIGCSE Board. The ICER Steering Committee chair cannot be the SIGCSE Board liaison.
 
@@ -27,7 +27,7 @@ layout: page
 
 * Site inspection &mdash; A critical task will be identifying future sites for ICER. At least one member of the committee (not the SIGCSE Board member) should be designated as lead for this task.
 
-**The Role of the Steering Committee is:**
+##### The Role of the Steering Committee is:
 
 1. To define the scope of content of the conference.
 
@@ -49,17 +49,17 @@ layout: page
 
 10. To coordinate with current Program Chairs and General Chairs to ensure the current offering of ICER adheres to SIGCSE Board policies and guidelines from the Steering Committee.
 
-**Working**
+##### Working
 
 The Steering Committee should meet as needed, typically at least three times a year via phone/teleconference and once a year face to face at the ICER conference. More teleconference meetings are encouraged, especially within these first few years to ensure that items are moving forward in appropriate timelines.
 
 The agenda and minutes of the Steering Committee meetings are circulated to committee members, and to the SIGCSE Board.
 
-**Expenses and Expectations**
+##### Expenses and Expectations
 
 Steering committee members are expected to attend the conference at their own expense (travel and accommodation). In recognition of the work they put into the conference, they will be given discounted registration.
 
-**Proposal of initial membership**
+##### Proposal of initial membership
 
 <span style="text-decoration: underline">[Initial members (Geographic Region) and terms]</span>
 

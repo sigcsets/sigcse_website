@@ -16,12 +16,12 @@ steering:
     dates: 2019 – 2022 
 
 database:
-  - name: Simon
-    affiliation: University of Newcastle, Australia
-    dates: 2017 - until November 2020
-  - name: Janet Carter
-    affiliation: University of Kent at Canterbury, UK
-    dates: 2017 - until November 2020
+  - name: Stan Kurkovsky
+    affiliation: Central Connecticut State University
+    dates: 2019 – 2022
+  - name: Carsten Kleiner
+    affiliation: University of Applied Sciences and Arts
+    dates: 2020 – 2023
 
 conferences:
 - title: ITiCSE 2020

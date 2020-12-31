@@ -3,13 +3,12 @@ title: Conflict of Interest Policy
 layout: page
 ---
 
-Approved by the SIGCSE Board: October 22, 2017   
-Ammended by the SIGCSE Board: March 11, 2020
+_Approved by the SIGCSE Board: October 22, 2017_\
+_Ammended by the SIGCSE Board: March 11, 2020_
 
-This policy for defining and handling conflicts of interest applies to
-all SIGCSE conferences.
+This policy for defining and handling conflicts of interest applies to all SIGCSE conferences.
 
-**Who can submit?**
+###### Who can submit?
 
 1. Program chairs may not submit any scholarship (papers, posters, special sessions, panels, lightning talks, working groups, etc) to their conference, but their students are permitted to do so. Other members of the Program and Review Committees and their students may submit scholarship to the conference for which they serve.
 2.  A specific chair (e.g., Poster Chair, Workshop Chair etc.) may not submit scholarship of that type (e.g. Poster Chair may not submit a poster proposal).
@@ -22,7 +21,7 @@ If it is discovered that a piece of scholarship violating the above
 guidelines is submitted, the submission will be withdrawn from
 consideration and/or publication.
 
-**Declaring Conflicts of Interest:**
+###### Declaring Conflicts of Interest:
 
 1.  Scholarship submitted to the conference is a conflict of interest
     for an individual if at least one of the following is true: 1) the

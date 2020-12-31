@@ -3,13 +3,13 @@ title: Ph.D. Programs
 layout: page
 ---
 
-Note: This page is out of date. We are looking for a volunteer to update
+**Note:** This page is out of date. We are looking for a volunteer to update
 and maintain this page. If you are willing to take on this task, sign up
 using the [volunteer form](http://www.jotform.us/form/41186570822152)
 and indicate that you are interested in \"Communications: Contribute to
 web design, implementation, and/or updates.\"
 
-### Australia
+#### Australia
 
 [Monash University, Australia](http://www.monash.edu.au/)
 
@@ -23,7 +23,7 @@ web design, implementation, and/or updates.\"
 
 -   PhD
 
-### Finland
+#### Finland
 
 [Helsinki University of Technology, Finland](http://www.cs.hut.fi/Research/COMPSER/)
 
@@ -35,7 +35,7 @@ web design, implementation, and/or updates.\"
 
 [University of Turku, Finland, Turku Centre for Computer Science, Learning and Reasoning Laboratory](https://research.it.abo.fi/research/learning-and-reasoning-laboratory)
 
-### Germany
+#### Germany
 
 [RWTH Aachen, Germany](http://elearn.rwth-aachen.de/)
 
@@ -77,7 +77,7 @@ University of Siegen, Germany
 -   [Doctor of Engineering, Computer Science
     (Dr.-Ing.)](http://www.uni-siegen.de/fb12/dekanat/)
 
-### Israel
+#### Israel
 
 [The Technion, Israel Institute of Technology, The Department of
 Education in Technology and Science](http://edu.technion.ac.il/en/)
@@ -93,7 +93,7 @@ Teaching](http://stwww.weizmann.ac.il/g-cs/)
 
 -   PhD in Science Teaching
 
-### Sweden
+#### Sweden
 
 [Ume? Universitet, Sweden](http://www.cs.umu.se/utbildning/forskarutbildning/?languageId=3)
 
@@ -103,7 +103,7 @@ Teaching](http://stwww.weizmann.ac.il/g-cs/)
 
 -   PhD in Computer Science Education
 
-### UK
+#### UK
 
 [Open University, UK](http://www3.open.ac.uk/study/postgraduate/computing-and-ict/index.htm)
 
@@ -113,13 +113,13 @@ Teaching](http://stwww.weizmann.ac.il/g-cs/)
 
 -   PhD
 
-### New Zealand
+#### New Zealand
 
 [University of Otago, New Zealand](http://www.cs.otago.ac.nz/)
 
 -   PhD in Computer Science
 
-### USA
+#### USA
 
 [University of Alabama, Alabama, USA](http://cs.ua.edu/)
 

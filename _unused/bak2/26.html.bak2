@@ -1,0 +1,62 @@
+---
+title: Special Projects 2004
+layout: page
+---
+                                <h1 class="page-title">Special Projects 2004</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-26" class="node node-page node-full clearfix" about="/sigcse/programs/special/awards/2004" typeof="foaf:Document">
+                      <span property="dc:title" content="Special Projects 2004" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a name="top" id="top">←</a> <a href="../programs/special/awards/2003.html">2003</a> | <a href="../programs/special/awards.html#list">List of awards</a> |  <a href="../programs/special/awards/2005.html">2005</a> →</p>
+<p>Since 2003 SIGCSE has awarded a limited number of Special Projects Grants each year. These grants help SIGCSE members investigate and introduce new ideas in the learning and teaching of computing. Projects must provide some clear benefit to the wider disciplinary community in the form of new knowledge, developing or sharing of a resource, or good practice in learning, teaching, or assessment.</p>
+<p>Here is a list of the awards given in 2004.</p>
+<h3>Creating Computer Exercises Involving Computer Security</h3>
+<p>Charles Ashbacher<br />
+Mount Mercy College<br />
+Award: $1,000<br />
+Award Date: February 2004</p>
+<p>This project will develop software to demonstrate particular concepts in computer security: code obfuscation and steganography (in this case, the hiding of messages in image files). The final source code and documentation will be released as open source and posted on the SIGCSE web site</p>
+<h3>A Remote Program Viewer</h3>
+<p>Charles Dierbach (<a href="mailto:cdierbach@towson.edu">cdierbach@towson.edu</a>)<br />
+Towson University<br />
+Award: $2,768<br />
+Award Date: May 2004</p>
+<p>This project involves the development of a remote program viewer allowing two users anywhere across the Internet to view a common set of program files and interactively discuss. Such a tool would be useful for both student-instructor interaction, and collaborative learning by students. <a href="http://triton.towson.edu/~dierbach/RemoteViewer/Main.htm">http://triton.towson.edu/~dierbach/RemoteViewer/Main.htm</a></p>
+<h3>Projects in Wireless and Ad-Hoc Network Simulation</h3>
+<p>Chris McDonald<br />
+University of Western Australia<br />
+Award: $2,700<br />
+Award Date: May 2004</p>
+<p>This project will extend the existing cnet networking simulator to support the exciting new areas of mobile and ad-hoc networks through the addition of wireless Ethernet and Bluetooth communication links. New laboratory and project exercises, examining table-driven and on-demand protocols, will also be developed.</p>
+<h3>Towards the development of "best practices" for teaching information assurance courses</h3>
+<p>Rose Shumba (<a href="mailto:shumba@iup.edu">shumba@iup.edu</a>)<br />
+Indiana University of Pennsylvania<br />
+Award: $2,853<br />
+Award date: July 2004</p>
+<p>The aim of this project is to provide some groundwork towards the development of "best practices" for the teaching of information assurance courses. This will be achieved by the evaluation of the effectiveness of available CERT recommended security tools, developing hands-on laboratory exercises for the tools and then integrating the developed hands- on lab exercises and the theories and principles of information assurance courses. A student will be hired to assist with the project.</p>
+<h3>A visualization system to support software development comprehension: evaluation</h3>
+<p>Charles Boisvert (<a href="mailto:cboisver@ccn.ac.uk">cboisver@ccn.ac.uk</a>)<br />
+City College Norwich, UK<br />
+Award:$4896<br />
+Award Date: August 2004</p>
+<p>eL-CID supports students' understanding of program development by visualising development history. This project aims to evaluate eL-CID with introductory programming students in a classroom setting. I will build a set of teaching examples and carry out a questionnaire evaluation, analyze forum transcripts and if conditions allow run a crossover study.</p>
+<h3>Designing and Evaluating Programs in Computer Science Education</h3>
+<p>Justus Randolph (<a href="mailto:justusrandolph@yahoo.com">justusrandolph@yahoo.com</a>)<br />
+University of Joensuu, Finland<br />
+Award: $4,750<br />
+Award Date: August 2004</p>
+<p>A research project to develop best practices in designing and evaluating programs in CS education is proposed. Research activities will include a systematic review of CSE programs and confirm tory case studies of the design and evaluation process of three CSE programs</p>
+<h3>A Course on Ethical Issues in Computing Linking Students at Villanova University and Universidade Nova de Lisboa</h3>
+<p>William Fleischman (<a href="mailto:william.fleischman@villanova.edu">william.fleischman@villanova.edu</a>)<br />
+Villanova University and Universidade Nova de Lisboa<br />
+Award: $3,400<br />
+Award Date: December 2004</p>
+<p>This project will support development of course materials and implementation of interactive videoconference sessions linking undergraduate students at Villanova University and Universidade Nova de Lisboa in discussions of ethical issues in computing. The project is seen as a means of broadening the perspectives of students at both institutions</p>
+<p><a href="#top">↑ Back to top</a></p>
+</div></div></div>  </div>
+

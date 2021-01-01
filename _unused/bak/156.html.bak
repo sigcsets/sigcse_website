@@ -1,0 +1,64 @@
+---
+title: Special Projects 2017
+layout: page
+---
+                                <h1 class="page-title">Special Projects 2017</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-156" class="node node-page node-full clearfix" about="/sigcse/programs/special/awards/2017" typeof="foaf:Document">
+                      <span property="dc:title" content="Special Projects 2017" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a name="top" id="top">←</a> <a href="../programs/special/awards/2016.html">2016</a> | <a href="../programs/special/awards.html#list">List of awards</a> |  <a href="../programs/special/awards/index.html">Current awards</a> →</p>
+<p>Since 2003 SIGCSE has awarded a limited number of Special Projects Grants each year. These grants help SIGCSE members investigate and introduce new ideas in the learning and teaching of computing. Projects must provide some clear benefit to the wider disciplinary community in the form of new knowledge, developing or sharing of a resource, or good practice in learning, teaching, or assessment.</p>
+<p>Here is a list of the awards given in 2017.</p>
+<h3>Computing Educators Oral History Project (CEOHP) Growth: Awardee Interviews and Website Update</h3>
+<p><bold>* <a href="../files/documents/pdfs/SpecialProjectReports/SP-interim-report-2017-almstrum.pdf">Interim project report</a></bold><br />
+Vicki Almstrum, <a href="mailto:almstrum@acm.org">almstrum@acm.org</a><br />
+Barbara Boucher Owens, <a href="mailto:owensb@southwestern.edu">owensb@southwestern.edu</a><br />
+Award:  $5,000<br />
+Award date:  May, 2017</p>
+<p>Drs. Almstrum and Owens plan to extend the collection of oral interviews documenting the history of computing educators.  This project will increase the number of interviews with winners of the SIGCSE Outstanding Contribution to Computer Science Education Award and the SIGCSE Lifetime Service Award, with an emphasis on those who live in countries other than the United States.  In addition, the project will entail a significant reworking of the CEOHP website which serves as a repository for the oral interviews.</p>
+<h3>Understanding Movement</h3>
+<p>Amber Wagner<br />
+Birmingham-Southern College<br /><a href="mailto:ankwagner@gmail.com">ankwagner@gmail.com</a><br />
+Award:  $1,060<br />
+Award date:  May, 2017</p>
+<p>Dr. Wagner will develop a project-based course for novice computer science students intended to demonstrate the relevance of computing.  Inspired by ESPN’s Sport Science, students will combine physiology with computer science to build wearable devices to measure the force or speed of various movements.  Assignments will be designed to use the Arduino 101 to collect and analyze movement data.  For the final project, students will first determine the types of movements they wish to measure, and then they will build their wearables.  With the help of an athletic trainer, they will assemble an analysis of the data to summarize the force and/or speed of the movements.  A detailed curriculum guide will be published for use by other educators.</p>
+<h3>Active Learning Materials for Computer Architecture and Organization</h3>
+<p><bold>* <a href="../files/documents/pdfs/SpecialProjectReports/SP-report-2017-myers.pdf">Final project report</a></bold></p>
+<p>Brandon Myers<br />
+University of Iowa<br /><a href="mailto:brandon-d-myers@uiowa.edu">brandon-d-myers@uiowa.edu</a><br />
+Award:  $5,000<br />
+Award date:  May, 2017</p>
+<p>Dr. Myers will develop eight Process-Oriented Guided Inquiry Learning (POGIL) activities for use in Computer Organization and Architecture classes.  Exercises will be based on the learning outcomes defined in the 2013 ACM/IEEE Computer Science Curriculum Guidelines. POGIL is based on a theory of instruction which includes the learning cycle of exploration, term introduction, and application.  The activities will be available to other instructors via cspogil.org.</p>
+<h3>An Analysis and Interpretation Framework for Student Engagement Benchmarking Data</h3>
+<p><bold>* <a href="../files/documents/pdfs/SpecialProjectReports/SP-report-2017-morgan.pdf">Final project report</a></bold></p>
+<p>Michael Morgan (<a href="mailto:michael.morgan@monash.edu">michael.morgan@monash.edu</a>)<br />
+Matthew Butler (<a href="mailto:Matthew.Butler@monash.edu">Matthew.Butler@monash.edu</a>)<br />
+Jane Sinclair (<a href="mailto:J.E.Sinclair@warwick.ac.uk">J.E.Sinclair@warwick.ac.uk</a>)<br />
+Chris Gonsalvez (<a href="mailto:Chris.Gonsalvez@monash.edu">Chris.Gonsalvez@monash.edu</a>)<br />
+Monash University, AUS<br />
+Award:  $4,800<br />
+Award date:  November, 2017</p>
+<p>This project will provide a framework for analyzing benchmark data to improve student engagement in Computer Science.  Currently there is no widely used systematic process to evaluate and interpret student engagement data. This project will develop an analysis framework which Computer Science departments can apply to their own data sets.  Dr. Morgan’s team will analyze the data set for the Australian Student Experience Survey from 2012 to 2016, comparing the performance of Monash University Computer Science courses against the performance of Computer Science courses at other universities in Australia. Results will be interpreted through the lens of relevant student engagement literature. By performing this analysis, the project aims to provide other Computer Science educators with a framework for the analysis of benchmarking data such as the North American National Survey of Student Engagement, the United Kingdom Engagement Survey and similar instruments.</p>
+<h3>CQDR: Clicker Question Data Repository</h3>
+<p>Jaime Spacco (<a href="mailto:jspacco@knox.edu">jspacco@knox.edu</a>)<br />
+Knox College, USA<br />
+Award:  $4,000<br />
+Award date:  November, 2017</p>
+<p>Dr. Spacco will expand and improve an online repository of clicker questions that have been used in courses using Peer Instruction.  An existing website (peerinstruction4cs.org) has complete slide decks for multiple courses containing clicker questions.  This project will result in the addition of information about the questions themselves including what percent of students answered the question correctly on the first and second votes; whether the question is an identical or modified version of a question used in a previous iteration of the course; whether a question was adopted from another instructor, and if so, whether it is identical or modified; and comments or suggestions from other PI instructors about the question.  The data will help instructors to determine both the difficulty and the relative value of each clicker question.  The repository will be publicly available.</p>
+<h3>How Do We Teach Debugging?</h3>
+<p><bold>* <a href="../files/documents/pdfs/SpecialProjectReports/SP-report-2017-luxton-reilly.pdf">Final project report</a></bold></p>
+<p>Andrew Luxton-Reilly (<a href="mailto:andrew@cs.auckland.ac.nz">andrew@cs.auckland.ac.nz</a>)<br />
+Ewan Tempero (<a href="mailto:e.tempero@auckland.ac.nz">e.tempero@auckland.ac.nz</a>)<br />
+University of Auckland, NZ<br />
+Award:  $4,850<br />
+Award date:  November, 2017</p>
+<p> Drs. Luxton-Reilly and Tempero will address the difficulties of teaching and learning debugging by undertaking a detailed study of existing resources. They will analyze debugging materials included in introductory textbooks after creating a taxonomy for analysis. After a rigorous search for online materials that teach debugging strategies, the authors will create an online repository.  The repository will make it easier for instructors to locate appropriate resources and direct students to them.  In addition, a literature review of research relating to teaching debugging to novices will be published.</p>
+<p><a href="#top">↑ Back to top</a></p>
+</div></div></div>  </div>
+

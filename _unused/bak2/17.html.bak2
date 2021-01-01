@@ -1,0 +1,118 @@
+---
+title: List of Special Projects Award Winners
+layout: page
+---
+                                <h1 class="page-title">List of Special Projects Award Winners</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-17" class="node node-page node-full clearfix" about="/sigcse/programs/special/awards" typeof="foaf:Document">
+                      <span property="dc:title" content="List of Special Projects Award Winners" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Since 2003 SIGCSE has awarded a limited number of Special Projects Grants each year. These grants help SIGCSE members investigate and introduce new ideas in the learning and teaching of computing. Projects must provide some clear benefit to the wider disciplinary community in the form of new knowledge, developing or sharing of a resource, or good practice in learning, teaching, or assessment.</p>
+<p>Here is a list of the awards from June 2018 till today. <a href="#list">Click here</a> for a full list of previous years.</p>
+<h2>June, 2018</h2>
+<h3>CS Identity Development Interview Project</h3>
+<p>* <a href="../files/documents/pdfs/SpecialProjectReports/SP-interim-report-2019-kapoor.pdf">Interim project report</a></p>
+<p>Amanpreet Kapoor (<a href="mailto:kapooramanpreet@ufl.edu">kapooramanpreet@ufl.edu</a>)<br />
+Christina Gardner-McCune<br />
+University of Florida<br />
+Award:  $3,078<br />
+Award date: June, 2018</p>
+<p>This project focuses on the development of professional identity in computer science students.  Drs. Kapoor and Gardner-McCune will identify ways in which computer science students engage in communities of practice and will measure the amount of time students spend in professional experiences outside the classroom.  The impact of these experiences on the development of professional identity will be explored through a qualitative study.  The results of the study will include profiles of successful students and recommendations for faculty.</p>
+<h3>Developing a Serious Game to Reinforce Introductory Programming Concepts</h3>
+<p>Devorah Kletenik, Brooklyn College, City University of New York<br />
+(<a href="mailto:kletenik@sci.brooklyn.cuny.edu">kletenik@sci.brooklyn.cuny.edu</a>)<br />
+Deborah Sturm, College of Staten Island, City University of New York<br />
+(<a href="mailto:deborah.sturm@csi.cuny.edu">deborah.sturm@csi.cuny.edu</a>)<br />
+Award:  $5,000<br />
+Award date: June, 2018<br />
+Report: <a href="../files/documents/pdfs/SpecialProjectReports/SP-interim-report-2018-Kletenik.pdf">Interim Report</a></p>
+<p>Drs. Kletenik and Sturm will create a game to introduce programming concepts to undergraduate students.  The game will include a storyline, sound effects, graphics, power-ups and short quiz-like challenges.  It will provide students with an opportunity to practice their programming skills.  The game is intended for a broad audience; gamers and non-gamers, females and underrepresented groups will be consulted during the creation of the game.  In addition, a wide-scale evaluation of the effectiveness of the game will be performed.  The game will be available as a WebGL and will be playable in a browser without downloading or installation.  It will be released under a Free Software license, enabling others to modify the game if so desired.</p>
+<h3>Developing and Testing Activities Introducing Elementary School Students to Artificial Intelligence</h3>
+<p>David Touretzky (<a href="mailto:dst@cs.cmu.edu">dst@cs.cmu.edu</a>)<br />
+Carnegie Mellon University<br />
+Award:  $4,440<br />
+Award date: June, 2018</p>
+<p>Dr. Touretzky will develop hands-on activities designed to introduce elementary school children to artificial intelligence concepts.  Activities will include topics such as computer vision, face and voice recognition, speech generation, navigation and robotics. The project will include twice-weekly instruction for over 300 elementary school children during academic year 2018-2019.   Learning outcomes and student interest in AI will be measured.  In addition, PowerPoint slides and supplementary materials will be developed for the classroom teachers.  Materials will be cataloged in a resource directory supported by the Advancement of Artificial Intelligence (AAAI) and the Computer Science Teachers Association (CSTA).</p>
+<h2>November, 2018</h2>
+<h3>Interactive resources for training CS TAs</h3>
+<p>Colleen Lewis<br />
+Harvey Mudd College, USA<br />
+Phillip Conrad<br />
+University of California, USA<br />
+Award: $5,000<br />
+Award date: November, 2018</p>
+<p>A card game to help CS faculty create inclusive classrooms. Extension of existing game. A novel idea</p>
+<h3>The CS-Ed Podcast</h3>
+<p>Kristin Stephens-Martinez<br />
+Duke University, USA<br />
+Award: $5,000<br />
+Award date: November, 2018</p>
+<p>6 podcasts of best practices in computing education.</p>
+<h3>Software History Examples</h3>
+<p>Kim Tracy<br />
+Rose-Hulman Institute of Technology, USA<br />
+Award: $5,000<br />
+Award date: November, 2018</p>
+<p>Collection and development of important historical software examples to teach the history of software. Novel and interesting from historical perspective. </p>
+<h3>Active Learning Materials for Machine Learning</h3>
+<p>Olga Glebova &amp; Pavel Skums<br />
+Georgia State University, USA<br />
+Award: $5,000<br />
+Award date: November, 2018</p>
+<p>The applicants will develop, test and refine 12 sets of active learning materials for Machine Learning (ML) course suited for undergraduate students majoring in Computer Science (CS). Activities will follow POGIL (Process-Oriented Guided Inquiry Learning) methodology</p>
+<h2>May, 2019</h2>
+<h3>Developing Physical Manipulatives and Games for Teaching Advanced Data Structures</h3>
+<p>Mark Goadrich<br />
+Hendrix College, USA<br />
+Award: $4,598<br />
+Award date: May, 2019</p>
+<p>This project will develop engaging manipulatives specifically developed for physically demonstrating concepts in advanced data structures. Instructors will be able to use these tools to support lessons on sorting algorithms, binary search trees, heaps, sets, and hash tables.</p>
+<h3>Decoding Doctoral Student Departure: Faculty and Student Perspectives</h3>
+<p>Kari George, UCLA, USA<br />
+Award: $3,500<br />
+Award date: May, 2019</p>
+<h3>Dive into Systems ​ - A Free Online Textbook for Introductory Computer Systems Topics</h3>
+<p>Tia Newall<br />
+Swarthmore College, USA<br />
+Co-applicants: Suzanne Matthews, Kevin C. Webb<br />
+Award: $5,000<br />
+Award date: May, 2019</p>
+<p>The purpose of this project is to develop and promote a free online textbook that covers introductory computer systems, architecture and parallel computing.</p>
+<h3>Developing Ethics Modules for Core CS and DS Courses</h3>
+<p>Lori Carter<br />
+Co-applicants: Catherine Crockett, Whitney Featherston, Morgan Wheeler<br />
+Point Loma Nazarene University, USA<br />
+Award: $2,900<br />
+Award date: May, 2019</p>
+<p>Two professors and two students at Point Loma Nazarene University (PLNU) have been working for the last year to create a series of 10-20 minute ethics modules that can be integrated into core Computer Science and Data Science courses. This project is for focus groups to obtain student feedback on the new modules and for subsequent refinement. </p>
+<h3>A 50 year retrospective on academic integrity and computer ethics in CS Education</h3>
+<p>(Special theme “SIGCSE: 50 Years and Beyond”)<br />
+Farah Tokmic<br />
+University of North Carolina, Charlotte, USA<br />
+Award: $5,000<br />
+Award date: May, 2019</p>
+<p><a name="list" id="list"></a></p>
+<h2>Previous Years</h2>
+<p>To see more awards use the links below:</p>
+<ul><li><a href="awards/2017.html">2017</a> - 6 awards</li>
+<li><a href="awards/2016.html">2016</a> - 5 awards</li>
+<li><a href="awards/2015.html">2015</a> - 5 awards</li>
+<li><a href="awards/2014.html">2014</a> - 5 awards</li>
+<li><a href="awards/2013.html">2013</a> - 2 awards</li>
+<li><a href="awards/2012.html">2012</a> - 7 awards</li>
+<li><a href="awards/2011.html">2011</a> - 4 awards</li>
+<li><a href="awards/2010.html">2010</a> - 1 awards</li>
+<li><a href="awards/2009.html">2009</a> - 2 awards</li>
+<li><a href="awards/2008.html">2008</a> - 4 awards</li>
+<li><a href="awards/2007.html">2007</a> - 10 awards</li>
+<li><a href="awards/2006.html">2006</a> - 8 awards</li>
+<li><a href="awards/2005.html">2005</a> - 16 awards</li>
+<li><a href="awards/2004.html">2004</a> - 7 awards</li>
+<li><a href="awards/2003.html">2003</a> - 6 awards</li>
+</ul></div></div></div>  </div>
+

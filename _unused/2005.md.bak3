@@ -1,0 +1,219 @@
+---
+title: SIGCSE Annual Report 2005
+layout: page
+---
+::: {#block-system-main .block .block-system}
+::: {.content}
+[]{.rdf-meta .element-hidden property="dc:title"
+content="SIGCSE Annual Report 2005"}[]{.rdf-meta .element-hidden
+property="sioc:num_replies" content="0" datatype="xsd:integer"}
+
+::: {.content .node-page}
+::: {.field .field-name-body .field-type-text-with-summary .field-label-hidden}
+::: {.field-items}
+::: {.field-item .even property="content:encoded"}
+July 2004 - June 2005\
+Submitted by: Henry M. Walker, SIGCSE Chair
+
+SIGCSE continues in its on-going mission to help address the needs
+computing educators at all levels throughout the world. Thus, SIGCSE is
+working to promote, strengthen, and expand its own programs and
+projects; and SIGCSE seeks to collaborate with other organizations on
+areas of common interest. For example, SIGCSE has continued its
+interactions with SIGITE, ACM\'s Special Interest Group for Information
+Technology Education, as both SIGs focus on separate, but overlapping,
+areas of technical education.
+
+Also, in January, ACM launched the Computer Science Teachers\'
+Association (CSTA) with an emphasis on issues related to secondary
+education. In working to establish new ties, the SIGCSE Board has named
+its Vice Chair, Barbara Owens, as SIGCSE\'s formal liaison to CSTA, and
+SIGCSE hopes that this will lead to creative avenues of collaboration.
+
+**Conferences**\
+This year, SIGCSE is planning for a new conference for International
+Computing Education Research. The first conference, ICER 2005, will be
+held on October 1-2 at the University of Washington under the leadership
+of Sally Fincher, Richard Anderson, and Mark Guzdial. Details of this
+conference may be found at <http://icer2005.cs.washington.edu/> . SIGCSE
+also sponsors two other, well-established, annual conferences:
+
+-   The 2005 SIGCSE Technical Symposium (SIGCSE 2005) was held on
+    February 23-27, 2005, in St. Louis, MO USA. The conference set two
+    significant SIGCSE records: 335 papers were submitted (up from about
+    225 the previous several years), and attendance reached just
+    over 1200. Much credit is due Symposium Co-chairs, Wanda Dann from
+    Ithaca College and Tom Naps from the University of Wisconsin at
+    Oshkosh.
+-   The 2005 Innovations and Technology in Computer Science Education
+    Conference (ITiCSE 2005) was held June 27-29, 2005, at the
+    Universidade de Nova Lisboa in Portugal. This conference set similar
+    records for this European conference: 225 papers submitted (up
+    from150) and attendance reached 212. Many thanks to Conference and
+    Program Co-Chairs, Jose Cunha from Universidade de Nova
+    Lisboa,William Fleishman from Villanova University, Joao Lourenco
+    from Universidade de Nova Lisboa, and Viera Proulx from Northeastern
+    University.
+
+Next year\'s conferences take place as follows:
+
+-   SIGCSE 2006, March 1-5, Houston, TX USA under the leadership of
+    Douglas Baldwin from SUNY Geneseo and Paul Tymann from the Rochester
+    Institute of Technology. More about this conference may be found at
+    [http://www.cs.rit.edu/\~sigcse06/](http://www.cs.rit.edu/%7Esigcse06/)
+-   ITiCSE 2006, June 26-28, University of Bologna, Italy under the
+    leadership of Renzo Devoli and Paola Salomoni from the University of
+    Bologna and Michael Goldweber from Xavier University. For more
+    information, see <http://www.iticse06.cs.unibo.it/>
+
+In planning for the future, Robert Beck from Villanova University and
+Scott Grissom from Grand Valley State University continue to provide
+outstanding service as SIGCSE Symposium Site Coordinators, working with
+ACM Headquarters in preparing materials for site bids, tabulating
+proposals, and reviewing potential contracts. In recent years, Bruce
+Klein from Grand Valley State University has served as a marvelous
+resource in a similar role for advising for sites for ITiCSE. Looking
+ahead, the SIGCSE Board has appointed Mats Daniels from Uppsala
+University as ITiCSE Site Coordinator to complement Bruce\'s ongoing
+efforts.
+
+**Awards**\
+Following past tradition, SIGCSE presented two awards this past year at
+its Symposium in St. Louis.
+
+-   Kim Bruce from Williams College, Williamstown, MA, USA, received
+    SIGCSE\'s 2005 Award for Outstanding Contributions to Computer
+    Science Education.
+-   Andrew McGettrick from the University of Strathclyde, Glasgow,
+    Scotland, SIGCSE\'s 2005 Award for Lifetime Service.
+
+**Bulletin, *inroads***\
+SIGCSE publishes *inroads* the SIGCSE Bulletin, quarterly. Two issues,
+in March and September, distribute the Proceedings of its two major
+conferences, its Symposium and its Conference on Innovation and
+Integrating Technology in Computer Science Education, respectively.
+
+The June and December issues provide a wonderful and diverse collection
+of columns, editorials, and articles on computing education through the
+insightful and dedicated leadership of Editor-in-Chief, John
+Impagliazzo. In addition, John has coordinated the development of
+SIGCSE\'s first CD, called *Pathways: Women and Computing*. This project
+includes SIGCSE\'s special issue on the subject from June 2002, two
+issues of related articles from the IEEE Annals on the History of
+Computing, two papers on the subject from the Communications of the ACM,
+and several additional materials. This CD is being distributed with the
+June 2005 issue of the SIGCSE Bulletin \-- *inroads*. The SIGCSE
+community is most grateful to John for his vision and efforts in guiding
+inroads and for his remarkable dedication and development of this new
+CD!
+
+**Special Project Grants**\
+SIGCSE has established a program to fund a limited number of special
+projects to help its members investigate and introduce new ideas in the
+learning and teaching of computing. SIGCSE invites its members to apply
+for funds for this new endeavor. The maximum funding is \$5,000 USD per
+proposal and the level of funding is subject to the quality of proposals
+received and the availability of funds targeted for such projects.
+
+Between March 2004 and February 2005, SIGCSE received thirteen proposals
+and made five \"special project\" awards, to a total sum of \$17,967. In
+2003-2004 (the first year) we received seventeen proposals and made
+seven Special Project awards, to a total sum of \$20,800. Between March
+2005 and July 2005, SIGCSE received nine proposals and made four Special
+Project awards to a total sum of \$14,935. This is broadly comparable to
+previous years.
+
+Additional information on SIGCSE [Special Project
+Grants](../../../programs/special.html) may be found on the SIGCSE
+website.
+
+**Committee Initiative**\
+SIGCSE continues to involve its membership in discussions of
+significance to the computing-education community through its Committee
+Initiative. Currently, three committees have been formed, each with a
+specific focus:
+
+-   The SIGCSE Committee on the Implementation of a One-Semester Course
+    in Discrete Mathematics, with facilitators Douglas Baldwin from the
+    State University of New York at Geneseo and William Marion from
+    Valpariso State University. This committee has circulated several
+    draft course syllabi, and is moving ahead in receiving feedback from
+    committee members and the SIGCSE community.
+-   The SIGCSE Committee on Expanding the Women-in-Computing Community,
+    with facilitators Gloria Childress Townsend, DePauw University and
+    Paula Gabbert, Furman University. This committee engages interested
+    individuals, particularly at conferences. Projects include
+    identifying \"recruiting and retaining women (R&R) in computing\"
+    and highlighting success stories regarding R&R, and fostering
+    communication with interested computing educators related to
+    expanding the community of women in computing.
+-   The SIGCSE Committee on the Teaching of Computer Science Research
+    Methods, with facilitators Hillary Holz from California State
+    University, East Bay and Anne Applin, Ithaca College. The short-term
+    product of the committee is an ITiCSE Working Group proposal, which
+    in turn will lead to the working group report.
+
+Discussions continue with several individuals and groups regarding
+possible new SIGCSE Committees. When dialog yields a subject of general
+community interest, a clear focus, and 2-4 facilitators, a proposal can
+go forward to the SIGCSE Board for the creation of a new SIGCSE
+Committee. More information may be found through the SIGCSE [Committee
+Initiative](../../../../topics/committees.shtml) links.
+
+**Doctoral Consortium**\
+SIGCSE continues to support its Doctoral Consortium, held each year on
+the Wednesday before the SIGCSE Symposium in February or March. The
+Doctoral Consortium provides a forum for graduate students to refine
+directions for their research, receive feedback on their research ideas,
+and develop a network of contacts for on-going discussions.
+
+**Outreach Project**\
+The SIGCSE Outreach Project supports the dissemination of outstanding
+SIGCSE/ITiCSE presentations to other venues. The program is open to any
+non-ACM conference holding \"In-Cooperation\" status with SIGCSE. Funds
+are for travel support only (transportation, accommodation, meals), not
+for registrations or honorariums. The level of funding is subject to the
+quality of proposals received and the availability of funds. During the
+2004-2005 academic year we were pleased to fund two proposals.
+
+Additional information can be found through a link to the SIGCSE
+[Outreach Project.](../../../programs/outreach.html)
+
+**Workshop for Department Chairs**\
+Through the past year, the SIGCSE Board has worked with Frank Young of
+Rose-Hulman Institute of Technology in developing the outline for a
+workshop for department chairs. Initial plans call for a session to be
+held on the Wednesday before the SIGCSE Symposium in March, just before
+SIGCSE 2006. For the first workshop, Frank, Sue Fitzgerald from
+Metropolitan State University and Sandra DeLoatch from Norfolk State
+University will provide additional leadership for discussions and
+sessions that will help chairs, particularly new department chairs,
+consider organizational matters, planning, and the addressing of common
+problems. SIGCSE hopes this workshop may become a regular event,
+paralleling the ongoing Doctoral Consortium in providing ideas,
+brainstorming, and developing contacts.
+
+**Web Site/Internet Presence**\
+SIGCSE has been privileged to have Eric Roberts from Stanford University
+serve as moderator of its member listservs since 1997. Eric has been
+particularly effective in this role, showing great insight, tact, and
+wisdom in interacting with many individual groups in this capacity. With
+Eric\'s shift in responsibilities to become the Co-Chair of ACM\'s
+Education Board, he has stepped down as SIGCSE\'s listserv moderator.
+The SIGCSE community expresses its great appreciation and thanks to Eric
+for his wonderful work in this capacity over the past eight years.
+Looking ahead, SIGCSE has appointed Jesse Heines from the University of
+Massachusetts at Lowell and Frank Young from Rose-Hulman Institute of
+Technology as its new listserv moderators.
+
+Continuing in an on-going capacity, SIGCSE is fortunate that Scott
+Grissom from Grand Valley State University is serving as Web master.
+Scott has been a primary guide in the design and on-going maintenance of
+the SIGCSE Web site at <http://www.sigcse.org>, and he deserves many
+thanks for his service, guidance, and insights in this endeavor.
+:::
+:::
+:::
+:::
+:::
+:::

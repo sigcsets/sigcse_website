@@ -1,0 +1,37 @@
+---
+title: Special Projects 2013
+layout: page
+---
+                                <h1 class="page-title">Special Projects 2013</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-119" class="node node-page node-full clearfix" about="/sigcse/programs/special/awards/2013" typeof="foaf:Document">
+                      <span property="dc:title" content="Special Projects 2013" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a name="top" id="top">←</a> <a href="../programs/special/awards/2012.html">2012</a> | <a href="../programs/special/awards.html#list">List of awards</a> |  <a href="../programs/special/awards/2014.html">2014</a> →</p>
+<p>Since 2003 SIGCSE has awarded a limited number of Special Projects Grants each year. These grants help SIGCSE members investigate and introduce new ideas in the learning and teaching of computing. Projects must provide some clear benefit to the wider disciplinary community in the form of new knowledge, developing or sharing of a resource, or good practice in learning, teaching, or assessment.</p>
+<p>Here is a list of the awards given in 2013.</p>
+<h3>Curriculum-In-A-Box (2013)</h3>
+<p>Jandelyn Plane (<a href="mailto:jplane@cs.umd.edu">jplane@cs.umd.edu</a>)<br />
+Elissa Redmiles (<a href="mailto:eredmiles@cs.umd.edu">eredmiles@cs.umd.edu</a>)<br />
+Award: $5,000 US<br />
+Award Date:  December 2013</p>
+<p>The Maryland Center for Women in Computing is committed to improving gender diversity for current and future generations of computer scientists through retention, research, and outreach programs.  Curriculum-In-A-Box is a series of hands-on curriculum modules, video lectures and mentorship resources that will be created and made available for free download to assist K-12 educators, parents and other universities.</p>
+<h3>Opening CS Circles: A Platform for Interactive Lessons and Exercises</h3>
+<p><bold>* <a href="https://dl.acm.org/citation.cfm?doid=2676723.2691910">Publication from project</a></bold><br /><bold>* <a href="http://ints.io/daveagp/research/2015/cscircles-poster.pdf">Project poster</a></bold></p>
+<p>David Pritchard (<a href="mailto:dp6@princeton.edu">dp6@princeton.edu</a>)<br />
+Sandy Graham (<a href="mailto:sandy.graham@uwaterloo.ca">sandy.graham@uwaterloo.ca</a>)<br />
+Troy Vasiga (<a href="mailto:tmjvasiga@uwaterloo.ca">tmjvasiga@uwaterloo.ca</a>)<br />
+Award: $5,000<br />
+Award Date: May 2013</p>
+<p>"Computer Science Circles" (<a href="http://cscircles.cemc.uwaterloo.ca/">http://cscircles.cemc.uwaterloo.ca/</a>) teaches introductory Python.<br />
+We will release it as an open source WordPress plugin, and share all current lessons and<br />
+exercises under a Creative Commons license. We will also allow users to author, share and remix<br />
+content, so teachers can build custom courses to suit their needs.</p>
+<p><a href="#top">↑ Back to top</a></p>
+  
+

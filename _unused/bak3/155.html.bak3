@@ -1,0 +1,56 @@
+---
+title: Special Projects 2016
+layout: page
+---
+                                <h1 class="page-title">Special Projects 2016</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-155" class="node node-page node-full clearfix" about="/sigcse/programs/special/awards/2016" typeof="foaf:Document">
+                      <span property="dc:title" content="Special Projects 2016" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a name="top" id="top">←</a> <a href="../programs/special/awards/2015.html"> 2015 </a> | <a href="../programs/special/awards.html#list">List of awards</a> |  <a href="../programs/special/awards/2017.html">2017</a> →</p>
+<p>Since 2003 SIGCSE has awarded a limited number of Special Projects Grants each year. These grants help SIGCSE members investigate and introduce new ideas in the learning and teaching of computing. Projects must provide some clear benefit to the wider disciplinary community in the form of new knowledge, developing or sharing of a resource, or good practice in learning, teaching, or assessment.</p>
+<p>Here is a list of the awards given in 2016.</p>
+<h3>Making Block Languages Accessible</h3>
+<p><bold>* <a href="../files/documents/pdfs/SpecialProjectReports/SP-report-2016-ladner.pdf">Final project report</a></bold></p>
+<p>Richard E. Ladner<br />
+University of Washington<br /><a href="mailto:ladner@cs.washington.edu">ladner@cs.washington.edu</a><br />
+Award:  $4,064<br />
+Award date:  May, 2016</p>
+<p>Block languages such as Scratch, Snap!, Alice, Blockly, App Inventor, ScratchJr, and others, have opened up programming and problem solving to millions of children worldwide.  This project will make block languages accessible to blind children so they can have the same opportunities as their sighted peers.   Most blind children in the US are already familiar with smartphones and tablets including the gestures used to navigate and spatially understand what is on a touchscreen. This project will extend the open source Blockly language by building on touchscreen phone applications. </p>
+<h3>The Dawn of Computing: Charles Babbage and the Difference Engine</h3>
+<p><bold>* <a href="../files/documents/pdfs/SpecialProjectReports/SP-report-2016-meysenburg.pdf">Final project report</a></bold><br /><bold>* <a href="../files/documents/pdfs/SpecialProjectReports/SP-report-2016-meysenburg-instructors-materials.pdf">Instructors materials</a></bold><br /><bold>* <a href="../files/documents/pdfs/SpecialProjectReports/SP-report-2016-meysenburg-instructors-guide.pdf">Instructors guide</a></bold><br /><bold>* <a href="../files/documents/pdfs/SpecialProjectReports/SP-report-2016-meysenburg-gamebook.pdf">Gamebook</a></bold></p>
+<p>Mark M. Meysenburg<br />
+Doane University<br /><a href="mailto:mark.meysenburg@doane.edu">mark.meysenburg@doane.edu</a><br />
+Award:  $3,000<br />
+Award date:  May, 2016</p>
+<p>Dr. Meysenburg will create a Reacting to the Past role-playing game, "The Dawn of Computing: Charles Babbage and the Difference Engine," regarding British polymath Charles Babbage and his quest to build his difference engine. The game can be used in general-audience first-year seminar courses, to encourage students to study computing.  Reacting to the Past games revolve around debate, with groups of students divided into factions aligned to different sides of the issue at hand.  The central issue at stake in “The Dawn of Computing: Charles Babbage and the Difference Engine” will be whether or not Babbage should be awarded funds from the British government for the development of the difference engine, first in 1823 and then in an ongoing manner. The outcome will be in the hands of the students.</p>
+<h3>A Tutoring System for Red Black Trees</h3>
+<p><bold>* <a href="../files/documents/pdfs/SpecialProjectReports/SP-report-2018-liew.pdf">Final project report</a></bold></p>
+<p>Chun Wai Liew<br />
+Lafayette College<br /><a href="mailto:liewc@lafayette.edu">liewc@lafayette.edu</a><br />
+Award:  $4,387<br />
+Award date:  May, 2016</p>
+<p>A web based tutoring system will be developed to help students learn top-down insertion and deletion algorithms in balanced trees, specifically in red-black trees.  The tutoring system will help students recognize the preconditions for single and double rotation transformations.  The system will allow instructors to provide problems and will automatically generate solution paths.</p>
+<h3>Inclusive Apps: Supporting Mobile Accessibility Standards through Educational Exercises</h3>
+<p><bold>* <a href="../files/documents/pdfs/SpecialProjectReports/SP-report-2017-elglaly.pdf">Final project report</a></bold></p>
+<p>Yasmine N. El-Glaly, <a href="mailto:ynevse@rit.edu">ynevse@rit.edu</a><br />
+Daniel E. Krutz, <a href="mailto:dxkvse@rit.edu">dxkvse@rit.edu</a><br />
+Rochester Institute of Technology<br />
+Award:  $3,800<br />
+Award date:  December, 2016</p>
+<p>Drs. El-Glaly and Krutz will create a publicly accessible oracle of mobile applications which will define problems relating to the accessibility of mobile applications for individuals with disabilities. The oracle will contain a library of well-defined accessibility problems, provide details about the accessibility issues, and demonstrate the difficulties experienced by users with different needs or who are differently abled. The oracle will outline steps to modify each application to make it accessible to users affected by the accessibility issue. The oracle will be available for use at other educational institutions to support software development and accessibility related courses.</p>
+<h3>What Exactly Are We Expecting Our Novice Programming Students to Achieve?</h3>
+<p><bold>* <a href="../files/documents/pdfs/SpecialProjectReports/SP-report-2016-becker.pdf">Final project report</a></bold></p>
+<p>Brett A. Becker<br />
+University College Dublin<br /><a href="mailto:brett.becker@ucd.ie">brett.becker@ucd.ie</a><br />
+Award:  $4,700<br />
+Award date:  December, 2016</p>
+<p>Dr. Brett Becker will collect, categorize and analyze the learning outcome statements of CS1 courses across a large, diverse set of institutions, providing an answer to the question: What exactly are we expecting our novice programming students to achieve? This will allow the CS education community to decide if, as recent evidence has suggested, we have unrealistic expectations of our CS1 students. The outputs of this research will provide a starting point for the CS education community to adjust its expectations of novice programmers, resulting in improvements in failure rates, retention, diversity and equity in CS education.  Upon completion of the project an online repository of CS1 learning outcomes will be available to, and updatable by, the CS education community.</p>
+<p><a href="#top">↑ Back to top</a></p>
+  
+

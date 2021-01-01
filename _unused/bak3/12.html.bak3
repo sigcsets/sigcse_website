@@ -1,0 +1,63 @@
+---
+title: Publications
+layout: page
+---
+                                <h1 class="page-title">Publications</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-12" class="node node-page node-full clearfix" about="/sigcse/resources/publications" typeof="foaf:Document">
+                      <span property="dc:title" content="Publications" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Each of the following publications are available free to SIGCSE members in the <a href="http://portal.acm.org/dl.cfm">ACM Digital Library</a>:</p>
+<ul><li>
+<em><a href="http://inroads.acm.org/">ACM Inroads</a></em> (2010 to present) quarterly magazine:
+</li>
+<ul><li>"Paving the Way Toward Excellence in Computing Education"</li>
+<li>The consistent high quality of <em>inroads</em> (see <em>SIGCSE Bulletin</em> below) led to the approval by the ACM Publications Board for SIGCSE to transition <em>inroads</em> to ACM magazine status beginning in 2010.
+</li>
+<li>SIGCSE sponsors <em>Inroads</em>, pays for it, produces it, and profits from it. It will include a “SIGCSE Corner” in each issue. A subscription is included as a member benefit. However, the ACM Publications Board “controls” <em>Inroads</em>, for example they appoint the editors.
+</li>
+</ul></ul><ul><li>
+<em><a href="../about/bulletin.html">SIGCSE Bulletin</a></em> (1969 to present) quarterly newsletter:
+</li>
+<ul><li>evolved from an informal gathering of news and ideas to a venue for columns, editor-reviewed articles, research announcements, editorials, etc.
+</li>
+<li>includes all <em>SIGCSE Symposium Proceedings</em> from 1970 (the 1st Symposium) through 2009 (the 40th Symposium)
+</li>
+<li>includes all <em>ITiCSE Conference Proceedings</em> and reviewed &amp; accepted Working Group reports from 1996 (the 1st Conference) through 2009 (the 19th Conference)
+</li>
+<li>adopted the tag name <em>inroads</em> between 1997 and 2009 during which time the name <em>inroads</em> is synonymous with <em>SIGCSE Bulletin</em>
+</li>
+<li>in 2010, with the inception of <em>ACM Inroads</em> magazine, reverts to being simply called the <em>Bulletin</em>, and is transformed into an electronic newsletter sent to all SIGCSE members providing communications about SIGCSE: announcing activities, publicizing events, and highlighting topics of interest
+</li>
+</ul></ul><ul><li>
+<em><a href="../events/symposia.html">SIGCSE Symposium</a> Proceedings</em> - 1970 to present
+</li>
+<ul><li>
+The SIGCSE Technical Symposium addresses problems common among educators working to develop, implement and/or evaluate computing programs, curricula, and courses.
+</li>
+<li>The Proceedings typically includes all papers plus summaries of panels, special sessions, workshops and posters.
+</li>
+</ul></ul><ul><li>
+<em><a href="../events/iticse.html">ITiCSE Conference</a> Proceedings</em> - 1996 to present
+</li>
+<ul><li>ITiCSE has been held annually in June in or around Europe since 1996. This conference brings together delegates from all over the world to address pressing issues in computing education.
+</li>
+<li>The Proceedings typically includes all papers plus summaries of panels, tips &amp; techniques, workshops, posters, and working group topics.
+</li>
+</ul></ul><ul><li>
+<em><a href="../events/icer.html">ICER Conference</a> Proceedings</em> - 2005 to present
+</li>
+<ul><li>The International Computing Education Research (ICER) Conference aims at gathering high-quality contributions to the computing education research discipline. It has been held annually since 2005 at sites around the world.
+</li>
+</ul></ul><ul><li>
+<em><a href="../events/compEd.html">CompEd Conference</a> Proceedings</em> - from 2019
+</li>
+<ul><li>ACM Global Computing Education Conference (CompEd) is SIGCSE’s new, fourth conference. This conference will be held starting in 2019 for initially three offerings and will run every other year. In general, the conference should run in countries where we do not regularly hold SIGCSE conferences, so not in North America or Europe.
+</li>
+</ul></ul>  
+

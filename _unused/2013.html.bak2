@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+<link rel="shortcut icon" href="../../../misc/favicon.ico.html" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width" />
+<link rel="canonical" href="2013.html" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="../../../node/68.html" />
+<title>SIGCSE Annual Report 2012/2013 | Special Interest Group on Computer Science Education</title>
+<style type="text/css" media="all">@import url("../../../modules/system/system.base-pxd8ud.css");
+@import url("../../../modules/system/system.menus-pxd8ud.css");
+@import url("../../../modules/system/system.messages-pxd8ud.css");
+@import url("../../../modules/system/system.theme-pxd8ud.css");
+</style>
+<style type="text/css" media="all">@import url("../../../modules/comment/comment-pxd8ud.css");
+@import url("../../../modules/field/theme/field-pxd8ud.css");
+@import url("../../../modules/node/node-pxd8ud.css");
+@import url("../../../modules/search/search-pxd8ud.css");
+@import url("../../../modules/user/user-pxd8ud.css");
+</style>
+<style type="text/css" media="all">@import url("../../../sites/all/themes/professional_theme/style-pxd8ud.css");
+</style>
+<script type="text/javascript" src="../../../misc/jquery-v=1.4.4.js"></script>
+<script type="text/javascript" src="../../../misc/jquery-extend-3.4.0-v=1.4.4.js"></script>
+<script type="text/javascript" src="../../../misc/jquery.once-v=1.2.js"></script>
+<script type="text/javascript" src="../../../misc/drupal-pxd8ud.js"></script>
+<script type="text/javascript" src="../../../sites/all/themes/professional_theme/js/custom-pxd8ud.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/sigcse\/","pathPrefix":"","ajaxPageState":{"theme":"professional_theme","theme_token":"kocMu3ztVMOIm4BOt4DCIjgszZkToj4CTxL5rrOILTE","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/professional_theme\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/themes\/professional_theme\/style.css":1}}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-68 node-type-page">
+    
+<div id="wrapper">
+  <header id="header" role="banner">
+    <div id="logo"><a href="../../../index.html" title="Home"><img src="../../../files/images/logo/051102-SIGCSE-logo-small-trans.gif"/></a></div>    <h1 id="site-title"><a href="../../../index.html" title="Home">Special Interest Group on Computer Science Education</a></h1>        <div class="clear"></div>
+          <nav id="main-menu"  role="navigation">
+        <a class="nav-toggle" href="#">Navigation</a>
+        <div class="menu-navigation-container">
+          <ul class="menu"><li class="first leaf"><a href="../../../index.html">Home</a></li>
+<li class="collapsed"><a href="../../../about.html">About</a></li>
+<li class="collapsed"><a href="../../../events.html" title="SIGCSE Events">Events</a></li>
+<li class="collapsed"><a href="../../../membership.html" title="Joining SIGCSE and membership benefits">Membership</a></li>
+<li class="collapsed"><a href="../../../programs.html" title="SIGCSE supported programs">Programs</a></li>
+<li class="collapsed"><a href="../../../policies.html" title="Policies and guidelines relating to SIGCSE activities">Policies</a></li>
+<li class="last collapsed"><a href="../../../resources.html">Resources</a></li>
+</ul>        </div>
+        <div class="clear"></div>
+      </nav>
+    <!-- end main-menu -->
+  </header>
+
+  <div id="container">
+    
+
+   
+    <div class="content-sidebar-wrap">
+
+    <div id="content">
+      <div id="breadcrumbs"><h2 class="element-invisible">You are here</h2><nav class="breadcrumb"><a href="../../../index.html">Home</a> » SIGCSE Annual Report 2012/2013</nav></div>      <section id="post-content" role="main">
+                                <h1 class="page-title">SIGCSE Annual Report 2012/2013</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-68" class="node node-page node-full clearfix" about="/sigcse/about/reports/chair/2013" typeof="foaf:Document">
+                      <span property="dc:title" content="SIGCSE Annual Report 2012/2013" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>SIGCSE Chair's Annual Report<br />
+2012-2013</p>
+<p>This report concludes my third and final year as SIGCSE Chair. </p>
+<p>1. Awards that were given out:</p>
+<p>SIGCSE Award for Lifetime Service to the Computer Science Education Community was presented to Henry Walker, Grinnell College.   </p>
+<p>SIGCSE Award for Outstanding Contribution to Computer Science Education was presented to Michael Kölling, University of Kent.</p>
+<p>2. Significant papers on new areas that were published in proceedings</p>
+<p>Best paper awards were given at two of our conferences:</p>
+<p>At ICER 2012, The Chairs' Award went to Colleen Lewis, Harvey Mudd College, for "The Importance of Students’ Attention to Program State: A Case Study of Debugging Behavior."</p>
+<p>At SIGCSE 2012, the Best Paper Award went to Leo Porter, Skidmore College, and Beth Simon, University of California, San Diego for "Retaining Nearly One-Third more Majors with a Trio of Instructional Best Practices in CS1." </p>
+<p>3. Significant programs that provided a springboard for further technical efforts</p>
+<p>SIGCSE continues as a Society Partner in Project Kaleidoscope's SISL in STEM initiative (<a href="http://www.aacu.org/pkal/disciplinarysocietypartnerships/sisl/index.cfm">http://www.aacu.org/pkal/disciplinarysocietypartnerships/sisl/index.cfm</a>). A SIGCSE representative has been present during several conference calls and SIGCSE has a member on 5 of the 6 working committees.</p>
+<p>4.Innovative programs which provide service to some part of your technical community</p>
+<p>The Special Projects grant program, which makes small grants for projects beneficial to SIGCSE members, has been seen an increase in submissions this year:</p>
+<p>               May 2012: 15 proposals, 3 funded, $13360<br />
+               November 2012: 20 proposals, 3 funded, $14000<br />
+               May 2013 round: 12 proposals, 1 funded, $5000</p>
+<p>SIGCSE continues to work closely with the Computer Science Teachers Association (CSTA) and provides CSTA meeting space at the annual SIGCSE technical symposium.</p>
+<p>The SIGCSE technical symposium provides meeting space and access to AV and food for numerous pre-symposium events. At SIGCSE 2013, pre-symposium events included a CSAB workshop, a SIGCAS meeting, a CRA women mentoring workshop, as well as workshops on Git &amp; GitHub, GENI, computational thinking through music, computing ethics, and preparing students to participate in free open-source software. </p>
+<p>Thirty-six professional development workshops were offered during the SIGCSE technical symposium. </p>
+<p>----<br />
+5. Events or programs that broadened participation either geographically, or among under-represented members of your community;</p>
+<p>In order to increase the likelihood of international membership on the 2013-16 board, the nominating committee focused on identifying an international pool of qualified candidates. The recently elected board includes 2 Australasians and 6 Americans. (The 2010-13 board consisted of 8 Americans.)</p>
+<p>Through a donation from former SIGCSE Chair, Henry Walker, a travel grant program was established to support young faculty to attend SIGCSE conferences.</p>
+<p>Two SIGCSE board members are participating on the SIG Governing Board Full Inclusion committee.</p>
+<p>Finally, SIGCSE supports and promotes efforts aimed at increasing inclusion and educating the population about computing such as CS Ed Week, the College Board's pilot program for Advanced Placement courses in Computer Science Principles, and other national and international movements that promote computer science, such as code.org.<br />
+----</p>
+<p>6. A very brief summary for the key issues that the membership of that SIG will have to deal with in the next 2-3 years.</p>
+<p>Internationalization is expected to continue to be a major focus of SIGCSE.</p>
+<p>The ballot of candidates for the new board included SIGCSE members from the U.S., Europe, Australasia and South America. The recently elected board includes two members from Australasia.</p>
+<p>SIGCSE continues to investigate how it can engage educators from around the world. SIGCSE representatives are working with Informatics Europe representatives to discuss the possible formation of a new SIGCSE-like education conference in Europe. The ICER conference already moves from the US to Europe to Australasia on a rotating 3-year basis. The ITiCSE conference has historically been held in or around Europe, including Haifa, Israel (2012) and Canterbury, UK (2013). Upcoming ITiCSE conferences will be held in Uppsala, Sweden (2014), Vilnius, Lithuania (2015) and Arequipa, Peru (2016).  </p>
+<p>SIGCSE has chapters around the world including Australia, Spain and Turkey. Discussions concerning new chapters in Europe, India and China are underway. Managing this growth and providing an equitable voice for these regions is a key issue for SIGCSE. </p>
+</div></div></div>  </div>
+

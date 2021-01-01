@@ -1,0 +1,65 @@
+---
+title: SIGCSE Committees
+layout: page
+---
+                                <h1 class="page-title">SIGCSE Committees</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-37" class="node node-page node-full clearfix" about="/sigcse/programs/committees" typeof="foaf:Document">
+                      <span property="dc:title" content="SIGCSE Committees" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Updated: November 14, 2017<br />
+Revise: November 2, 2018</p>
+<p>The SIGCSE Committee initiative, established in 2001, encourages SIGCSE members to participate in substantive discussions on areas of community interest, with the goals of investigating topics in depth and culminating with substantive reports. The first SIGCSE Committee was appointed in 2003 and produced a report (including examples, laboratories materials, and homework exercises).</p>
+<p>To form a SIGCSE Committee, a proposal is sent to the SIGCSE Board for approval. See further information on <a href="committees/create.html">creating and managing a committee</a>. </p>
+<p>SIGCSE currently has four live committees:</p>
+<ol><li><strong>Committee on Computing Education in Liberal Arts Colleges</strong>
+<ul><li>Established: 2016 </li>
+<li>Facilitators: Doug Baldwin, SUNY Geneseo, Alyce Brady, Kalamazoo College, Andrea Lawrence, Spelman College, Henry Walker, Grinnell College </li>
+<li><a href="committees/liberal.html">Stated Goals/Focus of the Committee</a> </li>
+<p>An updated charter for this Committee is available at: <a href="../files/documents/pdfs/SIGCSECommitteeReports/Liberal%20Arts%20Computing%20Education%20Committee%20Charter%202019.pdf"> here. </a></p>
+<li>Computing programs in liberal arts colleges face two obvious needs. First, someone needs to speak for the liberal arts computing community in larger discussions of computing education. The need is being recognized - for example, the CS2013 committee deliberately recruited members from liberal arts colleges - but no current organization can be considered truly representative of today's liberal arts computing community. Second, faculty in liberal arts computing programs need a network for sharing ideas with similarly situated colleagues.  This SIGCSE committee will investigate how widespread these two needs are, identify other needs related to liberal arts computing programs, and propose ways of addressing - for the whole community - any needs it identifies. </li>
+<li>The committee conducted a Special Session and a couple of BoFs at SIGCSE 2017 to report on interim results (mainly a survey of the state of computing programs at liberal arts colleges) and to solicit feedback from the community. Notes from the special session are available<br /><a href="https://docs.google.com/document/d/1BIvw0w7vryA1qA-TwJ1TK_fWjDHH7H7H6LyXVPObKhc">here</a>.  
+<p>A preliminary report from this committee is published <a href="../files/documents/pdfs/SIGCSECommitteeReports/CommitteeReport_LiberalArts.pdf"> here. </a> </p></li>
+</ul></li><li><strong>Committee on Evidence-based Instructional Practices</strong>
+<ul><li>Established: January 2016 </li>
+<li>Facilitators: Scott Grissom, Grand Valley State University and Laurie Murphy, Pacific Lutheran University </li>
+<li>Stated Goals of the Committee
+<ul><li>The initial goal is to conduct a national survey to identify instructional practices of CS faculty in higher education.  In particular, the survey will help identify the use of evidence-based practices.  The survey will allow us to accomplish three important objectives: 1) Provide a baseline of instructional practices used in CS higher education, 2) Compare CS instructional practices with other STEM disciplines and 3) Inform efforts to reform CS education by increasing the adoption of evidence-based instructional practices.
+</li></ul></li><li>Preliminary results have been published, "Exposed! CS Faculty Caught Lecturing in Public: A Survey of Instructional Practices,” Scott Grissom, Sue Fitzgerald, Renée McCauley, Laurie Murphy, March 2017 SIGCSE '17: Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education.<br />
+Expanded results have been submitted for publication. </li>
+</ul></li><li><strong>Committee on Music and Computer Science</strong>
+<ul><li>Established: 2011 </li>
+<li>Facilitators: Robert Beck, Villanova University, and more </li>
+<li> Stated Goals/Focus of the Committee:
+<ul><li>The overarching goal of the committee’s work is to explore the synergy between music and computer science. </li>
+<li>Specific goals include:
+<ul><li>Producing courses or modules for courses that use music/sound as a vehicle for teaching computing concepts. </li>
+<li>Creating an ontology of computing and music.  </li>
+<li>Examining how music and sound can be intertwined with the teaching of computer science concepts and developing a mapping between concepts in music and similar concepts in computing:
+<ul><li>Composition is like design/compile time; performance is like run time </li>
+<li>Rhythms are control flow </li>
+<li>Notes are variable values </li>
+<li>A musical ensemble is represented by multiple threads or networked computers </li>
+</ul></li></ul></li></ul></li></ul></li><li> <strong>Committee on Expanding the Women-in-Computing Community</strong>
+<ul><li> Established: February 2004 </li>
+<li> Facilitators: Gloria Childress Townsend, DePauw University and Paula Gabbert, Furman University
+</li>
+<li> <a href="committees/women.html">Charter Approved in 2004</a> </li>
+<li> While providing a forum for all SIGCSE members who seek to broaden participation in computing, the committee also seeks to build community for annual SIGCSE Conference attendees.  The committee organizers offered a birds-of-a-feather session continuously from 2005-2017, where members of the Women-in-Computing community gather to share best practices and information about hopeful new projects.  Representatives of ACM-W, NCWIT, CRA-W/CDC, and ABI typically give project updates and hand out literature.</li>
+</ul><h3>Previous Committees</h3>
+<p><strong>Committee on the Implementation of a Discrete Mathematics Course</strong> </p>
+<ul><li> Established: June 2003</li>
+<li> Facilitators:  William Marion, Valparaiso University and Douglas Baldwin, SUNY at Geneseo</li>
+<li> <a href="../files/documents/pdfs/AnnualReports/DiscreteMathReport.pdf">Committee Charge, Report and Collected Resources</a> </li>
+</ul><p><strong>Committee on Teaching Computer Science Research Methods</strong></p>
+<ul><li>Established: March 2005</li>
+<li> Facilitators:  Hilary Holz, California State University, East Bay and Anne Applin, Ithaca College</li>
+<li> <a href="committees/research.html">Stated Goals/Focus of the Committee</a></li>
+<li>This committee evolved into a series of two ITiCSE Working Groups (<a href="http://www.iticse06.cs.unibo.it/wg.html#wg1">ITiCSE 2006 Working Group</a> and ITiCSE 2007 Working Group).</li>
+</ul></li></ol>  
+

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+<link rel="shortcut icon" href="../../../misc/favicon.ico.html" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width" />
+<link rel="canonical" href="2008.html" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="../../../node/73.html" />
+<title>SIGCSE Annual Report 2008 | Special Interest Group on Computer Science Education</title>
+<style type="text/css" media="all">@import url("../../../modules/system/system.base-pxd8ud.css");
+@import url("../../../modules/system/system.menus-pxd8ud.css");
+@import url("../../../modules/system/system.messages-pxd8ud.css");
+@import url("../../../modules/system/system.theme-pxd8ud.css");
+</style>
+<style type="text/css" media="all">@import url("../../../modules/comment/comment-pxd8ud.css");
+@import url("../../../modules/field/theme/field-pxd8ud.css");
+@import url("../../../modules/node/node-pxd8ud.css");
+@import url("../../../modules/search/search-pxd8ud.css");
+@import url("../../../modules/user/user-pxd8ud.css");
+</style>
+<style type="text/css" media="all">@import url("../../../sites/all/themes/professional_theme/style-pxd8ud.css");
+</style>
+<script type="text/javascript" src="../../../misc/jquery-v=1.4.4.js"></script>
+<script type="text/javascript" src="../../../misc/jquery-extend-3.4.0-v=1.4.4.js"></script>
+<script type="text/javascript" src="../../../misc/jquery.once-v=1.2.js"></script>
+<script type="text/javascript" src="../../../misc/drupal-pxd8ud.js"></script>
+<script type="text/javascript" src="../../../sites/all/themes/professional_theme/js/custom-pxd8ud.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/sigcse\/","pathPrefix":"","ajaxPageState":{"theme":"professional_theme","theme_token":"6lvo81TfiDaRPDk6X1JdOL8gi8u-OjCRvyUBbpR-LiQ","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/professional_theme\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/themes\/professional_theme\/style.css":1}}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-73 node-type-page">
+    
+<div id="wrapper">
+  <header id="header" role="banner">
+    <div id="logo"><a href="../../../index.html" title="Home"><img src="../../../files/images/logo/051102-SIGCSE-logo-small-trans.gif"/></a></div>    <h1 id="site-title"><a href="../../../index.html" title="Home">Special Interest Group on Computer Science Education</a></h1>        <div class="clear"></div>
+          <nav id="main-menu"  role="navigation">
+        <a class="nav-toggle" href="#">Navigation</a>
+        <div class="menu-navigation-container">
+          <ul class="menu"><li class="first leaf"><a href="../../../index.html">Home</a></li>
+<li class="collapsed"><a href="../../../about.html">About</a></li>
+<li class="collapsed"><a href="../../../events.html" title="SIGCSE Events">Events</a></li>
+<li class="collapsed"><a href="../../../membership.html" title="Joining SIGCSE and membership benefits">Membership</a></li>
+<li class="collapsed"><a href="../../../programs.html" title="SIGCSE supported programs">Programs</a></li>
+<li class="collapsed"><a href="../../../policies.html" title="Policies and guidelines relating to SIGCSE activities">Policies</a></li>
+<li class="last collapsed"><a href="../../../resources.html">Resources</a></li>
+</ul>        </div>
+        <div class="clear"></div>
+      </nav>
+    <!-- end main-menu -->
+  </header>
+
+  <div id="container">
+    
+
+   
+    <div class="content-sidebar-wrap">
+
+    <div id="content">
+      <div id="breadcrumbs"><h2 class="element-invisible">You are here</h2><nav class="breadcrumb"><a href="../../../index.html">Home</a> » SIGCSE Annual Report 2008</nav></div>      <section id="post-content" role="main">
+                                <h1 class="page-title">SIGCSE Annual Report 2008</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-73" class="node node-page node-full clearfix" about="/sigcse/about/reports/chair/2008" typeof="foaf:Document">
+                      <span property="dc:title" content="SIGCSE Annual Report 2008" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>July 2007 - June 2008<br />
+Submitted by: Barbara Boucher Owens, SIGCSE Chair</p>
+<p><strong>SIGCSE Executive Board</strong></p>
+<table><tbody><tr><td valign="top"><strong>Chair</strong><br />
+Barbara Boucher Owens
+<p><strong>Vice-Chair</strong><br />
+Alison Young</p>
+<p><strong>Secretary</strong><br />
+Daniel Joyce</p>
+<p><strong>Treasurer</strong><br />
+Renée McCauley
+</p></td>
+<td valign="top"><strong>Board Members</strong><br />
+Doug Baldwin<br />
+Wanda Dann<br />
+Ingrid Russell
+<p><strong>Editor-in-Chief</strong><br />
+John Impagliazzo (Board Participant)</p>
+<p><strong>Past Chair</strong><br />
+Henry M. Walker
+</p></td>
+</tr></tbody></table><p> Many, many thanks to all members of the previous Board whose excellent work made my first year easier.</p>
+<p><strong>Membership</strong><br />
+Historically, SIGCSE has had a very loyal membership. Recent initiatives to attract more members seem to be connecting well with many in the computing community. At the end of the 2008 fiscal year (the last year for which we have complete data), SIGCSE had 2671 members, an increase of 85 members over the previous year, with strong gains in both professional and affiliate members against a 50 member decrease in subscriber only category. Approximately 54% of the one-year members have renewed, but 84% of those who had been members for at least 2 years have renewed, showing a loyal membership. However, we are not resting on our laurels. The membership committee of the Board is looking at ways to (1) increase membership, (2) improve communication with members, particularly new ones, and (3) improve publicity and visibility of SIGCSE.</p>
+<p><strong>Awards</strong><br />
+Each year, SIGCSE gives awards to those who have been particularly helpful to the computer-science-education community. SIGCSE gives two awards annually, both officially at the Technical Symposium which was held in March in Portland, Oregon. The Outstanding Educator award was given to Randy Pausch, who due to illness was unable to give the opening address. That talk was delivered jointly by Dennis Cosgrove and Wanda Dann of the Carnegie Mellon Alice team. The SIGCSE Award for Lifetime Service was presented to Dennis Frailey.</p>
+<p><strong>Conference Highlights</strong><br />
+In 2007-2008, SIGCSE sponsored 3 main conferences: the Technical Symposium, the summer ITiCSE conference and the September/October the ICER research workshop. The SIGCSE Technical Symposium and the Digital Library revenues continue to generate additional revenue to support our many endeavors.</p>
+<p>Our homegrown online submission and reviewing system for the technical symposia has streamlined the process and allowed reviewing to involve all interested SIGCSE members. Most papers for the Symposium and ITiCSE are now sent to six reviewers, giving significant input to Program Committees, and both submitters and reviewers can view the reviews of their papers after acceptance decisions are made. With over 1000 reviewers in the SIGCSE conference databases, some variation among reviews can be expected, and conference leadership and the SIGCSE Board are exploring how to best utilize reviewers and promote consistency.</p>
+<p>A subcommittee of the SIGCSE Board spent much of July through October 2007 considering refinements to the reviewing process and much of their work was incorporated into the process for both the 2008 and now the 2009 Technical Symposium process as well as that for ITiCSE. There is much work to be done in this arena, and the Board is considering more intensive revisions as well as the possibility of utilizing outside software such as Easy Chair.</p>
+<p>SIGCSE 2008 was remarkably successful, with very strong attendance and a healthy surplus to support other SIGCSE programs (without raising conference fees). This year's Co-Chairs, John Dougherty (Haverford College) and Susan Rodger (Duke University) were incredible. John began a very effective blog about the conference and issues surrounding computing education. .This led to the broader consideration of using a blog for discussion of the management of SIGCSE in general. Susan was particularly effective in working with all personnel surrounding the conference, from the Board to the vendors. Our first ever Kids? Camp at the Symposium blended a childcare service with efforts to engage the next generation with computing. Children attending the camp wrote programs in both Scratch, the new graphical, multimedia language from MIT as well as in Alice.</p>
+<p>Special thanks are due the 2008 Program Committee, led by Program co-chairs Sue Fitzgerald and Mark Guzdial who will be chairs of the 2009 Technical Symposium in Chattanooga. Additional keynote speakers at the conference were Marissa Mayer of Google who excited the audience with the potential for development of new applications and Ed Lazowska of the University of Washington who talked about the past, present and future of computing and emphasized that we must "identify the challenges that will shape the intellectual future of the field, challenges that will catalyze research investment and public support and those that will attract the best and brightest minds of a new generation."</p>
+<p>SIGCSE's 2008 summer conference on Innovation and Technology in Computer Science Education was held in Madrid. This conference's attendance met or exceeded previous records (final numbers are pending); these numbers were incredible in spite of a falling dollar and increased expenses. Fine, daily, keynotes were given by Wendy Hall (Southampton University) who emphasized the interdisciplinary nature of a web permeated world and its impact on education, just days before she assumed the presidency of the ACM, by Philip D. Long of MIT and Roger Boyle of Leeds., Wonderful conference leadership came from Conference Co-Chairs Cary Laxer (Rose-Hulman) and June Amillo (Universidad Politecnica Madrid). June was especially effective in recruiting a top-notch team of local folks whose flexibility and creativity made the conference run smoothly.</p>
+<p>The relatively new International Computing Education Conference (ICER) began through the vision and guidance of Richard Anderson, Sally Fincher, and Mark Guzdial. New leadership has begun for ICER conferences starting in 2008, and work is underway to help the transition from one leadership team to the next. The 2007 conference held in Atlanta at Georgia Tech was an outstanding success. The team had budgeted for a conference attendance of 36 and was thrilled with attendance double that. In addition a NSF funded workshop on statistics use in research was held in conjunction with ICER. The new leadership ?triumvirate? comprised of Ray Lister (University of Sydney), Michael Clancy (UC Berkeley) and Michael Casperson (University of Aarhus) reflects the Board?s decision to alternate the conference between the US and non-US venues. The 2008 ICER workshop will be in Sydney, Australia. The number of papers submitted was double that in previous years and this conference will have two co-located events, the second 2008 doctoral consortium and the BRACElet research group workshop to study novice programmers. The former will be held the day before ICER and the latter the two days following.</p>
+<p>Behind the scenes, Bob Beck (Villanova University) and Scott Grissom (Grand Valley State University) have continued outstanding service as Symposium Site Coordinators; and Mats Daniels (Uppsala University) continues fine work as ITiCSE Site Coordinator -- with the help of Bruce Klein from Grand Valley State University. Michael Goldweber will be joining the ITiCSE Site Coordination effort as understudy for Bruce Klein.</p>
+<p>Conference leadership has been procured through 2011, with the 2010 Symposium set for Milwaukee under the leadership of Steve Wolfman (University of British Columbia) and Gary Lewandowski (Xavier University, Cincinnati); and the 2011 Symposium heading to Dallas under the leadership of Ellen Walker (Hiram College) and Tom Cortina (Carnegie Mellon).</p>
+<p>ITiCSE 2009 is set for Paris under the leadership of a relative newcomer to the SIGCSE community, Patrick Br?zillon (University of Paris 6) ably assisted by his colleague Jean-Marc Labat and his co-chair, SIGCSE Board member and past SIGCSE Symposium chair, Ingrid Russell. ITiCSE 2010 is set for Ankara, Turkey, the first ITiCSE conference beyond Europe. Reyyan Ayfer and John Impagliazzo are the conference co-chairs. We have at least four proposals in various states of development for future ITiCSEs, so all goes well.</p>
+<p>One major concern within the confines of a fluctuating dollar is the pricing of the non-US conferences. The SIGCSE leadership is working with our registration team and ACM to procure pricing in the local currency.</p>
+<p><strong>Publications</strong><br />
+John Impagliazzo became Editor-in-Chief of the SIGCSE Bulletin in 1997. At that time, the Bulletin followed a traditional format, each issue had solid articles, and editors established an impressive record of meeting deadlines year after year. Over the past decade, John has brought several significant innovations to SIGCSE's publications. Early on, John suggested and the SIGCSE Board endorsed renaming our publication to inroads. John also added guest editorials, a wonderful range of columns, special articles, and a host of innovations, in addition to the traditional submitted articles. The consistent high quality of inroads is the main reason that SIGCSE has begun the transition of inroads to ACM magazine status and the unbundling of the conference proceedings from inroads. Currently inroads is classified as a newsletter, but this in no way reflects the scholarly work that appears in it. John Impagliazzo and a Board-appointed committee are hard at work setting up a set of associate and assistant content editors as part of this process.</p>
+<p>SIGCSE has also been hard at work establishing criteria for the nomination of its best papers for inclusion in the newly revamped CACM. Having two of those nominations accepted by into the pipeline was a real coup for us!</p>
+<p><strong>Additional Activities</strong><br />
+Through the past six years, the Board has sought to continue, regularize, and/or expand programs, as SIGCSE tries to support a full range of interests within the field of computing education. Our healthy surplus has allowed us to fund many important endeavors and our strong volunteer base has allowed for participation in many volunteer supported efforts.</p>
+<p>Details for many of these projects may be obtained at <a href="http://www.sigcse.org">www.sigcse.org</a></p>
+<p><strong>Outreach:</strong> SIGCSE has provided funds for presenters from SIGCSE conferences to lead similar sessions at regional conferences. Although few conferences have taken advantage of this offer, SIGCSE is still strongly committed to this.</p>
+<p><strong>Doctoral Consortium:</strong> Since 1998, SIGCSE has sponsored a Doctoral Consortium with three main goals:</p>
+<ul><li>"To offer a friendly forum for students to discuss their work and receive constructive feedback", </li>
+<li>"To offer relevant information on issues important to doctoral candidates", and </li>
+<li>"To nurture a community of researchers." </li>
+</ul><p>This annual event has been held the Wednesday before SIGCSE symposia and has continued SIGCSE financial support. Capable leadership came from Josh Tenenberg (University of Washington at Tacoma) and Donald Joyce (Unitec New Zealand).</p>
+<p>Since the Doctoral Consortium focuses on research issues, we will begin holding the Doctoral Consortium in conjunction with the ICER conference. To allow a smooth transition, the Doctoral Consortium met at its usual time in March 2008, just before SIGCSE 2008. Then, beginning in September 2008 and subsequent years, the Doctoral Consortium will meet in conjunction with the ICER conferences. This should also afford more easy access to students from outside the United States.</p>
+<p><strong>Workshop for Department Chairs:</strong> SIGCSE held its third annual Roundtable for Department Chairs at SIGCSE 2008, under the capable guidance of Frank Young (emeritus Rose-Hulman Institute of Technology), Sandra DeLoatch (Norfolk State University), Dianne Martin (George Washington University) and Joyce Currie Little (Towson University).</p>
+<p>The focus of the 2007 and 2008 workshops expanded from new department chairs to issues of interest to all chairs. Evaluations indicate this event was quite successful; SIGCSE expects these events to continue annually in the future.</p>
+<p><strong>Special Projects:</strong> SIGCSE has funding available ?to support members who wish to investigate and introduce new ideas in the learning and teaching of computing." Grants are possible up to $5,000 USD per proposal, and successful recipients are expected to present their results at a SIGCSE conference.</p>
+<p><strong>SIGCSE Committees: </strong>The SIGCSE Committee Initiative was created in 2001-2002 to encourage "all SIGCSE members to participate in substantive discussions on areas of community interest, with the goals of investigating topics in depth and culminating with substantive reports." Three committees are active ?women in computing, research methods and faculty evaluation. The committee on discrete math completed its work, publishing its final report in inroads and a collection of teaching materials on the SIGCSE web site. The effectiveness of this structure will have on-going review by the Board.</p>
+<p><strong>Web Site/Internet Presence: </strong>Scott Grissom (Grand Valley State University) continues to monitor and update the SIGCSE Web site at <a href="http://www.sigcse.org">www.sigcse.org</a>. Also, Frank Young (Rose-Hulman Institute of Technology) and William Turner (Wabash College) served ably as Information Directors, working to improved electronic communications between SIGCSE members. A concerted effort was begun this year to adopt the look-feel of the ACM web presence and utilize Plone to continue the update process. Samuel Mann of Otago Tech in New Zealand is championing this endeavor beginning with a course project with his students at Otago. Scott Grissom Grissom will continue his usual fantastic job of keeping the website updated while the redesign effort is underway.</p>
+<p><strong>Local Chapters:</strong> Several groups have indicated an interest in organizing as local SIGCSE Chapters, and the Board has provided an appropriate framework. In 2008 SIGCSE approved an Australasian SIGCSE chapter and a chapter in Spain.</p>
+<p><strong>Collaborative Efforts</strong><br />
+Even with its expanded role in supporting computing education at all levels, SIGCSE also celebrates that various groups have emerged to focus on specific areas.</p>
+<p>Since ACM launched the Computer Science Teachers Association (CSTA) in 2005 with a focus on K-12 computing education, SIGCSE and CSTA have worked to collaborate on areas of common interest. In 2007-2008 CSTA and SIGCSE successfully applied for an NSF Planning grant to hold a workshop to define best practices for ?Roadshows? to take the word about the benefits of studying computer science into the high schools.</p>
+<p>In cooperation conferences and venues. SIGCSE has granted in-cooperation status to a variety of efforts. We have a lot of in cooperation conferences including the Australasian Computing Education Conference, the New Zealand NACCQ Conference, the Scandinavian Koli Calling Conference, the Game Development in Computer Science Education Conference, and all of the Consortium for Computing Sciences in Colleges (CCSC) regional conferences, for example</p>
+<p><strong>Summary and Conclusion</strong><br />
+As this review of activities and events indicates, SIGCSE is a vibrant and expanding organization through the activities of hundreds of people. Many, many thanks to each SIGCSE member for your many contributions that make SIGCSE so successful.</p>
+<p>Barbara Boucher Owens 2007-2010 SIGCSE Chair </p>
+</div></div></div>  </div>
+

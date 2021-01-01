@@ -1,0 +1,21 @@
+---
+title: Reports
+layout: page
+---
+                                <h1 class="page-title">Reports</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-5" class="node node-page node-full clearfix" about="/sigcse/about/reports" typeof="foaf:Document">
+                      <span property="dc:title" content="Reports" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><ul><li><a href="reports/chairs.html">Chair's Reports</a> - Annual reports of the SIGCSE Chair</li>
+<li><a href="reports/board.html">Board Minutes</a> - Minutes of the semi-annual board meeting and occasional conference calls</li>
+<li><a href="report/business.html">Business Meeting Minutes</a> - Minutes of the Annual Business Meeting held at the SIGCSE Technical Symposium</li>
+<li><a href="reports/treasurer.html">Treasurer's Reports</a> - Annual summary reports from the SIGCSE Treasurer</li>
+<li><a href="report/committee.html">Committee Reports</a> - Reports from SIGCSE committees</li>
+</ul>  
+

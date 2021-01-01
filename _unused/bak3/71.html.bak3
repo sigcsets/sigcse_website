@@ -1,0 +1,70 @@
+---
+title: SIGCSE Annual Report 2009/2010
+layout: page
+---
+                                <h1 class="page-title">SIGCSE Annual Report 2009/2010</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-71" class="node node-page node-full clearfix" about="/sigcse/about/reports/chair/2010" typeof="foaf:Document">
+                      <span property="dc:title" content="SIGCSE Annual Report 2009/2010" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>SIGCSE 2009-2010 Annual Chair’s Report<br />
+Barbara Boucher Owens</strong></p>
+<p>ACM assigns the responsibility for each SIG’s Annual Chair’s Report to the immediate past chair when a new Chair has just assumed the office.  Renée McCauley as the new chair has only to read this one!</p>
+<p>First of all, let me express my deepest appreciation to the 2007-2010 SIGCSE Board.  Each and every one of the members performed with exceptional energy, skill and thoughtfulness.  The members of that Board were the Executive Committee consisting of Vice-Chair Alison Young (Christchurch Polytechnic Institute of Technology, New Zealand), Secretary Dan Joyce (Villanova University), Treasurer Renée McCauley (College of Charleston), and Immediate Past Chair Henry Walker (Grinnell College). The At-Large Members were Doug Baldwin (SUNY Geneseo), Wanda Dann (Carnegie Mellon) and Ingrid Russell (University of Hartford). Without their energy, and the countless hours they and other volunteers have given to the organization none of the work would have been possible.</p>
+<p>Unlike my previous Chair’s Reports, this is a three-part report.  Part I consists largely of a lengthy excerpt from my report on the Viability Study published in the June 2010 SIGCSE Bulletin. Part II resembles a standard Chair’s Report and looks at the highlights of 2009-2010. Part III addresses the challenges faced by the 2010-2013 SIGCSE Board as I see them.</p>
+<p><strong>Part I – SIGCSE Viability</strong></p>
+<p>Each SIG must undergo a Viability Study every four years, and the SGB (SIG Governing Board which is comprised of the chairs of each ACM Special Interest Group) votes on whether to deem the SIG viable for the next four years.  This was the year for SIGCSE to be assessed and we are now assessed as viable until the next review in 2014.</p>
+<p>The SGB asked each SIG to reflect on its goals and how well the SIG met those goals.</p>
+<p>Begin quote: “What did I say?</p>
+<p>Let me first point out that the downturn in the economy did affect SIGCSE.  Our financial report wasn’t as rosy as the one Henry gave in 2006.  But listening to the reports of other SIGs and reflecting on all that SIGCSE does we are a very healthy SIG and we have much to be proud of.</p>
+<p><strong>SLIDE 1:  FINANCES</strong>  SIGCSE has a basically healthy $470,000 fund balance that is comfortably better than the minimum required by ACM.  However, it was down almost $50,000 from the year before.</p>
+<p>Some of the specific reasons for our shortfall were due to quirks in accounting and the timing of when income and expenses from conferences were posted. SIGCSE incurred one-time large production costs by moving from its old Bulletin, inroads, to the new high quality ACM magazine, Inroads. The electronic version of the newsletter as the Bulletin, and the shorted page count of the new magazine with electronic conference proceedings will reduce our mailing costs in the future.   A third area contributing to the decrease in our fund balance was the expense of volunteer travel.  SIGCSE’s growing international presence will make this a continuing need.</p>
+<p><strong>SLIDE 2:  MEMBER BENEFITS</strong> Briefly tons of them!<br />
+We have 2600 members who receive the proceedings of our 3 annual conferences on CD.  Those conferences are the 1200-attendee US hosted Symposium, the ~200 attendee non-US ITiCSE Conference and the     ~50 attendee research conference (ICER workshop)</p>
+<p>Through 2009, we had a quarterly newsletter (which included 1 issue Symposium proceedings, 3 magazine style including columns, edited articles, etc. and peer reviewed papers from ITiCSE working groups)  SIGCSE received income from the ACM digital library based on the number of its articles that were accessed.  In 2009 SIGCSE received $56,000 income from the DL.  SIGCSE members are eligible to apply for small research grants in learning and teaching.  Our able volunteers oversee our very active member list servs – e.g. members.sigcse.org has 1200 members who have opted in for discussions on all aspects of CS Ed</p>
+<p><strong>SLIDES 3-5: GOALS</strong> Our mission states that SIGCSE is a “forum for educators to discuss issues related to the development, implementation, and/or evaluation of computing programs, curricula, and courses, as well as syllabi, laboratories, and other elements of teaching and pedagogy."</p>
+<p>We believe that SIGCSE continues to be perceived as the premier organization for computing education.  SIGCSE primarily serves post-secondary Computer Science teaching faculty and Computer Science education research faculty with many of its activities focused on making CS1 and CS2 effective.  SIGCSE secondarily serves pre-college faculty through our relationship with the Computer Science Teachers Association, CSTA and with other post-secondary teaching faculty in related computing disciplines</p>
+<p>SIGCSE has a goal to extend the reach and influence of Computing Education.  A majority of the members on ACM Education committees are or have been SIGCSE officers or large conference leadership.  SIGCSE also aims to extend its influence beyond US Computer Science through international conferences including ITiCSE and the ICER workshop which alternated being held abroad with the US. SIGCSE received an NSF grant in conjunction with CSTA.</p>
+<p>SIGCSE holds in cooperation status with many conferences, in the US and internationally including the CCSC conferences, the Australasian, New Zealand, Koli Calling, AAAI.<br />
+SIGCSE funds SIGCSE presenters to take conference presentations to regional conferences, especially CCSC. SIGCSE was and continues to be a major player in the NSF funded Computing Education Summit. There continues to be a Broadening Participation in Computing thread at SIGCSE Conferences, with the goal to increase interest in computing.  Some of those activities include a Kids Camp at Symposium, and a Doctoral Symposium.  Our members have leadership roles in NCWIT, NSF BPC projects, CPATH</p>
+<p>SIGCSE provides continuing education members at Symposia where the number of workshops continues to grow, with 39 offered in 2010.  SIGCSE also sponsors workshops for both new faculty and for department chairs.</p>
+<p><strong>Bottom line</strong> SIGCSE is not only viable, it is vibrant.”  </p>
+<p>End quote SIGCSE Bulletin, Vol.42, issue 2, p.4.</p>
+<p><strong>Part II – 2009-2010 Highlights</strong></p>
+<p>Awards<br />
+========<br />
+Each year SIGCSE gives awards to those who have been particularly helpful to the computer-science-education community.  SIGCSE gave two awards this year, both officially at the Technical Symposium which was in March, 2010.  Sally Fincher, University of Kent at Canterbury, UK, received the Outstanding Contribution award and gave the opening keynote address. The SIGCSE Award for Lifetime Service was presented to Peter Denning, Naval Postgraduate School, who addressed partakers of the first-timers luncheon.</p>
+<p>Conference Highlights<br />
+=========</p>
+<p>In 2009-2010, SIGCSE sponsored three main conferences: the Technical Symposium, the summer (Northern Hemisphere) ITiCSE conference and the research conference known as the ICER workshop.  The SIGCSE Technical Symposium and the Digital Library revenues continue to generate additional revenue to support our many endeavors.</p>
+<p>SIGCSE 2010 in Milwaukee was remarkably successful, with very strong attendance in spite of a struggling world economy.  This year’s Co-Chairs, Gary Lewandowski (University of Cincinnati) and Steve Wolfman (University of British Columbia) were incredible.  Special thanks are due the 2010 Program Committee, led by Program co-chairs Tom Cortina and Ellen Walker who will be chairs of the 2011 Technical Symposium in Dallas, Texas.  Additional keynote speakers at the conference were Nobel Laureate Carl Wieman and Michael Wrinn of Intel’s Intel's Innovative Software Education Team.</p>
+<p>    ICER 2009<br />
+    ========<br />
+The International Computing Education Conference (ICER) 2009 conference was at UC Berkeley, hosted by Mike Clancy with strong attendance.  The number of participants in the co-located doctoral consortium was down significantly. We will watch the 2010 conferences in Aarhus, Denmark, carefully and reflect upon the advisability of the co-location of the DC with ICER rather than the Symposium.</p>
+<p>ITiCSE 2010 was held in Ankara, Turkey.  Over 200 attendees from every continent except Antarctica made for a vibrant conference under the leadership of co-chairs Reyyan Ayfer of Bilkent University and John Impagliazzo (Qatar University) and program chair Cary Laxer (Rose Hulman).  Keynotes by Nüket Yeti?, head of TÜB?TAK (similar to US NSF), Ali Ekrem Özkul from The Council of Higher Education (Turkey) and Jane Prey (Microsoft Research) set the tone for the meeting.  Next year’s conference will be in Darmstadt, Germany under the leadership of Guido Roessling.</p>
+<p>Publications<br />
+===========<br />
+John Impagliazzo became Editor-in-Chief of the new SIGCSE supported ACM magazine, Inroads, as 2010 also saw the unbundling of the conference proceedings from our newsletter.  Curt M. White took the helm as editor of the SIGCSE Corner in that publication.  The SIGCSE Bulletin was revamped and launched as an electronic newsletter under the editorial leadership of Z Sweedyk and Henry Walker.</p>
+<p>The SIGCSE website has been completely revised under the capable management of Dan Joyce.</p>
+<p>Other Activities<br />
+============<br />
+SIGCSE undertook a multitude of other projects, all of which have been documented in a detailed spreadsheet.  Among these activities were funding for outreach projects, a doctoral consortium, a workshop for department chairs, and a workshop for new faculty.</p>
+<p><strong>Part III Challenges</strong></p>
+<p>The following is a brief outline of the challenges facing the 2010-2013 SIGCSE Board and the membership it represents.</p>
+<p>A critical challenge is returning the budget to a positive bottom line for the organization.  The SIGCSE conferences continue to be well-attended, but have ceased to be making enough profit to sustain the ambitious goals of the organization.  The new board must consider ways to reverse the trend.  The registration fees may need to be increased to match rising costs, waived registrations for volunteers may need to be controlled, funding for good works such as outreach and special projects may need to be reduced, the recently increased monetary awards for award winners may need to be re-evaluated, and Board travel costs need to be examined.</p>
+<p>The SIGCSE By-laws are in need of a few small tweaks.  For example, the recent changes in Inroads and the Bulletin have highlighted the need for a re-definition of the Publications chair, and the role of the past chair is ambiguous in the current version. </p>
+<p>SIGCSE has been faced with issues that may need thoughtful responses.  For example, the Board recently took a stand on Academic Freedom and supported the AAUP and UNESCO statements.  SIGCSE is faced with the need to address the National Research Council’s standards on education that omits Computer Science from those K-12 suggestions.</p>
+<p>There has been a possible infringement of SIGCSE conference name by one called ITCSE and that conference's procurement of the domain name cseducation.org</p>
+<p>SIGCSE needs to assess its continuing involvement in the formation of CECC (Computing Education Coordinating Council), and to maintain the SIGCSE voice within the ACM Ed Board, Ed Council (where we now have an appointed representative), the Education Policy Committee, and the Computer Science Teacher Association (CSTA).</p>
+<p>With respect to conferences, SIGCSE needs to review its criteria for approving in-cooperation with conferences and to improve mechanisms for including in-cooperation with conference proceedings in the DL. For its own conferences it needs to look forward to site selection and consider the role and place of the Doctoral Consortium.</p>
+<p>Member benefits are changing.  The Board needs to tackle such issues as the availability of the Bulletin to members only and the possibility of inclusion of the Transactions on Computing Education as a benefit.  Where should the reports of the ITiCSE working groups appear?</p>
+<p>The new Board will need to assess its duties. New members entail new roles.  The Board will need to consider the frequency and costs of both its face-to-face and teleconference meetings.</p>
+<p>An urgent challenge is that of SIGCSE’s role in Computer Science Education Week in early December.  What activities can the Board encourage or sponsor?</p>
+<p>The opportunities and challenges are many.  SIGCSE is vibrant and we are up to those challenges.  I thank the membership of SIGCSE and all its volunteers for the opportunity to have served as Chair for the past three years and look forward to my more advisory role as past chair.  I wish the new Board all the best!</p>
+  
+

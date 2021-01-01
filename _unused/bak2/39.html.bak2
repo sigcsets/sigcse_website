@@ -1,0 +1,39 @@
+---
+title: SIGCSE Committee on Teaching Computing Research Methods
+layout: page
+---
+                                <h1 class="page-title">SIGCSE Committee on Teaching Computing Research Methods</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-39" class="node node-page node-full clearfix" about="/sigcse/programs/committees/research" typeof="foaf:Document">
+                      <span property="dc:title" content="SIGCSE Committee on Teaching Computing Research Methods" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>Charter Approved: March 30, 2005</strong><br /><strong>Facilitators:  Hilary Holz, California State University, East Bay and Anne Applin, Ithaca College </strong></p>
+<p><strong><a name="background" id="background"></a>Background</strong><br />
+Since March of 2005, this committee has been involved in an iterative participatory design project on teaching research methods in computing. The committee laid the groundwork for an ITiCSE working group in 2006. The subsequent report showed that there have been a number of similar current and prior efforts, some concerning computing as a whole, others concerning particular sub-disciplines. Some efforts seem to have been fairly well received and were built on by others, but still failed to produce the common ground necessary to have meaningful dialog on curricular issues. Producing that common ground has become the new focus of the committee.  </p>
+<p>In the next phase of this work, we plan to construct a sense-making multi-perspective digital library, CRM-MPDL (Computing Research Methods Multi-Perspective Digital Library), on teaching research methods in computing. By sense-making, we mean that the researchers will see themselves not as outsiders searching for knowledge but rather as people who are becoming part of the community that creates the knowledge about their area of research.</p>
+<p>Sense-making tools show how different papers, theories and methods within a specific area of research are connected, and in doing so provide a map of that research area. Multi-perspective tools facilitate multiple layers of dialog about the research such as collaborations between teaching facult Yto develop effective assignments and  conversations with the researchers on the impact of their work.</p>
+<p>After much research we have settled on Greenstone3 as the framework for the CRM-MPDL.  An ITiCSE Working Group including faculty, academic administrators, and students (both undergraduate and graduate) will design the faculty perspectives interface this summer.  By Spring of 2008, we hope to have the initial set of annotations ready for the larger SIGCSE community interested in this work to use and provide feedback on the usefulness and design of the tool.</p>
+<p> <strong><a name="charge" id="charge"></a>SIGCSE Committee Charge and Goals</strong><br />
+The charge of the committee is to establish a common ground to facilitate discussion of curricular issues connected with teaching research methods in computing.</p>
+<p>SIGCSE-CRM, the SIGCSE Committee on Teaching Computing Research Methods, will:</p>
+<ul><li>Contribute to the content of the CRM-MPDL;</li>
+<li>Advise on the interaction design of the CRM-MPDL;</li>
+<li>Build the user community, including:
+<ul><li>Promotion of the CRM-MPDL through sessions at conferences, etc;</li>
+</ul></li>
+<li>Assist with formative and summative evaluation of CRM-MPDL  (both with direction and as subjects);</li>
+<li>Contribute to alpha and beta testing of the CRM-MPDL;</li>
+<li>Suggest refinements to the design based on testing and;</li>
+<li>Members may wish to begin design for other interfaces into the CRM-MPDL</li>
+</ul><p><strong><a name="desire" id="desire"></a>Desired Product and its Dissemination</strong></p>
+<p> The product we will have by Summer 2008 is: A populated digital library containing bibliographies of papers that discuss computing research projects or research methods used in a computing context, curricular materials for teaching computing research methods, a repository of information on curricular issues concerning teaching CRM, as well as a repository of benchmarking data for comparative research  on teaching CRM. Along with these we should have dialogs on these materials. The annotations will come from the authors, the citers, faculty, and students. The project will be submitted to CITIDEL for inclusion.</p>
+<p> An article for JERIC is planned as well as a status report at SIGCSE'08.  By SIGCSE'09, we should have designed several more views into the CRM-MPDL.</p>
+<p> <strong><a name="call" id="call"></a>Call for Participation!</strong><br />
+The current collection of curricular materials can be found at the  <a href="http://twiki.csueastbay.edu/MPDL/">MPDL.</a>  We invite you to submit curricular materials, references to  papers for inclusion in the CRM-MPDL, or offer input on any phase of this  work.</p>
+</div></div></div>  </div>
+

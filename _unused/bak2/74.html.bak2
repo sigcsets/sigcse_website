@@ -1,0 +1,138 @@
+---
+title: SIGCSE Annual Report 2007
+layout: page
+---
+                                <h1 class="page-title">SIGCSE Annual Report 2007</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-74" class="node node-page node-full clearfix" about="/sigcse/about/reports/chair/2007" typeof="foaf:Document">
+                      <span property="dc:title" content="SIGCSE Annual Report 2007" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>July 2006 - June 2007<br />
+Submitted by: Henry M. Walker, SIGCSE Chair</p>
+<p>Although this is an Annual Report for 2006-2007, July 2007 marks a transition; SIGCSE conducted elections in the spring 2007. Thus, this report considers the 2006-2007 fiscal year within the broader scope of the 2004-2007 term for the retiring SIGCSE Board. Sometimes the report considers 2001-2007, which covers my term as SIGCSE Chair. </p>
+<p><strong>Elections</strong><br />
+Elections were held in April, 2007, for all the officers and board members at large, with Bruce Klein (immediate past chair) and Henry Walker (retiring chair) serving as the Nominating Committee. Current Board members were invited to run for various officer positions, although some declined for a variety of reasons. In addition, over 10 SIGCSE members expressed an interest in running for the at-large positions. Based on expressions of interest, the Nominating Committee put forward an extremely strong slate of candidates for consideration by the membership. Two existing Board members were on the ballot for the Chair position (thus helping the organization to maintain continuity), one existing Board member and one new member were on the ballot for each of the other officer positions (providing a diverse officer slate), and eight new people ran for the three positions of Director at Large (ensuring an infusion of new ideas and leadership).</p>
+<table><tbody><tr><th scope="col">Retiring Board</th>
+<th scope="col">New Board</th>
+</tr><tr><td> <strong>Chair</strong><br />
+Henry M. Walker
+<p><strong>Vice-Chair</strong><br />
+Barbara Boucher Owens</p>
+<p><strong>Secretary</strong><br />
+Sally Fincher</p>
+<p><strong>Treasurer</strong><br />
+Vicki Almstrum</p>
+<p><strong>Past Chair</strong><br />
+Bruce Klein</p>
+<p><strong>Board Members</strong><br />
+Renée McCauley<br />
+Daniel Joyce<br />
+Alison Young
+</p></td>
+<td> <strong>Chair</strong><br />
+Barbara Boucher Owens
+<p><strong>Vice-Chair</strong><br />
+Alison Young</p>
+<p><strong>Secretary</strong><br />
+Daniel Joyce</p>
+<p><strong>Treasurer</strong><br />
+Renée McCauley</p>
+<p><strong>Past Chair</strong><br />
+Henry M. Walker</p>
+<p><strong>Board Members</strong><br />
+Doug Baldwin<br />
+Wanda Dann<br />
+Ingrid Russell</p>
+</td>
+</tr></tbody></table><p>Many, many thanks to all members of the previous Board and to all who where willing to run in this election!</p>
+<p><strong>Membership</strong><br />
+Historically, SIGCSE has had a very loyal membership. Thus, for many years up to 2001, SIGCSE had the highest retention rate of any Special Interest Group (SIG) within the Association for Computing Machinery (ACM). However, SIGCSE was attracting relatively few new members -- even fewer than the small number leaving. Put together, SIGCSE had 1908 members at the end of fiscal year 2001, after experiencing a decade-long period of gradual decline in membership. This placed SIGCSE as the ninth largest of approximately 34 SIGs.</p>
+<p>In 2001, the Board changed directions to strongly encourage conference participants to join SIGCSE through the strategic setting of registration rates. The expectation was that many new members would seek to retain their membership -- if only we could get them started. Additional efforts to increase member involvement and expand recruitment are discussed below.</p>
+<p>Although the impact of specific initiatives is difficult to assess, the organization seems to be connecting well with many in the computing community. At the end of the 2006 fiscal year (the last year for which we have complete data), SIGCSE has 2587 members, an increase of about 35% over 2001, and now ranks as the 4th largest SIG (just overtaking SIG PLAN by 27 members this past year).</p>
+<p><strong>Awards</strong><br />
+Each year, SIGCSE gives awards to those who have been particularly helpful to the computer-science-education community. This year, three awards were presented at SIGCSE 2007, the 38th Technical Symposium on Computer Science Education.</p>
+<ul><li>Judith Gal-Ezer, The Open University of Israel, received a 2007 SIGCSE Award for Contributions to Computer Science Education.</li>
+<li>John Hughes, University of Technology, Australia, received posthumously a 2007 SIGCE Award for Contributions to Computer Science Education.</li>
+<li>John Impagliazzo, Hofstra University, received the 2007 SIGCSE Award for Lifetime Service. </li>
+</ul><p><strong>Conferences</strong><br />
+In 2001, SIGCSE sponsored 2 main conferences: the Technical Symposium and our summer ITiCSE conference. A comparison of statistics shows considerable growth for both endeavors</p>
+<table><tbody><tr><th scope="col"></th>
+<th scope="col" colspan="3">SIGCSE Symposium</th>
+<th scope="col" colspan="3">ITiCSE Conference</th>
+</tr><tr><td></td>
+<td>2001</td>
+<td>2007</td>
+<td></td>
+<td>2001</td>
+<td>2007</td>
+<td></td>
+</tr><tr><td>Accepted Papers</td>
+<td>78</td>
+<td>108</td>
+<td>+38.4%</td>
+<td>44</td>
+<td>61</td>
+<td>+38.6%</td>
+</tr><tr><td>Submitted Papers</td>
+<td>225</td>
+<td>319</td>
+<td>+41.8%</td>
+<td>115</td>
+<td>211</td>
+<td>+83.5%</td>
+</tr><tr><td>Acceptance Rate</td>
+<td>34.7%</td>
+<td>33.8%</td>
+<td></td>
+<td>38.3%</td>
+<td>28.9%</td>
+<td></td>
+</tr><tr><td>Attendance</td>
+<td>1000</td>
+<td>1,300</td>
+<td>+30%</td>
+<td>185</td>
+<td>200</td>
+<td></td>
+</tr></tbody></table><p>Also, the institution in 2000 of an online submission and reviewing system for the technical symposia has streamlined the process and allowed reviewing to involve all interested SIGCSE members. Most papers for the Symposium and ITiCSE are now sent to 6 reviewers, giving significant input to Program Committees, and both submitters and reviewers can view the reviews of their papers after acceptance decisions are made. With over 1000 reviewers in the SIGCSE conference databases, some variation among reviews can be expected, and conference leadership and the SIGCSE Board are exploring how to best utilize reviewers and promote consistency. Refinement of the reviewing process will continue well into the next Board's term of service.</p>
+<p>As suggested by the above statistics, SIGCSE 2007 was remarkably successful, with very strong attendance and a healthy surplus to support other SIGCSE programs (without raising conference fees). Special thanks are due the Program Committee, led by Conference Co-Chairs, Susan Haller (SUNY Potsdam) and Ingrid Russell (University of Hartford), and Program Co-Chairs, Susan Rodger (Duke University) and John P. (J.D.) Dougherty (Haverford College).</p>
+<p>SIGCSE's 2007 summer conference on Innovation and Technology in Computer Science Education had a special theme, "Inclusive Education in Computer Science". This conference's attendance met or exceeded previous records (final numbers are pending). Fine, daily keynotes were given by Paul Curzon (Queen Mary College, University of London), Chris van der Kuyl (Tayforth Consulting Limited), and Vicki Hanson (IBM T.J. Watson Research Center and SIGACCESS Chair). Wonderful conference leadership came from Conference Co-Chair, Janet Hughes (University of Dundee), and Program Co-Chairs, Ramanee Peiris (University of Dundee) and Paul Tymann (Rochester Institute of Technology).</p>
+<p>In 2005, SIGCSE added a new International Computing Education Conference (ICER), through the vision and guidance of Richard Anderson, Sally Fincher, and Mark Guzdial. These three individuals have continued to organize and coordinate ICER 2006 and ICER 2007. New leadership has been identified for ICER conferences starting in 2008, and work is underway to help the transition from one leadership team to the next.</p>
+<p>Behind the scenes, Bob Beck (Villanova University) and Scott Grissom (Grand Valley State University) have continued outstanding service as Symposium Site Coordinators; and Mats Daniels (Uppsala University) continues fine work as ITiCSE Site Coordinator -- with the help of Bruce Klein from Grand Valley State University.</p>
+<p>Overall, between 2001 and 2007, SIGCSE has added a new conference, and participation in the on-going conferences has expanded considerably.</p>
+<p>Even with its imperfections, it is thrilling that so many SIGCSE members are willing to contribute to the reviewing process, and this is a vital component of SIGCSE's vitality. And, as another indication, in April, SIGCSE Chair, Henry Walker, announced the conference leadership for SIGCSE 2010 and invited SIGCSE members to volunteer to be part of future program committees. Within 35 hours, 21 SIGCSE members had volunteered -- a wonderful testament to the interest of our membership in the SIGCSE organization!</p>
+<p><strong>Budget</strong><br />
+Historically, SIGCSE has functioned within a basic premise: academicians typically must work within remarkably limited budgets. Thus, the SIGCSE Board has worked hard to keep dues and conference registration fees low -- at least within the practical bounds of contemporary life. As an example, the SIGCSE Board raised annual dues from $17 to $25 in 1999, and dues continue at that level today. This fee is consciously set to attract members, but (alas) it does not fully cover members costs.</p>
+<p>To balance budgets, SIGCSE traditionally has relied on achieving a surplus on the annual symposium. In many earlier years, symposia could achieve a profit of $25,000 or so, through the diligence and extraordinary efforts of conference leadership. More recently, the symposia have become extremely successful with exhibitors, particularly with the efforts of our exhibit management companies. At the same time, we plan both the ITiCSE and ICER conferences to break even, and sometimes a ITiCSE conference makes as much as a $10,000.</p>
+<p>With careful stewardship and with the resounding success of symposia and their exhibits, SIGCSE finances have progressed remarkably since 2001. For example, in 2001, SIGCSE's Fund Balance (reserve accounts with ACM) was $184,153.01; and ACM required a significant fraction of this to be held in reserve to cover cash flow for conferences. SIGCSE was in a solid financial position, but its reserves were only about 60% of annual conference expenses and receipts.</p>
+<p>With on-going careful stewardship and significant revenues from symposia exhibits, SIGCSE's Fund Balance at the end of the 2006 fiscal year was $438,699.04 -- an increase of about 138% since 2001. This level of financial expense has greatly exceeded expectations -- but it also has allowed the SIGCSE Board to keep registration fees for SIGCSE symposia relatively low while expanding SIGCSE programs and activities. </p>
+<p><strong>inroads</strong><br />
+John Impagliazzo became Editor-in-Chief of the SIGCSE Bulletin in 1997. At that time, the Bulletin followed a traditional format, each issue had solid articles, and editors established an impressive record of meeting deadlines year after year.</p>
+<p>Over the past decade, John has brought several significant innovations to SIGCSE's publications. Early on, John suggested and the SIGCSE Board endorsed the renaming of our publication to inroads. John also added guest editorials, a wonderful range of columns, special articles, and a host of innovations, in addition to the traditional submitted articles. Overall, these innovations have brought inroads to a marvelous new level!</p>
+<p>John also had the vision to invite Tracy Camp to be Guest Editor of a special issue on Women and Computing, which appeared in June 2002. This was followed by SIGCSE's first CD project, "Pathways: Women and Computing", that combined the June 2002 inroads issue with materials from the Communications of the ACM and the IEEE Annals of the History of Computing. Altogether, this CD represents hundreds of hours on John's part and is an invaluable resource for the entire computer-science-education community. And, I am delighted to report that over 22,000 copies of the Special Issue of 2002 June and over 5,000 CDs have been distributed to university departments, high school teachers, selected conferences, and many others, with generous support from SIGCSE, the ACM Council, the SIG Governing Board, ACM-W, SIGDA, SIGCOMM, and NSF.</p>
+<p><strong>Additional Activities</strong><br />
+Through the past six years, the Board has sought to continue, regularize, and/or expand programs, as SIGCSE tries to support a full range of interests within the field of computing education. Details for many of these projects may be obtained at <a href="http://www.sigcse.org">www.sigcse.org</a>.</p>
+<p>* Outreach: Between 2001 and 2004, SIGCSE had an NSF grant to support presenters from SIGCSE conference to lead similar sessions at regional conferences. Since 2004, SIGCSE has taken over this project, so grants continue with internal SIGCSE funding.</p>
+<p>* Doctoral Consortium: Since 1998, SIGCSE has sponsored a Doctoral Consortium with three main goals: "To offer a friendly forum for students to discuss their work and receive constructive feedback", "To offer relevant information on issues important to doctoral candidates", and "To nurture a community of researchers." This annual event has been held the Wednesday before SIGCSE symposia and has continued SIGCSE financial support. Capable leadership came from Orit Hazzan (Technion - Israel Institute of Technology and Josh Tenenberg (University of Washington at Tacoma)</p>
+<p>Since the Doctoral Consortium focuses on research issues, it seems appropriate for the Doctoral Consortium to be held in conjunction with SIGCSE's new ICER conference. To allow a smooth transition, the Doctoral Consortium will meet at its usual time in March 2008, just before SIGCSE 2008. Then, in the fall 2008 and subsequent years, the Doctoral will meet in conjunction with the ICER conferences.</p>
+<p>* Workshop for Department Chairs: SIGCSE held its second annual Workshop for Department Chairs at SIGCSE 2007, under the capable guidance of Frank Young (Rose-Hulman Institute of Technology), Sandra DeLoatch (Norfolk State University), and Joyce Currie Little (Towson University).</p>
+<p>The focus of this year's workshop expanded from new department chairs (at the 2006 Workshop) to issues of interest to all chairs. Evaluations indicate this event was quite successful, and SIGCSE expects these events to continue annually in the future.</p>
+<p>* Special Projects: In 2002, through the vision of Sally Fincher and others, SIGCSE initiated a program of Special Projects Grants "to support members who wish to investigate and introduce new ideas in the learning and teaching of computing." Grants are possible up to $5,000 USD per proposal, and successful recipients are expected to present their results at a SIGCSE conference.</p>
+<p>* SIGCSE Committees: The SIGCSE Committee Initiative was created in 2001-2002 to encourage "all SIGCSE members to participate in substantive discussions on areas of community interest, with the goals of investigating topics in depth and culminating with substantive reports." The first SIGCSE Committee explored the implementation of a discrete mathematics course. Through the extensive work of William Marion (Valparaiso University) and Doug Baldwin (SUNY Geneseo), an extensive report on this Committee's work is available: <a href="http://www.sigcse.org/DiscreteMathMaterials.shtml">Discrete Math Materials</a>.</p>
+<p>In retrospect, it seems to me that the SIGCSE Committee structure may be overly formal for some purposes, and the new SIGCSE Board may decide to review alternative approaches.</p>
+<p>* Doctoral Programs in Computer Science Education With the support of the SIGCSE Board, Sue Fitzgerald (Metropolitan State University) and Lisa Kaczmarczyk (Rose Hulman Institute of Technology) helped identify CS Ed doctoral programs and to identify resources for those interested in that area. These materials are now available through links from <a href="http://www.sigcse.org">www.sigcse.org</a>.</p>
+<p>* Web Site/Internet Presence: Through 2006-2007, Scott Grissom (Grand Valley State University) continued to monitor and update the SIGCSE Web site at <a href="http://www.sigcse.org">www.sigcse.org</a>. Also, Frank Young (Rose-Hulman Institute of Technology) has continued to serve as listserv moderator. Jesse Heines (University of Massachusetts at Lowell) also assisted with the SIGCSE listservs for the first part of the year, when his role was turned over to William Turner (Wabash College).</p>
+<p>* Local Chapters: Several groups have indicated an interest in organizing as local SIGCSE Chapters, and the Board has provided an appropriate framework. At this writing, however, discussions remain in the inquiry stage, and no SIGCSE chapters have begun functioning.</p>
+<p><strong>Collaborative Efforts</strong><br />
+Even with its expanded role in supporting computing education at all levels, SIGCSE also celebrates that various groups have emerged to focus on specific areas.</p>
+<ul><li>In 2002, SIGCSE endorsed the chartering of a Special Interest Group for Information Technology Education (SIGITE), and we have benefited from an on-going collaboration.</li>
+<li>Since ACM launched the Computer Science Teachers Association (CSTA) in 2005 with a focus on K-12 computing education, SIGCSE and CSTA have worked to collaborate on areas of common interest. For example, Robb Cutler, CSTA Chair, and Chris Stephenson, CSTA Executive Director, gave the Friday keynote at SIGCSE 2006 on "Working Together to Improve K-12 Computer Science Education". </li>
+</ul><p><strong>Summary and Conclusion</strong><br />
+As this review of activities and events indicates, SIGCSE is a vibrant and expanding organization through the activities of hundreds of people. Many, many thanks to each SIGCSE member for your many contributions that make SIGCSE so successful. </p>
+</div></div></div>  </div>
+

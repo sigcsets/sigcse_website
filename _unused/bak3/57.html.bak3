@@ -1,0 +1,45 @@
+---
+title: Program Chair Responsibilities
+layout: page
+---
+                                <h1 class="page-title">Program Chair Responsibilities</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-57" class="node node-page node-full clearfix" about="/sigcse/policies/pcr" typeof="foaf:Document">
+                      <span property="dc:title" content="Program Chair Responsibilities" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>*** Please note this policy is currently under review for ICER and CompEd ***</strong></p>
+<p>The main goal of the Program Chair(s) and Committee (the PC) is to create a good, well balanced program at the SIGCSE Technical Symposium, the ITiCSE conference, the ICER conference and the CompEd conference. The program should provide both short and long term benefits to the conference attendees and the wider community.</p>
+<p>The PC should communicate clearly with the community. This communication includes</p>
+<ul><li>Call for Participation (CFP)</li>
+<ul><li>Clearly indicate any specific computing education topics that are being emphasized within the conference theme, if there are any.</li>
+<li>Emphasize that the PC will only consider original work.</li>
+<li>Emphasize that the PC will only accept polished work as no review-revise-review cycle exists.</li>
+<li>Request that all paper submissions include a review of previous, related work.</li>
+</ul><li>Web site</li>
+<ul><li>The bullets listed above under CFP apply here also.</li>
+</ul><li>Call for Reviewers and review assignment letter</li>
+<ul><li>Select reviewers - the reviewing system supports this step; the PC can control who reviews what.</li>
+<li>Instruct reviewers about the importance of their task and ask them to approach it carefully. Make it clear that the PC expects constructive, specific comments in each of the review categories for each paper, not just numeric indicators. Include a statement that recalcitrant reviewers (those who do not submit reviews, or do not include any comments within their review, or who submit inappropriate reviews - for example reviews with derogatory comments) will be removed from the database.</li>
+<li>Again, emphasize that the PC expects to see appropriate acknowledgement of previous related work.</li>
+<li>Although historically SIGCSE has assigned up to four papers to each reviewer, the Board suggests this number be reduced to three. This is because the Symposium/Conference is asking for detailed, crafted and informative reviews.</li>
+</ul></ul><p>The PC should ensure all papers receive proper consideration. Towards this goal, the PC should:</p>
+<ul><li>Continue to use the double-blind reviewing process.</li>
+<li>The number of reviews for each paper:
+<ul><li>Technical Symposium: at least four reviews plus a meta-review -.</li>
+<li>ITiCSE: at least three and at most four reviews (not counting the meta-review).
+</li><li>ICER: TBA
+</li><li>CompEd: TBA
+</li></ul></li><li>Specifically examine papers with outlying or otherwise disparate reviews - the reviewing software can aid in identifying such papers.</li>
+<li>Specifically examine reviews for which a reviewer indicates a low familiarity with the paper topic.</li>
+<li>Read and consider all "confidential comments for committee only" made by reviewers.</li>
+</ul><p>Each PC should help improve the paper selection process for future PCs. Towards this goal the PC should, after the program selection process is completed:</p>
+<ul><li>Suggest improvements to this policy.</li>
+<li>Remove recalcitrant reviewers from the current reviewer pool.</li>
+</ul><p>The PC should inform recalcitrant reviewers that they have been removed from the database, and why they were removed. The PC should also record the removal decisions for posterity within the database, using the tools provided by the database team. Note that recalcitrant reviewers can simply "opt in" for reviewing the following year. However, if someone is guilty of repeated offenses (two offenses within a three year period), SIGCSE will remove them from reviewing for three years. This protocol should be communicated to the recalcitrant reviewers.</p>
+  
+

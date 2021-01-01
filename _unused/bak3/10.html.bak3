@@ -1,0 +1,20 @@
+---
+title: Resources
+layout: page
+---
+                                <h1 class="page-title">Resources</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-10" class="node node-page node-full clearfix" about="/sigcse/resources" typeof="foaf:Document">
+                      <span property="dc:title" content="Resources" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>We hope our membership find the following resources helpful:</p>
+<ul><li><a href="resources/publications.html">Publications</a> Computer Science Education related publications</li>
+<li><a href="resources/phd-programs.html">Ph.D. Programs</a> Ph.D. Programs in Computer Science Education</li>
+<li><a href="resources/publish.html">Places to Publish</a> Journals, Conferences, Workshops and Organizations to publish papers related to CS Education</li>
+</ul>  
+

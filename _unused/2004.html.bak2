@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+<link rel="shortcut icon" href="../../../misc/favicon.ico.html" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width" />
+<link rel="canonical" href="2004.html" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="../../../node/77.html" />
+<title>SIGCSE Annual Report 2004 | Special Interest Group on Computer Science Education</title>
+<style type="text/css" media="all">@import url("../../../modules/system/system.base-pxd8ud.css");
+@import url("../../../modules/system/system.menus-pxd8ud.css");
+@import url("../../../modules/system/system.messages-pxd8ud.css");
+@import url("../../../modules/system/system.theme-pxd8ud.css");
+</style>
+<style type="text/css" media="all">@import url("../../../modules/comment/comment-pxd8ud.css");
+@import url("../../../modules/field/theme/field-pxd8ud.css");
+@import url("../../../modules/node/node-pxd8ud.css");
+@import url("../../../modules/search/search-pxd8ud.css");
+@import url("../../../modules/user/user-pxd8ud.css");
+</style>
+<style type="text/css" media="all">@import url("../../../sites/all/themes/professional_theme/style-pxd8ud.css");
+</style>
+<script type="text/javascript" src="../../../misc/jquery-v=1.4.4.js"></script>
+<script type="text/javascript" src="../../../misc/jquery-extend-3.4.0-v=1.4.4.js"></script>
+<script type="text/javascript" src="../../../misc/jquery.once-v=1.2.js"></script>
+<script type="text/javascript" src="../../../misc/drupal-pxd8ud.js"></script>
+<script type="text/javascript" src="../../../sites/all/themes/professional_theme/js/custom-pxd8ud.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/sigcse\/","pathPrefix":"","ajaxPageState":{"theme":"professional_theme","theme_token":"H5nWr5I1YbXU2fcDg5q6WpoNSt3YE0PLKuQ7NwlDTLs","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/professional_theme\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/themes\/professional_theme\/style.css":1}}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-77 node-type-page">
+    
+<div id="wrapper">
+  <header id="header" role="banner">
+    <div id="logo"><a href="../../../index.html" title="Home"><img src="../../../files/images/logo/051102-SIGCSE-logo-small-trans.gif"/></a></div>    <h1 id="site-title"><a href="../../../index.html" title="Home">Special Interest Group on Computer Science Education</a></h1>        <div class="clear"></div>
+          <nav id="main-menu"  role="navigation">
+        <a class="nav-toggle" href="#">Navigation</a>
+        <div class="menu-navigation-container">
+          <ul class="menu"><li class="first leaf"><a href="../../../index.html">Home</a></li>
+<li class="collapsed"><a href="../../../about.html">About</a></li>
+<li class="collapsed"><a href="../../../events.html" title="SIGCSE Events">Events</a></li>
+<li class="collapsed"><a href="../../../membership.html" title="Joining SIGCSE and membership benefits">Membership</a></li>
+<li class="collapsed"><a href="../../../programs.html" title="SIGCSE supported programs">Programs</a></li>
+<li class="collapsed"><a href="../../../policies.html" title="Policies and guidelines relating to SIGCSE activities">Policies</a></li>
+<li class="last collapsed"><a href="../../../resources.html">Resources</a></li>
+</ul>        </div>
+        <div class="clear"></div>
+      </nav>
+    <!-- end main-menu -->
+  </header>
+
+  <div id="container">
+    
+
+   
+    <div class="content-sidebar-wrap">
+
+    <div id="content">
+      <div id="breadcrumbs"><h2 class="element-invisible">You are here</h2><nav class="breadcrumb"><a href="../../../index.html">Home</a> » SIGCSE Annual Report 2004</nav></div>      <section id="post-content" role="main">
+                                <h1 class="page-title">SIGCSE Annual Report 2004</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-77" class="node node-page node-full clearfix" about="/sigcse/about/reports/chair/2004" typeof="foaf:Document">
+                      <span property="dc:title" content="SIGCSE Annual Report 2004" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>July 2003 - June 2004<br />
+Submitted by: Henry M. Walker, SIGCSE Chair </p>
+<p>SIGCSE's mission statement, revised and approved by its membership in 1997, states:<br /><em>The scope of SIGCSE is to provide a forum for problems common among educators working to develop, implement, and/or evaluate competing programs, curricula, and courses, as well as syllabi, laboratories, and other elements of teaching and pedagogy.<br /></em></p>
+<p>Although the majority of the SIGCSE membership are faculty at colleges and universities, SIGCSE continues to work in broadening its base to include more high school teachers, faculty from community colleges and two-year schools, graduate school faculty, and people in industry. SIGCSE also is working to expand its international presence. The organization believes that progress is being made on each of these fronts. For example, as reported below, one of the newly elected Board members is from England, and another from New Zealand. </p>
+<p>Altogether, SIGCSE is an energetic and healthy organization with a strong and growing membership base. </p>
+<p><strong>Elections</strong><br />
+Elections were held in 2004 for all the officers and board members  at large. The ballot contained two nominees for each position, providing an  extremely strong and well-qualified field. In general, the Nominating Committee (past Chairs Bruce Klein and Lillian Cassel) asked current Board members to run for various officer positions, and new people to run for the at-large positions. This provided continuity through the officers and new opportunities for some of the other SIGCSE members who have been extremely active over the years. As with other SIGCSE activities, the challenge has been to select from the many SIGCSE volunteers who have expressed interest in becoming more involved. </p>
+<p>For the 2001 SIGCSE election, the membership voted to have separate officers for secretary and treasurer and to set the term of each office to three years, without the option for administrative term extensions. Incumbents are not prevented from running in another election, but non-elected extensions now are prohibited. The retiring and new board members are: </p>
+<table><tbody><tr><td>
+<h4>Retiring Board</h4>
+<p> Henry M. Walker, Chair<br />
+ Barbara Boucher Owen, Vice-Chair<br />
+ Sally Fincher, Secretary<br />
+ Scott Grissom, Treasurer<br />
+ Bruce Klein, Past Chair<br />
+ Elizabeth Adams , Board Member<br />
+ Vicki Almstrum, Board Member<br />
+ Jane Prey, Board Member
+</p></td>
+<td>
+<h4>Newly Elected Board</h4>
+<p> Henry M. Walker, Chair<br />
+ Barbara Boucher Owen, Vice-Chair<br />
+ Sally Fincher, Secretary<br />
+ Vicki Almstrum, Treasurer<br />
+ Bruce Klein, Past Chair<br />
+ Renée McCauley, Board Member<br />
+ Daniel Joyce, Board Member<br />
+ Alison Young, Board Member
+</p></td>
+</tr></tbody></table><p>The editor of inroads, the SIGCSE Bulletin, John Impagliazzo, also is invited to participate in board meetings. Retiring board members, Elizabeth Adams, Jane Prey, and Scott Grissom, have made wonderful contributions over the years. SIGCSE thanks them for their conscientious efforts and marvelous insights; a formal, public "thank you" was part of the wrap-up session at SIGCSE's ITiCSE 2004! The organization looks forward to their continuing participation through new roles in the future. </p>
+<p><strong>Membership</strong><br />
+Over the past several years, SIGCSE has worked to expand its membership. Specifically, the organization seeks to increase diversity and to involve its members in worthwhile collaborations. The following statistics illustrate these themes and complement similarly positive results reported last year. </p>
+<ul><li> June 2003 membership figures (2,510) increased 116 from June 2002. (June 2004 seem unavailable as of this writing.) This represents an increase of about 600 from June 2001</li>
+<li> The SIGCSE 2004 Symposium had 320 paper submissions (up from 234 for SIGCSE<br />
+ 2003), including 60 authors/co-authors from 20 countries outside the U.S. ITiCSE 2004 had about 155 submissions, also a record number. </li>
+<li>The distribution of accepted sessions at ITiCSE 2004 shows considerable diversity: 11 U.S.-based papers out of 46, 11 U.S.-based posters of 33, 2 U.S. panelists out of 8, 2 tips/techniques presentations of 8, and 3 demonstrations of 6. Altogether, U.S.-based sessions accounted for a little less than 1/3 of all sessions.</li>
+<li> SIGCSE 2004 utilized 5533 reviewers, including 91 reviewers from 29 countries outside the U.S. Due to reviewer interest and availability, all papers were sent to at least six reviewers and 1,734 reviews were received. In addition, for the first time, both panel and special-session proposals followed a formal review process. 81 reviews were received for the 15 submitted panels, and 73 reviews were received for the 22 submitted proposals for special sessions. Altogether, 1,888 reviews were received for activities at SIGCSE 2004!</li>
+<li> ITiCSE 2004 utilized 135 reviewers from 27 countries. Of these, only 49 were from the U.S., and there were 4 or more reviewers from each of 9 countries (Australia, Finland, Israel, New Zealand, South Africa, Spain, Sweden, the U.K., the U.S.).</li>
+<li> SIGCSE continues to ask its members for names of new faculty members and sends an invitation and a copy of its Bulletin to all those identified.</li>
+<li> SIGCSE encourages membership through its conference registration fee structure, and many new members continue to join with their attendance at SIGCSE 2004 or ITiCSE 2004. </li>
+</ul><p><strong>Conferences</strong><br />
+The annual SIGCSE Symposium was held in March 3-7, 2004, in Norfolk,Virginia USA. Symposium Co-Chairs were Daniel Joyce and Deborah Knox; Program Co-Chairs were Wanda Dann and Thomas Naps. Attendance continued very strong, with over 1,150 attendees -- up about 100 from the previous year. This reflects a common pattern from past years that conferences in the eastern or central part of the United States draw somewhat better than those in the western part.</p>
+<p>Submissions to SIGCSE 2004 were up significantly from past years. In all, 320 papers were submitted, whereas between 220 and 235 papers had been submitted each of the previous 3 years. This reinforced previous discusses to extend the length of the conference by a half day, and the main symposium ran three full days (Thursday morning through Saturday afternoon) with plenary sessions, papers, panels, special sessions, birds-of-a-feather sessions, and both faculty and student posters. Workshops and SIGCSE's Doctoral Consortium provided activities before and/or afterward, extending some activities from Wednesday through Saturday evening. Special activities were organized for students and for first-timers.</p>
+<p>Normally, the symposium's keynote address is given by the recipient of SIGCSE's annual Award for Outstanding Contributions to Computer Science Education. This year, Moti Ben-Ari, Weizmann Institute of Science, was the award winner, but last minute difficulties prevented his attendance at the conference. Instead, Owen Astrachan did an outstanding job in presenting an alternate talk. The symposium luncheon also honored Bruce Klein, Grand Valley State University, as the winner of SIGCSE's Award for Lifetime Service.</p>
+<p>Robert Beck continues to serve as Site Coordinator, working with ACM staff to identify symposium sites and negotiate contracts; recently, Scott Grissom has joined this team as Site Co-Coordinator. SIGCSE 2005 will take place in St. Louis, Missouri USA with Wanda Dann and Thomas Naps as Symposium Co-chairs and Douglas Baldwin and Paul Tymann as Program Co-chairs.</p>
+<p>SIGCSE's annual summer conference takes place in Europe and emphasizes Innnovation and Technology in Computer Science Education. This year's ITiCSE 2004 took place in June at the University of Leeds, United Kingdom. Roger Boyle served as Conference Chair, and Martyn Clark and Amruth Kumar served as Program Co-Chairs. Expanding the regular three-day (Monday, Tuesday, Wednesday) format, two tutorials were held on Sunday, and a working group met concurrently with conference activities to produce a report on programming in the first year. The conference was delighted to have keynote addresses by David Cliff, Keith Mander, and Susan Stepney. Attendance of about 175 was strong. ITiCSE 2005 will take place on June 27-29, 2005 at the Universidade Nova de Lisboa, Monte da Caparica, Portugal, with José C. Cunha and William Fleischman as Symposium Co-chairs and Viera K. Proulx and João Lourenço as Program Co-chairs. </p>
+<p>A current list of SIGCSE-sponsored conferences, together with their dates and leaders, may be found at <a href="http://www.math.grinnell.edu/%7Esigcse/">www.math.grinnell.edu/~sigcse/</a>. Much of this also is available in summary form through <a href="../../../index.html">sigcse.org</a>. </p>
+<p>Exhibitor participation and support continues to be strong at both SIGCSE Symposium and the ITiCSE Conference. Many thanks to Tom D'Auria and his IMI exhibit company for their outstanding recruitment of exhibitor participation and their encouragement of vendor contributions! </p>
+<p>During 2003-2004, SIGCSE again was delighted to be in cooperation with six regional conferences of the Consortium for Computing in Small Colleges (CCSC) and with several other regional and national conferences.</p>
+<p><strong>Special Project Grants</strong><br />
+In the 2002-2003 fiscal year, SIGCSE initiated a new program of Special Project Grants to help its members investigate and introduce new ideas in the learning and teaching of computing. The maximum funding level is $5,000 per proposal, and the level of funding is subject to the quality of proposals received and the availability of funds targeted for such projects. Four grants were given in 2002-2003, the first year of the program. </p>
+<p>In 2003-2004, the SIGCSE Board continued this program. As expected, the number of proposals increased, and 7 of the 17 new proposals were funded. Details are available through a link of SIGCSE's home page at <a href="../../../index.html">sigcse.org</a>.</p>
+<p><strong>SIGCSE Committee Initiative</strong><br />
+SIGCSE moved forward in its SIGCSE Committee initiative, designed to support computing education through SIGCSE-member involvement. The first SIGCSE Committee on the Implementation of a Discrete Mathematics Course was established in June 2003. A second SIGCSE Committee on Expanding the Women-in-Computing Community was established in February 2004. Altogether progress in this area has been slow, but deliberate. Conversations continue regarding possible new committees in additional areas. More information may be found through a link from <a href="../../../index.html">sigcse.org</a>. </p>
+<p><strong>SIGCSE Bulletin</strong><br /><em>inroads</em>, the SIGCSE Bulletin, continues to provide outstanding materials to readers. Published four times per year, the March issue contains the proceedings of the SIGCSE Symposium, and the September issue contains the ITiCSE proceedings and working group reports. The December and June issues typically contain a mix of columns, papers, and editorials. The SIGCSE community greatly appreciates the on-going efforts of Bulletin Editor, John Impagliazzo, in making this an outstanding resource!</p>
+<p><strong>Looking Ahead</strong><br />
+With a new SIGCSE Board just elected, the organization can expect continued support for existing programs and exploration of possible new directions. Details, of course, will require Board discussion. Some challenges and opportunities discussed in recent months include </p>
+<ul><li>continuing its membership recruitment and retention efforts,</li>
+<li> expanding its SIGCSE Committee Initiative,</li>
+<li> considering areas for moderate programmatic expansion, and</li>
+<li> further involving its members in a wide range of activities.</li>
+</ul></div></div></div>  </div>
+

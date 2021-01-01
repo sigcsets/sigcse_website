@@ -1,0 +1,90 @@
+---
+title: SIGCSE Annual Report 2006
+layout: page
+---
+                                <h1 class="page-title">SIGCSE Annual Report 2006</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-75" class="node node-page node-full clearfix" about="/sigcse/about/reports/chair/2006" typeof="foaf:Document">
+                      <span property="dc:title" content="SIGCSE Annual Report 2006" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>July 2005 - June 2006<br />
+Submitted by: Henry M. Walker, SIGCSE Chair </p>
+<p>Following its mission statement, SIGCSE "provides a forum for problems common among educators working to develop, implement and/or evaluate computing programs, curricula, and courses, as well as syllabi, laboratories, and other elements of teaching a pedagogy." In addition to its own activities, SIGCSE continues to work with SIGITE, ACM's Special Interest Group for Information Technology Education, and CSTA, the Computer Science Teachers' Association that focuses on K-12 education. In the spirit of this collaboration, SIGCSE invited Robb Cutler, CSTA Chair, and Chris Stephenson, CSTA Executive Director, to give a keynote address on "Working Together to Improve K-12 Computer Science Education" at the SIGCSE 2006 Symposium. </p>
+<p><strong>Conferences</strong> SIGCSE sponsors three annual conferences: </p>
+<ul><li>This year, SIGCSE started a new conference, <a href="http://icer2005.cs.washington.edu/">ICER 2005</a>, for International Computing Education Research. Nearly 60 participants attended ICER 2005, held 1-2 October at the University of Washington under the insightful leadership of Sally Fincher, Richard Anderson, and Mark Guzdial. A lovely report also appeared in the November 2005 issue of the Computing Research News, <a href="http://www.cra.org/CRN/articles/nov05/guzdial.html">http://www.cra.org/CRN/articles/nov05/guzdial.html</a></li>
+<li>The 2006 SIGCSE Technical Symposium (SIGCSE 2006) was held on 1-5 March 2006, in Houston, TX USA. Conference registration was very healthy at 1165, and 502 people signed up for workshops. This year, 294 papers, 26 panels, 18 special sessions, and 50 workshops were submitted, and these were reviewed by 608 reviewers. All papers received at least 4 reviews, and most received 5 or 6. The final program accepted 104 papers, for an acceptance rate of 35.4%. Regarding external contributions, SIGCSE was delighted to involve 29 exhibitors to SIGCSE 2006. Much credit is due Symposium Co-chairs, Doug Baldwin from SUNY Geneseo and Paul Tymann from Rochester Institute of Technology.</li>
+<li>The 2006 Innovations and Technology in Computer Science Education Conference (ITiCSE 2006) was held 26-28 June 2006, at the University of Bologna in Italy. This conference set a record at over 200 attendees. Submissions included 194 papers, 4 panels, 18 software/courseware announcements, 51 posters, 6 student posters, 12 tutorials, 17 tips and techniques, and 13 working groups. All papers were reviewed by at least 3 reviewers each (most by 5 or 6), 378 reviewers were involved in the reviewing process, and 60 papers were accepted (30.9%). Many thanks to Conference and Program Co-Chairs, Renzo Davoli and Paola Salomoni from the University of Bologna and Michael Goldweber from Xavier University.</li>
+</ul><p>Forthcoming conferences include: </p>
+<ul><li><a href="http://www.cs.kent.ac.uk/events/conf/2006/icer/">ICER 2006</a>, 9-10 September 2006, The University of Kent, Canterbury, UK under the leadership of Sally Fincher from the University of Kent at Canterbury, Richard Anderson from the University of Washington at Seattle, and Mark Guzdial from Georgia Institute of Technology.</li>
+<li><a href="http://www.cs.potsdam.edu/sigcse07/index.shtml">SIGCSE 2007</a>, 7-10 March 2007, Northern Kentucky Convention Center, Covington, KY USA under the leadership of Ingrid Russell from the University of Hartford and Susan Haller from SUNY Potsdam.</li>
+<li><a href="http://iticse2007.computing.dundee.ac.uk/">ITiCSE 2007</a>, 25-27 June 2007, University of Dundee, Dundee, Scotland, under the leadership of Janet Hughes and Ramanee Peiris from the University of Dundee and Paul Tymann from Rochester Institute of Technology. </li>
+</ul><p> Looking ahead, Robert Beck from Villanova University and Scott Grissom from Grand Valley State University continue to do an outstanding job in working with future Symposium Co-chairs and with ACM Headquarters in the contracting of future sites for SIGCSE Symposia. Thanks also to Mats Daniels from Uppsala University for his work as ITiCSE Site Coordinator, with the help of Bruce Klein from Grand Valley State University. </p>
+<p><strong>Awards</strong><br />
+Following past tradition, SIGCSE presented two awards this past year at its Symposium in Houston, TX. </p>
+<ul><li>Rich Pattis from Carnegie Mellon University, Pittsburgh, PA USA, received SIGCSE's 2006 Award for Outstanding Contributions to Computer Science Education.</li>
+<li>Joyce Currie Little from Towson University, Towson, MD USA received SIGCSE's 2006 Award for Lifetime Service. </li>
+</ul><p><strong>Special Project Grants</strong> SIGCSE continues to invite its members to apply for <a href="../../join/SpecialProjects.shtml">Special Project Grants</a> to investigate and introduce new ideas in the learning and teaching of computing. The maximum funding is $5,000 USD per proposal and the level of funding is subject to the quality of proposals received and the availability of funds targeted for such projects.</p>
+<p>The following table shows the activity for this program since its inception in 2003: </p>
+<table><tbody><tr><td>Period</td>
+<td>Proposals Received</td>
+<td>Awards Funded</td>
+<td>Funds Committed</td>
+</tr><tr><td>March 05 - July 05</td>
+<td align="center">9</td>
+<td align="center">4</td>
+<td>$14,935</td>
+</tr><tr><td>March 04 - Feb 05</td>
+<td align="center">13</td>
+<td align="center">5</td>
+<td>$17,967</td>
+</tr><tr><td>March 03 - Feb 04</td>
+<td align="center">17</td>
+<td align="center">7</td>
+<td>$20,800</td>
+</tr></tbody></table><p><strong>Committee Initiative</strong><br />
+SIGCSE encourages its members to discuss topics of significance to the computing-education community through its <a href="../../topics/committees.shtml">Committee Initiative</a>. The following outlines SIGCSE's four current committees:</p>
+<p>1) SIGCSE Committee on the Implementation of a One-Semester Course in Discrete Mathematics </p>
+<ul><li>Facilitators: William Marion from Valpariso State University and Douglas Baldwin from the State University of New York at Geneseo. </li>
+<li>Status: After circulating draft materials and presenting interim reports at conferences, a final report is in preparation. </li>
+</ul><p> 2) SIGCSE Committee on Expanding the Women-in-Computing Community </p>
+<ul><li>Facilitators: Gloria Childress Townsend, DePauw University and Paula Gabbert, Furman University. </li>
+<li>Status: This committee engages interested individuals, particularly at conferences. Projects include identifying "recruiting and retaining women (R&amp;R) in computing" and highlighting success stories regarding R&amp;R, and fostering communication with interested computing educators related to expanding the community of women in computing. </li>
+</ul><p> 3) SIGCSE Committee on the Teaching of Computer Science Research Methods </p>
+<ul><li>Facilitators: Anne Applin, Ithaca College and Hillary Holz from California State University, East Bay.</li>
+<li>Status: After a year of preparation, several committee members met as a Working Group at ITiCSE 2006. A draft report is in progress.</li>
+</ul><p> 4) SIGCSE Committee on Models for Evaluating Faculty Scholarship </p>
+<ul><li>Facilitators: Gerald Kruse, Juniata College, Shmuel Fink, Touro College, and Keith Olson, Utah Valley State College</li>
+<li>Status: Organized this past year, the Committee held a Birds-of-a-Feather session at SIGCSE 2006, and it is beginning to consider the collection and organization of data. </li>
+</ul><p>Discussions continue with several individuals and groups regarding possible new SIGCSE Committees. When dialog yields a subject of general community interest, a clear focus, and 2-4 facilitators, a proposal can go forward to the SIGCSE Board for the creation of a new SIGCSE Committee. More information may be found about the <a href="../../topics/committees.shtml">SIGCSE Committee Initiative</a>. </p>
+<p><strong>Bulletin, <em>inroads</em></strong><br />
+SIGCSE publishes inroads the SIGCSE Bulletin, quarterly. </p>
+<ul><li>The March issue is the Proceedings of SIGCSE's annual Symposium</li>
+<li>The September issue is the Proceedings of SIGCSE's annual Conference on Innovation and Integrating Technology in Computer Science Education</li>
+<li>The June and December issues contain columns, editorials, and articles on computing education.</li>
+<li>The December issue also contains a CD of the Proceedings of the SIGCSE Workshop on International Computing Education Research.</li>
+</ul><p> John Impagliazzo provides outstanding leadership, vision, and insight in his role as Editor-in-Chief. </p>
+<p><strong>In-Cooperation Conferences</strong><br />
+As with other ACM Special Interest Groups, SIGCSE may lend its name to non-SIGCSE events that are fully sponsored by other non-profit organizations. To be approved, the event(s) must be relevant to SIGCSE and provide some sort of benefit to SIGCSE members. SIGCSE will not share in the direct financial support, benefit, or risk of the event. "In-Cooperation" status allows the conference to be publicized on ACM's on-line calendar, and conference proceedings may be indexed through the ACM Digital Library. Additional information is available regarding <a href="http://www.sigcse.org/about/in-cooperation.shtml">"in-cooperation" status</a>, and inquiries may be sent to <a href="mailto:chair@sigcse.org">chair@sigcse.org</a>.</p>
+<p>For a full list of SIGCSE-sponsored and "in-cooperation" events, see the "ACM Calendar of SIGCSE Events"available from the home page. </p>
+<p><strong> Doctoral Consortium</strong><br />
+SIGCSE's Doctoral Consortium provides a forum for graduate students to refine directions for their research, receive feedback on their research ideas, and develop a network of contacts for on-going discussions. The Doctoral Consortium is held annually on the on the Wednesday before the SIGCSE Symposium in February or March. This year, fourteen people participated in this program. </p>
+<p><strong> Outreach Project</strong><br />
+SIGCSE's <a href="../../about/outreach.shtml">Outreach Project</a> supports the dissemination of outstanding SIGCSE/ITiCSE presentations to other venues. The program is open to any non-ACM conference holding "In-Cooperation" status with SIGCSE. Funds are for travel support only (transportation, accommodation, meals), not for registrations or honoraria. The level of funding is subject to the quality of proposals received and the availability of funds. During the 2005-2006 academic year SIGCSE was pleased to fund seven proposals. </p>
+<p><strong>Workshop for Department Chairs</strong><br />
+This past year, with the encouragement of the SIGCSE Board, Frank Young of Rose-Hulman Institute of Technology, Sue Fitzgerald from Metropolitan State University, and Sandra DeLoatch from Norfolk State University organized an extremely well-received Workshop for Department Chairs, held just before the SIGCSE 2006 Symposium. This first workshop, attended by 20 participants, focused on organizational matters, planning, and the addressing of common problems -- with a particular focus on issues for new chairs. Building on the success of this first session, the next Workshop for Department Chairs is being planned in conjunction with SIGCSE 2007, expanding the focus to include all department chairs in computer science. </p>
+<p><strong> Web Site/Internet Presence</strong><br />
+SIGCSE is fortunate to have three capable volunteers who oversee its electronic presence: </p>
+<ul><li>Scott Grissom from Grand Valley State University serves as Web master.</li>
+<li>Jesse Heines from the University of Massachusetts at Lowell and </li>
+<li>Frank Young from Rose-Hulman Institute of Technology serve as listserv moderators.</li>
+</ul><p> Many thanks to each of these people for the wonderful work that they do. </p>
+<p><strong> Doctoral Programs in Computer Science Education</strong><br />
+In response to requests for information, the SIGCSE Board asked Sue Fitzgerald from Metropolitan State University and Lisa Kaczmarczyk from Rose Hulman Institute of Technology to help start a project to identify CS Ed doctoral programs and to identify resources for those interested in that area. Initial materials are being gathered and organized. Many thanks to Sue and Lisa for their on-going efforts on this project. Thanks also to Ann Fluery who contributed at the start of this work. </p>
+<p><strong>On-line Education Links</strong><br /><a href="../../topics.html">SIGCSE Education Links</a> is a collection of resources maintained and shared by SIGCSE members to support computer science education. All members of the educational community can borrow resources and learn from others. SIGCSE members are encouraged to share their resources. </p>
+  
+

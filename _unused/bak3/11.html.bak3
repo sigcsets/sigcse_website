@@ -1,0 +1,25 @@
+---
+title: Membership
+layout: page
+---
+                                <h1 class="page-title">Membership</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-11" class="node node-page node-full clearfix" about="/sigcse/membership" typeof="foaf:Document">
+                      <span property="dc:title" content="Membership" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>As of June 2017 SIGCSE has a total of 2,716 members representing over 60 countries.</p>
+<ul><li><a href="membership/benefits.html">Benefits</a> If you are a member these are your outstanding benefits</li>
+<li><a href="membership/join.html">How to Join</a> If you are not a member, think about joining</li>
+<li><a href="membership/get-involved.html">Get Involved</a> Ways for members to become more involved with SIGCSE</li>
+<li><a href="membership/mailing-lists.html">Mailing Lists</a> Three informative mailing lists are available for all members</li>
+<li><a href="membership/grades.html">ACM Membership Grades</a> Information on ACM's advanced membership grades.</li>
+</ul><p><strong>Questions about your membership?</strong></p>
+<ul><li>Contact ACM member services help desk at <a href="mailto:acmhelp@acm.org">acmhelp@acm.org</a></li>
+<li>For questions about SIGCSE member benefits, contact us at <a href="mailto:membership@sigcse.org">membership@sigcse.org</a></li>
+</ul>  
+

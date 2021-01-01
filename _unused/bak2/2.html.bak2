@@ -1,0 +1,45 @@
+---
+title: Profile
+layout: page
+---
+                                <h1 class="page-title">Profile</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+      <article id="node-2" class="node node-page node-full clearfix" about="/sigcse/about/profile" typeof="foaf:Document">
+                      <span property="dc:title" content="Profile" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>  
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h4>Mission Statement</h4>
+<p>The scope of SIGCSE is to provide a global forum for educators to discuss research and practice related to the learning, and teaching of computing, the development, implementation, and evaluation of computing programs, curricula, and courses at all education levels, as well as broad participation, educational technology, instructional spaces, and other elements of teaching and pedagogy related to computing. </p>
+<h4>Demographics</h4>
+<p>Computer Science Educators</p>
+<h4>Membership (as of June 2017)</h4>
+<p>A total of 2,716 members representing over 60 countries.</p>
+<h4>Awards</h4>
+<p>The following awards are presented annually:</p>
+<ul><li><a href="../programs/awards/outstanding.html">Outstanding Contribution to Computer Science Education</a></li>
+<li><a href="../programs/awards/lifetime.html">Lifetime Service to the Computer Science Education Community</a></li>
+</ul><h4>Officers</h4>
+<p>SIGCSE is managed by an elected <a href="board.html">Board</a> of volunteers consisting of a chair, vice chair, secretary, treasurer, and three "at large" members. </p>
+<p><a href="board-history.html">List of previous officers</a>.</p>
+<h4>Annual Events</h4>
+<p>The following events are held annually:</p>
+<ul><li><a href="../events/symposia.html">Technical Symposium (SIGCSE)</a>, usually held in February/March in the USA, with approximately 1300 attendees.</li>
+<li><a href="../events/iticse.html">Conference on Innovation and Technology in Computer Science Education (ITiCSE)</a>, usually held in June in or around Europe, with approximately 200 attendees.</li>
+<li><a href="../events/icer.html">International Computing Education Conference (ICER)</a>, usually held in August at sites around the world, with approximately 100 attendees.</li>
+<li><a href="../events/compEd.html">ACM Global Computing Education Conference (CompEd)</a>,  a new SIGCE  conference starting in 2019. The  conference will run in countries where we do not regularly hold SIGCSE conferences.</li>
+<li><a href="../events/dc.html">Doctoral Consortium (DC)</a>, usually held in conjunction with <a href="../events/icer.html">ICER</a>, with approximately 20 attendees.</li>
+</ul><h4>Other Activities</h4>
+<p>In addition to sponsoring events and awarding awards, SIGCSE is active in many other ways:</p>
+<ul><li>Publications - SIGCSE sponsors the <a href="http://inroads.acm.org/">ACM Inroads</a> magazine and also publishes a quarterly newsletter the <a href="bulletin.html">SIGCSE Bulletin</a>.</li>
+<li><a href="../membership/mailing-lists.html">Mailing Lists</a> - Two moderated mailing lists for announcements and discussion of topics of general interest to SIGCSE members are maintained.</li>
+<li><a href="../programs/special.html">Special Projects</a> - SIGCSE awards a limited number of grants to help its members investigate and introduce new ideas in the learning and teaching of computing.</li>
+<li><a href="../programs/outreach.html">Speaker's Fund</a> - This project supports the dissemination of outstanding SIGCSE/ITiCSE presentations to other venues.</li>
+<li><a href="../../sigcse.org/sigcse/policies/incooperation.html">In Cooperation Events</a> - SIGCSE may lend its name to non-SIGCSE events that are fully sponsored by other non-profit organizations.</li>
+<li><a href="../programs/committees.html">Committees</a> - The Committee initiative encourages SIGCSE members to participate in substantive discussions on areas of community interest with the goal of investigating topics in depth and culminating in substantive reports.</li>
+<li><a href="../resources.html">Resources</a> - SIGCSE maintains resources for the computing education community, for example a list of <a href="../resources/phd-programs.html">PhD programs</a> and a list of <a href="../resources/publish.html">places to publish</a>.</li>
+</ul></div></div></div>  </div>
+

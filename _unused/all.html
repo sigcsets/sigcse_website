@@ -1,0 +1,18 @@
+---
+title: All
+layout: page
+---
+<small>
+{% assign items = site.nodes | sort: 'title' %}
+{% for node in items %}
+	node,{{ node.url | absolute_url }},"{{ node.title }}"<br>
+{% endfor %}
+{% assign items = site.pages | sort: 'title' %}
+{% for node in items %}
+	pages,{{ node.url | absolute_url }},"{{ node.title }}"<br>
+{% endfor %}
+{% assign items = site.posts | sort: 'title' %}
+{% for node in items %}
+	posts,{{ node.url | absolute_url }},"{{ node.title }}"<br>
+{% endfor %}
+</small>

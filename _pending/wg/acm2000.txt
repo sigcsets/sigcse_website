@@ -1,0 +1,12 @@
+Vicki L. Almstrum, C. Neville Dean, Don Goelman, Thomas B. Hilburn, and Jan Smith. 2001. Support for teaching formal methods. In <i>Working group reports from ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '00</i>). Association for Computing Machinery, New York, NY, USA, 71–88. DOI:https://doi.org/10.1145/571968.571970
+
+Joseph Bergin, Charles Kelemen, Myles McNally, Tom Naps, Mike Goldweber, Chris Power, and Stephen Hartley. 2001. Non-programming resources for an introduction to CS: a collection of resources for the first courses in computer science. In <i>Working group reports from ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '00</i>). Association for Computing Machinery, New York, NY, USA, 89–100. DOI:https://doi.org/10.1145/571968.571971
+
+Tony Clear, Arto Haataja, Jeanine Meyer, Jarkko Suhonen, and Stuart A. Varden. 2001. Dimensions of distance learning for computer education. In <i>Working group reports from ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '00</i>). Association for Computing Machinery, New York, NY, USA, 101–110. DOI:https://doi.org/10.1145/571968.571972
+
+Lillian (Boots) Cassel, Mark Holliday, Deepak Kumar, John Impagliazzo, Kevin Bolding, Murray Pearson, Jim Davies, Gregory S. Wolffe, and William Yurcik. 2001. Distributed expertise for teaching computer organization &amp; architecture. In <i>Working group reports from ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '00</i>). Association for Computing Machinery, New York, NY, USA, 111–126. DOI:https://doi.org/10.1145/571968.571973
+
+Jari Lavonen, Veijo Meisalo, Matti Lattu, Liisa Leinonen, and Tadeusz Wilusz. 2001. Using computers in science and technology education. In <i>Working group reports from ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '00</i>). Association for Computing Machinery, New York, NY, USA, 127–135. DOI:https://doi.org/10.1145/571968.571974
+
+Joyce Currie Little, Mary Granger, Elizabeth S. Adams, Jaana Holvikivi, Susan K. Lippert, Henry M. Walker, and Alison Young. 2001. Integrating cultural issues into the computer and information technology curriculum. In <i>Working group reports from ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '00</i>). Association for Computing Machinery, New York, NY, USA, 136–154. DOI:https://doi.org/10.1145/571968.571975
+

@@ -1,0 +1,14 @@
+Mihaela Sabin, Barbara Viola, John Impagliazzo, Renzo Angles, Mariela Curiel, Paul Leger, Jorge Murillo, Hernán Nina, José Antonio Pow-Sang, and Ignacio Trejos. 2016. Latin American Perspectives to Internationalize Undergraduate Information Technology Education. In <i>Proceedings of the 2016 ITiCSE Working Group Reports</i> (<i>ITiCSE '16</i>). Association for Computing Machinery, New York, NY, USA, 1–22. DOI:https://doi.org/10.1145/3024906.3029847
+
+Chris Johnson, Monica McGill, Durell Bouchard, Michael K. Bradshaw, Víctor A. Bucheli, Laurence D. Merkle, Michael James Scott, Z. Sweedyk, J. Ángel Velázquez-Iturbide, Zhiping Xiao, and Ming Zhang. 2016. Game Development for Computer Science Education. In <i>Proceedings of the 2016 ITiCSE Working Group Reports</i> (<i>ITiCSE '16</i>). Association for Computing Machinery, New York, NY, USA, 23–44. DOI:https://doi.org/10.1145/3024906.3024908
+
+Ludwik Kuzniarz and Luiz Eduardo G. Martins. 2016. Teaching Model-Driven Software Development: A Pilot Study. In <i>Proceedings of the 2016 ITiCSE Working Group Reports</i> (<i>ITiCSE '16</i>). Association for Computing Machinery, New York, NY, USA, 45–56. DOI:https://doi.org/10.1145/3024906.3024909
+
+Simon, Judy Sheard, Michael Morgan, Andrew Petersen, Amber Settle, Jane Sinclair, Gerry Cross, and Charles Riedesel. 2016. Negotiating the Maze of Academic Integrity in Computing Education. In <i>Proceedings of the 2016 ITiCSE Working Group Reports</i> (<i>ITiCSE '16</i>). Association for Computing Machinery, New York, NY, USA, 57–80. DOI:https://doi.org/10.1145/3024906.3024910
+
+Margaret Hamilton, Andrew Luxton-Reilly, Naomi Augar, Vanea Chiprianov, Eveling Castro Gutierrez, Elizabeth Vidal Duarte, Helen H. Hu, Shoba Ittyipe, Janice L. Pearce, Michael Oudshoorn, and Emma Wong. 2016. Gender Equity in Computing: International Faculty Perceptions and Current Practices. In <i>Proceedings of the 2016 ITiCSE Working Group Reports</i> (<i>ITiCSE '16</i>). Association for Computing Machinery, New York, NY, USA, 81–102. DOI:https://doi.org/10.1145/3024906.3024911
+
+Dennis Bouvier, Ellie Lovellette, John Matta, Bedour Alshaigy, Brett A. Becker, Michelle Craig, Jana Jackova, Robert McCartney, Kate Sanders, and Mark Zarb. 2016. Novice Programmers and the Problem Description Effect. In <i>Proceedings of the 2016 ITiCSE Working Group Reports</i> (<i>ITiCSE '16</i>). Association for Computing Machinery, New York, NY, USA, 103–118. DOI:https://doi.org/10.1145/3024906.3024912
+
+Allan Fowler, Johanna Pirker, Ian Pollock, Bruno Campagnola de Paula, Maria Emilia Echeveste, and Marcos J. Gómez. 2016. Understanding the benefits of game jams: Exploring the potential for engaging young learners in STEM. In <i>Proceedings of the 2016 ITiCSE Working Group Reports</i> (<i>ITiCSE '16</i>). Association for Computing Machinery, New York, NY, USA, 119–135. DOI:https://doi.org/10.1145/3024906.3024913
+

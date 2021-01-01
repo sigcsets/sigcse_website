@@ -1,0 +1,10 @@
+Thomas L. Naps, Guido Rößling, Vicki Almstrum, Wanda Dann, Rudolf Fleischer, Chris Hundhausen, Ari Korhonen, Lauri Malmi, Myles McNally, Susan Rodger, and J. Ángel Velázquez-Iturbide. 2002. Exploring the role of visualization and engagement in computer science education. In <i>Working group reports from ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '02</i>). Association for Computing Machinery, New York, NY, USA, 131–152. DOI:https://doi.org/10.1145/960568.782998
+
+John P. Dougherty, Tom Dececchi, Tony Clear, Brad Richards, Stephen Cooper, and Tadeusz Wilusz. 2002. Information technology fluency in practice. In <i>Working group reports from ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '02</i>). Association for Computing Machinery, New York, NY, USA, 153–171. DOI:https://doi.org/10.1145/960568.782999
+
+Martin Dick, Judy Sheard, Cathy Bareiss, Janet Carter, Donald Joyce, Trevor Harding, and Cary Laxer. 2002. Addressing student cheating: definitions and solutions. In <i>Working group reports from ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '02</i>). Association for Computing Machinery, New York, NY, USA, 172–184. DOI:https://doi.org/10.1145/960568.783000
+
+Peter B. Henderson, Lew Hitchner, Sister Jane Fritz, Bill Marion, Christelle Scharff, John Hamer, and Charles Riedesel. 2002. Materials development in support of mathematical thinking. In <i>Working group reports from ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '02</i>). Association for Computing Machinery, New York, NY, USA, 185–190. DOI:https://doi.org/10.1145/960568.783001
+
+Pamela B. Lawhead, Michaele E. Duncan, Constance G. Bland, Michael Goldweber, Madeleine Schep, David J. Barnes, and Ralph G. Hollingsworth. 2002. A road map for teaching introductory programming using LEGO© mindstorms robots. In <i>Working group reports from ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '02</i>). Association for Computing Machinery, New York, NY, USA, 191–201. DOI:https://doi.org/10.1145/960568.783002
+

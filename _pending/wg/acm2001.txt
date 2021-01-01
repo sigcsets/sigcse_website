@@ -1,0 +1,6 @@
+Tony Clear, Michael Goldweber, Frank H. Young, Paul M. Leidig, and Kirk Scott. 2001. Resources for instructors of capstone courses in computing. In <i>Working group reports from ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '01</i>). Association for Computing Machinery, New York, NY, USA, 93–113. DOI:https://doi.org/10.1145/572133.572135
+
+Peter B. Henderson, Doug Baldwin, Venu Dasigi, Marcel Dupras, Jane Fritz, David Ginat, Don Goelman, John Hamer, Lew Hitchner, Will Lloyd, Bill Marion, Charles Riedesel, and Henry Walker. 2001. Striving for mathematical thinking. In <i>Working group reports from ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '01</i>). Association for Computing Machinery, New York, NY, USA, 114–124. DOI:https://doi.org/10.1145/572133.572136
+
+Michael McCracken, Vicki Almstrum, Danny Diaz, Mark Guzdial, Dianne Hagan, Yifat Ben-David Kolikant, Cary Laxer, Lynda Thomas, Ian Utting, and Tadeusz Wilusz. 2001. A multi-national, multi-institutional study of assessment of programming skills of first-year CS students. In <i>Working group reports from ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '01</i>). Association for Computing Machinery, New York, NY, USA, 125–180. DOI:https://doi.org/10.1145/572133.572137
+

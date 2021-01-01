@@ -9,9 +9,9 @@
   <nav aria-label="breadcrumb">
     <ol class="breadcrumb">
       {% if num_parts == "0" or num_parts == "-1" %}
-        <li class="breadcrumb-item"><a href={{"/" | absolute_url}}>Home</a></li>
+        <li class="breadcrumb-item"><a href={{"/"|absolute_url}}>Home</a></li>
       {% else %}
-        <li class="breadcrumb-item"><a href={{"/" | absolute_url}}>Home</a></li>
+        <li class="breadcrumb-item"><a href={{"/"|absolute_url}}>Home</a></li>
 
         <!-- From Bootstrap's documentation -->
         <!-- Separators are automatically added in CSS through ::before and content. -->

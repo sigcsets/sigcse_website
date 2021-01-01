@@ -1,0 +1,7 @@
+Janet Carter, Kirsti Ala-Mutka, Ursula Fuller, Martin Dick, John English, William Fone, and Judy Sheard. 2003. How shall we assess this? In <i>Working group reports from ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '03</i>). Association for Computing Machinery, New York, NY, USA, 107–123. DOI:https://doi.org/10.1145/960875.960539
+
+Thomas Naps, Stephen Cooper, Boris Koldehofe, Charles Leska, Guido Rößling, Wanda Dann, Ari Korhonen, Lauri Malmi, Jarmo Rantakokko, Rockford J. Ross, Jay Anderson, Rudolf Fleischer, Marja Kuittinen, and Myles McNally. 2003. Evaluating the educational impact of visualization. In <i>Working group reports from ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '03</i>). Association for Computing Machinery, New York, NY, USA, 124–136. DOI:https://doi.org/10.1145/960875.960540
+
+Sylvia Alexander, Martyn Clark, Ken Loose, June Amillo, Mats Daniels, Roger Boyle, Cary Laxer, and Dermot Shinners-Kennedy. 2003. Case studies in admissions to and early performance in computer science degrees. In <i>Working group reports from ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '03</i>). Association for Computing Machinery, New York, NY, USA, 137–147. DOI:https://doi.org/10.1145/960875.960541
+
+

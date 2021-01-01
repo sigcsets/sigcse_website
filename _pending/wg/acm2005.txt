@@ -1,0 +1,8 @@
+Ursula Fuller, June Amillo, Cary Laxer, W. Michael McCracken, and Joseph Mertz. 2005. Facilitating student learning through study abroad and international projects. <i>SIGCSE Bull.</i> 37, 4 (December 2005), 139–151. DOI:https://doi.org/10.1145/1113847.1113892
+
+Arnold Pears, Stephen Seidman, Crystal Eney, Päivi Kinnunen, and Lauri Malmi. 2005. Constructing a core literature for computing education research. <i>SIGCSE Bull.</i> 37, 4 (December 2005), 152–161. DOI:https://doi.org/10.1145/1113847.1113893
+
+Lillian N. Cassel, Anneke Hacquebard, Andrew McGettrick, Gordon Davies, Richard LeBlanc, Charles Riedesel, Yaakov L Varol, Gail T. Finley, Samuel Mann, and Robert H. Sloan. 2005. A synthesis of computing concepts. <i>SIGCSE Bull.</i> 37, 4 (December 2005), 162–172. DOI:https://doi.org/10.1145/1113847.1113894
+
+Vicki L. Almstrum, Lecia J. Barker, Barbara Boucher Owens, Elizabeth Adams, William Aspray, Nell B. Dale, Wanda Dann, Andrea Lawrence, and Leslie Schwartzman. 2005. Building a sense of history: narratives and pathways of women computing educators. <i>SIGCSE Bull.</i> 37, 4 (December 2005), 173–189. DOI:https://doi.org/10.1145/1113847.1113895
+

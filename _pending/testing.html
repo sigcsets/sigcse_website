@@ -1,0 +1,43 @@
+---
+title: Capital
+layout: page
+author: speakers
+---
+
+<h3>List of items</h3>
+
+<ul>
+{% for item in site.data.capitalization %}
+<li>{{item.word}}--{{item.display}}</li>
+{% endfor %}
+</ul>
+
+<h3>Found Item</h3>
+
+{% assign orig = page.author %}
+{{ site.members | find: "graduation_year", "2014" }}
+
+{% assign word = site.data.capitalization | where: 'word', orig %}
+<ul>
+{% assign have = word | size %}
+{% if have > 0 %}
+	<li>{{ word[0].word }} = {{ word[0].display }}</li>
+{% else %}
+	<li>{{ orig | capitalize }}</li>
+{% endif %}
+</ul>
+
+<h3>No Found Item</h3>
+
+{% assign orig = "wacko" %}
+{{ site.members | find: "graduation_year", "2014" }}
+
+{% assign word = site.data.capitalization | where: 'word', orig %}
+<ul>
+{% assign have = word | size %}
+{% if have > 0 %}
+	<li>?? {{ word }}</li>
+{% else %}
+	<li>{{orig}} = {{ orig | capitalize }}</li>
+{% endif %}
+</ul>

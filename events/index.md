@@ -17,7 +17,7 @@ SIGCSE annually sponsors the following events:
     North America and Europe, starting in 2019.
 -   [Doctoral Consortium (DC)](dc.html), usually held in
     conjunction with ICER, with approximately 20 attendees.
--   [Working Groups](workingGroups.html), held in conjunction
+-   [Working Groups](workinggroups.html), held in conjunction
     with ITiCSE and CompEd
 
 Additionally, many conferences across the world are held [in-cooperation with SIGCSE]({{"policies/incooperation.html" | absolute_url}}). You may view a [list of recent and future SIGCSE in-cooperation

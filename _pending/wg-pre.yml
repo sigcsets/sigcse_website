@@ -1,0 +1,802 @@
+- year: 1997
+  authors: "Daniel Joyce, Deborah Knox, Jill Gerhardt-Powals, Elliot Koffman, Wolfgang Kreuzer, Cary Laxer, Kenneth Loose, Erkki Sutinen, and R. Alan Whitehurst."
+  title: "Developing laboratories for the SIGCSE computing laboratory repository: guidelines, recommendations, and sample labs (report of the ITiCSE '97 working group on designing laboratory materials for computing courses)."
+  proceeding: "The supplemental proceedings of the conference on Integrating technology into computer science education: working group reports and supplemental proceedings (ITiCSE-WGR '97). Association for Computing Machinery, New York, NY, USA, 1–12."
+  doi: https://doi.org/10.1145/266057.266058
+
+- year: 1997
+  authors: "Thomas Naps, Joseph Bergin, Ricardo Jiménez-Peris, Myles F. McNally, Marta Patiño-Martínez, Viera K. Proulx, and Jorma Tarhio."
+  title: "Using the WWW as the delivery mechanism for interactive, visualization-based instructional modules (report of the ITiCSE '97 working group on visualization)."
+  proceeding: "The supplemental proceedings of the conference on Integrating technology into computer science education: working group reports and supplemental proceedings (ITiCSE-WGR '97). Association for Computing Machinery, New York, NY, USA, 13–26."
+  doi: https://doi.org/10.1145/266057.266062
+
+- year: 1997
+  authors: "Pamela B. Lawhead, Elizabeth Alpert, Constance G. Bland, Linda Carswell, Dawn Cizmar, Jean DeWitt, Mihaela Dumitru, Eva R. Fahraeus, and Kirk Scott."
+  title: "The Web and distance learning: what is appropriate and what is not (report of the ITiCSE '97 working group on the web and distance learning)."
+  proceeding: "The supplemental proceedings of the conference on Integrating technology into computer science education: working group reports and supplemental proceedings (ITiCSE-WGR '97). Association for Computing Machinery, New York, NY, USA, 27–37."
+  doi: https://doi.org/10.1145/266057.266067
+
+- year: 1997
+  authors: "Mary J. Granger, Joyce Currie Little, Elizabeth S. Adams, Christina Björkman, Don Gotterbarn, Diana D. Juettner, C. Dianne Martin, and Frank H. Young."
+  title: "Using information technology to integrate social and ethical issues into the computer science and information systems curriculum (report of the ITiCSE '97 working group on social and ethical issue in computing curricula)."
+  proceeding: "The supplemental proceedings of the conference on Integrating technology into computer science education: working group reports and supplemental proceedings (ITiCSE-WGR '97). Association for Computing Machinery, New York, NY, USA, 38–50."
+  doi: https://doi.org/10.1145/266057.266075
+
+- year: 1997
+  authors: "Ursula Wolz, Jacob Palme, Penny Anderson, Zhi Chen, James Dunne, Göran Karlsson, Atika Laribi, Sirkku Männikkö, Robert Spielvogel, and Henry Walker."
+  title: "Computer-mediated communication in collaborative educational settings (report of the ITiCSE '97 working group on CMC in collaborative educational settings)."
+  proceeding: "The supplemental proceedings of the conference on Integrating technology into computer science education: working group reports and supplemental proceedings (ITiCSE-WGR '97). Association for Computing Machinery, New York, NY, USA, 51–69."
+  doi: https://doi.org/10.1145/266057.266100
+
+- year: 1997
+  authors: "Douglas Siviter, Marian Petre, and Bruce Klein."
+  title: "Harnessing technology for effective inter- and intra-institutional collaboration (report of the ITiCSE '97 working group on supporting inter- and intra institutional collaboration)."
+  proceeding: "The supplemental proceedings of the conference on Integrating technology into computer science education: working group reports and supplemental proceedings (ITiCSE-WGR '97). Association for Computing Machinery, New York, NY, USA, 70–93."
+  doi: https://doi.org/10.1145/266057.266113
+
+- year: 1997
+  authors: "Michael Goldweber, John Impagliazzo, Iouri A. Bogoiavlenski, A. G. Clear, Gordon Davies, Hans Flack, J. Paul Myers, and Richard Rasala."
+  title: "Historical perspectives on the computing curriculum (report of the ITiCSE '97 working group on historical perspectives in computing education)."
+  proceeding: "The supplemental proceedings of the conference on Integrating technology into computer science education: working group reports and supplemental proceedings (ITiCSE-WGR '97). Association for Computing Machinery, New York, NY, USA, 94–111."
+  doi: https://doi.org/10.1145/266057.266119
+
+- year: 1998
+  authors: "Scott Grissom, Deborah Knox, Elana Copperman, Wanda Dann, Michael Goldweber, Janet Hartman, Marja Kuittinen, David Mutchler, and Nick Parlante."
+  title: "Developing a digital library of computer science teaching resources."
+  proceeding: "Working Group reports of the 3rd annual SIGCSE/SIGCUE ITiCSE conference on Integrating technology into computer science education (ITiCSE-WGR '98). Association for Computing Machinery, New York, NY, USA, 1–13."
+  doi: https://doi.org/10.1145/316572.358289
+
+- year: 1998
+  authors: "Joseph Bergin, Thomas L. Naps, Constance G. Bland, Stephen J. Hartley, Mark A. Holliday, Pamela B. Lawhead, John Lewis, Myles F. McNally, Christopher H. Nevison, Cheng Ng, George J. Pothering, and Tommi Teräsvirta."
+  title: "Java resources for computer science instruction."
+  proceeding: "Working Group reports of the 3rd annual SIGCSE/SIGCUE ITiCSE conference on Integrating technology into computer science education (ITiCSE-WGR '98). Association for Computing Machinery, New York, NY, USA, 14–34."
+  doi: https://doi.org/10.1145/316572.358291
+
+- year: 1998
+  authors: "Stan J. Thomas, Cary Laxer, Tomohiro Nishida, and Helen Sherlock."
+  title: "The impact of campus-wide portable computing on computer science education."
+  proceeding: "Working Group reports of the 3rd annual SIGCSE/SIGCUE ITiCSE conference on Integrating technology into computer science education (ITiCSE-WGR '98). Association for Computing Machinery, New York, NY, USA, 35–40."
+  doi: https://doi.org/10.1145/316572.358294
+
+- year: 1998
+  authors: "Ainslie Ellis, Linda Carswell, Andrew Bernat, Daniel Deveaux, Patrice Frison, Veijo Meisalo, Jeanine Meyer, Urban Nulden, Joze Rugelj, and Jorma Tarhio."
+  title: "Resources, tools, and techniques for problem based learning in computing."
+  proceeding: "Working Group reports of the 3rd annual SIGCSE/SIGCUE ITiCSE conference on Integrating technology into computer science education (ITiCSE-WGR '98). Association for Computing Machinery, New York, NY, USA, 41–56."
+  doi: https://doi.org/10.1145/316572.358296
+
+- year: 1998
+  authors: "M. Dee Medley, Rebecca H. Rutherfoord, G. Ernest Anderson, R. Waldo Roth, and Stuart A. Varden. "
+  title: "Ethical issues related to internet development and research."
+  proceeding: "Working Group reports of the 3rd annual SIGCSE/SIGCUE ITiCSE conference on Integrating technology into computer science education (ITiCSE-WGR '98). Association for Computing Machinery, New York, NY, USA, 57–72."
+  doi: https://doi.org/10.1145/316572.358299
+
+- year: 1999
+  authors: "Deborah Knox, Sally Fincher, Nell Dale, Elizabeth Adams, Don Goelman, James Hightower, Ken Loose, and Fred Springsteel."
+  title: "The peer review process of teaching materials: report of the ITiCSE'99 working group on validation of the quality of teaching materials."
+  proceeding: "Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '99). Association for Computing Machinery, New York, NY, USA, 87–100."
+  doi: https://doi.org/10.1145/349316.349548
+
+
+- year: 1999
+  authors: "Joseph Bergin, Amruth Kumar, Viera K. Proulx, Myles McNally, Alyce Faulstich Brady, David Mutchler, Stephen Hartley, Richard Rasala, Charles Kelemen, Rocky Ross, and Frank Klassner."
+  title: "Resources for Next Generation Introductory CS Courses: Report of the ITiCSE'99 Working Group on Resources for the Next Generation CS 1 Course."
+  proceeding: "Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '99). Association for Computing Machinery, New York, NY, USA, 101–105."
+  doi: https://doi.org/10.1145/349316.571916
+
+
+
+- year: 1999
+  authors: "Joyce Currie Little, Mary J. Granger, Roger Boyle, Jill Gerhardt-Powals, John Impagliazzo, Carol Janik, Norbert J. Kubilus, Susan K. Lippert, W. Michael McCracken, Grazyna Paliwoda, and Piotr Soja."
+  title: "Integrating Professionalism and Workplace: Issues into the Computing and Information Technology Curriculum."
+
+- year: 1999
+  authors: "Eva R. Fåhræus, Noel Bridgeman, Joze Rugelj, Barbara Chamberlain, and Ursula Fuller."
+  title: "Teaching with Electronic Collaborative Learning Groups."
+  proceeding: "Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '99). Association for Computing Machinery, New York, NY, USA."
+
+
+- year: 2001
+  authors: "Vicki L."
+  title: "Almstrum, C. Neville Dean, Don Goelman, Thomas B. Hilburn, and Jan Smith. Support for teaching formal methods."
+  proceeding: "Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '00). Association for Computing Machinery, New York, NY, USA, 71–88."
+  doi: https://doi.org/10.1145/571968.571970
+
+- year: 2001
+  authors: "Joseph Bergin, Charles Kelemen, Myles McNally, Tom Naps, Mike Goldweber, Chris Power, and Stephen Hartley."
+  title: "Non-programming resources for an introduction to CS: a collection of resources for the first courses in computer science."
+  proceeding: "Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '00). Association for Computing Machinery, New York, NY, USA, 89–100."
+  doi: https://doi.org/10.1145/571968.571971
+
+- year: 2001
+  authors: "Tony Clear, Arto Haataja, Jeanine Meyer, Jarkko Suhonen, and Stuart A."
+  title: "Varden. Dimensions of distance learning for computer education."
+  proceeding: "Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '00). Association for Computing Machinery, New York, NY, USA, 101–110."
+  doi: https://doi.org/10.1145/571968.571972
+
+- year: 2001
+  authors: "Lillian (Boots) Cassel, Mark Holliday, Deepak Kumar, John Impagliazzo, Kevin Bolding, Murray Pearson, Jim Davies, Gregory S."
+  title: "Wolffe, and William Yurcik. Distributed expertise for teaching computer organization &amp; architecture."
+  proceeding: "Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '00). Association for Computing Machinery, New York, NY, USA, 111–126."
+  doi: https://doi.org/10.1145/571968.571973
+
+- year: 2001
+  authors: "Jari Lavonen, Veijo Meisalo, Matti Lattu, Liisa Leinonen, and Tadeusz Wilusz."
+  title: "Using computers in science and technology education."
+  proceeding: "Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '00). Association for Computing Machinery, New York, NY, USA, 127–135."
+  doi: https://doi.org/10.1145/571968.571974
+
+- year: 2001
+  authors: "Joyce Currie Little, Mary Granger, Elizabeth S."
+  title: "Adams, Jaana Holvikivi, Susan K. Lippert, Henry M. Walker, and Alison Young. Integrating cultural issues into the computer and information technology curriculum."
+  proceeding: "Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '00). Association for Computing Machinery, New York, NY, USA, 136–154."
+  doi: https://doi.org/10.1145/571968.571975
+
+- year: 2001
+  authors: "Tony Clear, Michael Goldweber, Frank H."
+  title: "Young, Paul M. Leidig, and Kirk Scott. Resources for instructors of capstone courses in computing."
+  proceeding: "Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '01). Association for Computing Machinery, New York, NY, USA, 93–113."
+  doi: https://doi.org/10.1145/572133.572135
+
+- year: 2001
+  authors: "Peter B."
+  title: "Henderson, Doug Baldwin, Venu Dasigi, Marcel Dupras, Jane Fritz, David Ginat, Don Goelman, John Hamer, Lew Hitchner, Will Lloyd, Bill Marion, Charles Riedesel, and Henry Walker. Striving for mathematical thinking."
+  proceeding: "Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '01). Association for Computing Machinery, New York, NY, USA, 114–124."
+  doi: https://doi.org/10.1145/572133.572136
+
+- year: 2001
+  authors: "Michael McCracken, Vicki Almstrum, Danny Diaz, Mark Guzdial, Dianne Hagan, Yifat Ben-David Kolikant, Cary Laxer, Lynda Thomas, Ian Utting, and Tadeusz Wilusz."
+  title: "A multi-national, multi-institutional study of assessment of programming skills of first-year CS students."
+  proceeding: "Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '01). Association for Computing Machinery, New York, NY, USA, 125–180."
+  doi: https://doi.org/10.1145/572133.572137
+
+- year: 2002
+  authors: "Thomas L."
+  title: "Naps, Guido Rößling, Vicki Almstrum, Wanda Dann, Rudolf Fleischer, Chris Hundhausen, Ari Korhonen, Lauri Malmi, Myles McNally, Susan Rodger, and J. Ángel Velázquez-Iturbide. Exploring the role of visualization and engagement in computer science education."
+  proceeding: "Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '02). Association for Computing Machinery, New York, NY, USA, 131–152."
+  doi: https://doi.org/10.1145/960568.782998
+
+- year: 2002
+  authors: "Thomas L."
+  title: "Naps, Guido Rößling, Vicki Almstrum, Wanda Dann, Rudolf Fleischer, Chris Hundhausen, Ari Korhonen, Lauri Malmi, Myles McNally, Susan Rodger, and J. Ángel Velázquez-Iturbide. Exploring the role of visualization and engagement in computer science education. <i>SIGCSE Bull.</i> 35, 2 (June 2003), 131–152."
+  doi: https://doi.org/10.1145/782941.782998
+
+- year: 2002
+  authors: "John P."
+  title: "Dougherty, Tom Dececchi, Tony Clear, Brad Richards, Stephen Cooper, and Tadeusz Wilusz."
+  proceeding: "Information technology fluency in practice. Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '02). Association for Computing Machinery, New York, NY, USA, 153–171."
+  doi: https://doi.org/10.1145/960568.782999
+
+- year: 2002
+  authors: "John P."
+  title: "Dougherty, Tom Dececchi, Tony Clear, Brad Richards, Stephen Cooper, and Tadeusz Wilusz."
+  proceeding: "Information technology fluency in practice. <i>SIGCSE Bull.</i> 35, 2 (June 2003), 153–171."
+  doi: https://doi.org/10.1145/782941.782999
+
+- year: 2002
+  authors: "Martin Dick, Judy Sheard, Cathy Bareiss, Janet Carter, Donald Joyce, Trevor Harding, and Cary Laxer."
+  title: "Addressing student cheating: definitions and solutions."
+  proceeding: "Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '02). Association for Computing Machinery, New York, NY, USA, 172–184."
+  doi: https://doi.org/10.1145/960568.783000
+
+- year: 2002
+  authors: "Martin Dick, Judy Sheard, Cathy Bareiss, Janet Carter, Donald Joyce, Trevor Harding, and Cary Laxer."
+  title: "Addressing student cheating: definitions and solutions. <i>SIGCSE Bull.</i> 35, 2 (June 2003), 172–184."
+  doi: https://doi.org/10.1145/782941.783000
+
+- year: 2002
+  authors: "Peter B."
+  title: "Henderson, Lew Hitchner, Sister Jane Fritz, Bill Marion, Christelle Scharff, John Hamer, and Charles Riedesel. Materials development in support of mathematical thinking."
+  proceeding: "Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '02). Association for Computing Machinery, New York, NY, USA, 185–190."
+  doi: https://doi.org/10.1145/960568.783001
+
+- year: 2002
+  authors: "Peter B."
+  title: "Henderson, Lew Hitchner, Sister Jane Fritz, Bill Marion, Christelle Scharff, John Hamer, and Charles Riedesel. Materials development in support of mathematical thinking. <i>SIGCSE Bull.</i> 35, 2 (June 2003), 185–190."
+  doi: https://doi.org/10.1145/782941.783001
+
+- year: 2002
+  authors: "Pamela B."
+  title: "Lawhead, Michaele E. Duncan, Constance G. Bland, Michael Goldweber, Madeleine Schep, David J. Barnes, and Ralph G. Hollingsworth. A road map for teaching introductory programming using LEGO© mindstorms robots."
+  proceeding: "Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '02). Association for Computing Machinery, New York, NY, USA, 191–201."
+  doi: https://doi.org/10.1145/960568.783002
+
+- year: 2002
+  authors: "Pamela B."
+  title: "Lawhead, Michaele E. Duncan, Constance G. Bland, Michael Goldweber, Madeleine Schep, David J. Barnes, and Ralph G. Hollingsworth. A road map for teaching introductory programming using LEGO© mindstorms robots. <i>SIGCSE Bull.</i> 35, 2 (June 2003), 191–201."
+  doi: https://doi.org/10.1145/782941.783002
+
+- year: 2003
+  authors: "Janet Carter, Kirsti Ala-Mutka, Ursula Fuller, Martin Dick, John English, William Fone, and Judy Sheard."
+  title: "How shall we assess this."
+  proceeding: "Working group reports from ITiCSE on Innovation and technolog."
+  proceeding: "In computer science education (ITiCSE-WGR '03). Association for Computing Machinery, New York, NY, USA, 107–123."
+  doi: https://doi.org/10.1145/960875.960539
+
+- year: 2003
+  authors: "Janet Carter, Kirsti Ala-Mutka, Ursula Fuller, Martin Dick, John English, William Fone, and Judy Sheard."
+  title: "How shall we assess this? <i>SIGCSE Bull.</i> 35, 4 (December 2003), 107–123."
+  doi: https://doi.org/10.1145/960492.960539
+
+- year: 2003
+  authors: "Thomas Naps, Stephen Cooper, Boris Koldehofe, Charles Leska, Guido Rößling, Wanda Dann, Ari Korhonen, Lauri Malmi, Jarmo Rantakokko, Rockford J."
+  title: "Ross, Jay Anderson, Rudolf Fleischer, Marja Kuittinen, and Myles McNally. Evaluating the educational impact of visualization."
+  proceeding: "Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '03). Association for Computing Machinery, New York, NY, USA, 124–136."
+  doi: https://doi.org/10.1145/960875.960540
+
+- year: 2003
+  authors: "Thomas Naps, Stephen Cooper, Boris Koldehofe, Charles Leska, Guido Rößling, Wanda Dann, Ari Korhonen, Lauri Malmi, Jarmo Rantakokko, Rockford J."
+  title: "Ross, Jay Anderson, Rudolf Fleischer, Marja Kuittinen, and Myles McNally. Evaluating the educational impact of visualization. <i>SIGCSE Bull.</i> 35, 4 (December 2003), 124–136."
+  doi: https://doi.org/10.1145/960492.960540
+
+- year: 2003
+  authors: "Sylvia Alexander, Martyn Clark, Ken Loose, June Amillo, Mats Daniels, Roger Boyle, Cary Laxer, and Dermot Shinners-Kennedy."
+  title: "Case studies in admissions to and early performance in computer science degrees."
+  proceeding: "Working group reports from ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '03). Association for Computing Machinery, New York, NY, USA, 137–147."
+  doi: https://doi.org/10.1145/960875.960541
+
+- year: 2003
+  authors: "Sylvia Alexander, Martyn Clark, Ken Loose, June Amillo, Mats Daniels, Roger Boyle, Cary Laxer, and Dermot Shinners-Kennedy."
+  title: "Case studies in admissions to and early performanc."
+  proceeding: "In computer science degrees. <i>SIGCSE Bull.</i> 35, 4 (December 2003), 137–147."
+  doi: https://doi.org/10.1145/960492.960541
+
+- year: 2006
+  authors: "Myles F."
+  title: "McNally. Session details: ITiCSE-2006 working group reports."
+  proceeding: "Working group reports on ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '06). Association for Computing Machinery, New York, NY, USA."
+  doi: https://doi.org/10.1145/3255200
+
+- year: 2006
+  authors: "Hilary J."
+  title: "Holz, Anne Applin, Bruria Haberman, Donald Joyce, Helen Purchase, and Catherine Reed. Research methods in computing: what are they, and how should we teach them? <i>SIGCSE Bull.</i> 38, 4 (December 2006), 96–114."
+  doi: https://doi.org/10.1145/1189136.1189180
+
+- year: 2006
+  authors: "Hilary J."
+  title: "Holz, Anne Applin, Bruria Haberman, Donald Joyce, Helen Purchase, and Catherine Reed. Research methods in computing: what are they, and how should we teach them."
+  proceeding: "Working group reports on ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '06). Association for Computing Machinery, New York, NY, USA, 96–114."
+  doi: https://doi.org/10.1145/1189215.1189180
+
+- year: 2006
+  authors: "Ursula Fuller, Arnold Pears, June Amillo, Chris Avram, and Linda Mannila."
+  title: "A computing perspective on the Bologna process. <i>SIGCSE Bull.</i> 38, 4 (December 2006), 115–131."
+  doi: https://doi.org/10.1145/1189136.1189181
+
+- year: 2006
+  authors: "Ursula Fuller, Arnold Pears, June Amillo, Chris Avram, and Linda Mannila."
+  title: "A computing perspective on the Bologna process."
+  proceeding: "Working group reports on ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '06). Association for Computing Machinery, New York, NY, USA, 115–131."
+  doi: https://doi.org/10.1145/1189215.1189181
+
+- year: 2006
+  authors: "Vicki L."
+  title: "Almstrum, Peter B. Henderson, Valerie Harvey, Cinda Heeren, William Marion, Charles Riedesel, Leen-Kiat Soh, and Allison Elliott Tew. Concept inventories in computer science for the topic discrete mathematics. <i>SIGCSE Bull.</i> 38, 4 (December 2006), 132–145."
+  doi: https://doi.org/10.1145/1189136.1189182
+
+- year: 2006
+  authors: "Vicki L."
+  title: "Almstrum, Peter B. Henderson, Valerie Harvey, Cinda Heeren, William Marion, Charles Riedesel, Leen-Kiat Soh, and Allison Elliott Tew. Concept inventories in computer science for the topic discrete mathematics."
+  proceeding: "Working group reports on ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '06). Association for Computing Machinery, New York, NY, USA, 132–145."
+  doi: https://doi.org/10.1145/1189215.1189182
+
+- year: 2006
+  authors: "Raymond Lister, Anders Berglund, Tony Clear, Joe Bergin, Kathy Garvin-Doxas, Brian Hanks, Lew Hitchner, Andrew Luxton-Reilly, Kate Sanders, Carsten Schulte, and Jacqueline L."
+  title: "Whalley. Research perspectives on the objects-early debate. <i>SIGCSE Bull.</i> 38, 4 (December 2006), 146–165."
+  doi: https://doi.org/10.1145/1189136.1189183
+
+- year: 2006
+  authors: "Raymond Lister, Anders Berglund, Tony Clear, Joe Bergin, Kathy Garvin-Doxas, Brian Hanks, Lew Hitchner, Andrew Luxton-Reilly, Kate Sanders, Carsten Schulte, and Jacqueline L."
+  title: "Whalley. Research perspectives on the objects-early debate."
+  proceeding: "Working group reports on ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '06). Association for Computing Machinery, New York, NY, USA, 146–165."
+  doi: https://doi.org/10.1145/1189215.1189183
+
+- year: 2006
+  authors: "Guido Rößling, Thomas Naps, Mark S."
+  title: "Hall, Ville Karavirta, Andreas Kerren, Charles Leska, Andrés Moreno, Rainer Oechsle, Susan H. Rodger, Jaime Urquiza-Fuentes, and J. Ángel Velázquez-Iturbide. Merging interactive visualizations with hypertextbooks and course management. <i>SIGCSE Bull.</i> 38, 4 (December 2006), 166–181."
+  doi: https://doi.org/10.1145/1189136.1189184
+
+- year: 2006
+  authors: "Guido Rößling, Thomas Naps, Mark S."
+  title: "Hall, Ville Karavirta, Andreas Kerren, Charles Leska, Andrés Moreno, Rainer Oechsle, Susan H. Rodger, Jaime Urquiza-Fuentes, and J. Ángel Velázquez-Iturbide. Merging interactive visualizations with hypertextbooks and course management."
+  proceeding: "Working group reports on ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '06). Association for Computing Machinery, New York, NY, USA, 166–181."
+  doi: https://doi.org/10.1145/1189215.1189184
+
+- year: 2006
+  authors: "Jerry Mead, Simon Gray, John Hamer, Richard James, Juha Sorva, Caroline St."
+  title: "Clair, and Lynda Thomas. A cognitive approach to identifying measurable milestones for programming skill acquisition. <i>SIGCSE Bull.</i> 38, 4 (December 2006), 182–194."
+  doi: https://doi.org/10.1145/1189136.1189185
+
+- year: 2006
+  authors: "Jerry Mead, Simon Gray, John Hamer, Richard James, Juha Sorva, Caroline St."
+  title: "Clair, and Lynda Thomas. A cognitive approach to identifying measurable milestones for programming skill acquisition."
+  proceeding: "Working group reports on ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '06). Association for Computing Machinery, New York, NY, USA, 182–194."
+  doi: https://doi.org/10.1145/1189215.1189185
+
+- year: 2007
+  authors: "Beth Simon, Sue Fitzgerald, Renée McCauley, Susan Haller, John Hamer, Brian Hanks, Michael T."
+  title: "Helmick, Jan Erik Moström, Judy Sheard, and Lynda Thomas. Debugging assistance for novices: a video repository."
+  proceeding: "Working group reports on ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '07). Association for Computing Machinery, New York, NY, USA, 137–151."
+  doi: https://doi.org/10.1145/1345443.1345437
+
+- year: 2007
+  authors: "Beth Simon, Sue Fitzgerald, Renée McCauley, Susan Haller, John Hamer, Brian Hanks, Michael T."
+  title: "Helmick, Jan Erik Moström, Judy Sheard, and Lynda Thomas. Debugging assistance for novices: a video repository. <i>SIGCSE Bull.</i> 39, 4 (December 2007), 137–151."
+  doi: https://doi.org/10.1145/1345375.1345437
+
+- year: 2007
+  authors: "Ursula Fuller, Colin G."
+  title: "Johnson, Tuukka Ahoniemi, Diana Cukierman, Isidoro Hernán-Losada, Jana Jackova, Essi Lahtinen, Tracy L. Lewis, Donna McGee Thompson, Charles Riedesel, and Errol Thompson. Developing a computer science-specific learning taxonomy."
+  proceeding: "Working group reports on ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '07). Association for Computing Machinery, New York, NY, USA, 152–170."
+  doi: https://doi.org/10.1145/1345443.1345438
+
+- year: 2007
+  authors: "Ursula Fuller, Colin G."
+  title: "Johnson, Tuukka Ahoniemi, Diana Cukierman, Isidoro Hernán-Losada, Jana Jackova, Essi Lahtinen, Tracy L. Lewis, Donna McGee Thompson, Charles Riedesel, and Errol Thompson. Developing a computer science-specific learning taxonomy. <i>SIGCSE Bull.</i> 39, 4 (December 2007), 152–170."
+  doi: https://doi.org/10.1145/1345375.1345438
+
+- year: 2007
+  authors: "Lillian N."
+  title: "Cassel, Gordon Davies, William Fone, Anneke Hacquebard, John Impagliazzo, Richard LeBlanc, Joyce Currie Little, Andrew McGettrick, and Michela Pedrona. The computing ontology: application in education."
+  proceeding: "Working group reports on ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '07). Association for Computing Machinery, New York, NY, USA, 171–183."
+  doi: https://doi.org/10.1145/1345443.1345439
+
+- year: 2007
+  authors: "Lillian N."
+  title: "Cassel, Gordon Davies, William Fone, Anneke Hacquebard, John Impagliazzo, Richard LeBlanc, Joyce Currie Little, Andrew McGettrick, and Michela Pedrona. The computing ontology: application in education. <i>SIGCSE Bull.</i> 39, 4 (December 2007), 171–183."
+  doi: https://doi.org/10.1145/1345375.1345439
+
+- year: 2007
+  authors: "Anne G."
+  title: "Applin, Hilary J. Holz, William Joel, Ifeyinwa Okoye, Katherine Deibel, Becky Grasser, Briony J. Oates, and Gwendolyne Wood. A multi-perspective digital library to facilitate integrating teaching research methods across the computing curriculum."
+  proceeding: "Working group reports on ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '07). Association for Computing Machinery, New York, NY, USA, 184–203."
+  doi: https://doi.org/10.1145/1345443.1345440
+
+- year: 2007
+  authors: "Anne G."
+  title: "Applin, Hilary J. Holz, William Joel, Ifeyinwa Okoye, Katherine Deibel, Becky Grasser, Briony J. Oates, and Gwendolyne Wood. A multi-perspective digital library to facilitate integrating teaching research methods across the computing curriculum. <i>SIGCSE Bull.</i> 39, 4 (December 2007), 184–203."
+  doi: https://doi.org/10.1145/1345375.1345440
+
+- year: 2007
+  authors: "Arnold Pears, Stephen Seidman, Lauri Malmi, Linda Mannila, Elizabeth Adams, Jens Bennedsen, Marie Devlin, and James Paterson."
+  title: "A survey of literature on the teaching of introductory programming."
+  proceeding: "Working group reports on ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '07). Association for Computing Machinery, New York, NY, USA, 204–223."
+  doi: https://doi.org/10.1145/1345443.1345441
+
+- year: 2007
+  authors: "Arnold Pears, Stephen Seidman, Lauri Malmi, Linda Mannila, Elizabeth Adams, Jens Bennedsen, Marie Devlin, and James Paterson."
+  title: "A survey of literature on the teaching o."
+  proceeding: "Introductory programming. <i>SIGCSE Bull.</i> 39, 4 (December 2007), 204–223."
+  doi: https://doi.org/10.1145/1345375.1345441
+
+- year: 2007
+  authors: "Ilaria Liccardi, Asma Ounnas, Reena Pau, Elizabeth Massey, Päivi Kinnunen, Sarah Lewthwaite, Marie-Anne Midy, and Chandan Sarkar."
+  title: "The role of social networks in students' learning experiences."
+  proceeding: "Working group reports on ITiCSE on Innovation and technology in computer science education (ITiCSE-WGR '07). Association for Computing Machinery, New York, NY, USA, 224–237."
+  doi: https://doi.org/10.1145/1345443.1345442
+
+- year: 2007
+  authors: "Ilaria Liccardi, Asma Ounnas, Reena Pau, Elizabeth Massey, Päivi Kinnunen, Sarah Lewthwaite, Marie-Anne Midy, and Chandan Sarkar."
+  title: "The role of social network."
+  proceeding: "In students' learning experiences. <i>SIGCSE Bull.</i> 39, 4 (December 2007), 224–237."
+  doi: https://doi.org/10.1145/1345375.1345442
+
+- year: 2010
+  authors: "John Hamer, Helen C."
+  title: "Purchase, Andrew Luxton-Reilly, and Judithe Sheard. Tools for \"contributing student learning\"."
+  proceeding: "Proceedings of the 2010 ITiCSE working group reports (ITiCSE-WGR '10). Association for Computing Machinery, New York, NY, USA, 1–14."
+  doi: https://doi.org/10.1145/1971681.1971683
+
+- year: 2010
+  authors: "Guido Rößling, Myles McNally, Pierluigi Crescenzi, Atanas Radenski, Petri Ihantola, and M."
+  title: "Gloria Sánchez-Torrubia. Adapting moodle to better support CS education."
+  proceeding: "Proceedings of the 2010 ITiCSE working group reports (ITiCSE-WGR '10). Association for Computing Machinery, New York, NY, USA, 15–27."
+  doi: https://doi.org/10.1145/1971681.1971684
+
+- year: 2010
+  authors: "Janet Carter, Su White, Karen Fraser, Stanislav Kurkovsky, Colette McCreesh, and Malcolm Wieck."
+  title: "ITiCSE 2010 working group report motivating our top students."
+  proceeding: "Proceedings of the 2010 ITiCSE working group reports (ITiCSE-WGR '10). Association for Computing Machinery, New York, NY, USA, 29–47."
+  doi: https://doi.org/10.1145/1971681.1971685
+
+- year: 2010
+  authors: "Stephen Cooper, Christine Nickell, Lance C."
+  title: "Pérez, Brenda Oldfield, Joel Brynielsson, Asım Gencer Gökce, Elizabeth K. Hawthorne, Karl J. Klee, Andrea Lawrence, and Susanne Wetzel. Towards information assurance (IA) curricular guidelines."
+  proceeding: "Proceedings of the 2010 ITiCSE working group reports (ITiCSE-WGR '10). Association for Computing Machinery, New York, NY, USA, 49–64."
+  doi: https://doi.org/10.1145/1971681.1971686
+
+- year: 2010
+  authors: "Carsten Schulte, Tony Clear, Ahmad Taherkhani, Teresa Busjahn, and James H."
+  title: "Paterson. An introduction to program comprehension for computer science educators."
+  proceeding: "Proceedings of the 2010 ITiCSE working group reports (ITiCSE-WGR '10). Association for Computing Machinery, New York, NY, USA, 65–86."
+  doi: https://doi.org/10.1145/1971681.1971687
+
+- year: 2010
+  authors: "Peter Cooper, Gail T."
+  title: "Finley, and Petteri Kaskenpalo. Towards standards in digital forensics education."
+  proceeding: "Proceedings of the 2010 ITiCSE working group reports (ITiCSE-WGR '10). Association for Computing Machinery, New York, NY, USA, 87–95."
+  doi: https://doi.org/10.1145/1971681.1971688
+
+- year: 2010
+  authors: "Richard Brown, Elizabeth Shoop, Joel Adams, Curtis Clifton, Mark Gardner, Michael Haupt, and Peter Hinsbeeck."
+  title: "Strategies for preparing computer science students for the multicore world."
+  proceeding: "Proceedings of the 2010 ITiCSE working group reports (ITiCSE-WGR '10). Association for Computing Machinery, New York, NY, USA, 97–115."
+  doi: https://doi.org/10.1145/1971681.1971689
+
+- year: 2010
+  authors: "Mikey Goldweber, Joyce Currie Little, Gerry Cross, Renzo Davoli, Charles Riedesel, Brian R."
+  title: "von Konsky, and Henry Walker. Enhancing the Social Issues Components in our Computing Curriculum: Computing for the Social Good."
+  proceeding: "Proceedings of the 2010 ITiCSE working group reports (ITiCSE-WGR '10). Association for Computing Machinery, New York, NY, USA, 117–133."
+  doi: https://doi.org/10.1145/1971681.1988996
+
+- year: 2011
+  authors: "Janet Carter, Dennis Bouvier, Rachel Cardell-Oliver, Margaret Hamilton, Stanislav Kurkovsky, Stefanie Markham, O."
+  title: "William McClung, Roger McDermott, Charles Riedesel, Jian Shi, and Su White. Motivating all our students."
+  proceeding: "Proceedings of the 16th annual conference reports on Innovation and technology in computer science education - working group reports (ITiCSE-WGR '11). Association for Computing Machinery, New York, NY, USA, 1–18."
+  doi: https://doi.org/10.1145/2078856.2078858
+
+- year: 2011
+  authors: "Peter Hubwieser, Michal Armoni, Torsten Brinda, Valentina Dagiene, Ira Diethelm, Michail N."
+  title: "Giannakos, Maria Knobelsdorf, Johannes Magenheim, Roland Mittermeir, and Sigrid Schubert. Computer science/informatics in secondary education."
+  proceeding: "Proceedings of the 16th annual conference reports on Innovation and technology in computer science education - working group reports (ITiCSE-WGR '11). Association for Computing Machinery, New York, NY, USA, 19–38."
+  doi: https://doi.org/10.1145/2078856.2078859
+
+- year: 2011
+  authors: "Lance C."
+  title: "Pérez, Stephen Cooper, Elizabeth K. Hawthorne, Susanne Wetzel, Joel Brynielsson, Asim Gencer Gökce, John Impagliazzo, Youry Khmelevsky, Karl Klee, Margaret Leary, Amelia Philips, Norbert Pohlmann, Blair Taylor, and Shambhu Upadhyaya. Information assurance education in two- and four-year institutions."
+  proceeding: "Proceedings of the 16th annual conference reports on Innovation and technology in computer science education - working group reports (ITiCSE-WGR '11). Association for Computing Machinery, New York, NY, USA, 39–53."
+  doi: https://doi.org/10.1145/2078856.2078860
+
+- year: 2012
+  authors: "Charles P."
+  title: "Riedesel, Alison L. Clear, Gerry W. Cross, Janet M. Hughes, Simon, and Henry M. Walker. Academic integrity policies in a computing education context."
+  proceeding: "Proceedings of the final reports on Innovation and technology in computer science education 2012 working groups (ITiCSE-WGR '12). Association for Computing Machinery, New York, NY, USA, 1–15."
+  doi: https://doi.org/10.1145/2426636.2426638
+
+- year: 2012
+  authors: "Michael Goldweber, John Barr, Tony Clear, Renzo Davoli, Samuel Mann, Elizabeth Patitsas, and Scott Portnoff."
+  title: "A framework for enhancing the social good in computing education: a values approach."
+  proceeding: "Proceedings of the final reports on Innovation and technology in computer science education 2012 working groups (ITiCSE-WGR '12). Association for Computing Machinery, New York, NY, USA, 16–38."
+  doi: https://doi.org/10.1145/2426636.2426639
+
+- year: 2012
+  authors: "Jürgen Börstler, Ludwik Kuzniarz, Carl Alphonce, William B."
+  title: "Sanders, and Michal Smialek. Teaching software modeling in computing curricula."
+  proceeding: "Proceedings of the final reports on Innovation and technology in computer science education 2012 working groups (ITiCSE-WGR '12). Association for Computing Machinery, New York, NY, USA, 39–50."
+  doi: https://doi.org/10.1145/2426636.2426640
+
+- year: 2012
+  authors: "Barry Burd, João Paulo Barros, Chris Johnson, Stan Kurkovsky, Arnold Rosenbloom, and Nikolai Tillman."
+  title: "Educating for mobile computing: addressing the new challenges."
+  proceeding: "Proceedings of the final reports on Innovation and technology in computer science education 2012 working groups (ITiCSE-WGR '12). Association for Computing Machinery, New York, NY, USA, 51–63."
+  doi: https://doi.org/10.1145/2426636.2426641
+
+- year: 2013
+  authors: "Rose Shumba, Kirsten Ferguson-Boucher, Elizabeth Sweedyk, Carol Taylor, Guy Franklin, Claude Turner, Corrine Sande, Gbemi Acholonu, Rebecca Bace, and Laura Hall."
+  title: "Cybersecurity, women and minorities: findings and recommendations from a preliminary investigation."
+  proceeding: "Proceedings of the ITiCSE working group reports conference on Innovation and technology in computer science education-working group reports (ITiCSE -WGR '13). Association for Computing Machinery, New York, NY, USA, 1–14."
+  doi: https://doi.org/10.1145/2543882.2543883
+
+- year: 2013
+  authors: "Ian Utting, Allison Elliott Tew, Mike McCracken, Lynda Thomas, Dennis Bouvier, Roger Frye, James Paterson, Michael Caspersen, Yifat Ben-David Kolikant, Juha Sorva, and Tadeusz Wilusz."
+  title: "A fresh look at novice programmers' performance and their teachers' expectations."
+  proceeding: "Proceedings of the ITiCSE working group reports conference on Innovation and technology in computer science education-working group reports (ITiCSE -WGR '13). Association for Computing Machinery, New York, NY, USA, 15–32."
+  doi: https://doi.org/10.1145/2543882.2543884
+
+- year: 2013
+  authors: "Kate Sanders, Marzieh Ahmadzadeh, Tony Clear, Stephen H."
+  title: "Edwards, Mikey Goldweber, Chris Johnson, Raymond Lister, Robert McCartney, Elizabeth Patitsas, and Jaime Spacco. The Canterbury QuestionBank: building a repository of multiple-choice CS1 and CS2 questions."
+  proceeding: "Proceedings of the ITiCSE working group reports conference on Innovation and technology in computer science education-working group reports (ITiCSE -WGR '13). Association for Computing Machinery, New York, NY, USA, 33–52."
+  doi: https://doi.org/10.1145/2543882.2543885
+
+- year: 2013
+  authors: "Ari Korhonen, Thomas Naps, Charles Boisvert, Pilu Crescenzi, Ville Karavirta, Linda Mannila, Bradley Miller, Briana Morrison, Susan H."
+  title: "Rodger, Rocky Ross, and Clifford A. Shaffer. Requirements and design strategies for open source interactive computer science eBooks."
+  proceeding: "Proceedings of the ITiCSE working group reports conference on Innovation and technology in computer science education-working group reports (ITiCSE -WGR '13). Association for Computing Machinery, New York, NY, USA, 53–72."
+  doi: https://doi.org/10.1145/2543882.2543886
+
+- year: 2014
+  authors: "Linda Mannila, Valentina Dagiene, Barbara Demo, Natasa Grgurina, Claudio Mirolo, Lennart Rolandsson, and Amber Settle."
+  title: "Computational Thinking in K-9 Education."
+  proceeding: "Proceedings of the Working Group Reports of the 2014 on Innovation &amp; Technology in Computer Science Education Conference (ITiCSE-WGR '14). Association for Computing Machinery, New York, NY, USA, 1–29."
+  doi: https://doi.org/10.1145/2713609.2713610
+
+- year: 2014
+  authors: "Peter Brusilovsky, Stephen Edwards, Amruth Kumar, Lauri Malmi, Luciana Benotti, Duane Buck, Petri Ihantola, Rikki Prince, Teemu Sirkiä, Sergey Sosnovsky, Jaime Urquiza, Arto Vihavainen, and Michael Wollowski."
+  title: "Increasing Adoption of Smart Learning Content for Computer Science Education."
+  proceeding: "Proceedings of the Working Group Reports of the 2014 on Innovation &amp; Technology in Computer Science Education Conference (ITiCSE-WGR '14). Association for Computing Machinery, New York, NY, USA, 31–57."
+  doi: https://doi.org/10.1145/2713609.2713611
+
+- year: 2014
+  authors: "Dave Clarke, Tony Clear, Kathi Fisler, Matthias Hauswirth, Shriram Krishnamurthi, Joe Gibbs Politz, Ville Tirronen, and Tobias Wrigstad."
+  title: "In-Flow Peer Review."
+  proceeding: "Proceedings of the Working Group Reports of the 2014 on Innovation &amp; Technology in Computer Science Education Conference (ITiCSE-WGR '14). Association for Computing Machinery, New York, NY, USA, 59–79."
+  doi: https://doi.org/10.1145/2713609.2713612
+
+- year: 2015
+  authors: "Tony Clear, Sarah Beecham, John Barr, Mats Daniels, Roger McDermott, Michael Oudshoorn, Airina Savickaite, and John Noll."
+  title: "Challenges and Recommendations for the Design and Conduct of Global Software Engineering Courses: A Systematic Review."
+  proceeding: "Proceedings of the 2015 ITiCSE on Working Group Reports (ITICSE-WGR '15). Association for Computing Machinery, New York, NY, USA, 1–39."
+  doi: https://doi.org/10.1145/2858796.2858797
+
+- year: 2015
+  authors: "Petri Ihantola, Arto Vihavainen, Alireza Ahadi, Matthew Butler, Jürgen Börstler, Stephen H."
+  title: "Edwards, Essi Isohanni, Ari Korhonen, Andrew Petersen, Kelly Rivers, Miguel Ángel Rubio, Judy Sheard, Bronius Skupas, Jaime Spacco, Claudia Szabo, and Daniel Toll. Educational Data Mining and Learning Analytics in Programming: Literature Review and Case Studies."
+  proceeding: "Proceedings of the 2015 ITiCSE on Working Group Reports (ITICSE-WGR '15). Association for Computing Machinery, New York, NY, USA, 41–63."
+  doi: https://doi.org/10.1145/2858796.2858798
+
+- year: 2015
+  authors: "Peter Hubwieser, Michail N."
+  title: "Giannakos, Marc Berges, Torsten Brinda, Ira Diethelm, Johannes Magenheim, Yogendra Pal, Jana Jackova, and Egle Jasute. A Global Snapshot of Computer Science Education in K-12 Schools."
+  proceeding: "Proceedings of the 2015 ITiCSE on Working Group Reports (ITICSE-WGR '15). Association for Computing Machinery, New York, NY, USA, 65–83."
+  doi: https://doi.org/10.1145/2858796.2858799
+
+- year: 2015
+  authors: "Erik Barendsen, Linda Mannila, Barbara Demo, Nataša Grgurina, Cruz Izu, Claudio Mirolo, Sue Sentance, Amber Settle, and Gabrielė Stupurienė."
+  title: "Concepts in K-9 Computer Science Education."
+  proceeding: "Proceedings of the 2015 ITiCSE on Working Group Reports (ITICSE-WGR '15). Association for Computing Machinery, New York, NY, USA, 85–116."
+  doi: https://doi.org/10.1145/2858796.2858800
+
+- year: 2015
+  authors: "Daniela Giordano, Francesco Maiorana, Andrew Paul Csizmadia, Simon Marsden, Charles Riedesel, Shitanshu Mishra, and Lina Vinikienė."
+  title: "New Horizons in the Assessment of Computer Science at School and Beyond: Leveraging on the ViVA Platform."
+  proceeding: "Proceedings of the 2015 ITiCSE on Working Group Reports (ITICSE-WGR '15). Association for Computing Machinery, New York, NY, USA, 117–147."
+  doi: https://doi.org/10.1145/2858796.2858801
+
+- year: 2015
+  authors: "Mihaela Sabin, John Impagliazzo, Hala Alrumaih, Brenda Byers, Daina Gudoniene, Margaret Hamilton, Vsevolod Kotlyarov, Barry Lunt, James W."
+  title: "McGuffee, Svetlana Peltsverger, Cara Tang, Barbara Viola, and Ming Zhang. Multinational Perspectives on Information Technology from Academia and Industry."
+  proceeding: "Proceedings of the 2015 ITiCSE on Working Group Reports (ITICSE-WGR '15). Association for Computing Machinery, New York, NY, USA, 149–171."
+  doi: https://doi.org/10.1145/2858796.2858802
+
+- year: 2015
+  authors: "Simon, Alison Clear, Janet Carter, Gerry Cross, Atanas Radenski, Liviana Tudor, and Eno Tõnisson."
+  title: "What's in a Name? International Interpretations of Computing Education Terminology."
+  proceeding: "Proceedings of the 2015 ITiCSE on Working Group Reports (ITICSE-WGR '15). Association for Computing Machinery, New York, NY, USA, 173–186."
+  doi: https://doi.org/10.1145/2858796.2858803
+
+- year: 2016
+  authors: "Mihaela Sabin, Barbara Viola, John Impagliazzo, Renzo Angles, Mariela Curiel, Paul Leger, Jorge Murillo, Hernán Nina, José Antonio Pow-Sang, and Ignacio Trejos."
+  title: "Latin American Perspectives to Internationalize Undergraduate Information Technology Education."
+  proceeding: "Proceedings of the 2016 ITiCSE Working Group Reports (ITiCSE '16). Association for Computing Machinery, New York, NY, USA, 1–22."
+  doi: https://doi.org/10.1145/3024906.3029847
+
+- year: 2016
+  authors: "Chris Johnson, Monica McGill, Durell Bouchard, Michael K."
+  title: "Bradshaw, Víctor A. Bucheli, Laurence D. Merkle, Michael James Scott, Z. Sweedyk, J. Ángel Velázquez-Iturbide, Zhiping Xiao, and Ming Zhang. Game Development for Computer Science Education."
+  proceeding: "Proceedings of the 2016 ITiCSE Working Group Reports (ITiCSE '16). Association for Computing Machinery, New York, NY, USA, 23–44."
+  doi: https://doi.org/10.1145/3024906.3024908
+
+- year: 2016
+  authors: "Ludwik Kuzniarz and Luiz Eduardo G."
+  title: "Martins. Teaching Model-Driven Software Development: A Pilot Study."
+  proceeding: "Proceedings of the 2016 ITiCSE Working Group Reports (ITiCSE '16). Association for Computing Machinery, New York, NY, USA, 45–56."
+  doi: https://doi.org/10.1145/3024906.3024909
+
+- year: 2016
+  authors: "Simon, Judy Sheard, Michael Morgan, Andrew Petersen, Amber Settle, Jane Sinclair, Gerry Cross, and Charles Riedesel."
+  title: "Negotiating the Maze of Academic Integrity in Computing Education."
+  proceeding: "Proceedings of the 2016 ITiCSE Working Group Reports (ITiCSE '16). Association for Computing Machinery, New York, NY, USA, 57–80."
+  doi: https://doi.org/10.1145/3024906.3024910
+
+- year: 2016
+  authors: "Margaret Hamilton, Andrew Luxton-Reilly, Naomi Augar, Vanea Chiprianov, Eveling Castro Gutierrez, Elizabeth Vidal Duarte, Helen H."
+  title: "Hu, Shoba Ittyipe, Janice L. Pearce, Michael Oudshoorn, and Emma Wong. Gender Equity in Computing: International Faculty Perceptions and Current Practices."
+  proceeding: "Proceedings of the 2016 ITiCSE Working Group Reports (ITiCSE '16). Association for Computing Machinery, New York, NY, USA, 81–102."
+  doi: https://doi.org/10.1145/3024906.3024911
+
+- year: 2016
+  authors: "Dennis Bouvier, Ellie Lovellette, John Matta, Bedour Alshaigy, Brett A."
+  title: "Becker, Michelle Craig, Jana Jackova, Robert McCartney, Kate Sanders, and Mark Zarb. Novice Programmers and the Problem Description Effect."
+  proceeding: "Proceedings of the 2016 ITiCSE Working Group Reports (ITiCSE '16). Association for Computing Machinery, New York, NY, USA, 103–118."
+  doi: https://doi.org/10.1145/3024906.3024912
+
+- year: 2016
+  authors: "Allan Fowler, Johanna Pirker, Ian Pollock, Bruno Campagnola de Paula, Maria Emilia Echeveste, and Marcos J."
+  title: "Gómez. Understanding the benefits of game jams: Exploring the potential for engaging young learners in STEM."
+  proceeding: "Proceedings of the 2016 ITiCSE Working Group Reports (ITiCSE '16). Association for Computing Machinery, New York, NY, USA, 119–135."
+  doi: https://doi.org/10.1145/3024906.3024913
+
+- year: 2018
+  authors: "Michael Morgan, Jane Sinclair, Matthew Butler, Neena Thota, Janet Fraser, Gerry Cross, and Jana Jackova."
+  title: "Understanding International Benchmarks on Student Engagement: Awareness and Research Alignment from a Computer Science Perspective."
+  proceeding: "Proceedings of the 2017 ITiCSE Conference on Working Group Reports (ITiCSE-WGR '17). Association for Computing Machinery, New York, NY, USA, 1–24."
+  doi: https://doi.org/10.1145/3174781.3174782
+
+- year: 2018
+  authors: "Monica M."
+  title: "McGill, Chris Johnson, James Atlas, Durell Bouchard, Chris Messom, Ian Pollock, and Michael James Scott. If Memory Serves: Towards Designing and Evaluating a Game for Teaching Pointers to Undergraduate Students."
+  proceeding: "Proceedings of the 2017 ITiCSE Conference on Working Group Reports (ITiCSE-WGR '17). Association for Computing Machinery, New York, NY, USA, 25–46."
+  doi: https://doi.org/10.1145/3174781.3174783
+
+- year: 2018
+  authors: "Andrew Luxton-Reilly, Brett A."
+  title: "Becker, Yingjun Cao, Roger McDermott, Claudio Mirolo, Andreas Mühling, Andrew Petersen, Kate Sanders, Simon, and Jacqueline Whalley. Developing Assessments to Determine Mastery of Programming Fundamentals."
+  proceeding: "Proceedings of the 2017 ITiCSE Conference on Working Group Reports (ITiCSE-WGR '17). Association for Computing Machinery, New York, NY, USA, 47–69."
+  doi: https://doi.org/10.1145/3174781.3174784
+
+- year: 2018
+  authors: "Jürgen Börstler, Harald Störrle, Daniel Toll, Jelle van Assema, Rodrigo Duran, Sara Hooshangi, Johan Jeuring, Hieke Keuning, Carsten Kleiner, and Bonnie MacKellar."
+  title: "\"I know it when I see it\" Perceptions of Code Quality: ITiCSE '17 Working Group Report."
+  proceeding: "Proceedings of the 2017 ITiCSE Conference on Working Group Reports (ITiCSE-WGR '17). Association for Computing Machinery, New York, NY, USA, 70–85."
+  doi: https://doi.org/10.1145/3174781.3174785
+
+- year: 2018
+  authors: "Ali Erkan, John Barr, Tony Clear, Cruz Izu, Cristian Jose Lopez del Alamo, Hanan Mohammed, and Mahadev Nadimpalli."
+  title: "Developing a Holistic Understanding of Systems and Algorithms through Research Papers."
+  proceeding: "Proceedings of the 2017 ITiCSE Conference on Working Group Reports (ITiCSE-WGR '17). Association for Computing Machinery, New York, NY, USA, 86–104."
+  doi: https://doi.org/10.1145/3174781.3174786
+
+- year: 2018
+  authors: "Claudia Szabo, Nickolas Falkner, Antti Knutas, and Mohsen Dorodchi."
+  title: "Understanding the Effects of Lecturer Intervention on Computer Science Student Behaviour."
+  proceeding: "Proceedings of the 2017 ITiCSE Conference on Working Group Reports (ITiCSE-WGR '17). Association for Computing Machinery, New York, NY, USA, 105–124."
+  doi: https://doi.org/10.1145/3174781.3174787
+
+- year: 2018
+  authors: "Barry Burd, Lecia Barker, Monica Divitini, Felix Armando Fermin Perez, Ingrid Russell, Bill Siever, and Liviana Tudor."
+  title: "Courses, Content, and Tools for Internet of Things in Computer Science Education."
+  proceeding: "Proceedings of the 2017 ITiCSE Conference on Working Group Reports (ITiCSE-WGR '17). Association for Computing Machinery, New York, NY, USA, 125–139."
+  doi: https://doi.org/10.1145/3174781.3174788
+
+- year: 2018
+  authors: "Quintin Cutts, Elizabeth Patitsas, Elizabeth Cole, Peter Donaldson, Bedour Alshaigy, Mirela Gutica, Arto Hellas, Edurne Larraza-Mendiluze, Robert McCartney, and Charles Riedesel."
+  title: "Early Developmental Activities and Computing Proficiency."
+  proceeding: "Proceedings of the 2017 ITiCSE Conference on Working Group Reports (ITiCSE-WGR '17). Association for Computing Machinery, New York, NY, USA, 140–157."
+  doi: https://doi.org/10.1145/3174781.3174789
+
+- year: 2018
+  authors: "Michael Morgan, Matthew Butler, Jane Sinclair, Christabel Gonsalvez, and Neena Thota."
+  title: "Contrasting CS student and academic perspectives and experiences of student engagement."
+  proceeding: "Proceedings Companion of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2018 Companion). Association for Computing Machinery, New York, NY, USA, 1–35."
+  doi: https://doi.org/10.1145/3293881.3295777
+
+- year: 2018
+  authors: "Allen Parrish, John Impagliazzo, Rajendra K."
+  title: "Raj, Henrique Santos, Muhammad Rizwan Asghar, Audun Jøsang, Teresa Pereira, and Eliana Stavrou. Global perspectives on cybersecurity education for 2030: a case for a meta-discipline."
+  proceeding: "Proceedings Companion of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2018 Companion). Association for Computing Machinery, New York, NY, USA, 36–54."
+  doi: https://doi.org/10.1145/3293881.3295778
+
+- year: 2018
+  authors: "Andrew Luxton-Reilly, Simon, Ibrahim Albluwi, Brett A."
+  title: "Becker, Michail Giannakos, Amruth N. Kumar, Linda Ott, James Paterson, Michael James Scott, Judy Sheard, and Claudia Szabo. Introductory programming: a systematic literature review."
+  proceeding: "Proceedings Companion of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2018 Companion). Association for Computing Machinery, New York, NY, USA, 55–106."
+  doi: https://doi.org/10.1145/3293881.3295779
+
+- year: 2018
+  authors: "Mark Zarb, Bedour Alshaigy, Dennis Bouvier, Richard Glassey, Janet Hughes, and Charles Riedesel."
+  title: "An international investigation into student concerns regarding transition into higher education computing."
+  proceeding: "Proceedings Companion of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2018 Companion). Association for Computing Machinery, New York, NY, USA, 107–129."
+  doi: https://doi.org/10.1145/3293881.3295780
+
+- year: 2018
+  authors: "Derek Foster, Laurie White, Joshua Adams, D."
+  title: "Cenk Erdil, Harvey Hyman, Stan Kurkovsky, Majd Sakr, and Lee Stott. Cloud computing: developing contemporary computer science curriculum for a cloud-first future."
+  proceeding: "Proceedings Companion of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2018 Companion). Association for Computing Machinery, New York, NY, USA, 130–147."
+  doi: https://doi.org/10.1145/3293881.3295781
+
+- year: 2018
+  authors: "Stephen Frezza, Mats Daniels, Arnold Pears, Åsa Cajander, Viggo Kann, Amanpreet Kapoor, Roger McDermott, Anne-Kathrin Peters, Mihaela Sabin, and Charles Wallace."
+  title: "Modelling competencies for computing education beyond 2020: a research based approach to defining competencies in the computing disciplines."
+  proceeding: "Proceedings Companion of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2018 Companion). Association for Computing Machinery, New York, NY, USA, 148–174."
+  doi: https://doi.org/10.1145/3293881.3295782
+
+- year: 2018
+  authors: "Arto Hellas, Petri Ihantola, Andrew Petersen, Vangel V."
+  title: "Ajanovski, Mirela Gutica, Timo Hynninen, Antti Knutas, Juho Leinonen, Chris Messom, and Soohyun Nam Liao. Predicting academic performance: a systematic literature review."
+  proceeding: "Proceedings Companion of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2018 Companion). Association for Computing Machinery, New York, NY, USA, 175–199."
+  doi: https://doi.org/10.1145/3293881.3295783
+
+- year: 2018
+  authors: "Barry Burd, Lecia Barker, Félix Armando Fermín Pérez, Ingrid Russell, Bill Siever, Liviana Tudor, Michael McCarthy, and Ian Pollock."
+  title: "The internet of things in undergraduate computer and information science education: exploring curricula and pedagogy."
+  proceeding: "Proceedings Companion of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2018 Companion). Association for Computing Machinery, New York, NY, USA, 200–216."
+  doi: https://doi.org/10.1145/3293881.3295784
+
+- year: 2018
+  authors: "Cynthia Taylor, Jaime Spacco, David P."
+  title: "Bunde, Zack Butler, Heather Bort, Christopher Lynnly Hovey, Francesco Maiorana, and Thomas Zeume. Propagating the adoption of CS educational innovations."
+  proceeding: "Proceedings Companion of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE 2018 Companion). Association for Computing Machinery, New York, NY, USA, 217–235."
+  doi: https://doi.org/10.1145/3293881.3295785
+
+- year: 2019
+  authors: "Ian Pollock, Bedour Alshaigy, Andrew Bradley, Birgit R."
+  title: "Krogstie, Viraj Kumar, Linda Ott, Anne-Kathrin Peters, Charles Riedesel, and Charles Wallace. 1.5 Degrees of Separation: Computer Science Education in the Age of the Anthropocene."
+  proceeding: "Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education (ITiCSE-WGR '19). Association for Computing Machinery, New York, NY, USA, 1–25."
+  doi: https://doi.org/10.1145/3344429.3372500
+
+- year: 2019
+  authors: "Cruz Izu, Carsten Schulte, Ashish Aggarwal, Quintin Cutts, Rodrigo Duran, Mirela Gutica, Birte Heinemann, Eileen Kraemer, Violetta Lonati, Claudio Mirolo, and Renske Weeda."
+  title: "Fostering Program Comprehension in Novice Programmers - Learning Activities and Learning Trajectories."
+  proceeding: "Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education (ITiCSE-WGR '19). Association for Computing Machinery, New York, NY, USA, 27–52."
+  doi: https://doi.org/10.1145/3344429.3372501
+
+- year: 2019
+  authors: "Simon, Andrew Luxton-Reilly, Vangel V."
+  title: "Ajanovski, Eric Fouh, Christabel Gonsalvez, Juho Leinonen, Jack Parkinson, Matthew Poole, and Neena Thota. Pass Rates in Introductory Programming and in other STEM Disciplines."
+  proceeding: "Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education (ITiCSE-WGR '19). Association for Computing Machinery, New York, NY, USA, 53–71."
+  doi: https://doi.org/10.1145/3344429.3372502
+
+- year: 2019
+  authors: "Rajendra K."
+  title: "Raj, Allen Parrish, John Impagliazzo, Carol J. Romanowski, Sherif G. Aly, Casey C. Bennett, Karen C. Davis, Andrew McGettrick, Teresa Susana Mendes Pereira, and Lovisa Sundin. An Empirical Approach to Understanding Data Science and Engineering Education."
+  proceeding: "Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education (ITiCSE-WGR '19). Association for Computing Machinery, New York, NY, USA, 73–87."
+  doi: https://doi.org/10.1145/3344429.3372503
+
+- year: 2019
+  authors: "Claudia Szabo, Nickolas Falkner, Andrew Petersen, Heather Bort, Kathryn Cunningham, Peter Donaldson, Arto Hellas, James Robinson, and Judy Sheard."
+  title: "Review and Use of Learning Theories within Computer Science Education Research: Primer for Researchers and Practitioners."
+  proceeding: "Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education (ITiCSE-WGR '19). Association for Computing Machinery, New York, NY, USA, 89–109."
+  doi: https://doi.org/10.1145/3344429.3372504
+
+- year: 2019
+  authors: "Katrina Falkner, Sue Sentance, Rebecca Vivian, Sarah Barksdale, Leonard Busuttil, Elizabeth Cole, Christine Liebe, Francesco Maiorana, Monica M."
+  title: "McGill, and Keith Quille. An International Study Piloting the MEasuring TeacheR Enacted Computing Curriculum (METRECC) Instrument."
+  proceeding: "Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education (ITiCSE-WGR '19). Association for Computing Machinery, New York, NY, USA, 111–142."
+  doi: https://doi.org/10.1145/3344429.3372505
+
+- year: 2019
+  authors: "Derek Foster, Laurie White, D."
+  title: "Cenk Erdil, Joshua Adams, Amadeo Argüelles, Brian Hainey, Harvey Hyman, Gareth Lewis, Sajid Nazir, Van Nguyen, Majd Sakr, and Lee Stott. Toward a Cloud Computing Learning Community."
+  proceeding: "Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education (ITiCSE-WGR '19). Association for Computing Machinery, New York, NY, USA, 143–155."
+  doi: https://doi.org/10.1145/3344429.3372506
+
+- year: 2019
+  authors: "Xenia Mountrouidou, David Vosen, Chadi Kari, Mohammad Q."
+  title: "Azhar, Sajal Bhatia, Greg Gagne, Joseph Maguire, Liviana Tudor, and Timothy T. Yuen. Securing the Human: A Review of Literature on Broadening Diversity in Cybersecurity Education."
+  proceeding: "Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education (ITiCSE-WGR '19). Association for Computing Machinery, New York, NY, USA, 157–176."
+  doi: https://doi.org/10.1145/3344429.3372507
+
+- year: 2019
+  authors: "Brett A."
+  title: "Becker, Paul Denny, Raymond Pettit, Durell Bouchard, Dennis J. Bouvier, Brian Harrington, Amir Kamil, Amey Karkare, Chris McDonald, Peter-Michael Osera, Janice L. Pearce, and James Prather. Compiler Error Messages Considered Unhelpful: The Landscape of Text-Based Programming Error Message Research."
+  proceeding: "Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education (ITiCSE-WGR '19). Association for Computing Machinery, New York, NY, USA, 177–210."
+  doi: https://doi.org/10.1145/3344429.3372508
+
+- year: 2020
+  authors: "Simon, Oscar Karnalim, Judy Sheard, Ilir Dema, Amey Karkare, Juho Leinonen, Michael Liut, and Renée McCauley."
+  title: "Choosing Code Segments to Exclude from Code Similarity Detection."
+  proceeding: "Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education (ITiCSE-WGR '20). Association for Computing Machinery, New York, NY, USA, 1–19."
+  doi: https://doi.org/10.1145/3437800.3439201
+
+- year: 2020
+  authors: "Sally Fincher, Johan Jeuring, Craig S."
+  title: "Miller, Peter Donaldson, Benedict du Boulay, Matthias Hauswirth, Arto Hellas, Felienne Hermans, Colleen Lewis, Andreas Mühling, Janice L. Pearce, and Andrew Petersen. Notional Machines in Computing Education: The Education of Attention."
+  proceeding: "Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education (ITiCSE-WGR '20). Association for Computing Machinery, New York, NY, USA, 21–50."
+  doi: https://doi.org/10.1145/3437800.3439202
+
+- year: 2020
+  authors: "Rajendra K."
+  title: "Raj, Carol J. Romanowski, John Impagliazzo, Sherif G. Aly, Brett A. Becker, Juan Chen, Sheikh Ghafoor, Nasser Giacaman, Steven I. Gordon, Cruz Izu, Shahram Rahimi, Michael P. Robson, and Neena Thota. High Performance Computing Education: Current Challenges and Future Directions."
+  proceeding: "Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education (ITiCSE-WGR '20). Association for Computing Machinery, New York, NY, USA, 51–74."
+  doi: https://doi.org/10.1145/3437800.3439203
+
+- year: 2020
+  authors: "Greg L."
+  title: "Nelson, Filip Strömbäck, Ari Korhonen, Marjahan Begum, Ben Blamey, Karen H. Jin, Violetta Lonati, Bonnie MacKellar, and Mattia Monga. Differentiated Assessments for Advanced Courses that Reveal Issues with Prerequisite Skills: A Design Investigation."
+  proceeding: "Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education (ITiCSE-WGR '20). Association for Computing Machinery, New York, NY, USA, 75–129."
+  doi: https://doi.org/10.1145/3437800.3439204
+
+- year: 2020
+  authors: "Mikhail Fominykh, Fridolin Wild, Ralf Klamma, Mark Billinghurst, Lisandra S."
+  title: "Costiner, Andrey Karsakov, Eleni Mangina, Judith Molka-Danielsen, Ian Pollock, Marius Preda, and Aljosa Smolic. Model Augmented Reality Curriculum."
+  proceeding: "Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education (ITiCSE-WGR '20). Association for Computing Machinery, New York, NY, USA, 131–149."
+  doi: https://doi.org/10.1145/3437800.3439205
+
+- year: 2020
+  authors: "Joshua Adams, Brian Hainey, Laurie White, Derek Foster, Narine Hall, Mark Hills, Sara Hooshangi, Karthik Kuber, Sajid Nazir, Majd Sakr, Lee Stott, and Carmen Taglienti."
+  title: "Cloud Computing Curriculum: Developing Exemplar Modules for General Course Inclusion."
+  proceeding: "Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education (ITiCSE-WGR '20). Association for Computing Machinery, New York, NY, USA, 151–172."
+  doi: https://doi.org/10.1145/3437800.3439206
+
+- year: 2020
+  authors: "Marian Petre, Kate Sanders, Robert McCartney, Marzieh Ahmadzadeh, Cornelia Connolly, Sally Hamouda, Brian Harrington, Jérémie Lumbroso, Joseph Maguire, Lauri Malmi, Monica M."
+  title: "McGill, and Jan Vahrenhold. Mapping the Landscape of Peer Review in Computing Education Research."
+  proceeding: "Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education (ITiCSE-WGR '20). Association for Computing Machinery, New York, NY, USA, 173–209."
+  doi: https://doi.org/10.1145/3437800.3439207
+
+- year: 2020
+  authors: "Alison Clear, Tony Clear, Abhijat Vichare, Thea Charles, Stephen Frezza, Mirela Gutica, Barry Lunt, Francesco Maiorana, Arnold Pears, Francois Pitt, Charles Riedesel, and Justyna Szynkiewicz."
+  title: "Designing Computer Science Competency Statements: A Process and Curriculum Model for the 21st Century."
+  proceeding: "Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education (ITiCSE-WGR '20). Association for Computing Machinery, New York, NY, USA, 211–246."
+  doi: https://doi.org/10.1145/3437800.3439208
+

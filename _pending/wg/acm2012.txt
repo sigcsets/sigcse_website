@@ -1,0 +1,8 @@
+Charles P. Riedesel, Alison L. Clear, Gerry W. Cross, Janet M. Hughes, Simon, and Henry M. Walker. 2012. Academic integrity policies in a computing education context. In <i>Proceedings of the final reports on Innovation and technology in computer science education 2012 working groups</i> (<i>ITiCSE-WGR '12</i>). Association for Computing Machinery, New York, NY, USA, 1–15. DOI:https://doi.org/10.1145/2426636.2426638
+
+Michael Goldweber, John Barr, Tony Clear, Renzo Davoli, Samuel Mann, Elizabeth Patitsas, and Scott Portnoff. 2012. A framework for enhancing the social good in computing education: a values approach. In <i>Proceedings of the final reports on Innovation and technology in computer science education 2012 working groups</i> (<i>ITiCSE-WGR '12</i>). Association for Computing Machinery, New York, NY, USA, 16–38. DOI:https://doi.org/10.1145/2426636.2426639
+
+Jürgen Börstler, Ludwik Kuzniarz, Carl Alphonce, William B. Sanders, and Michal Smialek. 2012. Teaching software modeling in computing curricula. In <i>Proceedings of the final reports on Innovation and technology in computer science education 2012 working groups</i> (<i>ITiCSE-WGR '12</i>). Association for Computing Machinery, New York, NY, USA, 39–50. DOI:https://doi.org/10.1145/2426636.2426640
+
+Barry Burd, João Paulo Barros, Chris Johnson, Stan Kurkovsky, Arnold Rosenbloom, and Nikolai Tillman. 2012. Educating for mobile computing: addressing the new challenges. In <i>Proceedings of the final reports on Innovation and technology in computer science education 2012 working groups</i> (<i>ITiCSE-WGR '12</i>). Association for Computing Machinery, New York, NY, USA, 51–63. DOI:https://doi.org/10.1145/2426636.2426641
+

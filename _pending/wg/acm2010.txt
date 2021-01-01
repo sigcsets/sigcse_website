@@ -1,0 +1,16 @@
+John Hamer, Helen C. Purchase, Andrew Luxton-Reilly, and Judithe Sheard. 2010. Tools for "contributing student learning". In <i>Proceedings of the 2010 ITiCSE working group reports</i> (<i>ITiCSE-WGR '10</i>). Association for Computing Machinery, New York, NY, USA, 1–14. DOI:https://doi.org/10.1145/1971681.1971683
+
+Guido Rößling, Myles McNally, Pierluigi Crescenzi, Atanas Radenski, Petri Ihantola, and M. Gloria Sánchez-Torrubia. 2010. Adapting moodle to better support CS education. In <i>Proceedings of the 2010 ITiCSE working group reports</i> (<i>ITiCSE-WGR '10</i>). Association for Computing Machinery, New York, NY, USA, 15–27. DOI:https://doi.org/10.1145/1971681.1971684
+
+Janet Carter, Su White, Karen Fraser, Stanislav Kurkovsky, Colette McCreesh, and Malcolm Wieck. 2010. ITiCSE 2010 working group report motivating our top students. In <i>Proceedings of the 2010 ITiCSE working group reports</i> (<i>ITiCSE-WGR '10</i>). Association for Computing Machinery, New York, NY, USA, 29–47. DOI:https://doi.org/10.1145/1971681.1971685
+
+Stephen Cooper, Christine Nickell, Lance C. Pérez, Brenda Oldfield, Joel Brynielsson, Asım Gencer Gökce, Elizabeth K. Hawthorne, Karl J. Klee, Andrea Lawrence, and Susanne Wetzel. 2010. Towards information assurance (IA) curricular guidelines. In <i>Proceedings of the 2010 ITiCSE working group reports</i> (<i>ITiCSE-WGR '10</i>). Association for Computing Machinery, New York, NY, USA, 49–64. DOI:https://doi.org/10.1145/1971681.1971686
+
+Carsten Schulte, Tony Clear, Ahmad Taherkhani, Teresa Busjahn, and James H. Paterson. 2010. An introduction to program comprehension for computer science educators. In <i>Proceedings of the 2010 ITiCSE working group reports</i> (<i>ITiCSE-WGR '10</i>). Association for Computing Machinery, New York, NY, USA, 65–86. DOI:https://doi.org/10.1145/1971681.1971687
+
+Peter Cooper, Gail T. Finley, and Petteri Kaskenpalo. 2010. Towards standards in digital forensics education. In <i>Proceedings of the 2010 ITiCSE working group reports</i> (<i>ITiCSE-WGR '10</i>). Association for Computing Machinery, New York, NY, USA, 87–95. DOI:https://doi.org/10.1145/1971681.1971688
+
+Richard Brown, Elizabeth Shoop, Joel Adams, Curtis Clifton, Mark Gardner, Michael Haupt, and Peter Hinsbeeck. 2010. Strategies for preparing computer science students for the multicore world. In <i>Proceedings of the 2010 ITiCSE working group reports</i> (<i>ITiCSE-WGR '10</i>). Association for Computing Machinery, New York, NY, USA, 97–115. DOI:https://doi.org/10.1145/1971681.1971689
+
+Mikey Goldweber, Joyce Currie Little, Gerry Cross, Renzo Davoli, Charles Riedesel, Brian R. von Konsky, and Henry Walker. 2010. Enhancing the Social Issues Components in our Computing Curriculum: Computing for the Social Good. In <i>Proceedings of the 2010 ITiCSE working group reports</i> (<i>ITiCSE-WGR '10</i>). Association for Computing Machinery, New York, NY, USA, 117–133. DOI:https://doi.org/10.1145/1971681.1988996
+

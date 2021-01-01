@@ -4,14 +4,14 @@ email: webmaster@sigcse.org
 description: >-
   ACM SIGCSE group, special interest group in computer science education
 
-# For Development
-baseurl: "/sigcse/.staging" # the subpath of your site, e.g. /blog
+# For Development (staging)
+baseurl: "/sigcse/.staging" # the subpath of your site
 staging: true
 
 # The base hostname & protocol for your site
 url: "https://sigcse.org" 
 
-exclude: ["Gemfile", "Gemfile.lock", "documentation", "_documentation", "pending", "bin"]
+exclude: ["Gemfile", "Gemfile.lock", "_documentation", "_pending", "bin"]
 
 defaults:
   -

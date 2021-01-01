@@ -1,0 +1,26 @@
+Conference Landing page
+
+Name
+This conference has been running since {year}. The conference is focused on {description of conference goal/mission}. It is sponsored by the ACM SIGCSE group, the largest group of CS Educators in the world (or universe?).
+
+The conference is organized by a group of volunteers that include {top chair positions} with support from a steering committee. It recognizes {awards} yearly. Attendance is around {rounded number} and the publications are peer-reviewed and available at the ACM DL {link to conference page in DL}. We have policies and procedures for this conference, including {list of links to policies page}.
+
+Current Edition
+The next {name} will be held in {date} at {location}. The conference leadership includes:
+* Symposium Chair {name}
+* Program Chair {name}
+* in collaboration with a full committee {link to committe page}
+* Steering Commitee {link to page of steering commitee}
+
+Details for participation can be seen in the CFP {link to CFP page}.
+
+Last Year
+If you didn't joined us last year, you missed 
+* awards
+* keynotes
+* some photos
+
+History of Conference
+The conference started in {year} and has run {# times}. {few fun facts of the history} More information about its history is available here {link to history page for this conference}.
+
+* list of all editions of this conference, each pointing to our page of the conference (like we have now for the TS)

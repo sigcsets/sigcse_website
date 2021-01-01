@@ -1,0 +1,13 @@
+Beth Simon, Sue Fitzgerald, Renée McCauley, Susan Haller, John Hamer, Brian Hanks, Michael T. Helmick, Jan Erik Moström, Judy Sheard, and Lynda Thomas. 2007. Debugging assistance for novices: a video repository. In <i>Working group reports on ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '07</i>). Association for Computing Machinery, New York, NY, USA, 137–151. DOI:https://doi.org/10.1145/1345443.1345437
+
+
+Ursula Fuller, Colin G. Johnson, Tuukka Ahoniemi, Diana Cukierman, Isidoro Hernán-Losada, Jana Jackova, Essi Lahtinen, Tracy L. Lewis, Donna McGee Thompson, Charles Riedesel, and Errol Thompson. 2007. Developing a computer science-specific learning taxonomy. In <i>Working group reports on ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '07</i>). Association for Computing Machinery, New York, NY, USA, 152–170. DOI:https://doi.org/10.1145/1345443.1345438
+
+Lillian N. Cassel, Gordon Davies, William Fone, Anneke Hacquebard, John Impagliazzo, Richard LeBlanc, Joyce Currie Little, Andrew McGettrick, and Michela Pedrona. 2007. The computing ontology: application in education. In <i>Working group reports on ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '07</i>). Association for Computing Machinery, New York, NY, USA, 171–183. DOI:https://doi.org/10.1145/1345443.1345439
+
+Anne G. Applin, Hilary J. Holz, William Joel, Ifeyinwa Okoye, Katherine Deibel, Becky Grasser, Briony J. Oates, and Gwendolyne Wood. 2007. A multi-perspective digital library to facilitate integrating teaching research methods across the computing curriculum. In <i>Working group reports on ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '07</i>). Association for Computing Machinery, New York, NY, USA, 184–203. DOI:https://doi.org/10.1145/1345443.1345440
+
+Arnold Pears, Stephen Seidman, Lauri Malmi, Linda Mannila, Elizabeth Adams, Jens Bennedsen, Marie Devlin, and James Paterson. 2007. A survey of literature on the teaching of introductory programming. In <i>Working group reports on ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '07</i>). Association for Computing Machinery, New York, NY, USA, 204–223. DOI:https://doi.org/10.1145/1345443.1345441
+
+Ilaria Liccardi, Asma Ounnas, Reena Pau, Elizabeth Massey, Päivi Kinnunen, Sarah Lewthwaite, Marie-Anne Midy, and Chandan Sarkar. 2007. The role of social networks in students' learning experiences. In <i>Working group reports on ITiCSE on Innovation and technology in computer science education</i> (<i>ITiCSE-WGR '07</i>). Association for Computing Machinery, New York, NY, USA, 224–237. DOI:https://doi.org/10.1145/1345443.1345442
+

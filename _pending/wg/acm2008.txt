@@ -1,0 +1,10 @@
+Vicki L. Almstrum, E. Anne G. Applin, Barbara Boucher Owens, Elizabeth Adams, Lecia J. Barker, John Impagliazzo, Patricia A. Joseph, Amardeep Kahlon, Mary Z. Last, Andrea Lawrence, and Alison Young. 2008. Computing educators oral history project: seeking the trends. <i>SIGCSE Bull.</i> 40, 4 (December 2008), 122–141. DOI:https://doi.org/10.1145/1473195.1473238
+
+Guido Rößling, Mike Joy, Andrés Moreno, Atanas Radenski, Lauri Malmi, Andreas Kerren, Thomas Naps, Rockford J. Ross, Michael Clancy, Ari Korhonen, Rainer Oechsle, and J. Ángel Velázquez Iturbide. 2008. Enhancing learning management systems to better support computer science education. <i>SIGCSE Bull.</i> 40, 4 (December 2008), 142–166. DOI:https://doi.org/10.1145/1473195.1473239
+
+Stephen H. Edwards, Jürgen Börstler, Lillian N. Cassel, Mark S. Hall, and Joseph Hollingsworth. 2008. Developing a common format for sharing programming assignments. <i>SIGCSE Bull.</i> 40, 4 (December 2008), 167–182. DOI:https://doi.org/10.1145/1473195.1473240
+
+Samuel Mann, Lesley Smith, and Logan Muller. 2008. Computing education for sustainability. <i>SIGCSE Bull.</i> 40, 4 (December 2008), 183–193. DOI:https://doi.org/10.1145/1473195.1473241
+
+John Hamer, Quintin Cutts, Jana Jackova, Andrew Luxton-Reilly, Robert McCartney, Helen Purchase, Charles Riedesel, Mara Saeli, Kate Sanders, and Judithe Sheard. 2008. Contributing student pedagogy. <i>SIGCSE Bull.</i> 40, 4 (December 2008), 194–212. DOI:https://doi.org/10.1145/1473195.1473242
+

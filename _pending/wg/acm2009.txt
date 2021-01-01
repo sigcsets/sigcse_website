@@ -1,0 +1,12 @@
+Stephen Cooper, Christine Nickell, Victor Piotrowski, Brenda Oldfield, Ali Abdallah, Matt Bishop, Bill Caelli, Melissa Dark, E. K. Hawthorne, Lance Hoffman, Lance C. Pérez, Charles Pfleeger, Richard Raines, Corey Schou, and Joel Brynielsson. 2010. An exploration of the current state of information assurance education. <i>SIGCSE Bull.</i> 41, 4 (December 2009), 109–125. DOI:https://doi.org/10.1145/1709424.1709457
+
+Jürgen Börstler, Mark S. Hall, Marie Nordström, James H. Paterson, Kate Sanders, Carsten Schulte, and Lynda Thomas. 2010. An evaluation of object oriented example programs in introductory programming textbooks. <i>SIGCSE Bull.</i> 41, 4 (December 2009), 126–143. DOI:https://doi.org/10.1145/1709424.1709458
+
+Samuel Mann, Logan Muller, Janet Davis, Claudia Roda, and Alison Young. 2010. Computing and sustainability: evaluating resources for educators. <i>SIGCSE Bull.</i> 41, 4 (December 2009), 144–155. DOI:https://doi.org/10.1145/1709424.1709459
+
+Raymond Lister, Tony Clear, Simon, Dennis J. Bouvier, Paul Carter, Anna Eckerdal, Jana Jacková, Mike Lopez, Robert McCartney, Phil Robbins, Otto Seppälä, and Errol Thompson. 2010. Naturally occurring data as research instrument: analyzing examination responses to study the novice programmer. <i>SIGCSE Bull.</i> 41, 4 (December 2009), 156–173. DOI:https://doi.org/10.1145/1709424.1709460
+
+Ursula Fuller, Joyce Currie Little, Bob Keim, Charles Riedesel, Diana Fitch, and Su White. 2010. Perspectives on developing and assessing professional values in computing. <i>SIGCSE Bull.</i> 41, 4 (December 2009), 174–194. DOI:https://doi.org/10.1145/1709424.1709461
+
+Charles L. Isbell, Lynn Andrea Stein, Robb Cutler, Jeffrey Forbes, Linda Fraser, John Impagliazzo, Viera Proulx, Steve Russ, Richard Thomas, and Yan Xu. 2010. (Re)defining computing curricula by (re)defining computing. <i>SIGCSE Bull.</i> 41, 4 (December 2009), 195–207. DOI:https://doi.org/10.1145/1709424.1709462
+

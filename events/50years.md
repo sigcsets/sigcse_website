@@ -8,6 +8,7 @@ organization. As part of the celebration we posted a "timeline" of
 events that happened in the organization's history. <!-- We are building this
 week-by-week over 2018 and 2019. -->
 
+<a name="Index"></a>
 Quick links to each year: \[ [2017](#2017) \| [2016](#2016) \| [2015](#2015) \| [2014](#2014) \| [2013](#2013) \| [2012](#2012) \| [2011](#2011) \| [2010](#2010) \| [2009](#2009) \| [2008](#2008) \| [2007](#2007) \| [2006](#2006) \| [2005](#2005) \| [2004](#2004) \| [2003](#2003) \| [2002](#2002) \| [2001](#2001) \| [2000](#2000) \| [1999](#1999) \| [1998](#1998) \| [1997](#1997) \| [1996](#1996) \| [1995](#1995) \| [1994](#1994) \| [1993](#1993) \| [1992](#1992) \| [1991](#1991) \| [1990](#1990) \| [1989](#1989) \| [1988](#1988) \| [1987](#1987) \| [1986](#1986) \| [1985](#1985) \| [1984](#1984) \| [1983](#1983) \| [1982](#1982) \| [1981](#1981) \| [1980](#1980) \| [1979](#1979) \| [1978](#1978) \| [1977](#1977) \| [1976](#1976) \| [1975](#1975) \| [1974](#1974) \| [1973](#1973) \| [1972](#1972) \| [1971](#1971) \| [1970](#1970) \| [1969](#1969) \| [1968](#1968) \]
 
 <!-- Quick links to each decade: \[ [1960\'s](#1969) \| [1970\'s](#1979) \|
@@ -98,7 +99,7 @@ The 21st Doctoral Consortium was co-located with ICER and held on August
 Boulder) and Jan Vahrenhold (University of Münster). There were 20
 participants.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 2016<a name="#2016"></a>
 
@@ -198,7 +199,7 @@ SIGCSE Technical Symposium\". Most conferences have a Program Committee
 people). The setup for the SIGCSE Technical Symposium is radically
 different with a huge pool of ∼1,000 volunteers serving as reviewers.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 2015<a name="#2015"></a>
 
@@ -266,7 +267,7 @@ The 19th Doctoral Consortium was again co-located with ICER and held on
 August 9, 2015. Leading the 20 participants were Mark Guzdial (Georgia
 Institute of Technology) and Anthony Robins (University of Otago).
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 2014<a name="#2014"></a>
 
@@ -342,7 +343,7 @@ The 18th Doctorial Consortium was held on August 10, 2014, co-located
 with ICER. The leaders this year were Sally Fincher (University of Kent)
 and Mark Guzdial (Georgia Institute of Technology).
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 2013<a name="#2013"></a>
 
@@ -448,7 +449,7 @@ The 17th Doctoral Consortium was held August 11, 2013, co-located with
 ICER and was led by Allison Elliott Tew (University of British Columbia)
 and Jonas Boustedt (Högskolan i Gävle) with 12 participants.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 2012<a name="#2012"></a>
 
@@ -522,7 +523,7 @@ The 16th Doctoral Consortium was held September 9, 2012 and was led by
 Judy Sheard (Monash University) and Allison Elliott Tew (University of
 British Columbia) with 15 participants.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 2011<a name="#2011"></a>
 
@@ -635,7 +636,7 @@ December 2011) announced a new publication schedule for The Bulletin:
 The SIGCSE Bulletin will be published in the middle of the months of
 October, January, April, and July.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 2010<a name="#2010"></a>
 
@@ -783,7 +784,7 @@ SIGCSE-MATH-COMM, SIGCSE-FACULTY-EVAL, SIGCSE-WOMEN-COMM and SIGCSE-CRM.
 As use within each declined or the sub-committees finished their work
 they were discontinued.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 2009<a name="#2009"></a>
 
@@ -887,7 +888,7 @@ have content similar to inroads as found in this current 2009 December
 issue. Columnists will continue to contribute to the publication;
 invited editorials would continue to appear when appropriate.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 2008<a name="#2008"></a>
 
@@ -1013,7 +1014,7 @@ From Inroads Volume 40, Issue 4, December 2008: The 2008 year saw us at
 an all-time high for membership. JERIC transformed into a new
 publication called Transactions on Computing Education.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 2007<a name="#2007"></a>
 
@@ -1207,7 +1208,7 @@ Blessed are the thirst makers.
 Tony Clear\
 08 March 2007
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 2006<a name="#2006"></a>
 
@@ -1293,7 +1294,7 @@ year:
 -   Plagiarism, including self-plagiarism was a big topic of Volume 38,
     Issue 4, December 2006 Inroads
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 2005<a name="#2005"></a>
 
@@ -1358,7 +1359,7 @@ From the same issue, three SIGCSE Committees were discussed:
 -   The SIGCSE Committee on Teaching Computer Science Research Methods
     (new)
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 2004<a name="#2004"></a>
 
@@ -1435,7 +1436,7 @@ Walker wrote the following, most of which is still true today:
 In the same issue is an interesting tribute to Anita Borg along with a
 transcript of an interview with her.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 2003<a name="#2003"></a>
 
@@ -1501,7 +1502,7 @@ Georgios Evangelidis (University of Macedonia) were Program Co-Chairs.
 There were 129 papers submitted and 44 were accepted (34.1% acceptance
 rate) and 3 Working Groups. Sadly, I have no pictures from this ITiCSE.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 2002<a name="#2002"></a>
 
@@ -1586,7 +1587,7 @@ E. Caspersen, David Gries, and Niklaus Wirth at ITiCSE 2002
 ![ITiCSE-2002](../files/images/50yearsofSIGCSE/ITiCSE-2002-4.jpg)\
 Don Goelman and Mike Goldweber at ITiCSE 2002
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 2001<a name="#2001"></a>
 
@@ -1696,7 +1697,7 @@ Xristine Faulkner, Sally Fincher, and Ian Utting at ITiCSE 2001
 ![ITiCSE-2001](../files/images/50yearsofSIGCSE/ITiCSE-2001-9.jpg)\
 Richard Rasala and Lew Hitchner, and a LEGO LOGO robot at ITiCSE 2001
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 2000<a name="#2000"></a>
 
@@ -1755,7 +1756,7 @@ one from Antarctica) with over 160 attendees. Pictures from Dan Joyce:\
 ![ITiCSE-2000 Working
 Groups](../files/images/50yearsofSIGCSE/ITiCSE-2000-3.jpg)
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1999<a name="#1999"></a>
 
@@ -1823,7 +1824,7 @@ registration](../files/images/50yearsofSIGCSE/ITiCSE-1999-1.jpg)\
 ![ITiCSE-1999 Working
 Groups](../files/images/50yearsofSIGCSE/ITiCSE-1999-4.jpg)
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1998<a name="#1998"></a>
 
@@ -1912,7 +1913,7 @@ recipients and traffic is quite heavy at times.\" In addition, the
 Working Group reports from ITiCSE were published in the December 1998
 issue of Inroads.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1997<a name="#1997"></a>
 
@@ -1986,7 +1987,7 @@ And we acquired Editor Emeriti (ibid):\
 ![Bulletin June
 1997](../files/images/50yearsofSIGCSE/BulletinJune1997-3.jpg)
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1996<a name="#1996"></a>
 
@@ -2081,7 +2082,7 @@ Bulletin (Volume 23, Issue 1, March 1996) for the Technical Symposium
 Proceedings and Volume 28, Issue Special Issue for the ITiCSE '96
 proceedings which included posters and demonstrations.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1995<a name="#1995"></a>
 
@@ -2115,7 +2116,7 @@ given to **Robert Aiken**, for being an outstanding mentor, advocate of
 computer science and contributions to technology education both in the
 United States and abroad.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1994<a name="#1994"></a>
 
@@ -2148,7 +2149,7 @@ From Vol 26, Issue 3, Sept. 1994 Bulletin contains the first mention of
 "electronic messages sent to the SIGCSE members," the origination of our
 listserv!
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1993<a name="#1993"></a>
 
@@ -2193,7 +2194,7 @@ We might consider this to be the year of addressing female
 underrepresentation in computing. There were many conference and
 Bulletin articles on the subject.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1992<a name="#1992"></a>
 
@@ -2254,7 +2255,7 @@ Where were you in 1992? Are you represented here:\
 ![ Logo for 22nd Technical
 Symposium](../files/images/50yearsofSIGCSE/1992-demographics.jpg)
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1991<a name="#1991"></a>
 
@@ -2301,7 +2302,7 @@ Chair Nell Dale noted that SIGCSE had the highest member retention rate
 (92%) of any of the ACM SIGs! SIGCSE had approximately 2600 members.
 This issue also includes detailed minutes of several Board Meetings.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1990<a name="#1990"></a>
 
@@ -2357,7 +2358,7 @@ Zealand won), the computing specifications (each team was provided with
 its own AT&T 6386 WorkGroup System, only Pascal solutions allowed) and
 the problems. Check out this link if you're interested.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1989<a name="#1989"></a>
 
@@ -2398,7 +2399,7 @@ Editor of the Bulletin.
 From the Volume 21, Issue 4, December 1989 Bulletin:\
 ![Bulletin 1989 ](../files/images/50yearsofSIGCSE/Bulletin1989.jpg)
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1988<a name="#1988"></a>
 
@@ -2440,7 +2441,7 @@ want to transfer to digital to have for posterity!
 In the Volume 20, Issue 2, June 1988 Bulletin was a financial report
 that listed the SIGCSE membership at 2,521 members!
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1987<a name="#1987"></a>
 
@@ -2474,7 +2475,7 @@ Editor of the Bulletin. Sadly, 1987 also marked the end of the
 "President's Notes" in the Bulletin which has been the source of a lot
 of great information!
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1986<a name="#1986"></a>
 
@@ -2506,7 +2507,7 @@ Here's a story about John Impagliazzo's initial foray into SIGCSE:\
 
 We are thankful those SIGCSE dignitaries roped you in!
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1985<a name="#1985"></a>
 
@@ -2591,7 +2592,7 @@ And that was that. Now I have two names.
 
 Frank er, I mean Fred
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1984<a name="#1984"></a>
 
@@ -2646,7 +2647,7 @@ but I don't think it's ours:\
 In addition, I found this in the September 1984 Bulletin:\
 ![The Bulletin 1984](../files/images/50yearsofSIGCSE/Bulletin1984.jpg)
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1983<a name="#1983"></a>
 
@@ -2671,7 +2672,7 @@ In that same June issue of the Bulletin, a list of the places where the
 Bulletin was mailed was presented:\
 ![The Bulletin 1983](../files/images/50yearsofSIGCSE/Bulletin1983.jpg)
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1982<a name="#1982"></a>
 
@@ -2692,7 +2693,7 @@ especially through his work on programming languages and compiler
 construction. Pretty cool that the inaugural Turing Award winner was the
 2nd SIGCSE award winner! Wish I could have heard that keynote!
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1981<a name="#1981"></a>
 
@@ -2724,7 +2725,7 @@ some of our now well-known conference features: tutorials, workshops,
 Birds of a Feather, and Panel Sessions. These were all explicitly stated
 in the call for scholarship.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1980<a name="#1980"></a>
 
@@ -2741,7 +2742,7 @@ Meeting held during the conference:
 The same issue of The Bulletin contains a survey asking questions about
 plagiarism in computing classes. Students haven't changed that much...
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1979<a name="#1979"></a>
 
@@ -2772,7 +2773,7 @@ corporate sponsors was initiated. The proposal was for sponsors to pay
 Symposium, and have their company listed on the inside cover of the
 Bulletin.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1978<a name="#1978"></a>
 
@@ -2826,7 +2827,7 @@ was a discussion on whether we should be named CSE or CE (computing
 education). The name issue is 40 years old!\
 (Briana Morrison)
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1977<a name="#1977"></a>
 
@@ -2865,7 +2866,7 @@ the proceedings of the 8th Technical Symposium. From the June issue:\
 ![June 1977 issue of the
 Bulletin](../files/images/50yearsofSIGCSE/BulletinJune1977.jpg)\
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1976<a name="#1976"></a>
 
@@ -2900,7 +2901,7 @@ College of William and Mary was the Conference Chair. Thirty-five papers
 were accepted for presentation.\
 (Briana Morrison)
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1975<a name="#1975"></a>
 
@@ -2922,7 +2923,7 @@ Bonnette continued as the Bulletin Editor and continued to be assisted
 by John Dalphin.\
 (Briana Morrison)
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1974<a name="#1974"></a>
 
@@ -2942,7 +2943,7 @@ conference that he attended, and then he attended for 30 straight years,
 minus 1. That's dedication!\
 (Briana Morrison)
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1973<a name="#1973"></a>
 
@@ -3004,7 +3005,7 @@ My sincere gratitude to Bob Aiken for helping me dig up some of this
 information.\
 (Briana Morrison)
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1972<a name="#1972"></a>
 
@@ -3034,7 +3035,7 @@ him would give the same sort of testimonial, and I was not in the least
 surprised that he was a charter member of the SIGCSE organization.
 (Chris Wilcox)
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1971<a name="#1971"></a>
 
@@ -3046,7 +3047,7 @@ and David Matula continued as Secretary/Treasurer. Board members
 included Robert Aiken, Peter Denning, and Richard Hamming. Robert Aiken
 continued to serve as the Bulletin Editor. (Briana Morrison)
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1970<a name="#1970"></a>
 
@@ -3077,7 +3078,7 @@ the organization! It also contained the announcement of the first
 student paper competition.\
 (Briana Morrison)
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1969<a name="#1969"></a>
 
@@ -3103,7 +3104,7 @@ December ( <https://dl.acm.org/citation.cfm?id=873618>). The October
 issued noted that there were more than 350 members. We have had 4 or 5
 issues of the Bulletin every year since.
 
-[Back to top](#Top)
+[↑ Back to top](#Index)
 
 ### 1968<a name="#1968"></a>
 
@@ -3118,4 +3119,4 @@ group. The petition was signed by 20 ACM members, including Bob Aiken.
 ![The petition to form SIGCSE in 1968
 ](../files/images/50yearsofSIGCSE/SIGCSEpetition.jpg)\
 
-[Back to top](#Top)
+[↑ Back to top](#Index)

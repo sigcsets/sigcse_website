@@ -15,7 +15,7 @@
         <div class="col-md-8 blog-main">
 
           <div class="blog-post">
-            <h2 class="blog-post-title pt-2 border-bottom">News: {{page.title}}</h2>
+            <h2 class="blog-post-title pt-2 border-bottom">{{page.title}}</h2>
             <p class="blog-post-meta">{{page.date | date: '%B %d, %Y' }}
                {% if page.author == true %}by {{page.author}}{% endif %}</p>
             {{content}}

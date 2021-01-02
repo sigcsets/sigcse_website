@@ -24,4 +24,4 @@ Additionally, many conferences across the world are held [in-cooperation with SI
 events.](incoop.html)
 
 Finally, SIGCSE and its members annually partake in the celebration of
-[Computer Science Education Week](http://www.csedweek.org/).
+[Computer Science Education Week](https://www.csedweek.org/).

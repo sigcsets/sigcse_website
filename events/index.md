@@ -3,8 +3,6 @@ title: Events
 layout: page
 ---
 
-**[50 Years of SIGCSE](50years.html)** - A timeline of SIGCSE events and milestones built during 2018 by Briana Morrison.
-
 SIGCSE annually sponsors the following events:
 
 -   [SIGCSE TS - ACM Computer Science Education Technical Symposium](symposia/index.html), usually held in
@@ -19,6 +17,8 @@ SIGCSE annually sponsors the following events:
     conjunction with ICER, with approximately 20 attendees.
 -   [Working Groups](workinggroups.html), held in conjunction
     with ITiCSE and CompEd
+
+We recently celebrated 50 Years of the SIGCSE organization. **[Follow this link](50years.html)** for a timeline of SIGCSE events and milestones built during 2018 by Briana Morrison.
 
 Additionally, many conferences across the world are held [in-cooperation with SIGCSE]({{"policies/incooperation.html" | absolute_url}}). You may view a [list of recent and future SIGCSE in-cooperation
 events.](incoop.html)

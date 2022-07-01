@@ -3,21 +3,18 @@ title: ITiCSE Conference
 layout: page
 ---
 
-**[We are calling for expressions of interest in the ITiCSE
-leadership for future years.](interesthosting.html)**
+*[We are calling for expressions of interest in the ITiCSE
+leadership for future years.](interesthosting.html)*
 
-The Innovation and Technology in Computer Science Education conference
-(ITiCSE) is a SIGCSE conference that has been held annually since 1996,
-in late June or early July. It has been held in many different countries
-(see list below). Attendance regularly exceeds 200. This conference
-brings together delegates from all over the world to address pressing
-issues in computing education. In addition to invited lectures, paper,
-panel, poster and \"tips & techniques\" sessions, the conference
-provides facilities and exposure for working groups of up to ten
-members, whose final reports may be published by SIGCSE. Exhibits and
-tutorials are also offered. Plus good food, good company and interesting
-locales. If you have never been to an ITiCSE, do yourself a favor and
-go. You will not regret it!
+![ITiCSE]({{"files/images/logo/ITiCSE-LOGOv2-s.png" | absolute_url}}){:style="border: 5px solid #ddd;"}
+
+
+The ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE) is one of four conferences sponsored by the ACM Special Interest Group on Computer Science Education (SIGCSE). It is the only SIGCSE conference overseen in conjunction with two other organizations, the ACM Europe Council and Informatics Europe. It is an international informatics/computing education conference held annually in Europe in June or July and has existed since 1996.
+
+SIGCSE provides a forum for educators to discuss issues related to the development, implementation, and/or evaluation of computing programs, curricula, and courses, as well as syllabi, laboratories, and other elements of teaching and pedagogy. ACM Europe Council was created by ACM to recognise and support European ACM members and activities. Informatics Europe represents the academic and research community in Informatics in Europe. With over 140 member institutions across 33 countries, Informatics Europe promotes common positions and acts on common priorities including informatics education.
+
+
+The ITiCSE conference has been held annually since 1996, in late June or early July. It has been held in many different countries (see list below). Attendance regularly exceeds 200. This conference brings together delegates from all over the world to address pressing issues in computing education. In addition to invited lectures, paper, panel, poster and \"tips & techniques\" sessions, the conference provides facilities and exposure for working groups of up to ten members, whose final reports may be published by SIGCSE. Exhibits and tutorials are also offered. Plus good food, good company and interesting locales. If you have never been to an ITiCSE, do yourself a favor and go. You will not regret it!
 
 ###### Typical ITiCSE Schedule
 
@@ -35,7 +32,13 @@ go. You will not regret it!
 {% for policy in site.data.policies.iticse %}
 - [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
 
-###### All Conference Policies
+###### Current Steering committee
+
+{% for c in site.data.iticse.steering %}
+- {{c.name}}, {{c.affiliation}} ({{c.dates}}){% endfor %}
+
+
+###### Policies that apply to all conferences
 
 {% for policy in site.data.policies.conferences %}
 - [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
@@ -71,7 +74,7 @@ Follow the links to conference web sites and proceedings.
 
 {% assign items = site.data.iticse.conferences | sort: 'year' | reverse %}
 {% for c in items %}
-- {% if c.url %}[{{c.title}}]({{c.url}}){%else%}{{c.title}}{%endif%}: {{c.date}}, {{c.location}}{% if c.doi %}, [proceedings]({{c.doi}}){% if c.companion-doi %}, [companion]({{c.companion-doi}}){%endif%}{%endif%}{% endfor %}
+- {% if c.url %}[**{{c.title}}**]({{c.url}}){%else%}**{{c.title}}**{%endif%}: {{c.date}}, {{c.location}}{% if c.doi %}<br>[Proceedings]({{c.doi}}){% if c.companion-doi %}, [companion]({{c.companion-doi}}){%endif%}, <a href="{{"/events/workinggroups.html"|absolute_url}}#{{c.year}}">working group reports</a>.{%endif%}{% endfor %}
 
 
 #### ITiCSE History

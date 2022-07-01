@@ -3,11 +3,7 @@ title: SIGCSE Technical Symposium
 layout: page
 ---
 
-The Technical Symposium is SIGCSE\'s flagship conference. It has been
-held annually in February or March in the United States since 1970.
-Attendance regularly exceeds 1,200. SIG members often refer to this
-Symposium as \"SIGCSE\". As in \"Are you going to SIGCSE?\" or \"I
-attended her talk at last year\'s SIGCSE\".
+The Technical Symposium on Computer Science Education is organized by the ACM Special Interest Group on Computer Science Education (SIGCSE) and is the organization’s flagship conference. It has been held annually in February or March in North America since 1970. The SIGCSE organization provides a forum for educators to discuss issues related to the development, implementation, and/or evaluation of computing programs, curricula, and courses, as well as syllabi, laboratories, and other elements of teaching and pedagogy.
 
 The SIGCSE Technical Symposium addresses problems common among educators
 working to develop, implement and/or evaluate computing programs,
@@ -29,7 +25,7 @@ have many different sponsorship opportunities as well. [Click
 here]({{"/policies/corporate.html" | absolute_url}}) for information about corporate
 support for the Symposium. For more information please contact:
 
--   Dorothea Heck <sigcse@dlplan.com>\
+-   SIGCSE Exhibit Management <sigcse@dlplan.com>\
     Phone: +1 609.344.1333
 
 ###### Technical Symposium Specific Policies
@@ -49,7 +45,7 @@ Follow the links to Technical Symposium summary pages and/or symposium web sites
 
 {% assign items = site.pages | where: "event","symposium" | sort: 'year' | reverse %}
 {% for c in items %}
-- [{{c.title}}]({{c.year}}.html): {{c.location}}{% if c.doi %}, [proceedings]({{c.doi}}){%endif%}{% endfor %}
+- [{{c.title}}]({{c.year}}.html): {{c.location}} {%if c.proceedings2-title %}, [proceedings v1]({{c.doi}}), [proceedings v2]({{c.doi2}}){%elsif c.proceedings-title %}, [proceedings]({{c.doi}}){%endif%}{% endfor %}
 
 
 #### Symposium History

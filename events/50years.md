@@ -44,7 +44,7 @@ Report Paper is "Making Noise: Using Sound-Art to Explore Technological
 Fluency" by Erik Brunvand and Nina McCurdy. There were 348 paper
 submitted and 105 were accepted (30% acceptance rate). There were 1414
 attendees! Here are the full submission statistics:\
-![48thTS-statistics](../files/images/50yearsofSIGCSE/48thTS-statistics.jpg)
+![48thTS-statistics](/assets/images/50yearsofSIGCSE/48thTS-statistics.jpg)
 
 The Outstanding Contribution to Computer Science Education Award was
 given to Gail Chapman for long term impact on computer science education
@@ -58,7 +58,7 @@ computing educators. You can listen to an interview with Mats through
 the Computing Educators Oral History Project here:
 [http://ahab.southwestern.edu/departments/mathcompsci/OHProject/danielsM-\...](http://ahab.southwestern.edu/departments/mathcompsci/OHProject/danielsM-overview.html).
 
-![48thTS-1](../files/images/50yearsofSIGCSE/48thTS-1.jpg)\
+![48thTS-1](/assets/images/50yearsofSIGCSE/48thTS-1.jpg)\
 From Andy Rasmussen: A group of 20 people from Chicago Public Schools -
 the strongest representation from a K-12 school system. Click here for
 animated version.
@@ -134,12 +134,12 @@ education community for working relentlessly to grow the effectiveness
 of SIGCSE as a global leader in computer education and for being an
 inspiration, a mentor, and a friend to all.
 
-![47thTS-1](../files/images/50yearsofSIGCSE/47thTS-1.jpg)\
+![47thTS-1](/assets/images/50yearsofSIGCSE/47thTS-1.jpg)\
 Best Paper award (left to right) - Award Winners: Dennis Bouvier,
 Cynthia Lee, Dan Zingaro, Leo Porter, Quintin Cutts, Beth Simon, Robert
 McCartney. Presenters: Michael E. Caspersen and Paul Tymann
 
-![47thTS-2](../files/images/50yearsofSIGCSE/47thTS-2.jpg)\
+![47thTS-2](/assets/images/50yearsofSIGCSE/47thTS-2.jpg)\
 Photo Credit: Mark Guzdial
 
 The 2nd New Educators Workshop was co-located with the Technical
@@ -164,7 +164,7 @@ planning stages of separating the ICER leadership from Past - Current -
 Future to Site and Program chairs. There were 102 papers submitted with
 26 accepted (25% acceptance rate) and 105 people attended.
 
-![ICER-2016-1](../files/images/50yearsofSIGCSE/ICER-2016-1.jpg)\
+![ICER-2016-1](/assets/images/50yearsofSIGCSE/ICER-2016-1.jpg)\
 The Chairs' Best Paper Award was presented to Alex Lishinski, Aman
 Yadav, Jon Good, and Richard Enbody, from Michigan State University, and
 the John Henry award to Elizabeth Patitsas, Jesse Berlin, Michelle
@@ -187,10 +187,10 @@ discussants were Katrina Falkner (University of Adelaide), Steve Cooper
 (University of Nebraska, Lincoln), Kristin Searle (Utah State
 University), Aman Yadav (Michigan State University), and Christopher
 Hundhausen (Washington State University) for the 17 participants.\
-![ICER-2016-3](../files/images/50yearsofSIGCSE/ICER-2016-3.jpg)\
+![ICER-2016-3](/assets/images/50yearsofSIGCSE/ICER-2016-3.jpg)\
 ICER DC participants
 
-![ICER-2016-4](../files/images/50yearsofSIGCSE/ICER-2016-4.jpg)
+![ICER-2016-4](/assets/images/50yearsofSIGCSE/ICER-2016-4.jpg)
 
 The Bulletin (Vol. 48, No. 2, April 2016) contained an article by
 Michael Casperson explaining the \"Improved Reviewing Process for the
@@ -217,7 +217,7 @@ profound impact on generations of students and for invaluable service to
 the computer science education community. You can listen to an interview
 with Mark through the Computing Educators Oral History Project here:
 [http://ahab.southwestern.edu/departments/mathcompsci/OHProject/weissM-ov\...](http://ahab.southwestern.edu/departments/mathcompsci/OHProject/weissM-overview.html).\
-![46thTS-1](../files/images/50yearsofSIGCSE/46thTS-1.png)\
+![46thTS-1](/assets/images/50yearsofSIGCSE/46thTS-1.png)\
 Susan Rodger and Paul Tymann presenting Mark Weiss with plaque.
 
 The Lifetime Service to Computer Science Education was awarded to
@@ -227,16 +227,16 @@ as a role model and mentor to generations of students and faculty. You
 can listen to an interview with Frank through the Computing Educators
 Oral History Project here:
 [http://ahab.southwestern.edu/departments/mathcompsci/OHProject/youngF-ov\...](http://ahab.southwestern.edu/departments/mathcompsci/OHProject/youngF-overview.html).\
-![46thTS-2](../files/images/50yearsofSIGCSE/46thTS-2.png)\
+![46thTS-2](/assets/images/50yearsofSIGCSE/46thTS-2.png)\
 Susan Rodger and Paul Tymann presenting Frank Young with plaque.
 
-![46thTS-3](../files/images/50yearsofSIGCSE/46thTS-3.jpg)\
+![46thTS-3](/assets/images/50yearsofSIGCSE/46thTS-3.jpg)\
 The city lit up with a SIGCSE sign
 
-![46thTS-4](../files/images/50yearsofSIGCSE/46thTS-4.jpg)\
+![46thTS-4](/assets/images/50yearsofSIGCSE/46thTS-4.jpg)\
 Aman Yadav with Elvis Presley cutout.
 
-![46thTS-5](../files/images/50yearsofSIGCSE/46thTS-5.jpg)
+![46thTS-5](/assets/images/50yearsofSIGCSE/46thTS-5.jpg)
 
 The 6th Roundtable for Department Chairs was held on March 4, 2015
 co-located with the Technical Symposium and was headed up by Sandra
@@ -258,9 +258,9 @@ and Judy Sheard (Monash University). There were 96 papers submitted and
 date with 119 attendees for the single track conference and everyone
 received a cowbell (More cowbell!) and rang it in appreciation of
 speakers.\
-![ICER-2015-1](../files/images/50yearsofSIGCSE/ICER-2015-1.jpg)\
+![ICER-2015-1](/assets/images/50yearsofSIGCSE/ICER-2015-1.jpg)\
 John Henry awardee Kristin Searle, with the requisite ICER hat photo.\
-![ICER-2015-2](../files/images/50yearsofSIGCSE/ICER-2015-2.jpg)\
+![ICER-2015-2](/assets/images/50yearsofSIGCSE/ICER-2015-2.jpg)\
 ICER 2015 logo with 3 cowbells
 
 The 19th Doctoral Consortium was again co-located with ICER and held on
@@ -304,7 +304,7 @@ Board agreed to run this workshop every other year. This meant that the
 Department Chair Roundtable and the New Educators Workshop would
 alternate every year at SIGCSE.
 
-![45thTS-1](../files/images/50yearsofSIGCSE/45thTS-1.jpg)\
+![45thTS-1](/assets/images/50yearsofSIGCSE/45thTS-1.jpg)\
 Dan Joyce with his daughter Julie and another Villanova student Lindsey
 Press holding their badges up to solve one of the SIGCSE puzzles for
 that year
@@ -313,10 +313,10 @@ And now for a very special group - the SIGCSE CSEngers!!! The marvelous
 Jesse Heines (University of Massachusetts, Lowell) organized volunteers
 each year who practiced and then performed at the closing luncheon. It
 was a guaranteed good time!\
-![45thTS-2](../files/images/50yearsofSIGCSE/45thTS-2.jpg)\
-![45thTS-3](../files/images/50yearsofSIGCSE/45thTS-3.jpg)\
-![45thTS-4](../files/images/50yearsofSIGCSE/45thTS-4.jpg)\
-![45thTS-5](../files/images/50yearsofSIGCSE/45thTS-5.jpg)
+![45thTS-2](/assets/images/50yearsofSIGCSE/45thTS-2.jpg)\
+![45thTS-3](/assets/images/50yearsofSIGCSE/45thTS-3.jpg)\
+![45thTS-4](/assets/images/50yearsofSIGCSE/45thTS-4.jpg)\
+![45thTS-5](/assets/images/50yearsofSIGCSE/45thTS-5.jpg)
 
 The 19th ITiCSE conference was held June 23-25, 2014 in Uppsala, Sweden.
 The Conference Co-Chairs were Asa Cajander and Mats Daniels (both from
@@ -332,12 +332,12 @@ arrangements. The Conference and Program Co-Chairs were Beth Simon
 Glasgow), and Brian Dorn (University of Nebraska at Omaha). There were
 69 papers submitted with 17 accepted for a 25% acceptance rate and 79
 registered attendees.\
-![ICER-2014-1](../files/images/50yearsofSIGCSE/ICER-2014-1.jpg)\
+![ICER-2014-1](/assets/images/50yearsofSIGCSE/ICER-2014-1.jpg)\
 This ICER will forever be known as the \"dancing\" ICER as the
 participants enjoyed a Scottish ceilidh dance following the conference
 banquet. Much of the night\'s festivities were captured by the Google
 Glasses worn by several of the students in attendance.\
-![ICER-2014-2](../files/images/50yearsofSIGCSE/ICER-2014-2.jpg)
+![ICER-2014-2](/assets/images/50yearsofSIGCSE/ICER-2014-2.jpg)
 
 The 18th Doctorial Consortium was held on August 10, 2014, co-located
 with ICER. The leaders this year were Sally Fincher (University of Kent)
@@ -375,7 +375,7 @@ Skidmore College, and Beth Simon, University of California, San Diego
 for their paper: Retaining Nearly One-Third more Majors with a Trio of
 Instructional Best Practices in CS1. This paper was selected out of 111
 accepted papers.\
-![44thTS-Simon-Porter](../files/images/50yearsofSIGCSE/44thTS-Simon-Porter.jpg)
+![44thTS-Simon-Porter](/assets/images/50yearsofSIGCSE/44thTS-Simon-Porter.jpg)
 
 The theme of the symposium was \"The Changing Face of Computing\". For
 the first time at SIGCSE, there was a movie shown following the Thursday
@@ -387,20 +387,20 @@ drama-documentary participated in a Q&A session following the movie. A
 very popular feature of recent Technical Symposiums, the \"puzzle
 extravaganza\" started this year.
 
-![44thTS-1](../files/images/50yearsofSIGCSE/44thTS-1.jpg)\
+![44thTS-1](/assets/images/50yearsofSIGCSE/44thTS-1.jpg)\
 The Villanova 2013 photo shows Tom Way, Don Goelman and Bob Beck of
 Villanova and Pete DePasquale of TCNJ (but a Villanova grad)
 
-![44thTS-2](../files/images/50yearsofSIGCSE/44thTS-2.jpg)\
+![44thTS-2](/assets/images/50yearsofSIGCSE/44thTS-2.jpg)\
 Dan Zingaro, Leo Porter, and John Glick all smiling for the camera.
 
-![44thTS-3](../files/images/50yearsofSIGCSE/44thTS-3.jpg)\
+![44thTS-3](/assets/images/50yearsofSIGCSE/44thTS-3.jpg)\
 Gloria Townsend and Tracy CampPhoto Credit: Sarah Guthals
 
-![44thTS-4](../files/images/50yearsofSIGCSE/44thTS-4.jpg)\
+![44thTS-4](/assets/images/50yearsofSIGCSE/44thTS-4.jpg)\
 Paul Tymann with Microsoft guys
 
-![44thTS-5](../files/images/50yearsofSIGCSE/44thTS-5.jpg)\
+![44thTS-5](/assets/images/50yearsofSIGCSE/44thTS-5.jpg)\
 Ralph Morelli, Laurie King, and Michelle Craig
 
 Thanks to Tracy Camp, Paul Tyman, and Laurie King for the photos!
@@ -411,7 +411,7 @@ teaching tools, teaching approaches and teaching material.\
 You can listen to an interview with Michael through the Computing
 Educators Oral History Project here:
 [http://ahab.southwestern.edu/departments/mathcompsci/OHProject/kollingM-\...](http://ahab.southwestern.edu/departments/mathcompsci/OHProject/kollingM-overview.html).\
-![44thTS-6](../files/images/50yearsofSIGCSE/44thTS-6.jpg)\
+![44thTS-6](/assets/images/50yearsofSIGCSE/44thTS-6.jpg)\
 Dan Joyce introducing Michael Kölling for his award speech.
 
 The Lifetime Service to Computer Science Education was awarded to Henry
@@ -423,7 +423,7 @@ departments to advance excellence in computing education.\
 You can listen to an interview with Henry through the Computing
 Educators Oral History Project here:
 [http://ahab.southwestern.edu/departments/mathcompsci/OHProject/walkerH-o\...](http://ahab.southwestern.edu/departments/mathcompsci/OHProject/walkerH-overview.html).\
-![44thTS-7](../files/images/50yearsofSIGCSE/44thTS-7.jpg)\
+![44thTS-7](/assets/images/50yearsofSIGCSE/44thTS-7.jpg)\
 Dan Joyce presenting Henry Walker with his plaque.
 
 You can listen to an interview with Henry through the Computing
@@ -518,7 +518,7 @@ Professor Jan Meyer from the University of Queensland, Australia, who
 spoke eloquently about "Threshold Concepts, Pedagogy and Student
 Learning: Challenges and Opportunities" and related this theory to
 computing.\
-![ICER-2012](../files/images/50yearsofSIGCSE/ICER-2012.jpg)\
+![ICER-2012](/assets/images/50yearsofSIGCSE/ICER-2012.jpg)\
 The 16th Doctoral Consortium was held September 9, 2012 and was led by
 Judy Sheard (Monash University) and Allison Elliott Tew (University of
 British Columbia) with 15 participants.
@@ -538,14 +538,14 @@ For the first time, a Best Paper Award was given; the winners were
 Guillaume Marceau, Kathi Fisler, and Shriram Krishnamurthi for their
 paper "Measuring the Effectiveness of Error Messages Designed for Novice
 Programmers".\
-![42ndTS](../files/images/50yearsofSIGCSE/42ndTS.jpg)\
+![42ndTS](/assets/images/50yearsofSIGCSE/42ndTS.jpg)\
 Best Paper Award Winners Guillaume Marceau and Kathi Fisler with
 Symposium Co-Chairs Ellen Walker and Tom Cortina.
 
 And who can forget the \"Pokens!\"???\
-![42ndTSpokens-1](../files/images/50yearsofSIGCSE/42ndTSpokens-1.jpg)\
+![42ndTSpokens-1](/assets/images/50yearsofSIGCSE/42ndTSpokens-1.jpg)\
 And of course - the Robot Hoedown & Rodeo!\
-![42ndTSpokens-2](../files/images/50yearsofSIGCSE/42ndTSpokens-2.jpg)\
+![42ndTSpokens-2](/assets/images/50yearsofSIGCSE/42ndTSpokens-2.jpg)\
 Thanks to Robert Walker, you can find loads more pictures here:
 [https://www.flickr.com/photos/robert\_a\_walker/sets/72157626236567140/wit\...](https://www.flickr.com/photos/robert_a_walker/sets/72157626236567140/with/5548479943/)\
 The 6th Roundtable for Department Chairs was held on March 12, 2011 and
@@ -602,16 +602,16 @@ in an old castle, see
 (thanks to Henry and Terry Walker).
 
 Dinner in the castle with musicians for entertainment.\
-![ITiCSE-2011-1](../files/images/50yearsofSIGCSE/ITiCSE-2011-1.jpg)\
+![ITiCSE-2011-1](/assets/images/50yearsofSIGCSE/ITiCSE-2011-1.jpg)\
 After dinner there were \"skits\". Featured prominently were Barb Owens
 and Henry Walker:\
-![ITiCSE-2011-2](../files/images/50yearsofSIGCSE/ITiCSE-2011-2.jpg)
+![ITiCSE-2011-2](/assets/images/50yearsofSIGCSE/ITiCSE-2011-2.jpg)
 
-![ITiCSE-2011-3](../files/images/50yearsofSIGCSE/ITiCSE-2011-3.jpg)
+![ITiCSE-2011-3](/assets/images/50yearsofSIGCSE/ITiCSE-2011-3.jpg)
 
-![ITiCSE-2011-4](../files/images/50yearsofSIGCSE/ITiCSE-2011-4.jpg)
+![ITiCSE-2011-4](/assets/images/50yearsofSIGCSE/ITiCSE-2011-4.jpg)
 
-![ITiCSE-2011-5](../files/images/50yearsofSIGCSE/ITiCSE-2011-5.jpg)
+![ITiCSE-2011-5](/assets/images/50yearsofSIGCSE/ITiCSE-2011-5.jpg)
 
 The 7th ICER conference was held August 8-9, 2011 in Providence, RI. In
 charge of local arrangements was Kathryn Sanders (Rhode Island College).
@@ -622,8 +622,8 @@ were 47 papers submitted with 18 accepted for a 38% acceptance rate.
 There were 68 attendees. The keynote was given by Eric Mazur (Harvard
 University):
 
-![ICER-2011-1](../files/images/50yearsofSIGCSE/ICER-2011-1.jpg)\
-![ICER-2011-2](../files/images/50yearsofSIGCSE/ICER-2011-2.jpg)
+![ICER-2011-1](/assets/images/50yearsofSIGCSE/ICER-2011-1.jpg)\
+![ICER-2011-2](/assets/images/50yearsofSIGCSE/ICER-2011-2.jpg)
 
 The 15th Doctoral Consortium was held on August 7, 2011 with Robert
 McCartney (University of Connecticut) and Judy Sheard (Monash
@@ -691,15 +691,15 @@ Organization/Logistics/Technical Support
 
 Here are some pictures of the Kids\' Camp T-shirts. Can anyone identify
 the cute model?\
-![41stTS-kids-camp-1](../files/images/50yearsofSIGCSE/41stTS-kids-camp-1.jpg)\
+![41stTS-kids-camp-1](/assets/images/50yearsofSIGCSE/41stTS-kids-camp-1.jpg)\
 Girl showing back of Tshirt with Alice, CS Unplugged, Kodu and Scratch\
-![41stTS-kids-camp-2](../files/images/50yearsofSIGCSE/41stTS-kids-camp-2.jpg)\
+![41stTS-kids-camp-2](/assets/images/50yearsofSIGCSE/41stTS-kids-camp-2.jpg)\
 Girl in SIGCSE 2010 Kids Camp Tshirt
 
 Here are a couple of pictures from Dan Joyce:\
-![41stTS-1](../files/images/50yearsofSIGCSE/41stTS-1.jpg)\
+![41stTS-1](/assets/images/50yearsofSIGCSE/41stTS-1.jpg)\
 Dan Joyce and son Tom\
-![41stTS-2](../files/images/50yearsofSIGCSE/41stTS-2.jpg)\
+![41stTS-2](/assets/images/50yearsofSIGCSE/41stTS-2.jpg)\
 Don Goelman, Pete DePasquale and Bob Beck
 
 The 5th Roundtable for Department Chairs was held March 10, 2010 and was
@@ -728,7 +728,7 @@ cruise boat on the river Seine and included Turkish dancing and
 entertainment.
 
 Program committee for ITICSE 2010 in Ankara, Turkey.\
-![ITiCSE-2010](../files/images/50yearsofSIGCSE/ITiCSE-2010.jpg)
+![ITiCSE-2010](/assets/images/50yearsofSIGCSE/ITiCSE-2010.jpg)
 
 More pictures can be found at the conference website:
 <http://iticse2010.bilkent.edu.tr/>.
@@ -745,7 +745,7 @@ papers submitted with 12 accepted (32% acceptance rate). There were 38
 attendees.
 
 From The Bulletin (Vol. 42, No. 3, September, 2010):\
-![Bulletin-2010](../files/images/50yearsofSIGCSE/ITiCSE-2010.jpg)
+![Bulletin-2010](/assets/images/50yearsofSIGCSE/ITiCSE-2010.jpg)
 
 Since 2008, the ICER Fool\'s Award has been given for the paper with the
 most interesting idea and/or most potential for impact on CS education
@@ -796,7 +796,7 @@ Wolfman (University of British Columbia). There were 305 papers
 submitted and 100 were accepted for a 32.8% acceptance rate. There were
 1176 people in attendance. The theme of the conference was "Engaging
 Computer Science Education." Full Symposium statistics:\
-![40thTS-statistics](../files/images/50yearsofSIGCSE/39thTS-statistics.jpg)
+![40thTS-statistics](/assets/images/50yearsofSIGCSE/39thTS-statistics.jpg)
 
 New things introduced this year included having Associate Program Chairs
 who implemented the first two-stage paper review process for the SIGCSE
@@ -850,7 +850,7 @@ Russell (University of Hartford) and Jean-Marc Labat (Université Pierre
 et Marie Curie). There were 206 papers submitted with 66 accepted for a
 32% acceptance rate. There were 247 attendees. Here\'s a picture from
 Mary Anne Egan showing the reception / poster room:\
-![ITiCSE-2009](../files/images/50yearsofSIGCSE/ITiCSE-2009.jpg)\
+![ITiCSE-2009](/assets/images/50yearsofSIGCSE/ITiCSE-2009.jpg)\
 ITICSE 2009 in Paris, France. This was the reception/poster room....\
 The 5th ICER conference was held August 10-11 at University of
 California Berkeley. The conference and program co-chairs were Mike
@@ -922,7 +922,7 @@ while Ed Lazowska of the University of Washington talked during the
 concluding luncheon on Saturday.
 
 The submission statistics for the entire Technical Symposium:\
-![39thTS-statistics](../files/images/50yearsofSIGCSE/39thTS-statistics.jpg)
+![39thTS-statistics](/assets/images/50yearsofSIGCSE/39thTS-statistics.jpg)
 
 The pictures from 2008 are still on the website
 (<https://www2.cs.duke.edu/sigcse08/photos.html>). There are over 1000
@@ -978,11 +978,11 @@ different places).
 
 Here are some pictures from ICER 2008:
 
-![ICER-2008](../files/images/50yearsofSIGCSE/ICER-2008-1.jpg)\
+![ICER-2008](/assets/images/50yearsofSIGCSE/ICER-2008-1.jpg)\
 Raymond Lister at ICER 2008\
-![ICER-2008](../files/images/50yearsofSIGCSE/ICER-2008-2.jpg)\
+![ICER-2008](/assets/images/50yearsofSIGCSE/ICER-2008-2.jpg)\
 Simon at ICER 2008\
-![ICER-2008](../files/images/50yearsofSIGCSE/ICER-2008-3.jpg)\
+![ICER-2008](/assets/images/50yearsofSIGCSE/ICER-2008-3.jpg)\
 Paul Denny and Raymond Lister at ICER 2008 (Paul Denny (on crutches)
 being presented with the first Fool\'s Award, now known as the John
 Henry Award)
@@ -1083,11 +1083,11 @@ and 61 were accepted for a 28.9% acceptance rate. 223 people were in
 attendance and there were 6 Working Groups.
 
 Here are some pictures from **ITiCSE 2007 in Dundee, Scotland**:\
-![ITiCSE-2007-1](../files/images/50yearsofSIGCSE/ITiCSE-2007-1.jpg)\
+![ITiCSE-2007-1](/assets/images/50yearsofSIGCSE/ITiCSE-2007-1.jpg)\
 Michael E. Caspersen and Mats Daniels at ITiCSE 2007\
-![ITiCSE-2007-2](../files/images/50yearsofSIGCSE/ITiCSE-2007-2.jpg)\
+![ITiCSE-2007-2](/assets/images/50yearsofSIGCSE/ITiCSE-2007-2.jpg)\
 Catherine Lang and Mary Anne Egan\
-![ITiCSE-2007-3](../files/images/50yearsofSIGCSE/ITiCSE-2007-3.jpg)\
+![ITiCSE-2007-3](/assets/images/50yearsofSIGCSE/ITiCSE-2007-3.jpg)\
 Mary Anne Egan presenting
 
 The 3rd ICER was held September 15-16, 2007 at the Georgia Institute of
@@ -1128,7 +1128,7 @@ program committees. Within 35 hours, 21 SIGCSE members had volunteered
 SIGCSE organization!
 
 The Symposium and ITiCSE showed good growth:\
-![38thTS-statistics](../files/images/50yearsofSIGCSE/38thTS-statistics.jpg)
+![38thTS-statistics](/assets/images/50yearsofSIGCSE/38thTS-statistics.jpg)
 
 The SIGCSE Board raised annual dues from \$17 to \$25 in 1999, and dues
 continue at that level today (for an electronic membership). This fee is
@@ -1171,7 +1171,7 @@ CHE works with you.
 The December 2007 (Volume 39, Issue 4) Inroads premiered a new cover for
 this and future publications. Slightly more graphic introductory pages
 were also introduced as we moved toward modern times.\
-![InroadsDecember2007](../files/images/50yearsofSIGCSE/InroadsDecember2007.jpg)
+![InroadsDecember2007](/assets/images/50yearsofSIGCSE/InroadsDecember2007.jpg)
 
 That same issue included an Invited Editorial from Bill Manaris (College
 of Charleston) reflecting on possible contributions to the falling
@@ -1237,7 +1237,7 @@ Educators Oral History Project here:\
 Here\'s a picture of the BlueJ and Greenfoot team at SIGCSE 2006: David
 Barnes, Michael Kölling, Poul Henriksen, Bruce Quig, Davin McCall, John
 Rosenberg, Matt Jadud, and Ian Utting:\
-![37thTS](../files/images/50yearsofSIGCSE/37thTS.jpg)
+![37thTS](/assets/images/50yearsofSIGCSE/37thTS.jpg)
 
 At the 2006 Symposium the first Roundtable for Department Chairs was
 held on March 1st. Leading the effort were Sandra DeLoatch (Norfolk
@@ -1256,7 +1256,7 @@ Technology). Discussants included Richard Anderson (University of
 Washington at Seattle), Philip East (University of Northern Iowa), and
 Josh Tenenberg (University of Washington, Tacoma). From Cecily Heiner we
 have a picture of the 2006 DC participants:\
-![37thTS-DC](../files/images/50yearsofSIGCSE/37thTS-DC.jpg)
+![37thTS-DC](/assets/images/50yearsofSIGCSE/37thTS-DC.jpg)
 
 The 11th ITiCSE was held June 26-28, 2006 at the University of Bologna,
 Italy. Renzo Davoli (University of Bologna) was Conference Chair and
@@ -1267,7 +1267,7 @@ with 59 acceptances (30% acceptance rate). There were 197 attendees and
 
 Here\'s a picture of Ray Lister, Tony Clear, and Anders Berklund at
 ITiCSE 2006\
-![ITiCSE-2006](../files/images/50yearsofSIGCSE/ITiCSE-2006.jpg)
+![ITiCSE-2006](/assets/images/50yearsofSIGCSE/ITiCSE-2006.jpg)
 
 The 2nd ICER was held September 9-10, 2006 at the University of Kent in
 Canterbury, UK. The Conference (and Program) Chairs were the initial
@@ -1283,7 +1283,7 @@ the conference dinner as well as the conference itself!
 
 Here\'s a picture of Mark Guzdial, Allison Elliott Tew and Brian Dorn
 enjoy ICER:\
-![ICER-2006](../files/images/50yearsofSIGCSE/ICER-2006.jpg)
+![ICER-2006](/assets/images/50yearsofSIGCSE/ICER-2006.jpg)
 
 An interesting tidbit on what the organization was up to during the
 year:
@@ -1378,7 +1378,7 @@ The Conference Chairs were Daniel Joyce (Villanova University) and
 Deborah Knox (The College of New Jersey). The Program Chairs were Wanda
 Dann (Ithaca College) and Tom Naps (University of Wisconsin at
 Oshkosh).\
-![35TS](../files/images/50yearsofSIGCSE/35thTS.jpg)
+![35TS](/assets/images/50yearsofSIGCSE/35thTS.jpg)
 
 Dan Joyce provided this photo from Norfolk with the following story: \"I
 took that from the stage during my \"welcome to Norfolk\" intro to the
@@ -1445,7 +1445,7 @@ in Reno, Nevada. The Conference Chair was Scott Grissom (Grand Valley
 State University). The Program Chairs were Daniel Joyce (Villanova
 University) and Deborah Knox (The College of New Jersey).\
 Here are the conference submission statistics:\
-![34rdTS-statistics](../files/images/50yearsofSIGCSE/34thTS-statistics.jpg)
+![34rdTS-statistics](/assets/images/50yearsofSIGCSE/34thTS-statistics.jpg)
 
 234 papers submitted, 75 accepted 32% acceptance rate. Attendees: 1003.\
 Here is the remaining Conference Committee:\
@@ -1514,7 +1514,7 @@ Charleston). The Program Chair was Scott Grissom (Grand Valley State
 University).
 
 Here are the conference submission statistics:\
-![33rdTS-statistics](../files/images/50yearsofSIGCSE/33rdTS-statistics.jpg)
+![33rdTS-statistics](/assets/images/50yearsofSIGCSE/33rdTS-statistics.jpg)
 
 This was the first year that the Technical Symposium broke 1000 in
 attendees with 1110 attendees. The rest of the Conference Committee was:
@@ -1571,20 +1571,20 @@ and 5 Working Groups. Here are pictures from Michael Caspersen.
 
 **ITiCSE 2002 in Aarhus, DK**
 
-![ITiCSE-2002](../files/images/50yearsofSIGCSE/ITiCSE-2002-1.jpg)\
+![ITiCSE-2002](/assets/images/50yearsofSIGCSE/ITiCSE-2002-1.jpg)\
 Niklaus Wirth and Kristen Nygaard, two Turing Award Winners and keynote
 speakers at ITiCSE 2002 (Kristen Nygaard passed away just six weeks
 later).
 
-![ITiCSE-2002](../files/images/50yearsofSIGCSE/ITiCSE-2002-2.jpg)\
+![ITiCSE-2002](/assets/images/50yearsofSIGCSE/ITiCSE-2002-2.jpg)\
 Georgios Evangelidis, Maya Satratzemi, Mike Goldweber, Bruce Klein, Dick
 Austing, and Ian Utting at ITiCSE 2002
 
-![ITiCSE-2002](../files/images/50yearsofSIGCSE/ITiCSE-2002-3.jpg)\
+![ITiCSE-2002](/assets/images/50yearsofSIGCSE/ITiCSE-2002-3.jpg)\
 Maya Satratzemi, Georgios Evangelidis, Christopher E. Caspersen, Michael
 E. Caspersen, David Gries, and Niklaus Wirth at ITiCSE 2002
 
-![ITiCSE-2002](../files/images/50yearsofSIGCSE/ITiCSE-2002-4.jpg)\
+![ITiCSE-2002](/assets/images/50yearsofSIGCSE/ITiCSE-2002-4.jpg)\
 Don Goelman and Mike Goldweber at ITiCSE 2002
 
 [↑ Back to top](#Index)
@@ -1668,33 +1668,33 @@ submitted with 43 accepted (30.9% acceptance rate) and 3 Working Groups.
 
 Michael Caspersen provided the following pictures:
 
-![ITiCSE-2001](../files/images/50yearsofSIGCSE/ITiCSE-2001-1.jpg)\
+![ITiCSE-2001](/assets/images/50yearsofSIGCSE/ITiCSE-2001-1.jpg)\
 Dan Joyce and Michael E. Caspersen at ITiCSE 2001 (Co-chairs for
 ITiCSE2002)
 
-![ITiCSE-2001](../files/images/50yearsofSIGCSE/ITiCSE-2001-2.jpg)\
+![ITiCSE-2001](/assets/images/50yearsofSIGCSE/ITiCSE-2001-2.jpg)\
 John Impagliazzo at ITiCSE 2001
 
-![ITiCSE-2001](../files/images/50yearsofSIGCSE/ITiCSE-2001-3.jpg)\
+![ITiCSE-2001](/assets/images/50yearsofSIGCSE/ITiCSE-2001-3.jpg)\
 Bruce Klein at ITiCSE 2001
 
-![ITiCSE-2001](../files/images/50yearsofSIGCSE/ITiCSE-2001-4.jpg)\
+![ITiCSE-2001](/assets/images/50yearsofSIGCSE/ITiCSE-2001-4.jpg)\
 Michael Kölling and Bruce Klein at ITiCSE 2001
 
-![ITiCSE-2001](../files/images/50yearsofSIGCSE/ITiCSE-2001-5.jpg)\
+![ITiCSE-2001](/assets/images/50yearsofSIGCSE/ITiCSE-2001-5.jpg)\
 Cary Laxer and Henry Walker at ITiCSE 2001 (and behind, Dawn Cizmar and
 Dennis Bouvier)
 
-![ITiCSE-2001](../files/images/50yearsofSIGCSE/ITiCSE-2001-6.jpg)\
+![ITiCSE-2001](/assets/images/50yearsofSIGCSE/ITiCSE-2001-6.jpg)\
 Frank Young, Andrew Bernat, and Joe Bergin at ITiCSE 2001
 
-![ITiCSE-2001](../files/images/50yearsofSIGCSE/ITiCSE-2001-7.jpg)\
+![ITiCSE-2001](/assets/images/50yearsofSIGCSE/ITiCSE-2001-7.jpg)\
 Bruce Klein, Alison Young, and Dick Austing at ITiCSE 2001
 
-![ITiCSE-2001](../files/images/50yearsofSIGCSE/ITiCSE-2001-8.jpg)\
+![ITiCSE-2001](/assets/images/50yearsofSIGCSE/ITiCSE-2001-8.jpg)\
 Xristine Faulkner, Sally Fincher, and Ian Utting at ITiCSE 2001
 
-![ITiCSE-2001](../files/images/50yearsofSIGCSE/ITiCSE-2001-9.jpg)\
+![ITiCSE-2001](/assets/images/50yearsofSIGCSE/ITiCSE-2001-9.jpg)\
 Richard Rasala and Lew Hitchner, and a LEGO LOGO robot at ITiCSE 2001
 
 [↑ Back to top](#Index)
@@ -1708,7 +1708,7 @@ and Nell Dale (The University of Texas at Austin). Program Chair was
 Henry M. Walker (Grinnell College).\
 Here are the submission statistics:\
 ![Submission statistics for the 31st Technical
-Symposium](../files/images/50yearsofSIGCSE/31stTS-statistics.jpg)
+Symposium](/assets/images/50yearsofSIGCSE/31stTS-statistics.jpg)
 
 The rest of the program committee consisted of:
 
@@ -1751,10 +1751,10 @@ Co-Chairs. There were 115 papers submitted and 44 accepted (38.3%
 acceptance rate) and 6 Working Groups. Tips & Techniques were introduced
 to the program. Presenters represented 22 countries and 6 continents (no
 one from Antarctica) with over 160 attendees. Pictures from Dan Joyce:\
-![ITiCSE-2000](../files/images/50yearsofSIGCSE/ITiCSE-2000-1.jpg)\
-![ITiCSE-2000](../files/images/50yearsofSIGCSE/ITiCSE-2000-2.jpg)\
+![ITiCSE-2000](/assets/images/50yearsofSIGCSE/ITiCSE-2000-1.jpg)\
+![ITiCSE-2000](/assets/images/50yearsofSIGCSE/ITiCSE-2000-2.jpg)\
 ![ITiCSE-2000 Working
-Groups](../files/images/50yearsofSIGCSE/ITiCSE-2000-3.jpg)
+Groups](/assets/images/50yearsofSIGCSE/ITiCSE-2000-3.jpg)
 
 [↑ Back to top](#Index)
 
@@ -1775,7 +1775,7 @@ LA. The Conference Chair was Jane Prey (University of Virginia). Program
 Chair was Bob Noonan (College of William and Mary). There were 925
 attendees. Here are the submission statistics:\
 ![Submission statistics for the 30rd Technical
-Symposium](../files/images/50yearsofSIGCSE/30thTS-statistics.jpg)\
+Symposium](/assets/images/50yearsofSIGCSE/30thTS-statistics.jpg)\
 The rest of the Program Committee:
 
 Panels: Mike Clancy (University of California - Berkeley)\
@@ -1818,11 +1818,11 @@ There were 4 Working Groups along with the introduction of posters and
 tutorials and approximately 150 attendees. Pictures courtesy of Dan
 Joyce:\
 ![ITiCSE-1999
-registration](../files/images/50yearsofSIGCSE/ITiCSE-1999-1.jpg)\
-![ITiCSE-1999](../files/images/50yearsofSIGCSE/ITiCSE-1999-2.jpg)\
-![ITiCSE-1999](../files/images/50yearsofSIGCSE/ITiCSE-1999-3.jpg)\
+registration](/assets/images/50yearsofSIGCSE/ITiCSE-1999-1.jpg)\
+![ITiCSE-1999](/assets/images/50yearsofSIGCSE/ITiCSE-1999-2.jpg)\
+![ITiCSE-1999](/assets/images/50yearsofSIGCSE/ITiCSE-1999-3.jpg)\
 ![ITiCSE-1999 Working
-Groups](../files/images/50yearsofSIGCSE/ITiCSE-1999-4.jpg)
+Groups](/assets/images/50yearsofSIGCSE/ITiCSE-1999-4.jpg)
 
 [↑ Back to top](#Index)
 
@@ -1831,9 +1831,9 @@ Groups](../files/images/50yearsofSIGCSE/ITiCSE-1999-4.jpg)
 The 29th Technical Symposium was held February 25 - March 1, 1998 in
 Atlanta, GA. From The Bulletin Volume 30 Issue 1, March 1998:\
 ![Program Committee of the 29nd Technical
-Symposium](../files/images/50yearsofSIGCSE/29thTS-committee.jpg)\
+Symposium](/assets/images/50yearsofSIGCSE/29thTS-committee.jpg)\
 ![Submission statistics for the 29nd Technical
-Symposium](../files/images/50yearsofSIGCSE/29thTS-statistics.jpg)\
+Symposium](/assets/images/50yearsofSIGCSE/29thTS-statistics.jpg)\
 There were 901 attendees at the Technical Symposium in 1998.\
 The Outstanding Contribution to Computer Science Education Award was
 given to **William Wulf**, for his contributions to the advancement of
@@ -1847,7 +1847,7 @@ SIGCSE \'98 introduced several new features. As documented in the
 welcome in the proceedings (The Bulletin Volume 30 Issue 1, March
 1998):\
 ![Program Committee of the 29nd Technical
-Symposium](../files/images/50yearsofSIGCSE/29thTS-chair%20message.jpg)\
+Symposium](/assets/images/50yearsofSIGCSE/29thTS-chair%20message.jpg)\
 The conference activities were extended to Saturday, as many attendees
 requested in the past. The SIGCSE Town Meeting was held on Saturday
 morning, is a new event this year which gave everyone an opportunity to
@@ -1890,11 +1890,11 @@ Joyce (Villanova University) was Working Groups Coordinator. There were
 more than 200 attendees. There were 59 papers accepted and 5 Working
 Groups. Thanks to Dan Joyce we have the following pictures:\
 ![ITiCSE 1998 Working Group
-photos](../files/images/50yearsofSIGCSE/ITiCSE-WG-1998-1.jpg)\
+photos](/assets/images/50yearsofSIGCSE/ITiCSE-WG-1998-1.jpg)\
 ![ITiCSE 1998 Working Group
-photos](../files/images/50yearsofSIGCSE/ITiCSE-WG-1998-2.jpg)\
+photos](/assets/images/50yearsofSIGCSE/ITiCSE-WG-1998-2.jpg)\
 ![ITiCSE 1998 Working Group
-photos](../files/images/50yearsofSIGCSE/ITiCSE-WG-1998-3.jpg)\
+photos](/assets/images/50yearsofSIGCSE/ITiCSE-WG-1998-3.jpg)\
 Speaking of Working groups, there is a website created by Vicki Almstrum
 ( <http://www.cs.utexas.edu/users/csed/iticse/iticse-by-year.html>) that
 has a list of all the working groups from 1996 - 2003, including
@@ -1937,7 +1937,7 @@ This was the last SIGCSE to be held jointly with the CSC (25th CSC).
 Thanks to Bob Beck for these notes and Vicki Almstrum for passing this
 along.\
 ![ Notes about the 28nd Technical
-Symposium](../files/images/50yearsofSIGCSE/28thTS.jpg)
+Symposium](/assets/images/50yearsofSIGCSE/28thTS.jpg)
 
 The Outstanding Contribution to Computer Science Education Award was
 given to **Andrew Tannenbaum** for seminal textbooks in networks,
@@ -1972,20 +1972,20 @@ University) were the Conference Co-Chairs. There were 123 papers
 submitted with 43 accepted (34.1% acceptance rate). There were 7 Working
 Groups. Here\'s a picture of one of the working groups from Dan Joyce:\
 ![Working Group at ITiCSE
-1997](../files/images/50yearsofSIGCSE/ITiCSE-WG-1997.jpg)\
+1997](/assets/images/50yearsofSIGCSE/ITiCSE-WG-1997.jpg)\
 As proof of the international growth of the organization, from the June
 1997 Bulletin (Vol. 29, Issue 2):\
 ![Bulletin June
-1997](../files/images/50yearsofSIGCSE/BulletinJune1997-1.jpg)\
+1997](/assets/images/50yearsofSIGCSE/BulletinJune1997-1.jpg)\
 The other very exciting thing that happened in 1997, The Bulletin
 officially acquired a new theme: Inroads, as well as the familiar format
 we\'re now used to for Inroads, including the columns (Vol 29, Issue 4,
 Dec. 1997):\
 ![Bulletin June
-1997](../files/images/50yearsofSIGCSE/BulletinJune1997-2.jpg)\
+1997](/assets/images/50yearsofSIGCSE/BulletinJune1997-2.jpg)\
 And we acquired Editor Emeriti (ibid):\
 ![Bulletin June
-1997](../files/images/50yearsofSIGCSE/BulletinJune1997-3.jpg)
+1997](/assets/images/50yearsofSIGCSE/BulletinJune1997-3.jpg)
 
 [↑ Back to top](#Index)
 
@@ -1993,7 +1993,7 @@ And we acquired Editor Emeriti (ibid):\
 
 From Vol 26, Issue 3, Sept. 1994 Bulletin:\
 ![Bulletin announcement of first
-ITiCSE](../files/images/50yearsofSIGCSE/BulletinSept1994.jpg)\
+ITiCSE](/assets/images/50yearsofSIGCSE/BulletinSept1994.jpg)\
 This year marks the beginning of the ITiCSE Conference (Innovation and
 Technology in Computer Science Education). It has been held annually
 since, usually in late June or early July. This conference brings
@@ -2024,7 +2024,7 @@ University at Fullerton) were the Co-Conference Chairs. There were 46
 papers accepted and there were 5 Working Groups. Here we have a picture
 of the Working Group on Labs from Dan Joyce:\
 ![Working Group at ITiCSE
-1996](../files/images/50yearsofSIGCSE/ITiCSE-WG-1996.jpg)
+1996](/assets/images/50yearsofSIGCSE/ITiCSE-WG-1996.jpg)
 
 27th Technical Symposium was held February 15-18, 1996 in Philadelphia,
 PA. Conference Chair: John Impagliazzo (Hofstra University); Program
@@ -2245,7 +2245,7 @@ questions about SIGCSE sponsoring activities outside the
 US...foreshadowing of the ITiCSE conference! Also, check out the
 responses to areas of research:\
 ![ Logo for 22nd Technical
-Symposium](../files/images/50yearsofSIGCSE/1992-research-areas.png)
+Symposium](/assets/images/50yearsofSIGCSE/1992-research-areas.png)
 
 Another topic brought up in the survey was what SIGCSE could do to add
 validity to research in Computer Science Education. Evidence of our
@@ -2253,7 +2253,7 @@ growing pains.
 
 Where were you in 1992? Are you represented here:\
 ![ Logo for 22nd Technical
-Symposium](../files/images/50yearsofSIGCSE/1992-demographics.jpg)
+Symposium](/assets/images/50yearsofSIGCSE/1992-demographics.jpg)
 
 [↑ Back to top](#Index)
 
@@ -2282,7 +2282,7 @@ the conference was Chris Edmondson-Yurkanan (University of Texas at
 Austin) and Local Arrangements were handled by Suzy Gallagher
 (University of Texas at Austin) and J. Paul Myers (Trinity University).\
 ![ Logo for 22nd Technical
-Symposium](../files/images/50yearsofSIGCSE/22ndTSlogo.png)\
+Symposium](/assets/images/50yearsofSIGCSE/22ndTSlogo.png)\
 There were 175 papers submitted, and 60 accepted for 34.3% acceptance
 rate. There were 11 panels, 1 special session and 43 posters. Attendance
 for the conference was 734.
@@ -2326,7 +2326,7 @@ format.
 Here's part of the advertisement I found in the Bulletin (Volume 21,
 Issue 4, Dec. 1989):\
 ![December 1989 Bulletin
-](../files/images/50yearsofSIGCSE/BulletinDec1989.jpg)\
+](/assets/images/50yearsofSIGCSE/BulletinDec1989.jpg)\
 There were 120 papers submitted, 52 accepted, for a 43.3% acceptance
 rate. There were 17 panels, 3 tutorials and 3 workshops listed in the
 final proceedings. A total of 756 people attended. This was the first
@@ -2367,7 +2367,7 @@ Computer Science Conference) was held February 21-23 at the Commonwealth
 Convention Center in Louisville, KY. The SIGCSE theme was "Racing to the
 Future".\
 ![1989 ACM Computer Science Conference front
-cover](../files/images/50yearsofSIGCSE/20thTS.jpg)\
+cover](/assets/images/50yearsofSIGCSE/20thTS.jpg)\
 The Conference Chair was John Gorgone (Bentley College). Maynard
 Mansfield and Robert Barrett (both from Indiana University -- Purdue
 University at Fort Wayne) served as Program Co-Chairs. John Schrage
@@ -2397,7 +2397,7 @@ James Miller (University of Southern Mississippi) continued as the
 Editor of the Bulletin.
 
 From the Volume 21, Issue 4, December 1989 Bulletin:\
-![Bulletin 1989 ](../files/images/50yearsofSIGCSE/Bulletin1989.jpg)
+![Bulletin 1989 ](/assets/images/50yearsofSIGCSE/Bulletin1989.jpg)
 
 [↑ Back to top](#Index)
 
@@ -2415,7 +2415,7 @@ Here\'s the breakdown for the submissions for the year:
 Papers: 63 accepted, 171 submitted, acceptance rate of 37%. 15 panels
 accepted 2 tutorials accepted:\
 ![Acceptance rates for 1988
-Symposium](../files/images/50yearsofSIGCSE/Symposium1988.jpg)
+Symposium](/assets/images/50yearsofSIGCSE/Symposium1988.jpg)
 
 The 1988 Outstanding Contribution to Computer Science Education was
 awarded to Rear Admiral Grace Murray Hopper for her pioneering work in
@@ -2623,29 +2623,29 @@ related:
 Because Frank was the CSC Chair that year, he was able to provide the
 following pictures:\
 ![VPI
-ProgrammingTeam](../files/images/50yearsofSIGCSE/VPIProgrammingTeam.jpg)\
+ProgrammingTeam](/assets/images/50yearsofSIGCSE/VPIProgrammingTeam.jpg)\
 Dennis Kafura and VPI Programming Team
 
-![Frank Friedman](../files/images/50yearsofSIGCSE/1984-1.jpg)\
+![Frank Friedman](/assets/images/50yearsofSIGCSE/1984-1.jpg)\
 Frank Friedman emceeing the luncheon
 
 ![Dick Austin and Gwen
-Bell](../files/images/50yearsofSIGCSE/1984-2.jpg)\
+Bell](/assets/images/50yearsofSIGCSE/1984-2.jpg)\
 Dick Austing (standing) with Gwen Bell in front of the podium, Frank
 Friedman, and Joyce Currie Little
 
 And my personal favorite (illustrating how much fun was had):\
-![Ruth Barton and gorilla](../files/images/50yearsofSIGCSE/1984-3.jpg)\
+![Ruth Barton and gorilla](/assets/images/50yearsofSIGCSE/1984-3.jpg)\
 Ruth Barton with the "famous" gorilla
 
 Unfortunately, I found no record of the recipient of the Outstanding
 Contribution to Computer Science Education for 1983. Frank sent this
 picture of Marshall Yovits presenting Orrin Taulbee with an ACM award,
 but I don't think it's ours:\
-![Taulbee-ACM Award](../files/images/50yearsofSIGCSE/1984-4.jpg)
+![Taulbee-ACM Award](/assets/images/50yearsofSIGCSE/1984-4.jpg)
 
 In addition, I found this in the September 1984 Bulletin:\
-![The Bulletin 1984](../files/images/50yearsofSIGCSE/Bulletin1984.jpg)
+![The Bulletin 1984](/assets/images/50yearsofSIGCSE/Bulletin1984.jpg)
 
 [↑ Back to top](#Index)
 
@@ -2670,7 +2670,7 @@ the 1983 International Programming Contest problems.
 
 In that same June issue of the Bulletin, a list of the places where the
 Bulletin was mailed was presented:\
-![The Bulletin 1983](../files/images/50yearsofSIGCSE/Bulletin1983.jpg)
+![The Bulletin 1983](/assets/images/50yearsofSIGCSE/Bulletin1983.jpg)
 
 [↑ Back to top](#Index)
 
@@ -2704,7 +2704,7 @@ of ACM Curriculum Committee that produced Curriculum \'68, and a
 founding leader of University of Maryland Computer Science Department.
 Here's the announcement from the Bulletin:
 
-![The Bulletin 1981](../files/images/50yearsofSIGCSE/Bulletin1981.jpg)
+![The Bulletin 1981](/assets/images/50yearsofSIGCSE/Bulletin1981.jpg)
 
 In 1981 we elected a new Board: Norman Gibbs (who moved to Arizona State
 University) as Chair, Della Bonnette (University of Southwestern
@@ -2737,7 +2737,7 @@ The Bulletin (Vol. 12, Issue 2, July 1980) reported on the Business
 Meeting held during the conference:
 
 ![The Bulletin Vol. 12, Issue 2, July
-1980](../files/images/50yearsofSIGCSE/BulletinJuly1980.jpg)
+1980](/assets/images/50yearsofSIGCSE/BulletinJuly1980.jpg)
 
 The same issue of The Bulletin contains a survey asking questions about
 plagiarism in computing classes. Students haven't changed that much...
@@ -2801,7 +2801,7 @@ Bertztiss (University of Pittsburgh) was the General Chair.
 
 From The Bulletin (Vol. 10, Issue 2, June 1978):\
 ![The Bulletin Vol. 10, Issue 2, June
-1978](../files/images/50yearsofSIGCSE/ninthTS.jpg)\
+1978](/assets/images/50yearsofSIGCSE/ninthTS.jpg)\
 Volume 10, Issue 3, August 1978 contains the papers from this
 conference. There were over 100 attendees and they came from 25
 different states, Canada, Mexico, and Iceland.
@@ -2864,7 +2864,7 @@ the proceedings of the 8th Technical Symposium. From the June issue:\
 \
 \
 ![June 1977 issue of the
-Bulletin](../files/images/50yearsofSIGCSE/BulletinJune1977.jpg)\
+Bulletin](/assets/images/50yearsofSIGCSE/BulletinJune1977.jpg)\
 
 [↑ Back to top](#Index)
 
@@ -2964,7 +2964,7 @@ with 43 of them accepted for presentation. Check out
 <https://dl.acm.org/citation.cfm?id=1125118> for a look at the programs.
 Here's the conference committee:\
 ![The 1973 conference
-committee](../files/images/50yearsofSIGCSE/thirdTS.png)
+committee](/assets/images/50yearsofSIGCSE/thirdTS.png)
 
 However, since the Technical Symposium was held jointly with CSC, exact
 attendance numbers are difficult to ascertain. It was the primarily
@@ -2979,14 +2979,14 @@ we had about 200 attendees.
 
 We have two pictures from this conference:\
 ![Marshall Yovits receiving thank you gift from Orrin
-Taulbee.](../files/images/50yearsofSIGCSE/TaulbeeYovits.jpg)\
+Taulbee.](/assets/images/50yearsofSIGCSE/TaulbeeYovits.jpg)\
 Orrin E. Taulbee, University of Pittsburgh and Marshall Yovits, Ohio
 State CS Chair, 1973\
 Taulbee did the Taulbee Report. Yovits probably chaired the very first
 CSC.
 
 ![1973 Computer Science Conference Committee. One man surrounded by 9
-women.](../files/images/50yearsofSIGCSE/1973ConferenceCommittee.jpg)\
+women.](/assets/images/50yearsofSIGCSE/1973ConferenceCommittee.jpg)\
 1973? Computer Science Conference Committee (Thanks to Frank Friedman
 for the picture).
 
@@ -3117,6 +3117,6 @@ group. The petition was signed by 20 ACM members, including Bob Aiken.
 \
 \
 ![The petition to form SIGCSE in 1968
-](../files/images/50yearsofSIGCSE/SIGCSEpetition.jpg)\
+](/assets/images/50yearsofSIGCSE/SIGCSEpetition.jpg)\
 
 [↑ Back to top](#Index)

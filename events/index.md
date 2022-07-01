@@ -18,9 +18,9 @@ SIGCSE annually sponsors the following events:
 -   [Working Groups](workinggroups.html), held in conjunction
     with ITiCSE and CompEd
 
-We recently celebrated 50 Years of the SIGCSE organization. **[Follow this link](50years.html)** for a timeline of SIGCSE events and milestones built during 2018 by Briana Morrison.
+**50 Years** - We recently celebrated 50 Years of the SIGCSE organization. **[Follow this link](50years.html)** for a timeline of SIGCSE events and milestones built during 2018 by Briana Morrison.
 
-Additionally, many conferences across the world are held [in-cooperation with SIGCSE]({{"policies/incooperation.html" | absolute_url}}). You may view a [list of recent and future SIGCSE in-cooperation
+**In cooperation** - Additionally, many conferences across the world are held [in-cooperation with SIGCSE]({{"policies/incooperation.html" | absolute_url}}). You may view a [list of recent and future SIGCSE in-cooperation
 events.](incoop.html)
 
 Finally, SIGCSE and its members annually partake in the celebration of

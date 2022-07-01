@@ -11,19 +11,14 @@ SIGCSE members. For further details see the
 
 Future and recent in-cooperation events:
 
-<!-- Add control break for year -->
-{% assign items = site.data.incoop | sort: 'year' | reverse %}
-{% assign last = false %}
+<!-- inspired by https://stackoverflow.com/questions/45651759/is-there-a-way-to-sort-lists-in-jekyll-by-two-fields -->
 
-{% for coop in items %}
-{% if last != coop.year %}
-{% unless forloop.first %}</ul>{% endunless %}
+{% assign inYearOrder = site.data.incoop | group_by: 'year' | sort: 'name' | reverse %}
 
-#### {{coop.year}} Events
-<ul>
-{% endif %}
-<li>{{coop.name}} - 
-<a href="{{coop.url}}">{{coop.url}}</a></li>
-{% assign last = coop.year %}
+{% for group in inYearOrder %}
+#### {{group.name}} Events
+{% assign items = group.items | sort: 'name' %}
+{% for item in items %}
+* {{item.name}}{% if item.url %} - <a href="{{item.url}}">{{item.url}}</a>{%endif%}{% endfor %}
 {% endfor %}
-</ul>
+

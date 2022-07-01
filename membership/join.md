@@ -18,7 +18,7 @@ of ACM Inroads four times a year.
 
 ##### How can I join?
 
--   [Physical-copy membership](https://services.acm.org/public/qj/login_gensigqj.cfm?rdr=&promo=QJSIG&offering=011&form_type=SIG)
--   [Electronic-only membership](https://services.acm.org/public/qj/login_gensigqj.cfm?rdr=promo=QJSIG&offering=411&form_type=SIG)
--   In addition, you should consider [joining ACM](http://www.acm.org/membership/), the parent organization of
-    SIGCSE
+-   [Physical-copy membership](https://services.acm.org/public/qj/gensigqj/gensigqj_control.cfm?promo=QJSIG&offering=011&form_type=SIG)
+- [Electronic-only membership](https://services.acm.org/public/qj/gensigqj/gensigqj_control.cfm?promo=QJSIG&offering=411&form_type=SIG)
+
+- In addition, you should consider [joining ACM](https://www.acm.org/membership/), the parent organization of SIGCSE.

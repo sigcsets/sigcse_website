@@ -30,13 +30,18 @@
 
 <table class="table table-sm">
   <tbody>
-{% if page.proceedings-title %}<tr><th>Proceedings</th>
-  <td><a href="{{page.doi}}">{{page.proceedings-title}}</a></td></tr>
+{%if page.proceedings-title %}<tr><th>Proceedings</th>
+  <td colspan="2"><a href="{{page.doi}}">{{page.proceedings-title}}</a>
+{%if page.proceedings2-title %}
+  <br><a href="{{page.doi}}">{{page.proceedings2-title}}</a>
 {%endif%}
-{% if page.theme %}
-<tr><th>Theme</th><td>{{page.theme}}</td></tr>{%endif%}
+</td></tr>
+{%endif%}
 {% if page.dates %}
-<tr><th>Dates</th><td>{{page.dates}}</td></tr>{%endif%}
+<tr><th>Dates</th><td>{{page.dates}}</td><td rowspan="4" style="text-align:right">{% if page.proceedings-cover %}<img style="border: 5px solid #ddd;" src="images/covers/{{page.proceedings-cover}}">&nbsp;{%else%}<img src="images/covers/default-proceeding.jpg">&nbsp;{%endif%}
+</td></tr>{%endif%}
+{% if page.theme %}
+<tr><th>Theme</th><td colspan="2">{{page.theme}}</td></tr>{%endif%}
 {% if page.venue %}
 <tr><th>Venue</th><td>{{page.venue}}</td></tr>{%endif%}
 {% if page.location %}
@@ -44,13 +49,18 @@
 {% if page.attendance %}
 <tr><th>Attendance</th><td>{{page.attendance}}</td></tr>{%endif%}
 {% if page.acceptance %}
-<tr><th>Acceptance</th><td>{{page.acceptance}}</td></tr>{%endif%}
+<tr><th>Acceptance</th><td colspan="2">{{page.acceptance}}</td></tr>{%endif%}
 {% if page.website %}
-<tr><th>Website</th><td><a href="{{page.website}}">{{page.website}}</a></td></tr>{%endif%}
+<tr><th>Website</th><td colspan="2"><a href="{{page.website}}">{{page.website}}</a></td></tr>{%endif%}
 {% if page.year < 2018 %}
-<tr><th>History Blog</th><td><a href='{{"/events/50years.html" | absolute_url}}#{{page.year}}'>Blog entry</a></td></tr>{%endif%}
+<tr><th>History Blog</th><td colspan="2"><a href='{{"/events/50years.html" | absolute_url}}#{{page.year}}'>Blog entry</a></td></tr>{%endif%}
   </tbody>
 </table>
+
+{% if page.outstanding or page.lifetime %}
+
+#### {{page.year}} Awards
+{:.border-bottom}
 
 {% if page.outstanding %}
 {% for person in page.outstanding %}
@@ -66,3 +76,6 @@
 {%endfor%}
 {%endif%}
 
+{% endif %}
+
+{% if page.logo %}&nbsp;<img src="images/logos/{{page.logo}}">{%endif%}

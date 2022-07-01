@@ -5,13 +5,14 @@ description: >-
   ACM SIGCSE group, special interest group in computer science education
 
 # For Deployment (live)
-baseurl: "/sigcse" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 
 # The base hostname & protocol for your site
 url: "https://sigcse.org" 
 
-exclude: ["Gemfile", "Gemfile.lock", "_documentation", "_pending", "bin"]
+exclude: ["Gemfile", "Gemfile.lock", "_documentation", "_pending", "_unused", "bin"]
+keep_files: ["assets"]
 
 defaults:
   -
@@ -21,7 +22,7 @@ defaults:
     values:
       layout: "post"
 
-permalink: /about/news/:title:output_ext
+permalink: /about/news/:year-:month-:title:output_ext
 
 # long sequence of numbers to make loop go for a while, contents
 # of colletion is irrelevant

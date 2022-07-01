@@ -1,24 +1,22 @@
-- title: Technical Symposium 2021
-  url: https://sigcse2021.sigcse.org
-  dates: "March 17 - 20, 2021"
-  location: "Online - (was Toronto, Canada)"
+- title: ITiCSE 2022
+  olddates: "July 9-13, 2022"
+  dates: "July 8-10 (Working Groups)"
+  dates: "July 11-13 (Main conference)"
+  location: "Dublin, Ireland"
+  url: https://iticse.acm.org/
 
-- title: ITiCSE 2021
-  dates: "June 25 - 30, 2021"
-  location: "Paderborn, Germany"
+- title: ICER 2022
+  dates: "August 7-11, 2022"
+  location: "Hybrid - Lugano, Switzerland"
+  url: https://icer2022.acm.org/
 
-- title: ICER 2021
-  dates: "August 2021"
-  location: "Charleston, SC"
+- title: Technical Symposium 2023
+  dates: "March 15-18, 2023"
+  location: "Toronto, Canada"
+  url: https://sigcse2023.sigcse.org
 
 - title: CompEd 202x
   dates: "TBD"
   location: "Hyderabad, India"
+  url: https://comped.acm.org/
 
-- title: Technical Symposium 2022
-  dates: "March 02 - 05, 2022"
-  location: "Providence, RI, USA"
-
-- title: ITiCSE 2022
-  dates: "July 9-13, 2022"
-  location: "Dublin, Ireland"

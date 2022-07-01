@@ -48,15 +48,11 @@ list. To manage your subscription to the SIGCSE-announce list, log in to
 [myacm.acm.org](http://myacm.acm.org) and go to the \"Electronic Mailing
 Lists\" page.
 
-To be added to or removed from the SIGCSE-members and SIGCSE-volunteers
-lists, send an e-mail with your ACM member number to
-<infodir@sigcse.org>, which goes to both of the SIGCSE listserv
-administrators who moderate these lists:
+To be added to or removed from the SIGCSE-members, SIGCSE-volunteers, or SIGCSE-jobs lists send an e-mail with your ACM member number to <infodir@sigcse.org>, which goes to all of the SIGCSE listserv administrators who moderate these lists:
 
--   Samuel Rebelsky, Professor of Computer Science - Grinnell College,
-    Grinnell, IA 50112
--   Haris Skiadas, Associate Professor of Mathematics and Computer
-    Science - Hanover College, Hanover, IN 47243 USA
+- Haris Skiadas, Associate Professor of Mathematics and Computer Science - Hanover College, Hanover, IN 47243 USA
+- David Zabner, Ph.D. Student, Education Department - Tufts University, Medford, MA, USA
+- Joshua Adams, Assistant Professor of Computer Information Systems - Saint Leo University, St. Leo, FL 33574 USA
 
 #### <a name="#guidelines">Guidelines for Posting to the SIGCSE-members List</a>
 {:.mt4 .border-bottom}
@@ -111,5 +107,5 @@ administrators who moderate these lists:
 
 Thank you for your understanding and assistance.
 
-**Sam and Haris**\
+**Haris, David, Joshua**\
 *SIGCSE Information Co-Directors*

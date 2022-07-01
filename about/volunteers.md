@@ -3,22 +3,24 @@ title: SIGCSE Volunteers
 layout: page 
 ---
 
-There are many ways that you can contribute to SIGCSE through a range of
-volunteer positions. Most have specified term limits and we regularly
-seek new people to fill these roles. See a list of some of the [SIGCSE
-volunteer positions and their term limits](../policies/approval.html).
-The people currently in these roles are listed below.
+There are many ways that you can contribute to SIGCSE through a range of volunteer positions. Most have specified term limits and we regularly seek new people to fill these roles.
 
-Some more information about volunteering for SIGCSE can be found in this
-[presentation](../files/documents/pdfs/How%20to%20Volunteer%20with%20SIGCSE%202019.pdf).
-
+This page shows all the volunteer positions. To see a which of these requires Board Approval and their term limits, [visit this page](../policies/approval.html). The people currently in these roles are listed below. Some more information about volunteering for SIGCSE can be found in this [presentation](../files/documents/pdfs/How%20to%20Volunteer%20with%20SIGCSE%202019.pdf).
 ##### Technical Symposium
 {:.mt-4 .border-bottom}
 
+###### Steering committee
+
+- Michelle Craig, University of Toronto (chair)
+- Steve Wolfman, The University of British Columbia (secretary)
+- Sarah Heckman, NC State University 
+- Alvaro Monge, California State University, Long Beach
+- Manuel A. Pérez-Quiñones, UNC at Charlotte (SIGCSE board liaison)
+
 ###### Site selection committee chairs
 
--   Tracy Camp, Colorado School of Mines, USA (senior chair: 2019-2022)
--	Laurie Smith King, College of the Holy Cross, USA (junior chair: 2019-2022)
+-   Tracy Camp, Computing Research Association, USA (senior chair: 2019-2023)
+-	Laurie Smith King, College of the Holy Cross, USA (junior chair: 2020-2023)
 
 ###### Site selection pool members
 
@@ -33,16 +35,18 @@ Some more information about volunteering for SIGCSE can be found in this
 
 ###### Exhibitor liaisons
 
--   Beth Hawthorne, Rider University, USA (2020)
--   Jodi Tims, Northeastern University, USA (2020)
+-   Beth Hawthorne, Rider University, USA (2021-2023, term 1)
+-   Jodi Tims, Northeastern University, USA (2021-2023, term 2)
 
-###### Registration
+###### Registration team
 
--   Cary Laxer, Rose-Hulman Institute of Technology, USA (-2021)
--   Rachelle Kristof Hippler, Baldwin Wallace University, USA (2020-2022)
--   Sarah Heckman, North Carolina State University, USA (term TBA)
+We have three members in the registration team, approved by the SIGCSE Board. Participation in the registration team is a 3 year term, renewable once. This renewal is upon mutual interest from the team member and approval of the board.
 
-###### Submissions/database administrator
+- Rachelle Kristof Hippler, Baldwin Wallace University, USA (2020-2022, term 1)
+- Sarah Heckman, North Carolina State University, USA (2021-2023, term 1)
+- Briana Morrison, University of Nebraska Omaha, Omaha, NE (2022-2024, term 1)
+
+###### Web/Data administrator
 
 -   Adam Blank, Caltech, USA (2020 - end of 2022 Symposium)
 
@@ -115,15 +119,19 @@ Some more information about volunteering for SIGCSE can be found in this
 
 ###### Bulletin editors
 
--   Karen C. Davis, Miami University, Oxford, Ohio, USA (May 1 2018 --
-    April 30 2021)
+-   Charles Wallace, Michigan Technological University, Houghton, MI, USA (May 1 2021 -- April 30 2024)
 -   Jeffrey Miller, University of Southern California, USA (May 1 2019
     -- April 30 2022)
 
-###### Listserv administrators
+###### Information Directors
 
--   Samuel A. Rebelsky, Grinnell College, USA (until March 31 2021)
--   Haris Skiadas, Hanover College, USA (until March 31 2022)
+We have three information directors, approved by the SIGCSE Board. The participation as information director is a 3 year term, renewable once. This renewal is upon mutual interest from the information director and approval of the board.
+
+<!-- - Samuel A. Rebelsky, Grinnell College, USA (until March 31 2021) -->
+ - Haris Skiadas, Hanover College, USA (until March 31 2022)
+<!-- Newly elected members (Feb 2021). -->
+- David Zabnar, Cornell College, USA (until March 31 2023)
+- Joshua Adams, St. Leo University, USA (until March 31 2024)
 
 
 ###### Social Media Coordinator
@@ -135,9 +143,10 @@ Some more information about volunteering for SIGCSE can be found in this
 - Mary Anne Egan, Siena College, USA (2019 – 2022)
 - Andrew Luxton-Reilly, University of Auckland, New Zealand (2019 – 2022)
 - Laurie Murphy, Pacific Lutheran University, USA (2019 – 2022)
-- Dave Musicant Carleton College, USA (2018-2021)
 - Amber Settle, DePaul University, USA (2019 – 2022)
-- Daniel Toll, Linnaeus University, Sweden (2017-2020)
+- Aleata Hubbard Cheuoua, WestEd, USA (2022 – 2025)
+- Kalpathi Subramanian, University of North Carolina, Charlotte, USA (2022 – 2025)
+- Michael C. Robbeloth, Mount Vernon Nazarene University, USA (2022 – 2025)
 
 ###### Website administrator
 

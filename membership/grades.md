@@ -3,6 +3,36 @@ title: ACM Advanced Membership Grades
 layout: page
 
 members:
+- name: Alison Clear
+  grade: Distinguished Educator
+  year: 2021
+- name: Kathi Fisler
+  grade: Distinguished Educator
+  year: 2021
+- name: Andrew Luxton-Reilly
+  grade: Distinguished Educator
+  year: 2021
+- name: Jane Chu Prey
+  grade: Distinguished Educator
+  year: 2021
+- name: Ingrid Russell
+  grade: Distinguished Educator
+  year: 2021
+- name: Antonija Mitrovic
+  grade: Distinguished Scientist
+  year: 2021
+- name: Leo Porter
+  grade: Distinguished Scientist
+  year: 2021
+- name: Judith Gal-Ezer
+  grade: ACM Fellow
+  year:  2021
+- name: Susanne E Hambrusch
+  grade: ACM Fellow
+  year: 2020
+- name: Paul Resnick
+  grade: ACM Fellow
+  year: 2020
 - name: William Richards Adrion
   grade: ACM Fellow
 - name: Robert M Aiken

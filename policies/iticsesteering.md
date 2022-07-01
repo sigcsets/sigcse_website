@@ -1,22 +1,25 @@
 ---
-title: ITiCSE Steering Committee ​Membership and Terms of Reference
+title: ITiCSE Steering Committee Membership and Terms of Reference
 layout: page
 ---
 
 
-##### Membership
-5 ​ ​members in total
-
-* 2 members representing ACM SIGCSE - selected by ​the​ SIGCSE Board at least one of whom should be a European
+##### Steering Committee Membership
+* 5 members in total
+* 2 members representing ACM SIGCSE - selected by the SIGCSE Board at least one of whom should be a European
 * 2 members selected by ACM Europe & Informatics Europe
 	* 1 member representing ACM Europe
 	* 1 member representing Informatics Europe
 * 1 SIGCSE Board member
 
+**Current Steering Commitee**  
+{% for c in site.data.iticse.steering %}
+- {{c.name}}, {{c.affiliation}} ({{c.dates}}){% endfor %}
+
 ##### Roles within the steering committee
 
-* Chair ​ --​ to be chosen by the committee after each ITiCSE conference and communicated by July 31 to the SIGCSE, IE, and ACM Europe Boards. The ITiCSE Steering Committee chair cannot be the SIGCSE Board member.
-* Secretary ​--​ to be chosen by the committee after each ITiCSE conference and communicated by July 31 to the SIGCSE, IE, and ACM Europe Boards. The ITiCSE Steering Committee secretary cannot be the SIGCSE Board member. All minutes of ITiCSE Steering Committee meetings (after approval) should be sent to the SIGCSE, IE, and ACM Europe Boards.
+* Chair -- to be chosen by the committee after each ITiCSE conference and communicated by July 31 to the SIGCSE, IE, and ACM Europe Boards. The ITiCSE Steering Committee chair cannot be the SIGCSE Board member.
+* Secretary -- to be chosen by the committee after each ITiCSE conference and communicated by July 31 to the SIGCSE, IE, and ACM Europe Boards. The ITiCSE Steering Committee secretary cannot be the SIGCSE Board member. All minutes of ITiCSE Steering Committee meetings (after approval) should be sent to the SIGCSE, IE, and ACM Europe Boards.
 * Site inspection -- At least 3 members of the steering committee should be identified as able/willing to serve for site inspections; On any site visit there should be at least one site inspection person who has previous experience with this task; There should be intentional training of novices so that there is continuity of knowledge.
 
 ##### Terms of service
@@ -39,7 +42,7 @@ The Role of the Steering Committee is:
 
 ##### Working
 
-The Steering Committee should meet as needed, typically at least three times a year via phone/teleconference and once a year face to face at the ITiCSE conference​.
+The Steering Committee should meet as needed, typically at least three times a year via phone/teleconference and once a year face to face at the ITiCSE conference.
 The agenda and minutes of the Steering Committee meetings are circulated to committee members, and to the ACM SIGCSE, ACM Europe and Informatics Europe boards.
 
 ##### Expenses and Expectations

@@ -44,7 +44,7 @@
   {% if aw.date %}Award date: {{aw.date}}{% endif %}</p>
   {% if aw.description %}<p>Description: {{aw.description}}</p>{% endif %}
   <p>{% for af in aw.files %}
-    <bold>Report: <a href='{{ "/files/SpecialProjectReports/" | append: af.file | absolute_url }}'>{{af.label}}</a></bold><br />
+    <bold>Report: <a href='{{ "reports/" | append: af.file }}'>{{af.label}}</a></bold><br />
   {% endfor %}</p>
   
 {% endfor %}

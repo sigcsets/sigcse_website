@@ -1,13 +1,13 @@
 steering:
-  - name: Guido Röβling
-    affiliation: TU Darmstadt, Germany
-    dates: July 2020 – June 2022
-  - name: Ari Korhonen
-    affiliation: Aalto University
-    dates: 2018 – 2021
+  - name: Simon
+    affiliation: "The University of Newcastle, Australia"
+    dates: 2021 – 2024
   - name: Michael Caspersen
     affiliation: It-vest Networking Universities (Informatics Europe)
-    dates: 2018 – 2021
+    dates: 2021 – 2024
+  - name: Guido Röβling
+    affiliation: TU Darmstadt, Germany
+    dates: 2020 – 2023
   - name: Michael Kӧlling
     affiliation: King’s College London (ACM Europe)
     dates: 2018 – 2022

@@ -33,6 +33,8 @@ conferences:
     description: Applies to travel by the SIGCSE Board and its representatives.
 
 symposium:
+  - title: Technical Symposium Steering Committee Membership and Terms of Reference
+    url: policies/tssteering.html
   - title: Technical Symposium Site Visit Team
     url: policies/site_visit_team.html
     description: Structure of the SIGCSE Technical Symposium Site Visit Team and rotation of positions.

@@ -1,3 +1,51 @@
+- name: ACM Compute 2022
+  year: 2022
+  url: https://event.india.acm.org/Compute/
+- name: CMSC 2022
+  year: 2022
+  url: http://cmsc-uib.org/
+- name: WiPSCE 2022
+  year: 2022
+  url: https://www.wipsce.org/2022/
+- name: Koli Calling 2022
+  year: 2022
+  url: https://www.kolicalling.fi/
+- name: CCSC SE 2021
+  year: 2021
+  url: http://ccscse.org/conference.php?year=35th
+- name: CCSC SW 2022
+  year: 2022
+  url: http://www.ccsc.org/southwestern/2022/index.php
+- name: CCSC CP 2022
+  year: 2022
+  url: https://www.ccsc.org/centralplains/
+- name: CCSC NE 2022
+  year: 2022
+  url: http://ccscne.org/conferences/ccscne-2022/
+- name: CCSC SC 2022
+  year: 2022
+  url: http://www.ccsc.org/southcentral/conference2022.html
+- name: "ACE 2022"
+  year: 2022
+  url: https://aceconference.wordpress.com/
+- name: "CCSC-MW ‘21"
+  year: 2021
+- name: "CCSC-NW ‘21"
+  year: 2021
+- name: "CCSC-RM ‘21"
+  year: 2021
+  url: https://ccsc.org/rm2021/
+- name: "CCSC-EA ‘21"
+  year: 2021
+- name: "WiPSCE '21"
+  year: 2021
+  note: 10/18/2021 through 10/20/2021
+  url: https://www.wipsce.org/2021/
+
+- name: "ACE 2022"
+  year: 2022
+  url: https://aceconference.wordpress.com/
+
 - name: "CCSC-NE '20"
   year: 2020
   url: http://ccscne.org/conferences/ccscne-2020/

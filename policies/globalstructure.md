@@ -3,7 +3,9 @@ title: Structure of the SIGCSE Global Conference
 layout: page
 ---
 
-_Approved by SIGCSE Board on February 21, 2018_
+_Approved by SIGCSE Board on February 21, 2018_  
+_The Global Conference is now called [CompEd](https://sigcse.org/events/comped/)._
+
 
 At its October, 2017 meeting, the SIGCSE Board agreed to run a three-conference pilot to introduce a fourth annual conference. The working title is the “Global Conference”. The global conference will be offered every other year initially (e.g., 2019, 2021, 2023). The Board will commit to 3-offering pilot. Evaluation will be ongoing and a decision about continuation will be made in a timely fashion so as to avoid pipeline stoppage.This document is a draft of a framework for introducing and running such a conference.
 
@@ -64,6 +66,9 @@ The individual conferences will be jointly organized by the conference host and 
 * One member of the steering committee (who is not the host for the proposed location) will perform a site visit before a recommendation is forwarded to the SIGCSE Board.
 * A registration discount of at least the cost of SIGCSE membership should be provided to SIGCSE members.
 * Program chairs are expected to attend the conference. Program chairs will have conference registration fees waived but are expected to pay for their own travel and accomodations. Other members of the committee (those recruited for either the program components or the organizational tasks) are expected to attend the conference and may be given discounted conference fees at the discretion of the host and program chair. This must be reflected in the budget. It is not assumed that all members of the committee will receive free registration. Conference locations and dates
+
+##### Conference locations and dates
+
 * The conference will move annually and will be offered in countries where there is sufficient interest to run a profitable conference.
 * In general, the conference should not be offered in locations where other SIGCSE conferences are normally offered such as the US (Technical Symposium) or Europe (ITiCSE).
 * The conference should also avoid countries where in-cooperation-with SIGCSE agreements are in place unless the existing conference leadership seeks a SIGCSE-sponsored conference.

@@ -1,3 +1,11 @@
+- name: CCSC-MW '22
+  year: 2022
+- name: CCSC-NW '22
+  year: 2022
+- name: CCSC-RM '22
+  year: 2022
+- name: CCSC-EA '22
+  year: 2022
 - name: ACM Compute 2022
   year: 2022
   url: https://event.india.acm.org/Compute/

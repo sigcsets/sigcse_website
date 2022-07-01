@@ -24,13 +24,28 @@ database:
     dates: 2020 – 2023
 
 conferences:
+- title: ITiCSE 2021
+  url: "https://iticse.acm.org/2021/"
+  year: 2021
+  date: "June 26-July 1, 2021"
+  location: "Virtual Event (scheduled for Paderborn, Germany)"
+  proceedings-1: "ITiCSE '21: Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Science Education v1"
+  doi-1: https://dl.acm.org/doi/proceedings/10.1145/3430665
+  proceedings-2: "ITiCSE '21: Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Science Education v2"
+  doi-2: https://dl.acm.org/doi/proceedings/10.1145/3456565
+  companion-proceedings: "ITiCSE-WGR '21: Proceedings of the 2021 Working Group Reports on Innovation and Technology in Computer Science Education"
+  companion-doi: https://dl.acm.org/doi/proceedings/10.1145/3502870
+
 - title: ITiCSE 2020
-  url: "http://iticse.hosting.acm.org/"
+  url: "https://iticse.acm.org/ITiCSE2020/"
   year: 2020
   date: "June 17-19, 2020"
   location: "Online (was originally scheduled for Trondheim, Norway)"
   proceedings: "ITiCSE '20: Proceedings of the 2020 ACM Conference on Innovation and Technology in Computer Science Education"
   doi: https://dl.acm.org/doi/proceedings/10.1145/3341525
+  companion-proceedings: "ITiCSE-WGR '20: Proceedings of the Working Group Reports on Innovation and Technology in Computer Science Education"
+  companion-doi: https://dl.acm.org/doi/proceedings/10.1145/3437800
+
 
 - title: ITiCSE 2019
   url: "https://iticse.acm.org/ITiCSE2019/"

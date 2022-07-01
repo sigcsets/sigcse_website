@@ -130,6 +130,10 @@ minutes:
         file: "Board Minutes - 2022 March 2.pdf"
         date: March 2 2022
 
+      - description: "Minutes of a SIGCSE Board Meeting"
+        file: "Board Minutes - 2022 June 22.pdf"
+        date: June 22 2022
+
   - board: 
     year: "2016 to 2019 Board"
     folder: "BoardMinutes/2016-2019/"

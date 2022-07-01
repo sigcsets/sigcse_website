@@ -24,14 +24,11 @@ This page shows all the volunteer positions. To see a which of these requires Bo
 
 ###### Site selection pool members
 
--   Adrienne Decker, University at Buffalo, USA
--   John Dougherty, Haverford College, USA
--   Sue Fitzgerald, Metropolitan State University, USA
--   Scott McElfresh, Longwood University, USA
--   Kristine Nagel, Georgia Gwinnett College, USA
--   Laurie Smith King, College of the Holy Cross Worcester, USA
--   Jodi Tims, Baldwin Wallace University, USA
--   Ellen Walker, Hiram College, USA
+- Adrienne Decker, University at Buffalo, USA
+- John Dougherty, Haverford College, USA
+- Scott McElfresh, Christopher Newport University, USA
+- Kristine Nagel, Georgia Tech, USA
+- Jodi Tims, Northeastern University, USA
 
 ###### Exhibitor liaisons
 

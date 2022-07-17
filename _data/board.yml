@@ -1,0 +1,65 @@
+year: "2022-2025"
+members:
+  - name: Alison Clear
+    image: alison2.jpg
+    position: Chair
+    affiliation: Eastern Institute of Technology, Auckland
+    country: New Zealand
+    email: aclear@eit.ac.nz
+
+
+  - name: Brett A. Becker
+    image: becker.png
+    position: Vice Chair
+    affiliation: University College Dublin
+    country: Ireland
+    email: brett.becker+sigcse-vice-chair@ucd.ie
+
+
+  - name: Jill Denner
+    image: denner.jpg
+    position: Treasurer
+    affiliation: Education, Training, Research
+    country: USA
+    email: Jill.Denner@etr.org
+
+
+  - name: Dan Garcia
+    image: d_garcia.jpg
+    position: Secretary
+    affiliation: University of California Berkeley
+    country: USA
+    email: ddgarcia@berkeley.edu
+
+
+  - name: Rodrigo Duran
+    image: rodrigo-duran.jpg
+    position: At Large Member
+    affiliation: Federal Institute of Mato Grosso do Sul
+    country: Brazil
+    email: rodrigo.duran@ifms.edu.br
+
+
+  - name: Yolanda A. Rankin
+    image: ranking.jpg
+    position: At Large Member
+    affiliation: Florida State University
+    country: USA
+    email: yrankin@gmail.com
+
+
+
+  - name: Judy Sheard
+    image: judy-sheard.jpg
+    position: At Large Member
+    affiliation: Monash University
+    country: Australia
+    email: judy.sheard@monash.edu
+
+
+  - name: Adrienne Decker
+    image: adrianne2022.jpg
+    position: Past Chair
+    affiliation: University at Buffalo
+    country: USA
+    email: adrienne@buffalo.edu

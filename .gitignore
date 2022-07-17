@@ -1,5 +1,6 @@
 _site
 _documentation
+_unused
 .DS_Store
 .jekyll-cache
 bin

@@ -127,12 +127,37 @@ minutes:
         date: January 26 2022
 
       - description: "Minutes of a SIGCSE Board Meeting"
+        file: "Board Minutes - 2022 February 8.pdf"
+        date: February 8 2022
+
+      - description: "Minutes of a SIGCSE Board Meeting"
         file: "Board Minutes - 2022 March 2.pdf"
         date: March 2 2022
 
       - description: "Minutes of a SIGCSE Board Meeting"
+        file: "Board Minutes - 2022 March 16.pdf"
+        date: March 16 2022
+
+      - description: "Minutes of a SIGCSE Board Meeting"
+        file: "Board Minutes - 2022 March 23.pdf"
+        date: March 23 2022
+
+      - description: "Minutes of a SIGCSE Board Meeting"
+        file: "Board Minutes - 2022 April 11.pdf"
+        date: April 11 2022
+
+      - description: "Minutes of a SIGCSE Board Meeting"
+        file: "Board Minutes - 2022 April 25.pdf"
+        date: April 25 2022
+
+      - description: "Minutes of a SIGCSE Board Meeting"
+        file: "Board Minutes - 2022 May 16.pdf"
+        date: May 16 2022
+
+      - description: "Minutes of a SIGCSE Board Meeting"
         file: "Board Minutes - 2022 June 22.pdf"
         date: June 22 2022
+
 
   - board: 
     year: "2016 to 2019 Board"

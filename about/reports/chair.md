@@ -80,7 +80,7 @@ reports:
 
 {% for board in page.reports %}
 ##### {{board.chair}}
-<ul>{% for annual in board.reports %}<li><a href="{{annual.url}}">{{annual.title}}</a></li>
+<ul>{% for annual in board.reports %}<li><a href="chair/{{annual.url}}">{{annual.title}}</a></li>
 {% endfor %}</ul>
 {% endfor %}
 

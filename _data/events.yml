@@ -1,15 +1,3 @@
-- title: ITiCSE 2022
-  olddates: "July 9-13, 2022"
-  dates: "July 8-10 (Working Groups)"
-  dates: "July 11-13 (Main conference)"
-  location: "Dublin, Ireland"
-  url: https://iticse.acm.org/
-
-- title: ICER 2022
-  dates: "August 7-11, 2022"
-  location: "Hybrid - Lugano, Switzerland"
-  url: https://icer2022.acm.org/
-
 - title: Technical Symposium 2023
   dates: "March 15-18, 2023"
   location: "Toronto, Canada"
@@ -19,4 +7,14 @@
   dates: "TBD"
   location: "Hyderabad, India"
   url: https://comped.acm.org/
+
+- title: ITiCSE 2023
+  olddates: "2023, 2023"
+  dates: "July 10-12"
+  location: "Turku, Finland"
+  url: https://iticse.acm.org/2023/
+
+- title: ICER 2023
+  dates: "TBD"
+  location: "Chicago, IL"
 

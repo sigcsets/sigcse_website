@@ -24,6 +24,7 @@ This page shows all the volunteer positions. To see a which of these requires Bo
 
 ###### Site selection pool members
 
+- Steve Wolfman, The University of British Columbia
 - Adrienne Decker, University at Buffalo, USA
 - John Dougherty, Haverford College, USA
 - Scott McElfresh, Christopher Newport University, USA

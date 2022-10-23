@@ -13,3 +13,6 @@ We hope our membership find the following resources helpful:
 -   [Places to Publish](publish.html) Journals, Conferences,
     Workshops and Organizations to publish papers related to CS
     Education
+
+#### Relevant Reports
+* Chris Stephenson, [_All the Voices: Doing the Work to Improve Diversity, Equity, and Inclusion Throughout ACM_]({{"/resources/All the VoicesFinal.pdf"|absolute_url}}), August 2021.

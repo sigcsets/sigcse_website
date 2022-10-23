@@ -5,20 +5,14 @@ layout: page
 
 #### Mission Statement
 
-The scope of SIGCSE is to provide a global forum for educators to
-discuss research and practice related to the learning, and teaching of
-computing, the development, implementation, and evaluation of computing
-programs, curricula, and courses at all education levels, as well as
-broad participation, educational technology, instructional spaces, and
-other elements of teaching and pedagogy related to computing.
+The scope of SIGCSE is to provide a global forum for educators to discuss research and practice related to the learning, and teaching of computing, the development, implementation, and evaluation of computing programs, curricula, and courses at all education levels, as well as broad participation, educational technology, instructional spaces, and other elements of teaching and pedagogy related to computing.
 
 #### Demographics
 
 Computer Science Educators
 
-#### Membership (as of June 2017)
-
-A total of 2,716 members representing over 60 countries.
+#### Membershipas of June 2017)
+As of February 2022, SIGCSE has a total of 2,741 members representing over 60 countries.
 
 #### Awards
 

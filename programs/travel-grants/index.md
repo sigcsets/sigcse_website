@@ -2,25 +2,36 @@
 title: Travel Grant Program
 layout: page
 
-year: 2023
-due: November 1, 2022
-notification: December 1, 2022
+conferenceyear: 2023
+due: December 1, 2022
+notification: January 9, 2023
 form: https://docs.google.com/forms/d/e/1FAIpQLSdAz-45JePvreQL5VoYqSE3PXH87UlS4iEamqu5QZnP_clkmQ/viewform?usp=sf_link
 
-image: "/files/images/people/Henry_Walker.jpg"
+comment-image: "/images/people/Henry_Walker.jpg"
 ---
 
 SIGCSE will award up to five grants per year to defray travel expenses of faculty attending the annual SIGCSE Symposium. Travel Grant award winners will receive complimentary Symposium registration plus up to $500 towards travel expenses. We are particularly interested in encouraging attendance by new faculty and/or faculty who have never been able to attend previously.
 
 The [list of travel grant winners](awards.html) shows the individuals who have benefited from this fund.
 
-##### Background
+##### Application
+{:.mt4 .border-bottom}
 
-![Henry Walker]({{"/files/images/people/Henry_Walker.jpg"|absolute_url}}){: style="float: left; width: 25%; padding:5px"}
+**Travel Grant for:** SIGCSE {{page.conferenceyear}} Technical Symposium<br>
+**Application:** [Travel grant form]({{page.form}})<br>
+**Apply by:** {{page.due}}<br>
+**Notification by:** {{page.notification}}<br>
+<a href="#more">More details below</a>.
+
+#### Background
+{:.mt4 .border-bottom}
+
+![Henry Walker]({{"assets/images/people/Henry_Walker.jpg"|absolute_url}}){: style="float: left; width: 25%; padding:5px"}
 {: class="figure-img img-fluid" alt="Henry Walker"}
 The SIGCSE Board gratefully acknowledges former Board chair **Henry Walker** for his efforts in establishing this grant program and for his generous donation which served as the impetus to get the program started.  With this beginning, the SIGCSE Board gave its enthusiastic support, and agreed to waive the Symposium registration fee for grant recipients. Further contributions by SIGCSE members have expanded the funding available for additional grants.
 <br>&nbsp;
 
+<a name="more" id="more"></a>
 #### Application Process
 {:.mt4 .border-bottom}
 
@@ -48,7 +59,7 @@ A formal application consists of the following items and is completed through th
 
 Priority for awards are given to groups that historically have been underrepresented among attendees at the conference. This includes but is not limited to women, people of color, faculty or teachers from low-resource institutions such as primary and secondary schools or community colleges, and SIGCSE members from outside the United States. Applications demonstrating a strong engagement in computing education and describing a solid plan for positively impacting the local computing education community over the long term will be viewed more favorably by the committee.
 
-Submit this **[travel grant form]({{page.form}})** by **{{page.due}}** to be considered for the {{page.year}} SIGCSE Technical Symposium. Notification of awards is expected by {{page.notification}}.
+Submit this **[travel grant form]({{page.form}})** by **{{page.due}}** to be considered for the {{page.conferenceyear}} SIGCSE Technical Symposium. Notification of awards is expected by {{page.notification}}.
 
 <a name="details" id="details"></a>
 ###### Grant Details

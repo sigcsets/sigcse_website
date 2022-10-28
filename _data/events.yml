@@ -3,11 +3,6 @@
   location: "Toronto, Canada"
   url: https://sigcse2023.sigcse.org
 
-- title: CompEd 202x
-  dates: "TBD"
-  location: "Hyderabad, India"
-  url: https://comped.acm.org/
-
 - title: ITiCSE 2023
   olddates: "2023, 2023"
   dates: "July 10-12"
@@ -15,6 +10,12 @@
   url: https://iticse.acm.org/2023/
 
 - title: ICER 2023
-  dates: "TBD"
+  dates: "August 8-10"
   location: "Chicago, IL"
+  comment: DC and WIP Monday 7th.
+
+- title: CompEd 202x
+  dates: "TBD"
+  location: "Hyderabad, India"
+  url: https://comped.acm.org/
 

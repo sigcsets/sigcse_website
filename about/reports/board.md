@@ -2,6 +2,22 @@
 title: Board Meeting Minutes
 layout: page
 minutes:
+  - board:
+    year: "2022 to 2025 Board"
+    folder: "BoardMinutes/2022-2025/"
+    approved:
+      - description: "Minutes of a SIGCSE Board meeting"
+        file: "Board Minutes 2022-07-18.pdf"
+        date: July 18 2022
+
+      - description: "Minutes of a SIGCSE Board meeting"
+        file: "Board Minutes 2022-08-16.pdf"
+        date: August 16 2022
+
+      - description: "Minutes of a SIGCSE Board meeting"
+        file: "Board Minutes 2022-09-20.pdf"
+        date: September 20 2022
+
   - board: 
     year: "2019 to 2022 Board"
     folder: "BoardMinutes/2019-2022/"

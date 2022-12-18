@@ -1,4 +1,5 @@
-destination: /Users/mapq/Development/SIGCSE/_site
+# --destination ~/Development/SIGCSE/_site
+# destination: /Users/mapq/Development/SIGCSE/_site
 title: SIGCSE
 email: webmaster@sigcse.org
 description: >-

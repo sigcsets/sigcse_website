@@ -3,6 +3,7 @@ _documentation
 _unused
 .DS_Store
 .jekyll-cache
+.jekyll-metadata
 bin
 pending
 SIGCSE.sublime-project

@@ -13,9 +13,11 @@
   dates: "August 8-10"
   location: "Chicago, IL"
   comment: DC and WIP Monday 7th.
+  url: https://conf.researchr.org/home/icer-2023
 
-- title: CompEd 202x
-  dates: "TBD"
+- title: CompEd 2023
+  dates: "December 7-9"
   location: "Hyderabad, India"
   url: https://comped.acm.org/
+  comment: ACM CompEd will take place at IIIT in Hyderabad, India on December 7-9, 2023. Working Groups will take place December 5-6. ACM CompEd will be co-located with the India COMPUTE conference which will be held December 9-11.
 

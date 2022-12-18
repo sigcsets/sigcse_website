@@ -2,7 +2,23 @@
 title: ACM Advanced Membership Grades
 layout: page
 
+
 members:
+- name: Tony Clear
+  grade: Distinguished Educator
+  year: 2022
+- name: Quintin Cutts
+  grade: Distinguished Educator
+  year: 2022
+- name: Diana Franklin
+  grade: Distinguished Educator
+  year: 2022
+- name: Margaret Hamilton
+  grade: Distinguished Educator
+  year: 2022
+- name: Guido Rößling
+  grade: Distinguished Educator
+  year: 2022
 - name: Alison Clear
   grade: Distinguished Educator
   year: 2021
@@ -447,13 +463,11 @@ members:
 
 ---
 
-Last updated December, 2019
+Last updated December, 2022
 
 The Awards Committee of the SIGCSE Board is interested in raising the profile of computing education, and we believe that one way to do this is to have more SIGCSE members identified as Advanced Members of the ACM. There are three advanced membership grades available: Senior, Distinguished, and Fellow. Requirements, due dates, nomination forms and FAQs about each of these grades are available at the [ACM Awards page](http://awards.acm.org/).
 
 A very useful reference is an article by Marc Snir & Telle Whitney in the July 2010 CACM: [Advice to members seeking ACM distinction](http://portal.acm.org/citation.cfm?id=1785414.1785432&coll=portal&dl=ACM&preflayout=flat).
-
-Feel free to contact [Amber Settle](mailto:asettle@cdm.depaul.edu) if you have questions.
 
 
 #### ACM Fellow

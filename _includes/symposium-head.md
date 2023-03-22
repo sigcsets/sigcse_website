@@ -65,14 +65,14 @@
 {% if page.outstanding %}
 {% for person in page.outstanding %}
 **{{page.year}} SIGCSE Award for Outstanding Contribution to Computer Science Education**\
-**{{person.name}}** - {{person.desc}}
+**{{person.name}}**{% if person.affiliation %}, {{person.affiliation}}{%endif%}. {{person.desc}}
 {% endfor %}
 {%endif%}
 
 {% if page.lifetime %}
 {% for person in page.lifetime %}
 **{{page.year}} SIGCSE Award for Lifetime Service to the Computer Science Education Community**\
-**{{person.name}}** - {{person.desc}}
+**{{person.name}}**{% if person.affiliation %}, {{person.affiliation}}{%endif%}. {{person.desc}}
 {%endfor%}
 {%endif%}
 

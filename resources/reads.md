@@ -6,6 +6,15 @@ layout: page
 
 SIGCSE Reads is a community-led project that allows a growing community of SIGCSE members connect to each other through science fiction. Becky Bates, Judy Goldsmith, Valerie Summet, and Nanette Veilleux organize a get together to discuss that year's reading selections. The group often meets at a Birds of a Feather session at the Technical Symposium. The stories are selected via popular vote and email discussions in the SIGCSE listerv.
 
+### 2024
+
+By popular vote, the novella The Lifecycle of Software Objects by Ted Chiang.
+
+For our non-fiction option, a dive into what we can do individually to make our community more inclusive Sister Resisters: Mentoring Black Women on Campus <https://www.hepg.org/hep-home/books/sister-resisters> by Janie Ward and Tracy Robinson-Wood
+
+And for a quicker read, the short story "Dolly" by Elizabeth Bear (available online <https://apex-magazine.com/short-fiction/dolly/>)
+
+
 ### 2023
 
 By popular vote at SIGCSE 2022 (Providence!), the community selected the following options. Please enjoy the selections and join us for conversations about them in Toronto in 2023!

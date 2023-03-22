@@ -1,23 +1,23 @@
-- title: Technical Symposium 2023
-  dates: "March 15-18, 2023"
-  location: "Toronto, Canada"
-  url: https://sigcse2023.sigcse.org
-
 - title: ITiCSE 2023
   olddates: "2023, 2023"
-  dates: "July 10-12"
+  dates: "July 10-12, 2023"
   location: "Turku, Finland"
   url: https://iticse.acm.org/2023/
 
 - title: ICER 2023
-  dates: "August 8-10"
+  dates: "August 8-10, 2023"
   location: "Chicago, IL"
   comment: DC and WIP Monday 7th.
   url: https://conf.researchr.org/home/icer-2023
 
 - title: CompEd 2023
-  dates: "December 7-9"
+  dates: "December 7-9, 2023"
   location: "Hyderabad, India"
   url: https://comped.acm.org/
   comment: ACM CompEd will take place at IIIT in Hyderabad, India on December 7-9, 2023. Working Groups will take place December 5-6. ACM CompEd will be co-located with the India COMPUTE conference which will be held December 9-11.
+
+- title: Technical Symposium 2024
+  dates: "March 20-23, 2024"
+  location: "Portland, Oregon"
+  url: https://sigcse2024.sigcse.org/
 

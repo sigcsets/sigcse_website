@@ -43,9 +43,6 @@ Membership in SIGCSE supports the following programs:
 Membership in SIGCSE provides the following direct benefits:
 
 -   Four issues of [ACM Inroads](https://inroads.acm.org/) a magazine dedicated to serve "professionals interested in advancing computing education on a global scale." A SIGCSE physical-copy membership provides physical copies of the magazine and all memberships receive electronic access to the magazine.
--   A once-a-year CD with the proceedings of SIGCSE-sponsored
-    conferences (SIGCSE Symposium, ITiCSE including the formally
-    reviewed reports of the working groups, and ICER).
 -   Four issues of the SIGCSE Bulletin, which are available
     electronically.
 -   Reduced registration rates for the SIGCSE Symposium, ITiCSE, and

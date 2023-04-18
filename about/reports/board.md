@@ -18,6 +18,23 @@ minutes:
         file: "Board Minutes 2022-09-20.pdf"
         date: September 20 2022
 
+      - description: "Minutes of a SIGCSE Board meeting"
+        file: "Board minutes 2022-10-18.pdf"
+        date: October 18 2022
+
+      - description: "Minutes of a SIGCSE Board meeting"
+        file: "Board minutes 2022-11-22.pdf"
+        date: November 22 2022
+
+      - description: "Minutes of a SIGCSE Board meeting"
+        file: "Board minutes 2023-01-24.pdf"
+        date: January 24 2023
+
+      - description: "Minutes of a SIGCSE Board meeting"
+        file: "Board minutes 2023-02-21.pdf"
+        date: February 21 2023
+
+
   - board: 
     year: "2019 to 2022 Board"
     folder: "BoardMinutes/2019-2022/"

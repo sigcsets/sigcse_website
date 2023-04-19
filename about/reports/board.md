@@ -8,6 +8,9 @@ minutes:
     folder: "BoardMinutes/2022-2025/"
     approved:
       - description: "Minutes of a SIGCSE Board meeting"
+        date: 2023-03-15
+
+      - description: "Minutes of a SIGCSE Board meeting"
         date: 2022-07-18
 
       - description: "Minutes of a SIGCSE Board meeting"
@@ -61,6 +64,9 @@ minutes:
 
       - description: "Minutes of a SIGCSE Board Meeting"
         date: 2020-10-20
+
+      - description: "Minutes of a SIGCSE Board Meeting"
+        date: 2020-10-27
 
       - description: "Minutes of a SIGCSE Board Meeting"
         date: 2020-11-17
@@ -200,7 +206,7 @@ minutes:
         description: "Minutes of a SIGCSE Board meeting in Atlanta, GA, USA"
       - date: 2014-04-29
         description: "Minutes of a SIGCSE Board conference call"
-      - date: 06/ 2014
+      - date: 2014-06-13
         description: "Minutes of a SIGCSE Board conference call"
       - date: 2014-08-18
         description: "Minutes of a SIGCSE Board conference call"

@@ -29,7 +29,7 @@ To apply for a Special Projects grant:
 1. Include references. The reference section will not count toward the 1,200 word limit.
 1. If this proposal was previously submitted, copies of the reviews for previous submissions must be appended to a statement of how the reviewers’ comments have been addressed.  This clearly labeled section will be submitted separately and will not count toward the 1,200 word limit.
 1. The entire proposal, excepting the references, is strictly limited to 1,200 words.
-1. Complete the online <a href="https://form.jotform.com/62945329086162">Application Form</a>.
+1. Complete the online <a href="https://forms.gle/Zf2XV5kSaMxSQgsTA">Application Form</a>.
 
 
 Please note that:

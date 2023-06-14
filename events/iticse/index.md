@@ -6,7 +6,7 @@ layout: page
 *[We are calling for expressions of interest in the ITiCSE
 leadership for future years.](interesthosting.html)*
 
-![ITiCSE]({{"files/images/logo/ITiCSE-LOGOv2-s.png" | absolute_url}}){:style="border: 5px solid #ddd;"}
+![ITiCSE]({{"assets/images/logo/ITiCSE-LOGOv2-s.png" | absolute_url}}){:style="border: 5px solid #ddd;"}
 
 
 The ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE) is one of four conferences sponsored by the ACM Special Interest Group on Computer Science Education (SIGCSE). It is the only SIGCSE conference overseen in conjunction with two other organizations, the ACM Europe Council and Informatics Europe. It is an international informatics/computing education conference held annually in Europe in June or July and has existed since 1996.
@@ -43,8 +43,7 @@ The ITiCSE conference has been held annually since 1996, in late June or early J
 {% for policy in site.data.policies.conferences %}
 - [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
 
-#### Get Involved: Proposing an ITiCSE Location
-{:.mt4 .border-bottom}
+###### Get Involved: Proposing an ITiCSE Location
 
 The ITiCSE Steering Committee would like to hear from computing
 faculty interested in hosting an ITiCSE conference at their institution
@@ -54,8 +53,7 @@ Expressing Interest in the leadership for future ITiCSE.](interesthosting.html)
 For further information about hosting ITiCSE, [here are some
 guidelines](host.html).
 
-#### Get Involved: Application for Membership of the Conference Committee
-{:.mt4 .border-bottom}
+###### Get Involved: Application for Membership of the Conference Committee
 
 Prospective ITiCSE Conference Committee members are expected to have
 previous ITiCSE involvement including previous conference attendance.
@@ -67,18 +65,17 @@ filling out [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSfskKUSpxSe
 See the section on Policies (below) for details on responsibilities for
 the different positions.
 
-#### Past, present and future ITiCSE conferences
-{:.mt4 .border-bottom}
+###### ITiCSE History
+
+[A History of SIGCSE Events](https://users.cs.duke.edu/~rodger/sigcseconferences.html)
+(maintained by Susan Rodger)
+
+##### Latests ITiCSE conferences
 
 Follow the links to conference web sites and proceedings.
 
 {% assign items = site.data.iticse.conferences | sort: 'year' | reverse %}
-{% for c in items %}
-- {% if c.url %}[**{{c.title}}**]({{c.url}}){%else%}**{{c.title}}**{%endif%}: {{c.date}}, {{c.location}}{% if c.doi-1 %}<br>[Proceedings v1]({{c.doi-1}}), [Proceedings v2]({{c.doi-2}}){% if c.companion-doi %}, [Working Group Companion]({{c.companion-doi}}){%endif%}, working group <a href="{{"/events/workinggroups.html"|absolute_url}}#{{c.year}}">reports page</a>.{% elsif c.doi %}<br>[Proceedings]({{c.doi}}){% if c.companion-doi %}, [Working Group Companion]({{c.companion-doi}}){%endif%}, working group <a href="{{"/events/workinggroups.html"|absolute_url}}#{{c.year}}">reports page</a>.{%endif%}{% endfor %}
+{% for c in items limit:5 %}{% include iticse-listing.md %}{% endfor %}
 
+<a href="conferences.html"><i>View all...</i></a>
 
-#### ITiCSE History
-{:.mt4 .border-bottom}
-
-[A History of SIGCSE Events](https://users.cs.duke.edu/~rodger/sigcseconferences.html)
-(maintained by Susan Rodger)

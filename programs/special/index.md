@@ -1,6 +1,7 @@
 ---
 title: Special Project Grants
 layout: page
+form: https://forms.gle/Zf2XV5kSaMxSQgsTA
 ---
 
 **Deadlines: May 15th and November 15th**
@@ -29,7 +30,7 @@ To apply for a Special Projects grant:
 1. Include references. The reference section will not count toward the 1,200 word limit.
 1. If this proposal was previously submitted, copies of the reviews for previous submissions must be appended to a statement of how the reviewers’ comments have been addressed.  This clearly labeled section will be submitted separately and will not count toward the 1,200 word limit.
 1. The entire proposal, excepting the references, is strictly limited to 1,200 words.
-1. Complete the online <a href="https://forms.gle/Zf2XV5kSaMxSQgsTA">Application Form</a>.
+1. Complete the online [Special Projects Application]({{page.form}}) form.
 
 
 Please note that:
@@ -53,7 +54,7 @@ A SIGCSE Special Projects Review Panel will judge the value and timeliness of pr
 #### Application
 
 Use the following online submission form to complete your application.
-- [Special Projects Application](https://form.jotform.com/62945329086162)
+- [Special Projects Application]({{page.form}})
 
 #### Questions?
 

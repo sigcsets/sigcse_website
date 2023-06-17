@@ -1,0 +1,140 @@
+- name: Dick Austing
+  year: 1997
+  awarded: TS
+  desc: 'Editor on several curriculum recommendation documents in almost every area of computer science, including Curriculum ''78, 2-year Task Force Report. Service as registrar for many SIGCSE conferences both before and after computerized registration. SIGCSE Technical Symposium chair. Founding ACM Fellow."'
+ 
+ 
+- name: Della Bonnette
+  year: 1998
+  awarded: TS
+  desc: 'Past chair of SIGCSE and Technical Symposium chair, editor of the SIGCSE bulletin, leadership in accreditation including chairing CSAC, years on CSAB Board of Directors, ACM SIG Board, area director.'
+
+- name: Bob Aiken
+  year: 1999
+  awarded: TS
+  desc: 'Service to SIGCSE, ACM-IFIPS, leader of several Computer Science People-to-People exchanges, dedicated mentor, and advocate for computer science in education both in the US and abroad.'
+
+- name: James Miller
+  year: 2000
+  awarded: TS
+  desc: "Tireless editor of the SIGCSE Bulletin 1982-1997."
+ 
+- name: Lillian N. (Boots) Cassel
+  year: 2001
+  awarded: TS
+  desc: 'Past chair of SIGCSE, and its Technical Symposium, leader in computer science accreditation, tireless advocate for computer science education supporting both faculty and students.'
+
+- name: A. Joe Turner
+  year: 2002
+  awarded: TS
+  desc: "Dedication to students, colleagues and the profession both in the United States and abroad. Chair or officer in: ACM, ACM Education Board, Curriculum '91 Task Force, Computer Science Accreditation Board, IFIP Working Group 3.2 (University Informatics Education), National Educational Computing Association."
+
+- name: Harriet Taylor
+  year: 2003
+  awarded: TS
+  desc: 'Creative leader, researcher, supportive teacher. Past SIGCSE officer, representative to NECC, contributor to National Educational Technology Standards, UNESCO informatics curriculum, ISTE project for accreditation in technology for NCATE, the accreditation body for Colleges of Education, chair or program chair of numerous other education related conferences.'
+
+- name: Bruce Klein
+  year: 2004
+  awarded: TS
+  desc: 'Recognized for exemplary service to ACM, extraordinary commitment to SIGCSE, mentoring of SIGCSE members. ACM SIG Board task forces, ACM Education Board, SIGCSE Executive Board 2001 to 2007 as chair and past chair, past ITiCSE Conference and Technical Symposium chair, program committees.'
+
+- name: Andrew McGettrick
+  year: 2005
+  awarded: TS
+  desc: 'For outstanding service and direction to the computing community in the UK and abroad. Member ACM Education Board, membership and significant influence on CC2001 final report, author of Report on Benchmark Levels for Computing, November 2000 Report on Benchmark Levels for Computing.'
+
+- name: Joyce Currie Little
+  year: 2006
+  awarded: TS
+  desc: 'In honor of her service on the SIGCSE Board, the ACM Education Board, numerous conference committees; and for her contributions to computing in two year colleges, to certification and to professionalism in the discipline.'
+
+- name: John Impagliazzo
+  year: 2007
+  awarded: TS
+  desc: 'For extraordinary services to computing education, with particular contributions to the SIGCSE Bulletin, to international conferences on computing history, to accreditation leadership, and to curricula development.'
+
+- name: Dennis J. Frailey
+  year: 2008
+  awarded: TS
+  desc: 'For forty years of exceptional service in industry and academia that stimulated a combined synergy which promoted educational excellence in software engineering and computing education.'
+
+- name: Michael Clancy
+  year: 2009
+  awarded: TS
+  desc: 'For thirty years of outstanding, lasting contributions and research in computer science education: "Oh Pascal!", case studies, AP leadership, lab-based instruction, self-paced innovation, and mentoring.'
+
+- name: Peter J. Denning
+  year: 2010
+  awarded: TS
+  desc: 'For forty years of exceptional service in industry and academia that stimulated a combined synergy which promoted educational excellence in software engineering and computing curricula.'
+
+- name: Gordon Davies
+  year: 2011
+  awarded: TS
+  desc: 'For many years of valuable and generous service to the computing education community including contributions through active membership on international committees, working groups, and conference program committees.'
+
+- name: Jane Prey
+  year: 2012
+  awarded: TS
+  desc: 'For her love of and dedication to the computing education community -- academic, industry, government and professional societies; and for her tireless efforts in encouraging more students, especially women, to pursue education and careers in computing.'
+ 
+
+- name: Henry Walker
+  year: 2013
+  awarded: TS
+  desc: 'For dedication to the computing education community, including within SIGCSE and APCS, development of curricula and pedagogy, authoring a articles and textbooks, creation and support of conference submission software, mentoring of students and faculty, and consulting with departments to advance excellence in computing education.'
+ 
+- name: Andrea Lawrence
+  year: 2014
+  awarded: TS
+  desc: 'For dedication to the computing education community, serving as a role model and mentor to students and faculty, improving diversity in computing education, making computing education available to everyone, and for helping students and faculty to "Find a way or make one".'
+
+- name: Frank Young
+  year: 2015
+  awarded: TS
+  desc: 'For over 40 years of service to the computing education community that exemplifies the term "lifetime service" and for serving as a role model and mentor to generations of students and faculty.'
+ 
+- name: Barbara Boucher Owens
+  year: 2016
+  awarded: TS
+  desc: 'For her extraordinary record of service to the computing education community for working relentlessly to grow the effectiveness of SIGCSE as a global leader in computer education and for being an inspiration, a mentor, and a friend to all.'
+ 
+- name: Mats Daniels
+  year: 2017
+  awarded: TS
+  desc: 'For more than two decades of dedicated service to computing education research, building and supporting the international network of computing educators.'
+ 
+- name: Eric Roberts
+  year: 2018
+  awarded: TS
+  desc: 'For outstanding service to computing education, making significant contributions to computing curricula and pedagogy, and generously sharing his knowledge and wisdom through mentoring and guidance to others in the computing education community.'
+ 
+- name: Gloria Childress Townsend
+  year: 2019
+  awarded: TS
+  desc: "For seventeen years of dedicated service to ACM's Council 
+    on Women in Computing, while transforming her vision for 
+    ACM Celebrations into a global project that supports thousands of women around the world."
+
+- name: Alison Clear
+  year: 2020
+  awarded: TS
+  desc: "For sustained commitment and dedication to computing educators, computing education, excellence in teaching and research and innovative curriculum design nationally and internationally."
+ 
+- name: Cary Laxer
+  year: 2021
+  awarded: TS
+  desc: "For his profound and impactful service to SIGCSE, his positive impact on computer science education, his ongoing support of SIGCSE conferences, and for being an inspiration, a mentor, and a friend to all."
+ 
+- name: Simon
+  year: 2022
+  awarded: TS
+  desc: "For exemplary service to the international computing education community through his tireless dedication to conference organisation, and his generous mentoring and leadership in research and education."
+ 
+- name: Renée McCauley
+  year: 2023
+  awarded: TS
+  affiliation: Professor, Department of Computer Science, College of Charleston, USA
+  desc: "For more than two decades of exemplary service to SIGCSE, the computing education community and ACM; her mentoring and encouragement to others; and her leadership in increasing the global impact of SIGCSE."
+ 

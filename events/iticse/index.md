@@ -70,7 +70,7 @@ the different positions.
 [A History of SIGCSE Events](https://users.cs.duke.edu/~rodger/sigcseconferences.html)
 (maintained by Susan Rodger)
 
-##### Latests ITiCSE conferences
+##### Latest ITiCSE conferences
 
 Follow the links to conference web sites and proceedings.
 

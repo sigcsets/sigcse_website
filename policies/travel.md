@@ -5,8 +5,9 @@ layout: page
 
 _Approved by the SIGCSE Board: May 12, 2008_\
 _Updated: January 27, 2016; October 27, 2018; January 14, 2019_
+_Updated: June 17, 2023 - updated urls to ACM pages_
 
-This policy applies to travel by the SIGCSE Board members and Board representatives. Additional requirements regarding travel may be found in the [ACM Travel guidelines](http://www.acm.org/sigs/volunteer_resources/travel). It is assumed that all SIGCSE representatives will follow ACM guidelines.
+This policy applies to travel by the SIGCSE Board members and Board representatives. Additional requirements regarding travel may be found in the [Travel Policy and Procedure for ACM Volunteers](https://www.acm.org/special-interest-groups/volunteer-resources/). It is assumed that all SIGCSE representatives will follow ACM guidelines.
 
 #### SIGCSE Board Members
 {:.border-bottom}

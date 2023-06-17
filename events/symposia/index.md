@@ -44,7 +44,7 @@ support for the Symposium. For more information please contact:
 Events](https://users.cs.duke.edu/~rodger/sigcseconferences.html) - maintained by Susan Rodger.
 - [50 Years of the Technical Symposium](../50years.html) - A timeline of SIGCSE events and milestones built during 2018 by Briana Morrison.
 
-##### Latests Technical Symposium
+##### Latest Technical Symposium
 
 Follow the links to Technical Symposium summary pages and/or symposium web sites:
 

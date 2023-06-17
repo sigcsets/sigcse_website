@@ -57,25 +57,38 @@
   </tbody>
 </table>
 
-{% if page.outstanding or page.lifetime %}
+{% assign outstanding = site.data.outstanding | where: "awarded", "TS" | where: "year", page.year -%}
+{% assign outsize = outstanding | size -%}
 
-#### {{page.year}} Awards
+
+{% assign lifetime = site.data.lifetime | where: "awarded", "TS" | where: "year", page.year -%}
+{% assign lifesize = lifetime | size -%}
+
+
+{% if outsize > 0 or lifesize > 0 %}
+#### Awards
 {:.border-bottom}
 
-{% if page.outstanding %}
-{% for person in page.outstanding %}
-**{{page.year}} SIGCSE Award for Outstanding Contribution to Computer Science Education**\
-**{{person.name}}**{% if person.affiliation %}, {{person.affiliation}}{%endif%}. {{person.desc}}
+{% if outsize > 0 %}
+##### {{page.year}} ACM SIGCSE Award for Outstanding Contribution to Computer Science Education
+{% for person in outstanding -%}
+**{{person.name}}**{% if person.affiliation %}, <i>{{person.affiliation}}</i>.{% endif %}
+<p style="margin-left: 25px;">
+{{person.desc}}</p>
 {% endfor %}
-{%endif%}
+{% endif %}
 
-{% if page.lifetime %}
-{% for person in page.lifetime %}
-**{{page.year}} SIGCSE Award for Lifetime Service to the Computer Science Education Community**\
-**{{person.name}}**{% if person.affiliation %}, {{person.affiliation}}{%endif%}. {{person.desc}}
-{%endfor%}
-{%endif%}
+{% if lifesize > 0 %}
+{% for person in lifetime -%}
+##### **{{page.year}} ACM SIGCSE Award for Lifetime Service to the Computer Science Education Community**
+**{{person.name}}**{% if person.affiliation %}, <i>{{person.affiliation}}</i>.{% endif %}
+<p style="margin-left: 25px;">
+{{person.desc}}</p>
+{% endfor %}
+{% endif %}
 
 {% endif %}
+
+
 
 {% if page.logo %}&nbsp;<img src="images/logos/{{page.logo}}">{%endif%}

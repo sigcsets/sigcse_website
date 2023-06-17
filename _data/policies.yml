@@ -8,6 +8,9 @@ organization:
   - title: Volunteer positions requiring SIGCSE Board approval
     url: policies/approval.html
     description: A list of SIGCSE volunteer positions requiring SIGCSE Board approval and their length of term.
+  - title: Awards Conflict of Interest and Eligibility Policy
+    url: policies/awards/index.html
+    description: Conflict of interest rules as related to the SIGCSE Awards.
 
 conferences:
   - title: Conference Chair Selection

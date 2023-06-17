@@ -8,6 +8,7 @@ A variety of programs that support our mission and serve our members:
 -   [SIGCSE Awards](awards/index.html) - Information about the following SIGCSE awards, the nomination processes, and previous award winners.
     - [SIGCSE Outstanding Contribution to Computer Science Education](awards/outstanding.html)
     - [SIGCSE Lifetime Service to the Computer Science Education Community](awards/lifetime.html)
+    - [SIGCSE Broadening Participation in Computing Education](awards/broadening.html)
     - [SIGCSE Test of Time](awards/test-of-time.html)
 
 

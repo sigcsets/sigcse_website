@@ -15,13 +15,18 @@ steering:
     affiliation: UC San Diego, USA (SIGCSE Board)
     dates: 2020 – 2022
 
+comingsoon:
+- title: "ICER '23"
+  date: "8-10 August 2023"
+  year: 2023
+  location: "Chicago, Illinois, United States"
 
 conferences:
 - title: "ICER '22"
   edition: 18
   year: 2022
   url: https://icer2022.acm.org
-  date: "August 7 - 11, 2022"
+  date: "7-11 August 2022"
   location: "Hybrid - Lugano, Switzerland"
   proceedings-1: "ICER '22: Proceedings of the 2022 ACM Conference on International Computing Education Research - Volume 1"
   doi-1: "https://dl.acm.org/doi/proceedings/10.1145/3501385"
@@ -32,6 +37,7 @@ conferences:
 - title: "17th ICER '21"
   edition: 17
   year: 2021
+  date: "16-19 August 2021"
   url: https://icer2021.acm.org
   location: "Online - (was originally scheduled for Charleston, SC, USA)"
   proceedings: "ICER '2021: Proceedings of the 17th ACM Conference on International Computing Education Research"
@@ -40,6 +46,7 @@ conferences:
 - title: "ICER '20"
   edition: 16
   year: 2020
+  date: "August 8-13, 2020"
   url: https://icer2020.acm.org
   location: "Online - (was originally scheduled for Dunedin, New Zealand)"
   proceedings: "ICER '20: Proceedings of the 2020 ACM Conference on International Computing Education Research"
@@ -48,6 +55,7 @@ conferences:
 - title: "ICER '19"
   edition: 15
   year: 2019
+  date: "12-14 August, 2019"
   url: https://icer.acm.org/icer-2019/
   location: "Toronto, Canada"
   proceedings: "ICER '19: Proceedings of the 2019 ACM Conference on International Computing Education Research"
@@ -58,12 +66,14 @@ conferences:
   year: 2018
   url: https://icer.acm.org/icer-2018/
   location: "Helsinki, Finland"
+  date: "13-15 August 2018"
   proceedings: "ICER '18: Proceedings of the 2018 ACM Conference on International Computing Education Research"
   doi: "https://dl.acm.org/doi/proceedings/10.1145/3230977"
 
 - title: "ICER '17"
   edition: 13
   year: 2017
+  date: "18-20 August 2017"
   proceedings: "ICER '17: Proceedings of the 2017 ACM Conference on International Computing Education Research"
   doi: "https://dl.acm.org/doi/proceedings/10.1145/3105726"
   url: https://icer.acm.org/icer-2017/
@@ -72,6 +82,7 @@ conferences:
 - title: "ICER '16"
   edition: 12
   year: 2016
+  date: "9-11 September 2016"
   proceedings: "ICER '16: Proceedings of the 2016 ACM Conference on International Computing Education Research"
   doi: "https://dl.acm.org/doi/proceedings/10.1145/2960310"
   url: https://icer.acm.org/icer-2016/
@@ -80,6 +91,7 @@ conferences:
 - title: "11th ICER '15"
   edition: 11
   year: 2015
+  date: "August 9-13, 2015"
   proceedings: "ICER '15: Proceedings of the eleventh annual International Conference on International Computing Education Research"
   doi: "https://dl.acm.org/doi/proceedings/10.1145/2787622"
   url: https://icer.acm.org/icer-2015/
@@ -87,7 +99,8 @@ conferences:
 
 - title: "10th ICER '14"
   edition: 10
-  year: 2015
+  year: 2014
+  date: "11-13 August 2014"
   proceedings: "ICER '14: Proceedings of the tenth annual conference on International computing education research"
   doi: "https://dl.acm.org/doi/proceedings/10.1145/2632320"
   url: https://icer.acm.org/icer-2014/
@@ -96,6 +109,7 @@ conferences:
 - title: "9th ICER '13"
   edition: 9
   year: 2013
+  date: "August 12-14 2013"
   proceedings: "ICER '13: Proceedings of the ninth annual international ACM conference on International computing education research"
   doi: "https://dl.acm.org/doi/proceedings/10.1145/2493394"
   url: https://icer.acm.org/icer-2013/
@@ -104,6 +118,7 @@ conferences:
 - title: "8th ICER '12"
   edition: 8
   year: 2012
+  date: "10-12 September 2012"
   proceedings: "ICER '12: Proceedings of the ninth annual international conference on International computing education research"
   doi: "https://dl.acm.org/doi/proceedings/10.1145/2361276"
   url: https://icer.acm.org/icer2012/
@@ -112,6 +127,7 @@ conferences:
 - title: "7th ICER '11"
   edition: 7
   year: 2011
+  date: "8-9 August 2011"
   proceedings: "ICER '11: Proceedings of the seventh international workshop on Computing education research"
   doi: "https://dl.acm.org/doi/proceedings/10.1145/2016911"
   url: https://icer.acm.org/icer2011/
@@ -120,6 +136,7 @@ conferences:
 - title: "6th ICER '10"
   edition: 6
   year: 2010
+  date: "8-11 August 2010"
   proceedings: "ICER '10: Proceedings of the Sixth international workshop on Computing education research"
   doi: "https://dl.acm.org/doi/proceedings/10.1145/1839594"
   url: https://icer.acm.org/icer2010/
@@ -128,6 +145,7 @@ conferences:
 - title: "5th ICER '09"
   edition: 5
   year: 2009
+  date: "10-11 August 2009"
   proceedings: "ICER '09: Proceedings of the fifth international workshop on Computing education research workshop"
   doi: "https://dl.acm.org/doi/proceedings/10.1145/1584322"
   url: https://icer.acm.org/icer-2009/
@@ -136,6 +154,7 @@ conferences:
 - title: "4th ICER '08"
   edition: 4
   year: 2008
+  date: "6-7 September 2008"
   proceedings: "ICER '08: Proceedings of the Fourth international Workshop on Computing Education Research"
   doi: "https://dl.acm.org/doi/proceedings/10.1145/1404520"
   url: https://icer.acm.org/icer-2008/
@@ -144,6 +163,7 @@ conferences:
 - title: "3rd ICER '07"
   edition: 3
   year: 2007
+  date: "15-16 September 2007"
   proceedings: "ICER '07: Proceedings of the third international workshop on Computing education research"
   doi: "https://dl.acm.org/doi/proceedings/10.1145/1288580"
   url: http://www.cc.gatech.edu/conferences/icer2007/
@@ -152,6 +172,7 @@ conferences:
 - title: "2nd ICER '06"
   edition: 2
   year: 2006
+  date: "9-10 September 2006"
   proceedings: "ICER '06: Proceedings of the second international workshop on Computing education research"
   doi: "https://dl.acm.org/doi/proceedings/10.1145/1151588"
   url: http://www.cs.kent.ac.uk/events/conf/2006/icer/
@@ -160,6 +181,7 @@ conferences:
 - title: "1st ICER '05"
   edition: 1
   year: 2005
+  date: "1-2 October 2005"
   proceedings: "ICER '05: Proceedings of the first international workshop on Computing education research"
   doi: "https://dl.acm.org/doi/proceedings/10.1145/1089786"
   url: http://icer2005.cs.washington.edu/

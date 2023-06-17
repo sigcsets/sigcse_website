@@ -8,7 +8,7 @@ image-path: "/assets/images/board/current/"
 {%for member in site.data.board.members %}
 <div>
 	<div style="float: left; text-align: center; width: 150px;">
-		{% assign p = page.image-path | append: member.image %}
+		{% assign p = page.image-path | append: member.image -%}
 		<img class="image-left" src="{{ p | absolute_url}}" alt="{{member.name}}" />
 	</div>
 	<div style="float: left; width: 300px;">

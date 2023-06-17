@@ -1,0 +1,216 @@
+- name: Susan Rodger
+  year: 2023
+  awarded: TS
+  affiliation: Professor, Department of Computer Science, Duke University, USA
+  desc: "For creating JFLAP, changing how the automata course is taught; and for helping to bring computing to primary and secondary schools through her work with the Alice environment."
+
+- name: Barbara Ericson
+  year: 2022
+  awarded: TS
+  desc: "For developing, evaluating, and disseminating methods to make computing education more effective, efficient, and accessible, and for national leadership in computing education measurement and public policy."
+
+- name: Stephen Edwards
+  year: 2021
+  awarded: TS
+  desc: "For innovating automated feedback systems with Web-CAT, transforming software testing within computer science curricula, and exemplifying leadership in the computer science education research community."
+
+- name: Lauri Malmi
+  year: 2020
+  awarded: TS
+  desc: "For leadership in building the international computing education research community, and raising the profile and quality of computing education research and research mentorship."
+
+- name: Mark Guzdial
+  year: 2019
+  awarded: TS
+  desc: "For helping to create the field of computing education research, designing and evaluating innovative curricula and pedagogical methods, mentoring the field, and promoting computing as a literacy for all."
+
+- name: Tim Bell
+  year: 2018
+  awarded: TS
+  desc: 'For significant and lasting impact on computing education internationally through the development of innovative resources and activities, such as "CS Unplugged", that inspire and engage students and teachers at all educational levels.'
+
+- name: Gail Chapman
+  year: 2017
+  awarded: TS
+  desc: "For long term impact on computer science education through the creation of curriculum, teacher professional development, and fierce advocacy for social equity in all computing classrooms."
+
+- name: William Atchison
+  year: 1981
+  awarded: TS
+  desc: "Head of ACM Curriculum Committee that produced Curriculum '68, founding leader of University of Maryland Computer Science Department."
+
+- name: Alan Perlis
+  year: 1982
+  awarded: TS
+  desc: "Contributions to education, especially through his work on programming languages and compiler construction."
+
+- name: Karl Karlstrom
+  year: 1983
+  awarded: TS
+  desc: 'Book editor who piloted some 500 books on computer science through the publication process at a time when a senior editor said "I have traveled the length and breadth of this country and talked with the best people, and I can assure you that data processing is a fad that won''t last out the year."'
+
+- name: Elliot Organick
+  year: 1985
+  awarded: TS
+  desc: "Founder of SIGCSE, author and disseminator of the MULTICS operating system, author of several widely disseminated textbooks in programming languages and first computer courses."
+
+- name: Donald Knuth
+  year: 1986
+  awarded: TS
+  desc: 'Author of influential series the "Art of Computer Programming" and his continuing contributions including TeX publication tool.'
+
+- name: Niklaus Wirth
+  year: 1987
+  awarded: TS
+  desc: "For the development of a series of programming languages mainly for use in education chief among them Pascal. These languages continue to have a profound effect on the teaching of programming and on computer science in general."
+
+- name: Grace Murray Hopper
+  year: 1988
+  awarded: TS
+  desc: "Pioneering work in compiler design (Cobol), oversaw the Navy's efforts to maintain uniformity in programming languages over two decades, master teacher who reminded us to watch our nanoseconds."
+
+- name: Edsger Dijkstra
+  year: 1989
+  awarded: TS
+  desc: 'For providing clarity about programs through his letter "GOTO Considered Harmful" and writings on structured programming and the effects of these works on the emergence of formal methods as integral to computer science education.'
+
+- name: Curriculum '68 Committee
+  year: 1990
+  awarded: TS
+  desc: "For their work on the seminal document leading the way for the founding of a multitude of computer science departments and providing guidance to the formation of courses and production of textbooks."
+
+- name: David Gries
+  year: 1991
+  awarded: TS
+  desc: "Contributions to Computer Science Education through textbooks and teaching enabling critical thinking, formal methods and the application of logic to the discipline."
+
+- name: Daniel McCracken
+  year: 1992
+  awarded: TS
+  desc: "Author of numerous best-selling books on Fortran, COBOL and other languages and their profound influence on today's computer science teachers."
+
+- name: Alan Kay
+  year: 1993
+  awarded: TS
+  desc: "Contributions to Smalltalk programming languages, research development of computers usable by children."
+
+- name: Norman Gibbs
+  year: 1994
+  awarded: TS
+  desc: "Contribution to Software Engineering Education, first director of the Software Engineering Institute, co-founder Liberal Arts Computer Science Consortium."
+
+- name: Robert Aiken
+  year: 1995
+  awarded: TS
+  desc: "Outstanding mentor, advocate of computer science and technology education both in the United States and abroad."
+
+- name: Nell Dale
+  year: 1996
+  awarded: TS
+  desc: "Prolific author for introductory computer science textbooks and contributions to the field of computer science education research."
+
+- name: Andrew Tannenbaum
+  year: 1997
+  awarded: TS
+  desc: "For seminal textbooks in networks, computer organization and operating systems, outstanding wit and educational leadership."
+
+- name: William Wulf
+  year: 1998
+  awarded: TS
+  desc: "Contributions to the advancement of Computer Science Education in engineering."
+
+- name: Peter Denning
+  year: 1999
+  awarded: TS
+  desc: 'For his efforts in developing a scientific core for operating systems, in formulating a curriculum through the "Denning Report", and in elucidating Computer Science to the broader scientific community.'
+
+- name: Andries van Dam
+  year: 2000
+  awarded: TS
+  desc: "Prolific author, researcher , hypertext pioneer and a champion of computing education for many year., founding faculty member of Brown University Computer Science Department."
+
+- name: Allen B. Tucker
+  year: 2001
+  awarded: TS
+  desc: "Author areas of programming languages, natural language processing, and computer science education. Co-chaired the ACM/IEEE Joint Curriculum Task Force that developed Computing Curricula 1991, co-author of the 1986 Liberal Arts Model Curriculum in Computer Science, Editor-in-Chief of the 1997 CRC Handbook of Computer Science and Engineering."
+
+- name: Elliot Soloway
+  year: 2002
+  awarded: TS
+  desc: "Pioneering Computer Science Education researcher, master teacher, and eloquent spokesman for educational reform involving computing to our computing colleagues and world at large."
+
+- name: Eric Roberts
+  year: 2003
+  awarded: TS
+  desc: 'Master teacher, advocate for computer science education, emissary to underrepresented populations in computer science. Principle editor and co-chair of the seminal document "Computing Curriculum 2001".'
+
+- name: Mordechai Ben-Ari
+  year: 2004
+  awarded: TS
+  desc: "Textbook author, mentor and pedagogical researcher at both the university and pre-college levels, in concurrency, formal methods, and programming languages."
+
+- name: Kim Bruce
+  year: 2005
+  awarded: TS
+  desc: "Innovative teaching methods, textbook authorship. Leadership in Liberal Arts Computer Science Consortium and its curricular recommendations to Curriculum 91 and Curriculum 2001."
+
+- name: Richard Pattis
+  year: 2006
+  awarded: TS
+  desc: "More than two decades of innovation and influence in providing thoughtful, profound, and concrete examples of teaching and thinking about algorithmic problem solving and programming."
+
+- name: Judith Gal-Ezer
+  year: 2007
+  awarded: TS
+  desc: "Outstanding researcher and curriculum designer who has carried out pioneering work involving teaching the essence of computer science on both the high school and university levels."
+
+- name: John Hughes
+  year: 2007
+  awarded: TS
+  desc: "In memory of his forty years contribution to computing education, academic leadership and research in Australasia and internationally. He was an outstanding mentor of students and colleagues and a committed educator."
+
+
+- name: Randy Pausch
+  year: 2008
+  awarded: TS
+  desc: "For being an inspirational leader in building programs and environments blending art with science and motivating a world of learners to realize their dreams."
+
+- name: Elliot Koffman
+  year: 2009
+  awarded: TS
+  desc: "For an extraordinary record of teaching, curriculum development, publishing papers as well as numerous textbooks, and for helping to shape Computer Science education."
+
+- name: Sally Fincher
+  year: 2010
+  awarded: TS
+  desc: "For outstanding contributions to computing education research and inspiring a generation of computing education researchers."
+
+- name: Matthias Felleisen
+  year: 2011
+  awarded: TS
+  desc: "For the creation of a design-focused introductory curriculum, for educational outreach programs for K-12, and for many PhD students who continue to merge programming language research and education."
+
+- name: Harold (Hal) Abelson
+  year: 2012
+  awarded: TS
+  desc: "For improving not only the way we teach computing by his contributions to Logo, App Inventor, and his textbook authorship but also the way we view knowledge in the broader society, through his leadership with the Free Software and Open Educational Resources movements and his founding efforts with the Creative Commons initiative."
+
+- name: Michael Kölling
+  year: 2013
+  awarded: TS
+  desc: "For the development of novel programming teaching tools, teaching approaches and teaching material."
+
+- name: Robert Panoff
+  year: 2014
+  awarded: TS
+  desc: "For promoting student enrichment, curriculum development, faculty enhancement, and infusing computational thinking at all levels through Shodor and the National Computational Science Institute."
+
+- name: Mark Allen Weiss
+  year: 2015
+  awarded: TS
+  desc: "For authoring textbooks that have had a profound impact on generations of students and for invaluable service to the computer science education community."
+
+- name: Jan Cuny
+  year: 2016
+  awarded: TS
+  desc: "For her vision and principled leadership that has transformed computer science education and has moved the United States closer to making computing education accessible to everyone."

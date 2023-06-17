@@ -1,55 +1,49 @@
 <!-- https://stackoverflow.com/questions/9612235/what-are-some-good-ways-to-implement-breadcrumbs-on-a-jekyll-site -->
 
-<div class="nav-scroller">
+{% assign url_parts = page.url | remove: "/index.html" | split: "/" | shift %}
+{% assign title = url_parts[0] %}
+{% capture previous %}/{{url_parts[0]}}{% endcapture %}
+{% assign url_parts = url_parts | shift %}
+{% assign num_parts = url_parts | size %}
+<nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+  <ol class="breadcrumb">
 
-  {% capture url_parts %} {{ page.url | remove: "/index.html" | replace:'/'," " }}{% endcapture %}
-  {% capture num_parts %}{{ url_parts | number_of_words | minus: 1 }}{% endcapture %}
+  {% if num_parts > 0 %}
+    {% comment %}
+    Otherwise, add the home breadcrumb and all the other ones, one at a time.
+    For all of them, add the /index.html at the end.
+    {% endcomment %}
+    <li class="breadcrumb-item">{{title | capitalize }}</li>
 
-  {% assign previous="" %}
-  <nav aria-label="breadcrumb">
-    <ol class="breadcrumb">
+    {% comment %}
+    <!-- From Bootstrap's documentation -->
+    <!-- Separators are automatically added in CSS through ::before and content. -->
+    <!-- for unused in site.breadcrumb_list limit:num_parts -->
+    {% endcomment %}
 
-      {% if num_parts == "0" or num_parts == "-1" %}
-        {% comment %}
-        If we have only one part, then just do an absolute URL to "/". This is the
-        home page and will work with both live and staging.
-        {% endcomment %}
-        <li class="breadcrumb-item"><a href={{"/index.html"|absolute_url}}>Home</a></li>
+    {% for i in (0..num_parts-1) %}
 
-      {% else %}
-        {% comment %}
-        Otherwise, add the home breadcrum and all the other ones, one at a time.
-        For all of them, add the /index.html at the end.
-        {% endcomment %}
-        <li class="breadcrumb-item"><a href={{"/index.html"|absolute_url}}>Home</a></li>
+      {% assign next_part = url_parts[i] -%}
+      {% capture previous %}{{ previous }}/{{ next_part }}{% endcapture -%}
+      {% assign word = site.data.capitalization | where: 'word', next_part -%}
+      {% assign wordLength = word | size -%}
 
-        {% comment %}
-        <!-- From Bootstrap's documentation -->
-        <!-- Separators are automatically added in CSS through ::before and content. -->
-        {% endcomment %}
-        {% for unused in site.breadcrumb_list limit:num_parts -%}
+      <li class="breadcrumb-item">
+        {% comment %} links internal to the breadcrumb (not the last one) {% endcomment -%}
+        {% if wordLength > 0 -%}
+          <a href="{{ previous | absolute_url }}/index.html">{{ word[0].display }}</a>
+        {% else -%}
+          <a href="{{ previous | absolute_url }}/index.html">{{ next_part | remove: ".html" | capitalize }}</a>
+        {% endif -%}
+      </li>
+    {% endfor %}
+    {% comment %}
+    Generate the last link, which is a non-link representing the current page
+    {% endcomment %}
+    {% if num_parts > 1 -%}
+    <li class="breadcrumb-item">{{page.title}}</li>
+    {% endif %}
+  {% endif %}
+  </ol>
 
-          {% capture first_word %}{{ url_parts | truncatewords:1 | remove:"..."}}{% endcapture -%}
-          {% assign entry = site.data.capitalization | where: 'word', first_word -%}
-          {% capture previous %}{{ previous }}/{{ first_word }}/index.html{% endcapture -%}
-
-          <li class="breadcrumb-item">
-            {% assign wordLength = entry | size -%}
-            {% if wordLength > 0 -%}
-            <a href="{{ previous | absolute_url }}">{{ entry[0].display }}</a>
-            {% else -%}
-            <a href="{{ previous | absolute_url }}">{{ first_word | capitalize }}</a>
-            {% endif -%}
-          </li>
-          {% capture url_parts %}{{ url_parts | remove_first:first_word }}{% endcapture %}
-
-        {% endfor %}
-      {% endif %}
-
-      {% comment %}
-      Generate the last link, which is a non-link representing the current page
-      {% endcomment %}
-      <li class="breadcrumb-item active" aria-current="page">{{ page.title | truncate: 25}}</li>
-    </ol>
-  </nav>
-</div>
+</nav>

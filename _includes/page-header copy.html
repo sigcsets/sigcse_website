@@ -14,33 +14,24 @@
   </header>
 
   <!-- Top level menu : Home/About/Membership/Events... -->
-  <!-- <div class="nav-scroller py-1 mb-2"> -->
-  <nav class="navbar navbar-expand-lg bg-body-tertiary py-1 mb-2">
-    <div class="container-fluid">
-      <!-- <nav class="nav d-flex justify-content-between"> -->
+  <div class="nav-scroller py-1 mb-2">
+    <nav class="nav d-flex justify-content-between">
       {% capture url_parts %} {{ page.url | remove: "/index.html" | replace:'/'," " }}{% endcapture %}
       {% capture first_word %}{{ url_parts | truncatewords:1 | remove:"..."}}{% endcapture %}
       {% capture second_word %}{{ url_parts | truncatewords:1 | remove:"..."}}{% endcapture %}
-      <!-- 
-      {% capture second_word %}{{ url_parts | truncatewords:1 | remove:"..." | capitalize }}{% endcapture %}
-       -->
-      <div class="navbar-nav nav-underline">
+<!--       {% capture second_word %}{{ url_parts | truncatewords:1 | remove:"..." | capitalize }}{% endcapture %}
+ -->
       {% for item in site.data.navigation %}
         {% if item.name == second_word %}
-          {% comment %} This is the active tab but it is not HOME {% endcomment %}
-          <!-- class="p-2 text-primary font-weight-bold" -->
-          <a class="nav-link p-2 active text-muted" href="{{ item.link | absolute_url }}" ><b>{{ item.name }}</b></a>
+          <a class="p-2 text-primary font-weight-bold" href="{{ item.link | absolute_url }}" >{{ item.name }}</a>
         {% elsif item.name == "Home" and second_word == "  " %}
-          {% comment %} This is the active HOME tab {% endcomment %}
-          <a class="nav-link p-2 active text-muted" href="{{ item.link | absolute_url }}"><b>{{ item.name }}</b></a>
+          <a class="p-2 text-primary font-weight-bold" href="{{ item.link | absolute_url }}">{{ item.name }}</a>
         {% else %}
-          {% comment %} This is are the other tabs, not active HOME tab {% endcomment %}
-          <a class="nav-link text-primary" href="{{ item.link | absolute_url }}">{{ item.name }}</a>
+          <a class="p-2 text-muted" href="{{ item.link | absolute_url }}">{{ item.name }}</a>
         {% endif %}
       {% endfor %}
-      </div>
-    </div>
-  </nav>
+    </nav>
+  </div>
 
 
   {% if site.staging == true %}

@@ -1,19 +1,15 @@
 <!-- https://stackoverflow.com/questions/9612235/what-are-some-good-ways-to-implement-breadcrumbs-on-a-jekyll-site -->
 
 {% assign url_parts = page.url | remove: "/index.html" | split: "/" | shift %}
-{% assign title = url_parts[0] %}
-{% capture previous %}/{{url_parts[0]}}{% endcapture %}
-{% assign url_parts = url_parts | shift %}
-{% assign num_parts = url_parts | size %}
+{% assign num_parts = url_parts | size | minus: 1 %}
+{% assign url = "" %}
+{% if num_parts > 0 %}
 <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
   <ol class="breadcrumb">
-
-  {% if num_parts > 0 %}
     {% comment %}
     Otherwise, add the home breadcrumb and all the other ones, one at a time.
     For all of them, add the /index.html at the end.
     {% endcomment %}
-    <li class="breadcrumb-item">{{title | capitalize }}</li>
 
     {% comment %}
     <!-- From Bootstrap's documentation -->
@@ -21,29 +17,35 @@
     <!-- for unused in site.breadcrumb_list limit:num_parts -->
     {% endcomment %}
 
-    {% for i in (0..num_parts-1) %}
-
+    {% for i in (0..num_parts) %}
+      {% capture url %}{{ url }}/{{ url_parts[i] }}{% endcapture -%}
       {% assign next_part = url_parts[i] -%}
-      {% capture previous %}{{ previous }}/{{ next_part }}{% endcapture -%}
-      {% assign word = site.data.capitalization | where: 'word', next_part -%}
-      {% assign wordLength = word | size -%}
+      {% if forloop.first %}
+        <li class="breadcrumb-item"><a href="{{ url | absolute_url }}/index.html">{{url_parts[i] | capitalize}}</a></li>
+      {% elsif forloop.last  -%}
+        <li class="breadcrumb-item">{{page.title}}</li>
+      {% else %}
 
-      <li class="breadcrumb-item">
-        {% comment %} links internal to the breadcrumb (not the last one) {% endcomment -%}
-        {% if wordLength > 0 -%}
-          <a href="{{ previous | absolute_url }}/index.html">{{ word[0].display }}</a>
-        {% else -%}
-          <a href="{{ previous | absolute_url }}/index.html">{{ next_part | remove: ".html" | capitalize }}</a>
-        {% endif -%}
-      </li>
+        {% comment %}
+        Capitalization must keep the conference title as capitalized. So,
+        first run it by the capitalization list. If it is not there, then just
+        title capitalize it
+        {% endcomment %}
+
+        {% assign word = site.data.capitalization | where: 'word', next_part -%}
+        {% assign wordLength = word | size -%}
+        {% if wordLength == 0 -%}
+          {% assign linkName = next_part | remove: ".html" | capitalize %}
+        {% else %}
+          {% assign linkName = word[0].display %}
+        {% endif %}
+
+        <li class="breadcrumb-item">
+            <a href="{{ url | absolute_url }}/index.html">{{linkName}}</a>
+        </li>
+      {% endif %}
     {% endfor %}
-    {% comment %}
-    Generate the last link, which is a non-link representing the current page
-    {% endcomment %}
-    {% if num_parts > 1 -%}
-    <li class="breadcrumb-item">{{page.title}}</li>
-    {% endif %}
-  {% endif %}
-  </ol>
 
+  </ol>
 </nav>
+{% endif %}

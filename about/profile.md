@@ -11,8 +11,8 @@ The scope of SIGCSE is to provide a global forum for educators to discuss resear
 
 Computer Science Educators
 
-#### Membershipas of June 2017)
-As of February 2022, SIGCSE has a total of 2,741 members representing over 60 countries.
+#### Membership (as of June 2017)
+As of {{site.data.membership.date}}, SIGCSE has a total of {{site.data.membership.members}} members representing {{site.data.membership.countries}} countries. For more information, visit the [membership page]({{"/membership/index.html"|absolute_url}}).
 
 #### Awards
 

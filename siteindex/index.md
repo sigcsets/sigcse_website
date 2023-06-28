@@ -8,7 +8,7 @@ layout: page
 {% assign group = "Numbers" %}
 {% assign last = false %}
 <!-- String.fromCharCode(94 + i); -->
-TOC:&nbsp;
+Table of Content:&nbsp;
 {%- for node in items -%}
 {%- if forloop.first == true -%}[{%- endif -%}
 {%- assign first = node.title | slice: 0 -%}

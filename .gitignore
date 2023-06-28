@@ -1,5 +1,6 @@
 _site
 _documentation
+_pending
 _unused
 .DS_Store
 .jekyll-cache

@@ -2,6 +2,8 @@
   link: /
 - name: About
   link: /about/
+- name: News
+  link: /news/
 - name: Membership
   link: /membership/
 - name: Events

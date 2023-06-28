@@ -18,5 +18,4 @@ layout: page
 -   [SIGCSE Bulletin](bulletin.html) - Quarterly newsletter
 -   [Reports](reports/index.html) - Chair and Treasurer Reports, Board
     Minutes
--   [News](news/index.html) - News previously featured on front page
 -   [Logo](logo.html) - Logo image files for use on web or print

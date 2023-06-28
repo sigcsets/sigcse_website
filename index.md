@@ -10,7 +10,7 @@ layout: home
 {% for post in site.posts limit:5 -%}
 * <a href="{{post.url | relative_url }}">{{post.title}}</a> ({{post.date | date: '%B %d, %Y' }})
 {% endfor -%}
-- [*view all*]("about/news/index.html")
+- [*view all*](news/index.html)
 
 ###### Technical Symposium
 {:.mt-4 .border-bottom}
@@ -18,7 +18,7 @@ layout: home
 {% for c in items limit:2 -%}
     {% include ts-listing.md home=true -%}
 {% endfor -%}
-- [*view all*]("events/symposia/conferences.html")
+- [*view all*](events/symposia/conferences.html)
 
 ###### ITiCSE
 {:.mt-4 .border-bottom}
@@ -26,7 +26,7 @@ layout: home
 {% for c in items limit:2 -%}
     {% include iticse-listing.md home=true -%}
 {% endfor -%}
-- [*view all*]("events/iticse/conferences.html")
+- [*view all*](events/iticse/conferences.html)
 
 ###### ICER
 {:.mt-4 .border-bottom}
@@ -34,7 +34,7 @@ layout: home
 {% for c in items limit:2 -%}
     {% include icer-listing.md home=true -%}
 {% endfor -%}
-- [*view all*]("events/icer/conferences.html")
+- [*view all*](events/icer/conferences.html)
 
 ###### CompEd
 {:.mt-4 .border-bottom}
@@ -42,6 +42,4 @@ layout: home
 {% for c in items limit:2 -%}
     {% include comped-listing.md home=true -%}
 {% endfor -%}
-
-- [*view all*]("events/comped/conferences.html")
-
+- [*view all*](events/comped/conferences.html)

@@ -23,7 +23,7 @@ defaults:
     values:
       layout: "post"
 
-permalink: /about/news/:year-:month-:title:output_ext
+permalink: /news/:year-:month-:title:output_ext
 
 # long sequence of numbers to make loop go for a while, contents
 # of colletion is irrelevant

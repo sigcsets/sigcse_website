@@ -1,13 +1,12 @@
 ---
 title: ITiCSE Conference
 layout: page
+comment: Logo {{"assets/images/logo/ITiCSE-LOGOv2-s.png"
+
 ---
 
 *[We are calling for expressions of interest in the ITiCSE
 leadership for future years.](interesthosting.html)*
-
-![ITiCSE]({{"assets/images/logo/ITiCSE-LOGOv2-s.png" | absolute_url}}){:style="border: 5px solid #ddd;"}
-
 
 The ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE) is one of four conferences sponsored by the ACM Special Interest Group on Computer Science Education (SIGCSE). It is the only SIGCSE conference overseen in conjunction with two other organizations, the ACM Europe Council and Informatics Europe. It is an international informatics/computing education conference held annually in Europe in June or July and has existed since 1996.
 
@@ -16,7 +15,7 @@ SIGCSE provides a forum for educators to discuss issues related to the developme
 
 The ITiCSE conference has been held annually since 1996, in late June or early July. It has been held in many different countries (see list below). Attendance regularly exceeds 200. This conference brings together delegates from all over the world to address pressing issues in computing education. In addition to invited lectures, paper, panel, poster and \"tips & techniques\" sessions, the conference provides facilities and exposure for working groups of up to ten members, whose final reports may be published by SIGCSE. Exhibits and tutorials are also offered. Plus good food, good company and interesting locales. If you have never been to an ITiCSE, do yourself a favor and go. You will not regret it!
 
-###### Typical ITiCSE Schedule
+##### Typical ITiCSE Schedule
 
 -   Saturday Working groups arrive and meet
 -   Sunday Working groups meet, delegates arrive, opening reception
@@ -27,7 +26,8 @@ The ITiCSE conference has been held annually since 1996, in late June or early J
 -   Wednesday Plenary meeting followed by a full day of sessions
 -   Poster sessions at coffee breaks Monday through Wednesday.
 
-###### ITiCSE Specific Policies
+##### Policies
+###### ITiCSE Specific
 
 {% for policy in site.data.policies.iticse %}
 - [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
@@ -43,7 +43,8 @@ The ITiCSE conference has been held annually since 1996, in late June or early J
 {% for policy in site.data.policies.conferences %}
 - [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
 
-###### Get Involved: Proposing an ITiCSE Location
+##### Get Involved
+###### Proposing an ITiCSE Location
 
 The ITiCSE Steering Committee would like to hear from computing
 faculty interested in hosting an ITiCSE conference at their institution
@@ -53,7 +54,7 @@ Expressing Interest in the leadership for future ITiCSE.](interesthosting.html)
 For further information about hosting ITiCSE, [here are some
 guidelines](host.html).
 
-###### Get Involved: Application for Membership of the Conference Committee
+###### Application for Membership of the Conference Committee
 
 Prospective ITiCSE Conference Committee members are expected to have
 previous ITiCSE involvement including previous conference attendance.
@@ -65,17 +66,17 @@ filling out [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSfskKUSpxSe
 See the section on Policies (below) for details on responsibilities for
 the different positions.
 
+
+##### Latest ITiCSE conferences
+
+Follow the links to conference web sites and proceedings in the ACM DL.
+
+{% assign items = site.data.iticse.conferences | sort: 'year' | reverse %}
+{% for c in items limit:5 %}{% include item-iticse.md %}{% endfor %}
+
+<a href="conferences.html"><i>View all...</i></a>
+
 ###### ITiCSE History
 
 [A History of SIGCSE Events](https://users.cs.duke.edu/~rodger/sigcseconferences.html)
 (maintained by Susan Rodger)
-
-##### Latest ITiCSE conferences
-
-Follow the links to conference web sites and proceedings.
-
-{% assign items = site.data.iticse.conferences | sort: 'year' | reverse %}
-{% for c in items limit:5 %}{% include iticse-listing.md %}{% endfor %}
-
-<a href="conferences.html"><i>View all...</i></a>
-

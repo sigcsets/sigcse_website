@@ -37,9 +37,9 @@ computing education researchers.
 
 ##### Latest ICER conferences
 
-Follow the links to conference web sites and proceedings.
+Follow the links to conference web sites and proceedings in the ACM DL.
 
 {% assign items = site.data.icer.conferences | sort: 'year' | reverse %}
-{% for c in items limit:5 %}{% include icer-listing.md %}{% endfor %}
+{% for c in items limit:5 %}{% include item-icer.md %}{% endfor %}
 
 <a href="conferences.html"><i>View all...</i></a>

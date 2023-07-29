@@ -1,19 +1,32 @@
+steering:
+- name: Brett Becker
+  affiliation: University College Dublin, Ireland (Chair)
+- name: Susan Rodger
+  affiliation: Duke University, USA
+- name: Ming Zhang
+  affiliation: Peking University, China
+- name: Lillian (Boots) Cassel
+  affiliation: Villanova, USA
+- name: Alison Clear
+  affiliation: Eastern Institute of Technology, USA
+
 next-conference:
-- title: CompEd 202x
-  year: 202x
+- title: CompEd 2023
+  year: 2023
+  dates: "December 7-9, 2023"
   location: "Hyderabad, India"
   url: https://comped.acm.org/
+  comment: ACM CompEd will take place at IIIT in Hyderabad, India on December 7-9, 2023. Working Groups will take place December 5-6. ACM CompEd will be co-located with the India COMPUTE conference which will be held December 9-11.
 
 conferences:
 - title: "CompEd 19"
   year: 2019
   location: "Chengdu, Sichuan China"
-  date:  "May 9 - 19, 2019"
+  dates:  "May 9 - 19, 2019"
   url: https://comped.acm.org/2019/
-
-  proceedings: "CompEd '19: Proceedings of the ACM Conference on Global Computing Education"
-  doi: "https://dl.acm.org/doi/proceedings/10.1145/3300115"
-
-  companion-proceedings: "CompEd-WGR '19: Proceedings of the Working Group Reports on Global Computing Education"
-  companion-doi: "https://dl.acm.org/doi/proceedings/10.1145/3372262"
+  proceedings:
+  - title: "CompEd '19: Proceedings of the ACM Conference on Global Computing Education"
+    doi: "https://dl.acm.org/doi/proceedings/10.1145/3300115"
+  - title: "CompEd-WGR '19: Proceedings of the Working Group Reports on Global Computing Education"
+    doi: "https://dl.acm.org/doi/proceedings/10.1145/3372262"
 

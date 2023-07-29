@@ -14,32 +14,32 @@ layout: home
 
 ###### Technical Symposium
 {:.mt-4 .border-bottom}
-{% assign items = site.pages | where: "event","symposium" | sort: 'year' | reverse %}
-{% for c in items limit:2 -%}
-    {% include ts-listing.md home=true -%}
+{% assign items = site.data.symposia.conferences | sort: 'year' | reverse %}
+{% for c in items limit:3 -%}
+    {% include item-symposia.md home=true -%}
 {% endfor -%}
 - [*view all*](events/symposia/conferences.html)
 
 ###### ITiCSE
 {:.mt-4 .border-bottom}
 {% assign items = site.data.iticse.conferences | sort: 'year' | reverse %}
-{% for c in items limit:2 -%}
-    {% include iticse-listing.md home=true -%}
+{% for c in items limit:3 -%}
+    {% include item-iticse.md home=true -%}
 {% endfor -%}
 - [*view all*](events/iticse/conferences.html)
 
 ###### ICER
 {:.mt-4 .border-bottom}
 {% assign items = site.data.icer.conferences | sort: 'year' | reverse %}
-{% for c in items limit:2 -%}
-    {% include icer-listing.md home=true -%}
+{% for c in items limit:3 -%}
+    {% include item-icer.md home=true -%}
 {% endfor -%}
 - [*view all*](events/icer/conferences.html)
 
 ###### CompEd
 {:.mt-4 .border-bottom}
 {% assign items = site.data.comped.conferences | sort: 'year' | reverse %}
-{% for c in items limit:2 -%}
-    {% include comped-listing.md home=true -%}
+{% for c in items limit:3 -%}
+    {% include item-comped.md home=true -%}
 {% endfor -%}
 - [*view all*](events/comped/conferences.html)

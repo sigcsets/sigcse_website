@@ -11,11 +11,9 @@ This page shows all the volunteer positions. To see a which of these requires Bo
 
 ###### Steering committee
 
-- Michelle Craig, University of Toronto (chair)
-- Steve Wolfman, The University of British Columbia (secretary)
-- Sarah Heckman, NC State University 
-- Alvaro Monge, California State University, Long Beach
-- Manuel A. Pérez-Quiñones, UNC at Charlotte (SIGCSE board liaison)
+{%for member in site.data.symposia.steering %}
+- {{member.name}}, {{member.affiliation-}}
+{% endfor %}
 
 ###### Site selection committee chairs
 
@@ -76,11 +74,9 @@ We have three members in the registration team, approved by the SIGCSE Board. Pa
 
 ###### Steering committee
 
--   Brett Becker, University College Dublin, Ireland (Chair)
--   Susan Rodger, Duke University, USA
--   Ming Zhang, Peking University, China
--   Lillian (Boots) Cassel, Villanova, USA
--   Alison Clear, Eastern Institute of Technology, USA
+{% for c in site.data.comped.steering %}
+- {{c.name}}, {{c.affiliation-}}
+{% endfor %}
 
 ##### ICER Conference
 {:.mt-4 .border-bottom}

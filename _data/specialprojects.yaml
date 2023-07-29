@@ -1,0 +1,1239 @@
+- title: A Framework for Playing Network Games in CS1/CS2
+  year: 2003
+  authors:
+    - name: Richard E. Pattis
+      email: pattis@acm.org
+      affiliation: Carnegie Mellon University
+  award: "$3,200"
+  date: "May 2003"
+  description: "I will develop a Java framework (and JavaDoc API) allowing CS1/CS2 students to write games played over a network. Games are hosted on one machine (storing shared state). Manual or automated players on other machines command/query it via strings. I'll write several assignments and sample games to distribute with this framework. Refer to the project home page for current status and additional information: <a href=\"http://www-2.cs.cmu.edu/~pattis/grants/sigcsegrant2003.html\">http://www-2.cs.cmu.edu/~pattis/grants/sigcsegrant2003.html</a>"
+
+- title: Student Program Documentation Analysis and Feedback
+  year: 2003
+  authors:
+    - name: Jesse M. Heines
+      email: heines@cs.uml.edu
+      affiliation: University of Massachusetts Lowell
+  award: "$5,000"
+  date: "May 2003"
+  description: This project will produce a publicly available, Web-based application that analyzes program documentation and provides constructive feedback on how to improve that documentation. The final product will be similar in look and feel to the validators on the W3C Web site, but with added guidance on how to correct shortcomings. <a href="http://teaching.cs.uml.edu/~heines/projects/docvalidator">http://teaching.cs.uml.edu/~heines/projects/docvalidator</a>
+
+- title: Electronic Archiving of Workshop on Computer Architecture Education Proceedings
+  year: 2003
+  authors:
+    - name: Edward F. Gehringer
+      email: efg@ncsu.edu
+      affiliation: North Carolina State University
+  award: "$1,600"
+  date: "May 2003"
+  description: "Since 1995, approximately ten Workshops in Computer Architecture Education have been held in conjunction with ACM/SIGArch conferences. The proposer has organized the last three workshops (2000, 2002, and 2003). The pre-2000 proceedings are not online or in any other archival form. The proposed activity is to pay a student to contact the authors, obtain the files, and put those proceedings on line with appropriate metadata. Refer to the project home page for current status and additional information: <a href=\"http://www4.ncsu.edu/~efg/wcaes.html\">http://www4.ncsu.edu/~efg/wcaes.html</a>"
+
+- title: Bioinformatics in the Computer Science Curriculum
+  year: 2003
+  authors:
+    - name: Matt DeJongh
+      email: dejongh@hope.edu
+    - name: Mark D. LeBlanc
+      email: mleblanc@wheatoncollege.edu
+      affiliation: Hope College; Wheaton College
+  award: "$5,000"
+  date: "July 2003"
+  description: We propose to identify computationally rich examples from bioinformatics that map to core units in Computing Curricula 2001 and investigate ways of incorporating them into the computer science curriculum. We will develop sample course materials that will benefit members of SIGCSE who are interested in incorporating bioinformatics in their courses. <a href="http://www.cs.hope.edu/~dejongh/bioinformatics/sigcse/">http://www.cs.hope.edu/~dejongh/bioinformatics/sigcse/</a>
+
+- title: Task Force to Develop Java-Based Resources for Introductory CS
+  year: 2003
+  authors:
+    - name: Eric Roberts
+      email: eroberts@cs.stanford.edu
+      affiliation: Stanford University
+  award: "$5,000"
+  date: "October 2003"
+  description: This project supports the work of a new ACM Education Board task force to develop a collection of Java-based resources to support the teaching of introductory computer science at both the secondary school and college level
+
+- title: Building Research in Australasian Computer Education (BRACE)
+  year: 2003
+  authors:
+    - name: Raymond Lister
+      email: raymond@it.uts.edu.au
+      affiliation: University of Technology, Sydney
+  award: "$5,000"
+  date: "October 2003"
+  description: We propose to run a workshop on research into computer science education (4 days, up to 20 participants). The workshop leads onto a shared research project and publication(s). It will be set in Australasia, and modeled on two successful NSF-funded workshops previously held in America. <a href="http://www.cs.otago.ac.nz/brace">http://www.cs.otago.ac.nz/brace</a>
+
+- title: Creating Computer Exercises Involving Computer Security
+  year: 2004
+  authors:
+    - name: Charles Ashbacher
+      affiliation: Mount Mercy College
+  award: "$1,000"
+  date: "February 2004"
+  description: "This project will develop software to demonstrate particular concepts in computer security: code obfuscation and steganography (in this case, the hiding of messages in image files). The final source code and documentation will be released as open source and posted on the SIGCSE web site."
+
+- title: A Remote Program Viewer
+  year: 2004
+  authors:
+    - name: Charles Dierbach
+      email: cdierbach@towson.edu
+      affiliation: Towson University
+  award: "$2,768"
+  date: "May 2004"
+  description: "This project involves the development of a remote program viewer allowing two users anywhere across the Internet to view a common set of program files and interactively discuss. Such a tool would be useful for both student-instructor interaction, and collaborative learning by students. <a href=\"http://triton.towson.edu/~dierbach/RemoteViewer/Main.htm\">http://triton.towson.edu/~dierbach/RemoteViewer/Main.htm</a>"
+
+- title: Projects in Wireless and Ad-Hoc Network Simulation
+  year: 2004
+  authors:
+    - name: Chris McDonald
+      affiliation: University of Western Australia
+  award: "$2,700"
+  date: "May 2004"
+  description: This project will extend the existing cnet networking simulator to support the exciting new areas of mobile and ad-hoc networks through the addition of wireless Ethernet and Bluetooth communication links. New laboratory and project exercises, examining table-driven and on-demand protocols, will also be developed.
+
+- title: "Towards the development of \"best practices\" for teaching information assurance courses"
+  year: 2004
+  authors:
+    - name: Rose Shumba
+      email: shumba@iup.edu
+      affiliation: Indiana University of Pennsylvania
+  award: "$2,853"
+  date: "July 2004"
+  description: "The aim of this project is to provide some groundwork towards the development of \"best practices\" for the teaching of information assurance courses. This will be achieved by the evaluation of the effectiveness of available CERT recommended security tools, developing hands-on laboratory exercises for the tools and then integrating the developed hands- on lab exercises and the theories and principles of information assurance courses. A student will be hired to assist with the project."
+
+- title: "A visualization system to support software development comprehension: evaluation"
+  year: 2004
+  authors:
+    - name: Charles Boisvert
+      email: cboisver@ccn.ac.uk
+      affiliation: City College Norwich, UK
+  award: "$4896"
+  date: "August 2004"
+  description: eL-CID supports students' understanding of program development by visualising development history. This project aims to evaluate eL-CID with introductory programming students in a classroom setting. I will build a set of teaching examples and carry out a questionnaire evaluation, analyze forum transcripts and if conditions allow run a crossover study.
+
+- title: Designing and Evaluating Programs in Computer Science Education
+  year: 2004
+  authors:
+    - name: Justus Randolph
+      email: justusrandolph@yahoo.com
+      affiliation: University of Joensuu, Finland
+  award: "$4,750"
+  date: "August 2004"
+  description: A research project to develop best practices in designing and evaluating programs in CS education is proposed. Research activities will include a systematic review of CSE programs and confirm tory case studies of the design and evaluation process of three CSE programs
+
+- title: A Course on Ethical Issues in Computing Linking Students at Villanova University and Universidade Nova de Lisboa
+  year: 2004
+  authors:
+    - name: William Fleischman
+      email: william.fleischman@villanova.edu
+      affiliation: Villanova University and Universidade Nova de Lisboa
+  award: "$3,400"
+  date: "December 2004"
+  description: This project will support development of course materials and implementation of interactive videoconference sessions linking undergraduate students at Villanova University and Universidade Nova de Lisboa in discussions of ethical issues in computing. The project is seen as a means of broadening the perspectives of students at both institutions
+
+
+- title: "Programming External RAM via a PC Parallel Port"
+  year: 2005
+  authors:
+    - name: David Heise
+      email: dheise@ccis.edu
+      affiliation: Columbia College
+  award: "$2,000"
+  date: "March 2005"
+  description: "This project will create the hardware and software tools for Computer Architecture students to load programs onto the processor they construct for the course from a PC parallel port, obviating the tedious process of programming machine code using switches."
+
+- title: "Software Architecture Improvement through Test-driven Development: An Empirical Study"
+  year: 2005
+  authors:
+    - name: David Janzen
+      email: DJANZEN@bethelks.edu
+      affiliation: Bethel College
+  award: "$4,635"
+  date: "May 2005"
+  description: "Test-driven development promises to improves software through both design and testing. This project will perform a series of empirical studies that will examine the efficacy of test-driven development, explore its place in the undergraduate curriculum, and evaluate an educational approach called test-driven learning."
+
+- title: "Training to Persist in Computing Careers"
+  year: 2005
+  authors:
+    - name: Kristi Honaker
+      email: pace_nsf@vt.edu
+      affiliation: Virginia Polytechnic Institute and State University
+  award: "$4,900"
+  date: "July 2005"
+  description: "We will develop a Career Resilience toolkit and training module designed to help students cope with computing career stressors. The project's ultimate goal is to retain minority computing students by encouraging the development of soft skills and coping strategies. The toolkit will include step-by-step modules SIGCSE members can facilitate."
+
+- title: "A Course on Ethical Issues in Computing Linking Students at Villanova University and Universidade Nova de Lisboa"
+  year: 2005
+  authors:
+    - name: William Fleishmann
+      email: william.fleischman@villanova.edu
+  date: "August 2005"
+
+- title: "Designing and Evaluating Programs in Computer Science Education"
+  year: 2005
+  authors:
+    - name: Justus Randolph
+      email: justus.randolph@cs.joensuu.fi
+  date: "August 2005"
+
+- title: "Creating a Disciplinary Commons in Computer Science Through the use of Course Portfolios"
+  year: 2005
+  authors:
+    - name: Josh Tenenberg
+      email: jtenenbg@u.washington.edu
+      affiliation: University of Washington, Tacoma
+  award: "$4,990"
+  date: "August 2005"
+  description: "The Portfolio Commons involves the collaborative production and peer review of course portfolios by faculty teaching at both 2-year and 4-year colleges and universities in western Washington state. The goals are to document and share knowledge about student learning in CS and to improve the quality of CS teaching by incorporating scholarly practices for making teaching public, peer-reviewed, and amenable for future use and development by other CS educators."
+
+- title: "Seeing the Coding Process: Increasing Novice program Development Skills through Video Enhanced Case Studies"
+  year: 2005
+  authors:
+    - name: Simon Gray
+      email: SGRAY@wooster.edu
+  date: "November 2005"
+
+- title: "Creating a SIGCSE Presence in the Former Soviet Union"
+  year: 2005
+  authors:
+    - name: John Impagliazzo
+      email: John.Impagliazzo@hofstra.edu
+  date: "November 2005"
+
+- title: "First International Workshop on Phenomography in Computing Education Research"
+  year: 2005
+  authors:
+    - name: Raymond Lister
+      email: raymond@it.uts.edu.au
+      affiliation: Anders Berglund
+  date: "November 2005"
+
+- title: "Knowledge Construction of Abstract Concepts in Introductory Computer Science"
+  year: 2005
+  authors:
+    - name: Tim Yuen
+      email: tyuen@mail.utexas.edu
+  date: "November 2005"
+
+- title: "A Methodological Review of Computer Science Research 2000 - 2005"
+  year: 2005
+  authors:
+    - name: Justus Randolph
+      email: justus.randolph@cs.joensuu.fi
+  date: "December 2005"
+
+- title: "Accessible Software Engineering for the Visually Impaired (ASEVI)"
+  year: 2005
+  authors:
+    - name: Stephanie Ludi
+      email: salvse@rit.edu
+  date: "December 2005"
+
+
+- title: "Learning Assembly Language with Java Bytecode on Lego Robots"
+  year: 2006
+  authors:
+    - name: Mike Jipping
+      email: jipping@cs.hope.edu
+  date: "February 2006"
+
+- title: "Educating Homo Ludens: Introducing Technology Through Game Design"
+  year: 2006
+  authors:
+    - name: Bruce Maxim
+      email: bmaxim@engin.umd.umich.edu
+    - name: William Grosky
+  date: "April 2006"
+
+- title: "Integrating Security into the Software Development Process"
+  year: 2006
+  authors:
+    - name: Rose Shumba
+      email: shumba@iup.edu
+  date: "April 2006"
+
+- title: "How to Inspire Interests in Mathematics: an Undergraduate Lecture Series"
+  year: 2006
+  authors:
+    - name: Edith Law
+      email: edith.law@mail.mcgill.ca
+  date: "May 2006"
+
+- title: "Facilitating Curriculum Material Adoption using 3D Virtual Collaboration"
+  year: 2006
+  authors:
+    - name: Chang Liu
+      email: liuc@ohio.edu
+    - name: Jennifer Polack
+  date: "May 2006"
+
+- title: "Exploring the value of consultative processes in data analysis in an educational setting"
+  year: 2006
+  authors:
+    - name: Judy Sheard
+      email: judy.sheard@infotech.monash.edu.au
+  date: "November 2006"
+
+- title: "Science Applications for an Introductory Programming Course"
+  year: 2006
+  authors:
+    - name: Chaya Gurwitz
+      email: gurwitz@sci.brooklyn.cuny.edu
+  date: "November 2006"
+
+- title: "Software Engineering Early"
+  year: 2006
+  authors:
+    - name: Cherry Owen
+      email: owen_c@utpb.edu
+  date: "November 2006"
+
+- title: "Plagarism Detection and Research Writing Validation"
+  year: 2007
+  authors:
+    - name: Thomas Way
+      email: thomas.way@villanova.edu
+  date: "May 2007"
+
+- title: "BRACELet: Investigating the link between the reading and writing of code"
+  year: 2007
+  authors:
+    - name: Jacqueline Whalley
+      email: jwhalley@aut.ac.nz
+    - name: Tony Clear
+      email: tclear@aut.ac.nz
+  date: "May 2007"
+
+- title: "Engaging and Interactive Security Education through Second Life"
+  year: 2007
+  authors:
+    - name: Jungwoo Ryoo
+    - name: Dongwon Lee
+    - name: Angsana Techatassannasoontorn
+      email: jxr65@psu.edu
+  date: "May 2007"
+
+- title: "Learning Support for a Security Class Suited for Non-majors"
+  year: 2007
+  authors:
+    - name: Alan Fekete
+      email: fekete@it.usyd.edu.au
+    - name: Judy Kay
+      email: judy@it.usyd.edu.au
+    - name: Robert Kummerfield
+      email: bob@it.usyd.edu.au
+  date: "May 2007"
+
+- title: "Building a multi-perspective digital library to facilitate teaching computing research methods across the curriculum"
+  year: 2007
+  authors:
+    - name: Hilary Holz
+      email: hilary.holz@csueastbay.edu
+    - name: Anne Applin
+  date: "May 2007"
+  files:
+    - file: SP-report-2007-holz.pdf
+      label: Final Report
+
+- title: "Towards Developing a Resource Guide for Student Projects"
+  year: 2007
+  authors:
+    - name: Narayanan T Ramachandran
+      email: narayanan@mecit.edu.om
+  date: "August 2007"
+
+- title: "Problem Solving using Video Scenarios"
+  year: 2007
+  authors:
+    - name: Madalene Spezialetti
+      email: Madalene.spezialetti@trincoll.edu
+  date: "August 2007"
+
+- title: "The \"Plugged-in\" Audience Grows: Podcasts in Instruction in the State of"
+  year: 2007
+  authors:
+    - name: Jane Ritter
+      email: jane@cs.uoregon.edu
+  date: "August 2007"
+
+- title: "A workshop on classifying publications in computing education research"
+  year: 2007
+  authors:
+    - name: Simon
+      email: simon@newcastle.edu.au
+  date: "November 2007"
+
+- title: "The Taulbee Report For the Rest of US"
+  year: 2007
+  authors:
+    - name: Michael Goldweber
+      email: mikeyg@cs.xu.edu
+  date: "November 2007"
+
+- title: "Curriculum Resource Repository for Teaching Computer Security"
+  year: 2008
+  authors:
+    - name: Carol Taylor
+      email: ctaylor4214@comcast.net
+    - name: Tammy Alexander
+      email: tammy.alexander@memphis.edu
+  date: "August 2008"
+
+- title: "Contextualized Approaches to Computing Education"
+  year: 2008
+  authors:
+    - name: Margaret Hamilton
+      email: Margaret.Hamilton@rmit.edu.au
+  date: "August 2008"
+
+- title: "An intelligent tutoring system to assist the learning of relational database schema normalization"
+  year: 2008
+  authors:
+    - name: Feng-Jen Yang
+      email: feng-jen.yang@unt.edu
+  date: "November 2008"
+
+- title: "Scratch clubs: Involving students in school Computer Science"
+  year: 2008
+  authors:
+    - name: Charles Boisvert
+      email: CBOISVER@ccn.ac.uk
+  date: "November 2008"
+
+
+- title: "Enhancing engagement through a modern 'device to think with'"
+  year: 2009
+  authors:
+    - name: David J. Barnes
+      email: d.j.barnes@kent.ac.uk
+    - name: Dermot Shinners-Kennedy
+      email: dermot.shinners-kennedy@ul.ie
+  date: "August 2009"
+
+- title: "Informal Learning of Computing by Computing Students"
+  year: 2009
+  authors:
+    - name: Robert McCartney
+      email: robert@engr.uconn.edu
+  date: "November 2009"
+
+- title: "The Enculturation of Taurus (Taulbee for the Rest of Us)"
+  year: 2010
+  authors:
+    - name: Jodi Tims
+      email: jltims@bw.edu
+    - name: Susan Williams
+      email: rebstock@georgiasouthern.edu
+  award: "$2,400"
+  date: "August 2010"
+  description: The "Taulbee for the Rest of Us" special project was an important first step in providing student and faculty information for institutions that offer computing degrees but are not Ph.D. granting.  This project will modify and expand the survey in a manner that will make it sustainable on a yearly basis.
+
+- title: "Learning About Network Security Threats in a Safe, Easy Sandbox"
+  year: 2011
+  authors:
+    - name: Michael Jipping
+      email: jipping@hope.edu
+  award: "$5,000"
+  date: "November 2011"
+  description: "This proposal describes a project to create exercises that allow demonstration of network security threats.  The exercises will be easy to set up and demonstrate and will be usable to experimentation.  Virtual machines will be preconstructed for scripted setup and execution."
+
+- title: "Robotics Training for Rural and Urban Middle School Teachers"
+  year: 2011
+  authors:
+    - name: Jeff Gray
+      email: gray@cs.ua.edu
+  award: "$2,500"
+  date: "August 2011"
+  description: "We have 30 existing robots that we plan to loan to rural and inner-city schools throughout the state of Alabama. This Special Project would provide the travel to support the weekend training of 15 teachers. Additionally, the project would supply the plaques and awards for our state-wide K-12 robotics contest."
+
+- title: "Teaching HS Computer Science as if the Rest of the World Existed"
+  year: 2011
+  authors:
+    - name: Scott Portnoff
+      email: srp4379@lausd.net
+  award: "$2,500"
+  date: "August 2011"
+  description: "Design, Implementation and Rationale for a HS CS Curriculum of Interdisciplinary Central-Problem-Based (ICPB) Units that Model Real-World Applications. Units address the complexities of solving central problems in the fields of Astronomy, Molecular Modeling, Political Science (Voting), Environmental Science, Bioinformatics/Evolution, Music, and Ethics/Holocaust Studies."
+
+- title: "Managing Student Deliverables in a Collaborative Online Game Design Course"
+  year: 2011
+  authors:
+    - name: Ursula Wolz
+      email: wolzu@montclair.edu
+  award: "$2,500"
+  date: "August 2011"
+  description: "Game design is a means to motivate students to pursue coursework in computer science. Since teacher expertise is sparse, a solution is to create online courses. This project pilots effective transfer of a highly collaborative pedagogy with a paper-based student deliverables procedure to a fully online experience."
+
+- title: "Keystrokes: A System for Capturing Textual Development in Video-Based Learning"
+  year: 2012
+  authors:
+    - name: Chris Johnson
+      email: johnch@uwec.edu
+  award: "$5,000"
+  date: "November 2012"
+  description: "With the rise of video-based learning, instructors who use live-coding to teach face a challenge: source code in videos is hard to read and locked up in pixels. We propose Keystrokes, a software suite for capturing and playing back \"text movies,\" whose contents students may freely interact with and repurpose."
+
+- title: "Enhancing an Interactive Textbook with Community Moderated Exercises"
+  year: 2012
+  authors:
+    - name: Brad Miller
+      email: millbr02@luther.edu
+    - name: David Ranum
+  award: "$4,000"
+  date: "November 2012"
+  description: Runestone Interactive is a project focusing on providing tools and content for the purpose of creating interactive computer science courseware. This new project will add an enhancement that allows community moderated programming exercises. Students will be able to submit, vote, rank, and critique solutions to problems that are part of the interactive text.
+
+- title: "Computing Attitudes Survey (CAS) Validation Project"
+  year: 2012
+  authors:
+    - name: Allison Elliot Tew
+      email: aetew@u.washington.edu
+    - name: Brian Dorn
+      email: bdorn@hartford.edu
+  award: "$5,000"
+  date: "November 2012"
+  description: The goal of the CAS Validation Project is to develop a valid instrument for measuring the development of expert-like attitudes about CS for university students. Building upon success in validating the instrument locally, we will conduct a large-scale empirical study and interviews so the instrument can be made widely available.
+
+- title: "Pythy--a Cloud-Based IDE for Novice Python Programmers"
+  year: 2012
+  authors:
+    - name: Anthony Allevato
+      email: allevato@vt.edu
+    - name: Stephen Edwards
+      email: edwards@cs.vt.edu
+  award: "$3,360"
+  date: "May 2012"
+  description: Pythy is a web-based programming environment for Python that eliminates software-related barriers to entry for novice programmers, such as installing an IDE or the Python runtime. Using only a web browser, within seconds students can begin writing code, watch it run, and access support materials and tutorials.
+  
+- title: "A Computer Security Card Game: A Vehicle for Computer Security Outreach and Education"
+  year: 2012
+  authors:
+    - name: Tamara Denning
+      email: tdenning@cs.washington.edu
+  award: "$5,000"
+  date: "May 2012"
+  description: We are developing an educational computer security card game, designed for cooperative learning amongst 3 to 6 players. The game is designed to raise awareness and improve understanding of key issues in computer security. Players play hackers (in the traditional, ethical sense) and learn about computer security while completing Missions.
+
+- title: "CloudCoder: Using Crowdsourced Programming Exercises to Improve Student Learning in CS1"
+  year: 2012
+  authors:
+    - name: David Hovemeyer
+      email: dhovemey@ycp.edu
+    - name: Jaime Spacco
+      email: jspacco@knox.edu
+  award: "$4,000"
+  date: "May 2012"
+  description: Short programming exercises are useful for assessment and skills reinforcement in introductory CS courses. However, developing good exercises is difficult. By adding exercise sharing features to the open source CloudCoder system, we will make it easier for instructors to share, assess, and improve exercises, benefiting the overall CS education community.
+
+- title: "Supporting a Research Community Around Web-Scale Data Gathering"
+  year: 2012
+  authors:
+    - name: Ian Utting
+      email: I.A.Utting@kent.ac.uk
+    - name: Michael Kölling
+  award: "$5,000"
+  date: "May 2012"
+  description: Support for the creation of a large-scale repository of data about the behaviour of beginning programmers using the BlueJ Java IDE, and providing access to the data for CS Education Researchers world-wide. Construction and support of a community around the data.
+
+- title: "Curriculum-In-A-Box (2013)"
+  year: 2013
+  authors:
+    - name: Jandelyn Plane
+      email: jplane@cs.umd.edu
+    - name: Elissa Redmiles
+      email: eredmiles@cs.umd.edu
+  award: "$5,000 US"
+  date: "December 2013"
+  description: "The Maryland Center for Women in Computing is committed to improving gender diversity for current and future generations of computer scientists through retention, research, and outreach programs.  Curriculum-In-A-Box is a series of hands-on curriculum modules, video lectures and mentorship resources that will be created and made available for free download to assist K-12 educators, parents and other universities."
+
+- title: "Opening CS Circles: A Platform for Interactive Lessons and Exercises"
+  year: 2013
+  files:
+    - file: https://dl.acm.org/citation.cfm?doid=2676723.2691910
+      label: Publication from project
+    - file: http://ints.io/daveagp/research/2015/cscircles-poster.pdf
+      label: Project poster
+  authors:
+    - name: David Pritchard
+      email: dp6@princeton.edu
+    - name: Sandy Graham
+      email: sandy.graham@uwaterloo.ca
+    - name: Troy Vasiga
+      email: tmjvasiga@uwaterloo.ca
+  award: "$5,000"
+  date: "May 2013"
+  description: "\"Computer Science Circles\" (<a href=\"http://cscircles.cemc.uwaterloo.ca/\">http://cscircles.cemc.uwaterloo.ca/</a>) teaches introductory Python. We will release it as an open source WordPress plugin, and share all current lessons and exercises under a Creative Commons license. We will also allow users to author, share and remix content, so teachers can build custom courses to suit their needs."
+
+- title: "Creating a Polished CS Education Zoo to Share CS Educators' Ideas"
+  year: 2014
+  files:
+    - file: SP-report-2014-wolfman.pdf
+      label: Final project report
+  authors:
+    - name: Steven Wolfman
+      email: wolf@cs.ubc.ca
+    - name: William Byrd
+      email: webyrd@gmail.com
+  award: "$2700"
+  date: "December 2014"
+  description: "The CS Education Zoo is an ongoing series of hour-long video blogs led by Will Byrd and Steven Wolfman in which the hosts discuss CS Education with guests from various positions and backgrounds. Guests include university CS educators in various positions, Computer Scientists in industry positions with particular insight on CS education, CS education researchers, and non-traditional CS educators. The show's goals include spreading best CS education practices, inspiring educators to try innovative practices, sharing viewpoints with educators that they would rarely receive, and exposing the often private practice of teaching. The project will yield an improved, sustainable web and social media presence; sixteen polished episodes that are easy to view, search, and share; and an ongoing positive impact on dissemination of ideas in CS education."
+
+- title: "Adapting Computer Science Education to the Internet Age"
+  year: 2014
+  files:
+    - file: SP-report-2014-kolikant.pdf
+      label: Final project report
+  authors:
+    - name: Yifat Kolikant
+      email: yifat.kolikant@mail.huji.ac.il
+    - name: Sally Fincher
+      email: S.A.Fincher@kent.ac.uk
+    - name: Josh Tenenberg
+      email: jtenenbg@uw.edu
+  award: "$3650"
+  date: "December 2014"
+  description: "Based on the premise that people live surrounded by information, resources, experiences, and knowledge shared through the Internet, this research project explores how the reality of person-plus-crowd is reflected in the practices, values, and capabilities of professional programmers, students, and teachers.  The results of this project will be used to address the important pedagogical questions of how CS education should change given this reality, as well as what and how students should be taught to better prepare them for this aspect of their professional lives outside school."
+
+- title: "Assessing the Potential of Evolved Parsons Puzzles as Compared to Their Instructor-designed Counterparts"
+  year: 2014
+  files:
+    - file: SP-report-2014-gaspar.pdf
+      label: Final project report
+  authors:
+    - name: Alessio Gaspar
+      email: alessio@usf.edu
+    - name: Amruth Kumar
+      email: amruth@ramapo.edu
+  award: "$3650"
+  date: "December 2014"
+  description: "This project extends the Problets programming tutor to handle both instructor-designed and autonomously evolved Parsons Puzzles. Parsons Puzzles present students with shuffled fragments of a valid program’s source, its requirements, and bugged fragments – “distractors”.  They require students to select appropriate fragments to reconstitute the original program.  The extended Problets programming tutor will be used to conduct a comparative study of both instructor-designed problems and automatically generated problems."
+
+- title: "Creating Successful Computing Clubs in NJ Middle and Elementary Schools"
+  year: 2014
+  files:
+    - file: SP-report-2014-trees.pdf
+      label: Final project report
+  authors:
+    - name: Frances P. Trees
+      email: fran.trees@cs.rutgers.edu
+  award: "$4,300"
+  date: "May 2014"
+  description: "This project will provide professional development to 20 middle school and elementary school teachers in the area of computing concepts with the goals of having these teachers initiate a computer club or integrate computing concepts in their current curriculum. Professional development and ongoing support and mentoring will be provided. The ultimate goal is to involve these teachers in the creation a Computer Club Guidebook to present to NJ State Department of Education for implementation in other schools statewide.  The Computer Club Guidebook will be available to others seeking to establish similar clubs."
+
+- title: "Evolving the Introductory Computing Sequence to be CSG-Ed Focused"
+  year: 2014
+  authors:
+    - name: Michael Goldweber
+      email: mikeyg@cs.xu.edu
+  award: "$5,000"
+  date: "May 2014"
+  description: "Computing curricula, particularly the introductory sequence, often reinforce student misconceptions regarding the discipline. Computer Science educational activities for the social good (CSG-Ed), is a term meant to incorporate any educational activity that endeavors to convey and reinforce computing's social relevance and potential for positive societal impact. This project will evolve the computing curricula at five of New Zealand's leading institutions to be significantly more CSG-Ed infused, particularly at the introductory level."
+
+
+- title: "Git for People Who Actually Want to Learn Git"
+  year: 2015
+  files:
+    - file: SP-report-2015-musicant.pdf
+      label: Final project report
+  authors:
+    - name: David Musicant
+      affiliation: Carleton College
+      email: dmusican@carleton.edu
+  award: "$4,737"
+  date: "November 2015"
+  description: "The version control system Git (<a href=\"https://git-scm.com/\">https://git-scm.com/</a>) has become popular for developers who track and share code.  Accordingly, Git has been making its way into computer science classrooms as well. Students are often challenged by the complexity of using Git.  This project will result in a new Git client, Elegit.  Elegit will provide a subset of Git commands and will help students understand Git’s organizational structure at a deep level.  Elegit will also support features necessary to for instructors to organize projects and submissions."
+
+- title: "Supporting Education Using a Public Oracle of Vulnerable Mobile Apps"
+  year: 2015
+  files:
+    - file: SP-report-2015-krutz.pdf
+      label: Final project report
+  authors:
+    - name: Daniel Krutz
+      affiliation: Rochester Institute of Technology
+      email: dxkvse@rit.edu
+  award: "$2,400"
+  date: "November 2015"
+  description: "Dr. Krutz will create a publicly accessible oracle of mobile apps which contains well defined vulnerabilities, information about the vulnerabilities, and steps on how to exploit each vulnerability to demonstrate its negative ramifications. He will also provide steps to repair each vulnerability and the process to demonstrate the vulnerability has been repaired. This project will result in an oracle which can be used for educational activities at other institutions in a variety of mobile and security related courses."
+
+- title: "Development of a Software Engineering Process Improvement Game"
+  year: 2015
+  files:
+    - file: SP-report-2015-maxim.pdf
+      label: Final project report
+  authors:
+    - name: Bruce Maxim
+      affiliation: University of Michigan-Dearborn
+      email: bmaxim@umich.edu
+  award: "$3,200"
+  date: "November 2015"
+  description: Serious games are gaining popularity as a means of instruction in higher education. Dr. Maxim will create a serious game that allows students to create agile process models and to experiment with process improvement practices.  As a result of playing the game, students will discover the importance of engineering process improvement activities through the creation of virtual software products.  The game tutorial level can be used as a lab activity and will provide motivation for studying software quality.  Software engineering students will also use this game to gain practical project management experience.
+
+- title: "OnRamp: An Interactive Learning Portal for Parallel Computing Environments"
+  year: 2015
+  files:
+    - file: SP-report-2015-foley.pdf
+      label: Final project report
+  authors:
+    - name: Samantha Foley
+      affiliation: University of Wisconsin-La Crosse
+      email: sfoley@uwlax.edu
+    - name: Joshua Hursey
+      affiliation: University of Wisconsin-La Crosse
+      email: jhursey@uwlax.edu
+  award: "$3,777"
+  date: "May 2015"
+  description: OnRamp to Parallel Computing, will provide a web-based portal designed to coach users through the often unfamiliar and complex system software, programming interfaces, and tools to roll out parallel computing environments.  Interactive tutorials will teach faculty and students about the software ecosystem and parallel computing while allowing them to launch parallel applications from day one.  As users become more comfortable with running parallel applications in parallel computing environments, the OnRamp portal will transform into a reference guide.
+
+- title: "Low-cost Adaptation of Lego Serious Play to Teach Software Engineering"
+  year: 2015
+  files:
+    - file: SP-report-2015-kurkovsky.pdf
+      label: Final project report
+  authors:
+    - name: Stanislav Kurkovsky
+      affiliation: Central Connecticut State University
+      email: kurkovsky@ccsu.edu
+  award: "$4,500"
+  date: "May 2015"
+  description: Dr. Stanislav Kurkovsky will adapt the principles of Lego Serious Play for easy and cost-effective application in software engineering and related courses to promote active learning, boost creativity, and improve student engagement with the course material.  Low cost Lego alternatives will be investigated.  New and existing software engineering case studies will be tested with the alternative Lego set.  Resulting curricular materials will be posted online, accompanied by detailed scripts, worksheets, grading rubrics, timing guidelines, practical tips and photos.  Workshops will be offered to train faculty interesting in adopting these materials.
+
+- title: "Making Block Languages Accessible"
+  year: 2016
+  files:
+    - file: SP-report-2016-ladner.pdf
+      label: Final Report
+  authors:
+    - name: "Richard E. Ladner"
+      affiliation: University of Washington
+      email: ladner@cs.washington.edu
+  award: "$4,064"
+  date: "May 2016"
+  description: "Block languages such as Scratch, Snap!, Alice, Blockly, App Inventor, ScratchJr, and others, have opened up programming and problem solving to millions of children worldwide.  This project will make block languages accessible to blind children so they can have the same opportunities as their sighted peers. Most blind children in the US are already familiar with smartphones and tablets including the gestures used to navigate and spatially understand what is on a touchscreen. This project will extend the open source Blockly language by building on touchscreen phone applications."
+
+- title: "The Dawn of Computing: Charles Babbage and the Difference Engine"
+  year: 2016
+  files:
+    - file: SP-report-2016-meysenburg.pdf
+      label: Final Report
+    - file: SP-report-2016-meysenburg-instructors-materials.pdf
+      label: Instructors materials
+    - file: SP-report-2016-meysenburg-instructors-guide.pdf
+      label: Instructors guide
+    - file: SP-report-2016-meysenburg-gamebook.pdf
+      label: Gamebook
+  authors:
+    - name: Mark M. Meysenburg
+      affiliation: Doane University
+      email: mark.meysenburg@doane.edu
+  award: "$3,000"
+  date: "May 2016"
+  description: "Dr. Meysenburg will create a Reacting to the Past role-playing game, \"The Dawn of Computing: Charles Babbage and the Difference Engine,\" regarding British polymath Charles Babbage and his quest to build his difference engine. The game can be used in general-audience first-year seminar courses, to encourage students to study computing.  Reacting to the Past games revolve around debate, with groups of students divided into factions aligned to different sides of the issue at hand.  The central issue at stake in “The Dawn of Computing: Charles Babbage and the Difference Engine” will be whether or not Babbage should be awarded funds from the British government for the development of the difference engine, first in 1823 and then in an ongoing manner. The outcome will be in the hands of the students."
+
+- title: "A Tutoring System for Red Black Trees"
+  year: 2016
+  files:
+    - file: SP-report-2018-liew.pdf
+      label: Final project report
+  authors:
+    - name: Chun Wai Liew
+      affiliation: Lafayette College
+      email: liewc@lafayette.edu
+  award: "$4,387"
+  date: "May 2016"
+  description: A web based tutoring system will be developed to help students learn top-down insertion and deletion algorithms in balanced trees, specifically in red-black trees.  The tutoring system will help students recognize the preconditions for single and double rotation transformations.  The system will allow instructors to provide problems and will automatically generate solution paths.
+
+- title: "Inclusive Apps: Supporting Mobile Accessibility Standards through Educational Exercises"
+  year: 2016
+  files: 
+    - file: SP-report-2017-elglaly.pdf
+      label: Final project report
+  authors:
+    - name: Yasmine N. El-Glaly
+      email: ynevse@rit.edu
+      affiliation: Rochester Institute of Technology
+    - name: Daniel E. Krutz
+      email: dxkvse@rit.edu
+      affiliation: Rochester Institute of Technology
+  award: "$3,800"
+  date: "December 2016"
+  description: Drs. El-Glaly and Krutz will create a publicly accessible oracle of mobile applications which will define problems relating to the accessibility of mobile applications for individuals with disabilities. The oracle will contain a library of well-defined accessibility problems, provide details about the accessibility issues, and demonstrate the difficulties experienced by users with different needs or who are differently abled. The oracle will outline steps to modify each application to make it accessible to users affected by the accessibility issue. The oracle will be available for use at other educational institutions to support software development and accessibility related courses.
+
+- title: "What Exactly Are We Expecting Our Novice Programming Students to Achieve?"
+  year: 2016
+  files:
+    - file: SP-report-2016-becker.pdf
+      label: Final project report
+  authors:
+    - name: Brett A. Becker
+      affiliation: University College Dublin
+      email: brett.becker@ucd.ie
+  award: "$4,700"
+  date: "December 2016"
+  description: "Dr. Brett Becker will collect, categorize and analyze the learning outcome statements of CS1 courses across a large, diverse set of institutions, providing an answer to the question: What exactly are we expecting our novice programming students to achieve? This will allow the CS education community to decide if, as recent evidence has suggested, we have unrealistic expectations of our CS1 students. The outputs of this research will provide a starting point for the CS education community to adjust its expectations of novice programmers, resulting in improvements in failure rates, retention, diversity and equity in CS education.  Upon completion of the project an online repository of CS1 learning outcomes will be available to, and updatable by, the CS education community."
+
+- title: "Computing Educators Oral History Project (CEOHP) Growth - Awardee Interviews and Website Update"
+  year: 2017
+  files:
+    - file: SP-interim-report-2017-almstrum.pdf
+      label: Final Report
+  interim: true
+  authors:
+    - name: Vicki Almstrum
+      email: almstrum@acm.org
+    - name: Barbara Boucher Owens
+      email: owensb@southwestern.edu
+  award:  "$5,000"
+  date: "May 2017"
+  description: "Drs. Almstrum and Owens plan to extend the collection of oral interviews documenting the history of computing educators.  This project will increase the number of interviews with winners of the SIGCSE Outstanding Contribution to Computer Science Education Award and the SIGCSE Lifetime Service Award, with an emphasis on those who live in countries other than the United States.  In addition, the project will entail a significant reworking of the CEOHP website which serves as a repository for the oral interviews."
+
+
+- title: Understanding Movement
+  year: 2017
+  authors:
+    - name: Amber Wagner
+      affiliation: Birmingham-Southern College
+      email: ankwagner@gmail.com
+  award: "$1,060"
+  date: "May 2017"
+  description: "Dr. Wagner will develop a project-based course for novice computer science students intended to demonstrate the relevance of computing.  Inspired by ESPN’s Sport Science, students will combine physiology with computer science to build wearable devices to measure the force or speed of various movements.  Assignments will be designed to use the Arduino 101 to collect and analyze movement data.  For the final project, students will first determine the types of movements they wish to measure, and then they will build their wearables.  With the help of an athletic trainer, they will assemble an analysis of the data to summarize the force and/or speed of the movements.  A detailed curriculum guide will be published for use by other educators."
+
+- title: Active Learning Materials for Computer Architecture and Organization
+  year: 2017
+  files:
+    - file: SP-report-2017-myers.pdf
+      label: Final Report
+  interim: false
+  authors:
+    - name: Brandon Myers
+      affiliation: University of Iowa
+      email: brandon-d-myers@uiowa.edu
+  award: "$5,000"
+  date: "May 2017"
+  description: "Dr. Myers will develop eight Process-Oriented Guided Inquiry Learning (POGIL) activities for use in Computer Organization and Architecture classes.  Exercises will be based on the learning outcomes defined in the 2013 ACM/IEEE Computer Science Curriculum Guidelines. POGIL is based on a theory of instruction which includes the learning cycle of exploration, term introduction, and application.  The activities will be available to other instructors via cspogil.org."
+
+
+- title: An Analysis and Interpretation Framework for Student Engagement Benchmarking Data
+  year: 2017
+  files:
+    - file: SP-report-2017-morgan.pdf
+      label: Final Report
+  authors:
+    - name: Michael Morgan
+      affiliation: "Monash University, AUS"
+      email: michael.morgan@monash.edu
+    - name: Matthew Butler
+      affiliation: "Monash University, AUS"
+      email: Matthew.Butler@monash.edu
+    - name: Jane Sinclair
+      affiliation: "Monash University, AUS"
+      email: J.E.Sinclair@warwick.ac.uk
+    - name: Chris Gonsalvez
+      affiliation: "Monash University, AUS"
+      email: Chris.Gonsalvez@monash.edu
+  award: "$4,800"
+  date: "November 2017"
+  description: "This project will provide a framework for analyzing benchmark data to improve student engagement in Computer Science.  Currently there is no widely used systematic process to evaluate and interpret student engagement data. This project will develop an analysis framework which Computer Science departments can apply to their own data sets.  Dr. Morgan’s team will analyze the data set for the Australian Student Experience Survey from 2012 to 2016, comparing the performance of Monash University Computer Science courses against the performance of Computer Science courses at other universities in Australia. Results will be interpreted through the lens of relevant student engagement literature. By performing this analysis, the project aims to provide other Computer Science educators with a framework for the analysis of benchmarking data such as the North American National Survey of Student Engagement, the United Kingdom Engagement Survey and similar instruments."
+
+- title: "CQDR - Clicker Question Data Repository"
+  year: 2017
+  authors:
+    - name: Jaime Spacco
+      email: jspacco@knox.edu
+      affiliation: "Knox College, USA"
+  award: "$4,000"
+  date: "November 2017"
+  description: "Dr. Spacco will expand and improve an online repository of clicker questions that have been used in courses using Peer Instruction.  An existing website (peerinstruction4cs.org) has complete slide decks for multiple courses containing clicker questions.  This project will result in the addition of information about the questions themselves including what percent of students answered the question correctly on the first and second votes; whether the question is an identical or modified version of a question used in a previous iteration of the course; whether a question was adopted from another instructor, and if so, whether it is identical or modified; and comments or suggestions from other PI instructors about the question.  The data will help instructors to determine both the difficulty and the relative value of each clicker question.  The repository will be publicly available."
+
+- title: How Do We Teach Debugging?
+  year: 2017
+  files:
+    - file: SP-report-2017-luxton-reilly.pdf
+      label: Final Report
+  authors:
+    - name: Andrew Luxton-Reilly
+      email: andrew@cs.auckland.ac.nz
+      affiliation: "University of Auckland, NZ"
+    - name: Ewan Tempero
+      email: e.tempero@auckland.ac.nz
+      affiliation: "University of Auckland, NZ"
+  award: "$4,850"
+  date: "November 2017"
+  description: "Drs. Luxton-Reilly and Tempero will address the difficulties of teaching and learning debugging by undertaking a detailed study of existing resources. They will analyze debugging materials included in introductory textbooks after creating a taxonomy for analysis. After a rigorous search for online materials that teach debugging strategies, the authors will create an online repository.  The repository will make it easier for instructors to locate appropriate resources and direct students to them.  In addition, a literature review of research relating to teaching debugging to novices will be published."
+
+- title: CS Identity Development Interview Project
+  year: 2018
+  files:
+    - file: SP-interim-report-2019-kapoor.pdf
+      label: Interim project report
+  authors:
+    - name: Amanpreet Kapoor
+      email: kapooramanpreet@ufl.edu
+      affiliation: University of Florida
+    - name: Christina Gardner-McCune
+      affiliation: University of Florida
+  award: $3,078
+  date: June 2018
+  description: This project focuses on the development of professional identity in computer science students.  Drs. Kapoor and Gardner-McCune will identify ways in which computer science students engage in communities of practice and will measure the amount of time students spend in professional experiences outside the classroom.  The impact of these experiences on the development of professional identity will be explored through a qualitative study.  The results of the study will include profiles of successful students and recommendations for faculty.
+  files:
+    - file: "SP-report-2018-kapoor.pdf"
+      label: Final Report
+
+- title: "Code Control: Developing a Serious Game to Reinforce Introductory Programming Concepts"
+  year: 2018
+  authors: 
+    - name: Devorah Kletenik
+      affiliation: "Brooklyn College, City University of New York"
+      email: kletenik@sci.brooklyn.cuny.edu
+    - name: Deborah Sturm
+      affiliation: "College of Staten Island, City University of New York"
+      email: deborah.sturm@csi.cuny.edu
+  award: $5,000
+  date: June 2018
+  files:
+    - file: SP-interim-report-2018-Kletenik.pdf
+      label: Interim Report
+    - file: SPr-report-2020-Kletenik.pdf
+      label: Final Report
+  description: Drs. Kletenik and Sturm will create a game to introduce programming concepts to undergraduate students.  The game will include a storyline, sound effects, graphics, power-ups and short quiz-like challenges.  It will provide students with an opportunity to practice their programming skills.  The game is intended for a broad audience; gamers and non-gamers, females and underrepresented groups will be consulted during the creation of the game.  In addition, a wide-scale evaluation of the effectiveness of the game will be performed.  The game will be available as a WebGL and will be playable in a browser without downloading or installation.  It will be released under a Free Software license, enabling others to modify the game if so desired.
+
+- title: Developing and Testing Activities Introducing Elementary School Students to Artificial Intelligence
+  year: 2018
+  authors:
+    - name: David Touretzky
+      email: dst@cs.cmu.edu
+      affiliation: Carnegie Mellon University
+  award: $4,440
+  date: June 2018
+  description: Dr. Touretzky will develop hands-on activities designed to introduce elementary school children to artificial intelligence concepts.  Activities will include topics such as computer vision, face and voice recognition, speech generation, navigation and robotics. The project will include twice-weekly instruction for over 300 elementary school children during academic year 2018-2019.   Learning outcomes and student interest in AI will be measured.  In addition, PowerPoint slides and supplementary materials will be developed for the classroom teachers.  Materials will be cataloged in a resource directory supported by the Advancement of Artificial Intelligence (AAAI) and the Computer Science Teachers Association (CSTA).
+
+
+- title: Interactive resources for training CS TAs
+  year: 2018
+  authors:
+    - name: Colleen Lewis
+      affiliation: "Harvey Mudd College, USA"
+    - name: Phillip Conrad
+      affiliation: "University of California, USA"
+  award: $5,000
+  date: November 2018
+  description: A card game to help CS faculty create inclusive classrooms. Extension of existing game. A novel idea.
+
+
+- title: The CS-Ed Podcast
+  year: 2018
+  authors:
+    - name: "Kristin Stephens-Martinez"
+      affiliation: "Duke University, USA"
+  award: $5,000
+  date: November 2018
+  description: 6 podcasts of best practices in computing education.
+  files:
+    - file: "SP-report-2018-Stephens-Martinez.pdf"
+      label: Final Report
+
+- title: Software History Examples
+  year: 2018
+  authors:
+    - name: Kim Tracy
+      affiliation: "Rose-Hulman Institute of Technology, USA"
+  award: $5,000
+  date: November 2018
+  description: Collection and development of important historical software examples to teach the history of software. Novel and interesting from historical perspective. 
+  files:
+    - file: "SP-report-2018-tracy.pdf"
+      label: Final Report
+
+- title: Active Learning Materials for Machine Learning
+  year: 2018
+  authors:
+    - name: Olga Glebova
+      affiliation: "Georgia State University, USA"
+    - name: Pavel Skums
+      affiliation: "Georgia State University, USA"
+  award: $5,000
+  date: November 2018
+  description: The applicants will develop, test and refine 12 sets of active learning materials for Machine Learning (ML) course suited for undergraduate students majoring in Computer Science (CS). Activities will follow POGIL (Process-Oriented Guided Inquiry Learning) methodology.
+
+- title: Developing Physical Manipulatives and Games for Teaching Advanced Data Structures
+  year: 2019
+  authors:
+    - name: Mark Goadrich
+      affiliation: "Hendrix College, USA"
+  award: $4,598
+  date: May 2019
+  description: "This project will develop engaging manipulatives specifically developed for physically demonstrating concepts in advanced data structures. Instructors will be able to use these tools to support lessons on sorting algorithms, binary search trees, heaps, sets, and hash tables."
+  files:
+    - file: SP-report-2019-Goadrich.pdf
+      label: Final report
+
+- title:  "Decoding Doctoral Student Departure: Faculty and Student Perspectives"
+  year: 2019
+  files:
+    - file: SP-report-2019-George.pdf
+      label: Final report
+  authors:
+    - name: Kari George
+      affiliation: "UCLA, USA"
+  award: $3,500
+  date: May 2019
+
+- title: Dive into Systems - A Free Online Textbook for Introductory Computer Systems Topics
+  year: 2019
+  files:
+    - file: SP-report-2019-Matthews.pdf
+      label: Final report
+  authors:
+    - name: Tia Newall
+      affiliation: "Swarthmore College, USA"
+    - name: Suzanne Matthews
+    - name: Kevin C. Webb
+  award: $5,000
+  date: May 2019
+  description: "The purpose of this project is to develop and promote a free online textbook that covers introductory computer systems, architecture and parallel computing."
+
+- title: Developing Ethics Modules for Core CS and DS Courses
+  year: 2019
+  authors:
+    - name: Lori Carter
+      affiliation: Point Loma Nazarene University, USA
+    - name: Catherine Crockett
+    - name: Whitney Featherston
+    - name: Morgan Wheeler
+  award: $2,900
+  date: May 2019
+  description: "Two professors and two students at Point Loma Nazarene University (PLNU) have been working for the last year to create a series of 10-20 minute ethics modules that can be integrated into core Computer Science and Data Science courses. This project is for focus groups to obtain student feedback on the new modules and for subsequent refinement."
+  files:
+    - file: SP-report-2019-Carter.pdf
+      label: Final report
+
+- title: "A 50 year retrospective on academic integrity and computer ethics in CS Education (Special theme “SIGCSE: 50 Years and Beyond”)"
+  year: 2019
+  authors:
+    - name: Nadia Najjar
+      affiliation: "University of North Carolina, Charlotte, USA"
+    - name: Mary Lou Maher
+      affiliation: "University of North Carolina, Charlotte, USA"
+  award: $5,000
+  date: May 2019
+  files:
+    - file: SP-report-2019-Najjar.pdf
+      label: Final report
+
+- title: "The Firsts: Exploring the Intersectional Experiences of Black Women in Computing Who Were First to be Conferred Ph.D.s in Computing/Computer Science at Colleges/Universities"
+  year: 2019
+  authors:
+      - name: Jakita O. Thomas
+        affiliation: "Auburn University, Auburn, Alabama, USA"
+      - name: Yolanda A. Rankin
+        affiliation: "Florida State University, Tallahassee, Florida, USA"
+  award: $5,000
+  date: November 2019
+  description: "To the explore the intersectional experiences of Black Women in Computing who were the first complete a Ph.D. in Computing/Computer Science (C/CS) from their respective institutions (1980’s – present)."
+
+- title: Mastery Learning in Programming Courses
+  year: 2019
+  authors:
+    - name: Matthias Hauswirth
+      affiliation: "Università della Svizzera italiana (USI), Lugano, Switzerland"
+  canceled-award: $5,000
+  date: November 2019
+  description: "(<b>This project was never performed due to interruption the covid pandemic had on our work patterns</b>). We want to plant the seeds for a community of practice on Mastery Learning for Programming Courses, by making our lessons learned and resources available in an easily adoptable way."
+
+- title: "An Online Tool for Easy-to-set-up and Auto-gradable Full Tracing Exercises"
+  year: 2019
+  authors:
+    - name: Wei Jin
+      affiliation: "Georgia Gwinnett College, Lawrenceville, Georgia, USA"
+  award: $5,000
+  date: November 2019
+  description: "We propose a web-based system that allows instructors to set up auto-gradable full tracing exercises easily. We will utilize pythontutor.com, a popular open-source code visualization tool, as the underlying system. The augmented system will help engage students in the learning process by require students to determine which line is executed next and what happens in memory/output before the system demonstrates the step."
+  files:
+    - file: SP-report-2019-Jin.pdf
+      label: Final report
+
+- title: "The Crossroads of Computer Science: Stories of ‘Sideways’ and ‘Hidden’ Computer Scientists"
+  year: 2019
+  authors:
+    - name: Brett Becker
+      affiliation: "University College Dublin, Belfield, Ireland"
+  award: $4,785
+  date: November 2019
+  files:
+    - file: SP-report-2019-Becker.pdf
+      label: Final report
+
+- title: "Developing Coding Instruction Videos for K12 Hearing Impaired Students Using American Sign Language"
+  year: 2019
+  authors:
+    - name: Daniela Marghitu
+      affiliation: "Auburn University, Auburn, Alabama, USA"
+  award: $3,500
+  date: November 2019
+  description: "A number of ambitious projects such as ASLCORE 6 and ASLClear 7 are working on creating American Sign Language (ASL) signs for STEM disciplines. For example, in the computer science domain, ASLCORE has produced signs for concepts such as “Recursion”, “Debugger”, “Linked List” and “Variable”. In this way, computer science jargon is being made accessible to students who are hearing impaired. Drag and Drop coding applications such as MIT’s Scratch 8 are popularly used to teach K-12 students to code. Our project aims to make computer science concepts, using Block-based coding, a more inclusive experience for hearing impaired students."
+
+- title: "Developing criteria for K-12 learning resources in computer science that challenge stereotypes and promote diversity"
+  year: 2020
+  authors:
+    - name: Sue Sentance
+      affiliation: "Raspberry Pi Foundation, Cambridge, UK"
+    - name: Hayley Leonard
+      affiliation: "Raspberry Pi Foundation, Cambridge, UK"
+  description: "This project aims to broaden participation in computing and address the needs of diverse learners in K-12 by developing a set of guidelines for teaching resources that are informed by culturally-responsive pedagogy."
+  date: November 2020
+  files:
+    - file: "SP-report-2020-sentance.pdf"
+      label: Final Report
+
+- title: "Big Ideas of Cryptography"
+  year: 2020
+  authors:
+    - name: Michael Lodi
+      affiliation: "Alma Mater Studiorum - Università di Bologna, Bologna, Italy"
+    - name: Marco Sbaraglia
+      affiliation: "Alma Mater Studiorum - Università di Bologna, Bologna, Italy"
+    - name: Simone Martini
+      affiliation: "Alma Mater Studiorum - Università di Bologna, Bologna, Italy"
+  description: "This project aims to build a “Principles of Cryptography” learning path, specifically designed for secondary school students."
+  date: November 2020
+  files:
+    - file: "SP-report-2020-lodi.pdf"
+      label: Final Report
+
+- title: "Student communication during group projects: Reporting on gender bias language"
+  year: 2020
+  authors:
+    - name: Rita Garcia
+      affiliation: "University of Adelaide, Adelaide, Australia"
+  description: "The goal of this project is to determine whether gender bias occurs during students’ group work communication that might build the barriers that female contributors experience while working on software projects."
+  date: November 2020
+  files:
+    - file: "SP-report-2020-garcia.pdf"
+      label: Final Report
+
+- title: "Teaching Accessibility for Fairness in AI Courses"
+  year: 2021
+  award: "$4,740"
+  authors:
+    - name: Yudong Liu
+      affiliation: Western Washington University
+    - name: Yasmine Elglaly
+      affiliation: Western Washington University
+  date: November 2021
+
+- title: "From Student to Working Computer Science and Software Engineering Professional: Bridging the Gap"
+  year: 2021
+  award: "$4,808"
+  authors:
+      - name: Jacqueline Whalley
+        affiliation: Auckland University of Technology
+      - name: Tony Clear
+        affiliation: Auckland University of Technology
+      - name: Stephen Thorpe
+        affiliation: Auckland University of Technology
+      - name: Ramesh Lal
+        affiliation: Auckland University of Technology
+      - name: Jim Buchan
+        affiliation: Auckland University of Technology
+  date: November 2021
+
+- title: "Integrating Jupyter Notebooks with Runestone Interactive Using Doenet"
+  year: 2021
+  award: "$5,000"
+  authors:
+      - name: Melissa Lynn
+        affiliation: Gustavus Adolphus College
+      - name: Brad Miller
+        affiliation: Gustavus Adolphus College
+      - name: Duane Nykamp
+        affiliation: Gustavus Adolphus College
+  date: November 2021
+
+- title: "In a Woman’s Voice: An Alternative Gamification of The Oregon Trail"
+  year: 2021
+  award: "$500"
+  authors:
+    - name: Stephany Coffman-Wolph
+      affiliation: Ohio Northern University
+    - name: John K. Estell
+      affiliation: Ohio Northern University
+  date: November 2021
+
+- title: "Solve this! Problems of practice teachers face in K-12 CS Education"
+  year: 2021
+  authors:
+    - name: Monica McGill
+      affiliation: CSEdResearch.org
+    - name: Michelle Friend
+      affiliation: University of Nebraska Omaha
+  description: "The goal of this project is to identify and disseminate a robust inventory of the problems of practice that primary and secondary teachers experience when teaching computer science (CS) in order to guide the development of CS education research and professional development support."
+  date: May 2021
+  files:
+    - file: SP-report-2021-McGill.pdf
+      label: Final report
+
+- title: "Telling Our Narratives: Expanding Equity Within Computing Education"
+  year: 2021
+  authors:
+    - name: "Francisco Castro"
+      affiliation: "University of Massachusetts Amherst"
+    - name: "Earl W. Huff Jr"
+      affiliation: "Clemson University"
+    - name: "Gayithri Jayathirtha"
+      affiliation: "University of Pennsylvania"
+    - name: "Yerika Jimenez"
+      affiliation: "University of Florida"
+    - name: "Minji Kong"
+      affiliation: "University of Delaware"
+    - name: "Natalie Araujo Melo"
+      affiliation: "Northwestern University"
+    - name: "Amber Solomon"
+      affiliation: "Georgia Institute of Technology"
+    - name: "Jennifer Tsan"
+      affiliation: "University of Chicago"
+
+  description: "This proposal seeks to elicit and revalue the experiences of members of the CEd community that are often forced to the margins, to unpack what issues of equity they face and their aspirations of a CEd space. In doing so, we aim to render their stories, contributions, and aspirations visible."
+  date: May 2021
+
+- title: "Git Utilities for Instructors and Education Researchers"
+  year: 2021
+  authors:
+    - name: Nasser Giacaman
+      affiliation: "Department of Electrical, Computer, and Software Engineering University of Auckland, Auckland, New Zealand"
+  description: "This project aims to develop a web-based interface to make it easier for staff and students to use GiT repositories for educational purposes.  The web application will allow mass-uploads, email all students, generate statistics and reports to analyse student data."
+  date: May 2021
+
+- title: "Develop Kahoot Interactive Lessons for AP CS Principles"
+  year: 2021
+  authors:
+    - name: Evelyn Zayas
+      affiliation: "Rasmussen University, Melbourne, Florida, USA"
+  description: "This project entails the development of Kahoot interactive lessons that AP CS teachers can assign to students to teach, reinforce, and assess important computer science and programming concepts. These interactive lessons will consist of terminology, a video to explain the concept(s), and checks for understanding in the form of multiple choice, true/false, and puzzle type questions."
+  date: May 2021
+  files:
+    - file: SP-report-2021-Zayas.pdf
+      label: Final report
+
+
+- title: "A participatory approach to integrating machine learning into core subjects: Evidence from in-service teachers"
+  year: 2022
+  authors:
+    - name: Ismaila Sanusi
+      affiliation: University of Massachusetts Lowell, USA
+    - name: Fred Martin
+      affiliation: University of Massachusetts Lowell, USA
+  date: May 2022
+
+- title: "Towards Evidence Based Teaching of Entrepreneurship to Computer Science Students"
+  year: 2022
+  authors:
+    - name: Jonathan Browning
+      affiliation: Queen's University Belfast, United Kingdom
+  date: May 2022
+
+- title: "Recipes for Resistance: A Multi-Modal Podcast Centering Justice, Joy, and Healing"
+  year: 2022
+  authors:
+    - name: Victoria Chávez
+      affiliation: Northwestern University, USA
+    - name: Briana Bettin
+      affiliation: Michigan Tech, USA
+  date: May 2022
+

@@ -1,0 +1,768 @@
+steering:
+- name: Steve Wolfman
+  affiliation: The University of British Columbia (secretary)
+- name: Sarah Heckman
+  affiliation: NC State University, NC
+- name: Leen-Kiat Soh
+  affiliation: University of Nebraska-Lincoln
+- name: Kurt Eiselt
+  affiliation: UC Davis
+- name: Adrienne Decker
+  affiliation: University at Buffalo, NY (SIGCSE board liaison)
+
+next-conference:
+  title: Technical Symposium 2024
+  dates: "20-23 March 2024"
+  location: "Portland, Oregon"
+  url: https://sigcse2024.sigcse.org/
+
+conferences:
+- year: 1970
+  title: 1st SIGCSE TS 1970
+  edition: 1st
+  dates: 16th of November, 1970 
+  location: Houston, TX, USA
+  publication-date: 1970-01-01
+  old-proceedings: "https://doi.org/10.1145/800185.810550"
+  proceedings:
+    - title: "SIGCSE '70: Proceedings of the first SIGCSE Technical Symposium on Education in computer science"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/800185"
+
+- year: 1972
+  title: 2nd SIGCSE TS 1972
+  edition: 2nd
+  location: "St. Louis, MO, USA"
+  venue:  Washington University
+  dates: March 24-25, 1972
+  publication-date: 1972-03-01
+  proceedings:
+    - title: "SIGCSE '72: Proceedings of the second SIGCSE Technical Symposium on Education in computer science"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/800155"
+
+- year: 1973
+  title: 3rd SIGCSE TS 1973
+  edition: 3rd
+  dates: "February 22-23, 1973"
+  venue: "The Ohio State University in conjunction with the Computer Science Conference (CSC)"
+  location: "Columbus, OH, USA"
+  publication-date: 1973-01-01
+  proceedings:
+    - title: "SIGCSE '73: Proceedings of the third SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/800010"
+
+- year: 1974
+  title: 4th SIGCSE TS 1974
+  edition: 4th
+  location: "Detroit, MI, USA"
+  dates: "February 14-15, 1974"
+  publication-date: 1974-01-01
+  proceedings:
+    - title: "SIGCSE '74: Proceedings of the fourth SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/800183"
+
+- year: 1975
+  title: 5th SIGCSE TS 1975
+  edition: 5th
+  dates: February 20-21, 1975
+  location: Washington, D.C., USA
+  publication-date: 1975-01-01
+  proceedings:
+    - title: "SIGCSE '75: Proceedings of the fifth SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/800284"
+
+- year: 1976.1
+  title: SIGCSE TS 1976
+  dates: February 12-13, 1976
+  venue: Disneyland Hotel
+  location: Anaheim, CA, USA
+  proceedings:
+  - title: "SIGCSE '76: Proceedings of the ACM SIGCSE-SIGCUE Technical Symposium on Computer science and education"
+    doi: "https://dl.acm.org/doi/proceedings/10.1145/800107"
+
+- year: 1976.2
+  title: 6th SIGCSE TS 1976
+  edition: 6th
+  venue: Fort Magruder
+  location: Williamsburg, VA, USA
+  publication-date: 1976-09-01
+  proceedings:
+  - title: "SIGCSE '76: Proceedings of the sixth SIGCSE Technical Symposium on Computer Science Education"
+    doi: "https://dl.acm.org/doi/proceedings/10.1145/800144"
+
+- year: 1977.1
+  title: 7th SIGCSE TS 1977
+  edition: 7th
+  dates: February 2-3, 1977
+  venue: Marriott Hotel, jointly with CSC 
+  location: Atlanta, GA, USA
+  publiation-date: 1977-02-02
+  old-proceedings: "https://doi.org/10.1145/382175.803422"
+  chair: Richard H Austing, University of Maryland
+  proceedings:
+  - title: "SIGCSE '77: Proceedings of the seventh SIGCSE Technical Symposium on Computer Science Education"
+    doi: "https://dl.acm.org/doi/proceedings/10.1145/800104"
+
+- year: 1977.2
+  title: 8th SIGCSE TS 1977
+  edition: 8th
+  dates: August 4-5, 1977
+  venue: University of Southwestern Louisiana Conference Center in Lafayette 
+  location: Lafayette, LA, USA
+  publiation-date: 1977-02-02
+  old-proceedings: "https://doi.org/10.1145/382175.803422"
+  chairs: 
+      - name: Della T Bonnette
+        affiliation: University of Louisiana at Lafayette
+      - name: Terry M Walker
+        affiliation: University of Louisiana at Lafayette
+  proceedings:
+  - title: "SIGCSE '77: Proceedings of the eighth SIGCSE Technical Symposium on Computer Science Education"
+    doi: "https://dl.acm.org/doi/proceedings/10.1145/800106"
+
+
+- year: 1978.1
+  title: SIGCSE TS 1978
+  publication-date: 1978-02-23
+  dats: February 23-24
+  location: "Detroit, MI, USA"
+  old-proceedings: "https://doi.org/10.1145/990555.990557"
+  proceedings:
+  - title: "SIGCSE '78: Papers of the SIGCSE/CSA Technical Symposium on Computer Science Education"
+    doi: "https://dl.acm.org/doi/proceedings/10.1145/990555"
+
+- year: 1978.2
+  title: 9th SIGCSE TS 1978
+  edition: 9th
+  publication-date: 1978-08-14
+  dates: August 14-15, 1978
+  venue: Joint with IEEE/Computer Society Education Committee
+  location: "Pittsburgh, PA, USA"
+  old-proceedings: "https://doi.org/10.1145/800130.804224"
+  proceedings:
+  - title: "SIGCSE '78: Proceedings of the ninth SIGCSE Technical Symposium on Computer Science Education"
+    doi: "https://dl.acm.org/doi/proceedings/10.1145/800130"
+
+- year: 1979
+  title: 10th SIGCSE TS 1979
+  edition: 10th
+  location: Dayton, OH, USA
+  dates: Feb 22-23, 1979
+  publication-date: 1979-01-01
+  old-proceedings: "https://doi.org/10.1145/800126.809558"
+  proceedings:
+    - title: "SIGCSE '79: Proceedings of the tenth SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/800126"
+
+- year: 1980
+  title: 11th SIGCSE TS 1980
+  edition: 11th
+  dates: February 14-15, 1980
+  location: "Kansas City, MO, USA"
+  publication-date: 1980-02-14
+  proceedings:
+    - title: "SIGCSE '80: Proceedings of the eleventh SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/800140"
+  old-proceedings: "https://doi.org/10.1145/800140.804599"
+
+- year: 1981
+  title: 12th SIGCSE TS 1981
+  edition: 12th
+  dates: February 26-27, 1981
+  location: "St. Louis, MO, USA"
+  publication-date: 1981-02-26
+  proceedings:
+    - title: "SIGCSE '81: Proceedings of the twelfth SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/800037"
+  old-proceedings: "https://doi.org/10.1145/800037.800956"
+
+- year: 1982
+  title: 13th SIGCSE TS 1982
+  edition: 13th
+  dates: February 11-12, 1982
+  location: "Indianapolis, IN, USA"
+  publication-date: 1982-02-11
+  proceedings:
+    - title: "SIGCSE '82: Proceedings of the thirteenth SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/800066"
+  old-proceedings: "https://doi.org/10.1145/800066.801331"
+
+- year: 1983
+  title: 14th SIGCSE TS 1983
+  edition: 14th
+  location: Orlando, FL, USA
+  dates: February 17-18, 1983
+  publication-date: 1983-02-17
+  proceedings:
+    - title: "SIGCSE '83: Proceedings of the fourteenth SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/800038"
+  old-proceedings: http://dl.acm.org/citation.cfm?id=800038&picked=prox&CFID=49859842&CFTOKEN=46882798
+
+- year: 1984
+  title: 15th SIGCSE TS 1984
+  edition: 15th
+  location: Philadelphia, PA, USA
+  dates: February 16-17, 1984
+  venue: Franklin Plaza Hotel
+  publication-date: 1984-01-01
+  proceedings:
+    - title: "SIGCSE '84: Proceedings of the fifteenth SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/800039"
+  old-proceedings: http://dl.acm.org/citation.cfm?id=800039&picked=prox&CFID=49859842&CFTOKEN=46882798
+
+- year: 1985
+  title: 16th SIGCSE TS 1985
+  edition: 16th
+  location: New Orleans, LA, USA
+  venue: Marriott Hotel
+  dates: March 14-15, 1985
+  comment: alternate-date March 12-14, 1985, from the blog
+  publication-date: 1985-03-01
+  proceedings:
+    - title: "SIGCSE '85: Proceedings of the sixteenth SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/323287"
+  old-proceedings: http://dl.acm.org/citation.cfm?id=323287&picked=prox&CFID=49859842&CFTOKEN=46882798
+
+- year: 1986
+  title: 17th SIGCSE TS 1986
+  edition: 17th
+  location: Cincinnati, OH, USA
+  dates: February 6-7, 1986
+  venue: Clarion Hotel
+  publication-date: 1986-02-02
+  proceedings:
+    - title: "SIGCSE '86: Proceedings of the seventeenth SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/5600"
+  old-proceedings: http://dl.acm.org/citation.cfm?id=5600&picked=prox&CFID=49682586&CFTOKEN=91512291
+
+- year: 1987
+  title: 18th SIGCSE TS 1987
+  edition: 18th
+  location: St. Louis, MO, USA
+  dates: February 19-20, 1987
+  publication-date: 1987-02-01
+  proceedings:
+    - title: "SIGCSE '87: Proceedings of the eighteenth SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/31820"
+  old-proceedings: http://dl.acm.org/citation.cfm?id=31820&picked=prox&CFID=49682586&CFTOKEN=91512291
+
+- year: 1988
+  title: 19th SIGCSE TS 1988
+  edition: 19th
+  location: Atlanta, GA, USA
+  dates: February 25-26, 1988
+  venue: Western Peachtree Plaza
+  publication-date: 1988-02-01
+  proceedings:
+    - title: "SIGCSE '88: Proceedings of the nineteenth SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/52964"
+  old-proceedings: http://dl.acm.org/citation.cfm?id=52964&picked=prox&CFID=49859842&CFTOKEN=46882798
+
+- year: 1989
+  title: 20th SIGCSE TS 1989
+  edition: 20th
+  location: Louisville, KY, USA
+  theme: Racing to the Future
+  dates: February 23-25, 1989
+  comment: alternate dates February 21-23, 1989 from the blog
+  venue: Commonwealth Convention Center and Galt House Hotel
+  publication-date: 1989-02-01
+  proceedings:
+    - title: "SIGCSE '89: Proceedings of the twentieth SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/65293"
+  old-proceedings: http://dl.acm.org/citation.cfm?id=65293&picked=prox&CFID=49859842&CFTOKEN=46882798
+
+- year: 1990
+  title: 21st SIGCSE TS 1990
+  edition: 21st
+  location: Washington, DC, USA
+  theme: From Generation to Generation
+  dates: February 22-23, 1990
+  attendance: 756
+  publication-date: 1990-02-01
+  proceedings:
+    - title: "SIGCSE '90: Proceedings of the twenty-first SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/323410"
+  old-proceedings: http://dl.acm.org/citation.cfm?id=323410&picked=prox&CFID=49859842&CFTOKEN=46882798
+
+- year: 1991
+  title: 22nd SIGCSE TS 1991
+  edition: 22nd
+  location: San Antonio, TX, USA
+  theme: "Education, Research, Industry: Keep the Information Flowing"
+  dates: March 7-8, 1991
+  venue: San Antonio Convention Center
+  attendance: 734
+  publication-date: 1991-03-01
+  proceedings:
+    - title: "SIGCSE '91: Proceedings of the twenty-second SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/107004"
+  old-proceedings: http://dl.acm.org/citation.cfm?id=107004&picked=prox&CFID=49859842&CFTOKEN=46882798
+
+- year: 1992
+  title: 23rd SIGCSE TS 1992
+  edition: 23rd
+  location: Kansas City, MO, USA
+  theme: Networking for Knowledge
+  dates: March 5-6, 1992
+  attendance: 702
+  publication-date: 1992-03-01
+  proceedings:
+    - title: "SIGCSE '92: Proceedings of the twenty-third SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/134510"
+  old-proceedings: http://dl.acm.org/citation.cfm?id=134510&picked=prox&CFID=49859842&CFTOKEN=46882798
+
+- year: 1993
+  title: 24thSIGCSE TS 1993
+  edition: 24th
+  location: Indianapolis, IN, USA
+  dates: February 18-19, 1993
+  venue: Indianapolis Convention Center
+  publication-date: 1993-04-01
+  proceedings:
+    - title: "SIGCSE '93: Proceedings of the twenty-fourth SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/169070"
+  old-proceedings: https://dl.acm.org/citation.cfm?id=169070&picked=prox
+
+- year: 1994
+  title: 25th SIGCSE TS 1994
+  edition: 25th
+  location: Phoenix, AZ, USA
+  dates: March 10-12, 1994
+  venue: Phoenix Convention Center
+  publication-date: 1994-03-12
+  proceedings:
+    - title: "SIGCSE '94: Proceedings of the twenty-fifth SIGCSE symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/191029"
+  old-proceedings: https://dl.acm.org/citation.cfm?id=191029&picked=prox
+
+- year: 1995
+  title: 26th SIGCSE TS 1995
+  edition: 26th
+  location: Nashville, TN, USA
+  dates: March 2-4, 1995
+  publication-date: 1995-03-15
+  proceedings:
+    - title: "SIGCSE '95: Proceedings of the twenty-sixth SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/199688"
+  old-proceedings: https://dl.acm.org/citation.cfm?id=199688&picked=prox
+  proceedings-cover: SIGCSE95.jpg
+
+- year: 1996
+  title: 27th SIGCSE TS 1996
+  edition: 27th
+  location: Philadelphia, PA, USA
+  dates: February 15-18,1996
+  attendance: 795
+  publication-date: 1996-03-01
+  proceedings:
+    - title: "SIGCSE '96: Proceedings of the twenty-seventh SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/236452"
+  old-proceedings: https://dl.acm.org/citation.cfm?id=236452&picked=prox
+
+- year: 1997
+  title: 28th SIGCSE TS 1997
+  edition: 28th
+  location: San Jose, CA, USA
+  dates: February 27 - March 1, 1997
+  attendance: 630
+  publication-date: 1997-03-01
+  proceedings:
+    - title: "SIGCSE '97: Proceedings of the twenty-eighth SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/268084"
+  old-proceedings: https://dl.acm.org/citation.cfm?id=268084&picked=prox
+  proceedings-cover: SIGCSE97.jpg
+
+- year: 1998
+  title: 29th SIGCSE TS 1998
+  edition: 29th
+  location: Atlanta, Gayler, USA
+  dates: February 25 - March 1, 1998
+  attendance: 901
+  publication-date: 1998-03-01
+  proceedings:
+    - title: "SIGCSE '98: Proceedings of the twenty-ninth SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/273133"
+  old-proceedings: https://dl.acm.org/citation.cfm?id=273133&picked=prox
+
+- year: 1999
+  title: 30th SIGCSE TS 1999
+  edition: 30th
+  location: New Orleans, LA, USA
+  dates: March 24-28, 1999
+  attendance: 925
+  publication-date: 1999-03-24
+  proceedings:
+    - title: "SIGCSE '99: The Proceedings of the thirtieth SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/299649"
+  old-proceedings: https://dl.acm.org/citation.cfm?id=299649&picked=prox
+  proceedings-cover: SIGCSE99.jpg
+
+- year: 2000
+  title: 31st SIGCSE TS 2000
+  edition: 31st
+  location: Austin, TX, USA
+  dates: March 8-12, 2000
+  attendance: 869
+  old-proceedings: https://dl.acm.org/citation.cfm?id=330908&picked=prox
+  website: http://www.cs.grinnell.edu/~sigcse/2000/
+  other: http://www.csc.villanova.edu/sigcse2000/
+  publication-date: 2000-05-01
+  proceedings:
+    - title: "SIGCSE '00: Proceedings of the thirty-first SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/330908"
+  acceptance: 35%
+  proceedings-cover: SIGCSE00.jpg
+
+- year: 2001
+  title: 32nd SIGCSE TS 2001
+  edition: 32nd
+  location: Charlotte, NC, USA
+  dates: February 21-25, 2001
+  attendance: 993
+  old-proceedings: https://dl.acm.org/citation.cfm?id=364447&picked=prox
+  website: http://www.cs.grinnell.edu/~sigcse/2001/
+  publication-date: 2001-02-01
+  proceedings:
+    - title: "SIGCSE '01: Proceedings of the thirty-second SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/364447"
+  acceptance: 35%
+  proceedings-cover: SIGCSE01.jpg
+
+- year: 2002
+  title: 33rd SIGCSE TS 2002
+  edition: 33rd
+  location: Cincinnati, KY, USA
+  dates: February 27 - March 3, 2002
+  attendance: 1110
+  old-proceedings: https://dl.acm.org/citation.cfm?id=563340&picked=prox
+  comments: was offline last we checked http://www.math.grin.edu/~sigcse/2002/
+  publication-date: 2002-02-27
+  proceedings:
+    - title: "SIGCSE '02: Proceedings of the 33rd SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/563340"
+  acceptance: 31%
+
+- year: 2003
+  title: 34th SIGCSE TS 2003
+  edition: 34th
+  location: Reno, NV, USA
+  dates: February 19-23, 2003
+  venue: Reno Hilton
+  attendance: 1003
+  old-proceedings: https://dl.acm.org/citation.cfm?id=611892&picked=prox
+  publication-date: 2003-02-19
+  proceedings:
+    - title: "SIGCSE '03: Proceedings of the 34th SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/611892"
+
+- year: 2004
+  title: 35th SIGCSE TS 2004
+  edition: 35th
+  location: Norfolk, VA, USA
+  dates: March 3-7, 2004
+  venue: Norfolk Waterside Convention Center
+  attendance: 1228
+  old-proceedings: https://dl.acm.org/citation.cfm?id=971300&picked=prox
+  publication-date: 2004-03-03
+  proceedings:
+    - title: "SIGCSE '04: Proceedings of the 35th SIGCSE technical symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/971300"
+  acceptance: 28%
+  proceedings-cover: SIGCSE04.jpg
+  logo: sigcse2004_logo.png
+
+- year: 2005
+  title: 36th SIGCSE TS 2005
+  edition: 36th
+  location: St. Louis, MO, USA
+  dates: February 23-27, 2005
+  venue: Cervantes Convention Center
+  attendance: 1245
+  old-proceedings: https://dl.acm.org/citation.cfm?id=1047344&picked=prox
+  publication-date: 2005-02-23
+  proceedings:
+    - title: "SIGCSE '05: Proceedings of the 36th SIGCSE technical symposium on Computer science education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/1047344"
+  acceptance: 32%
+  proceedings-cover: SIGCSE05.jpg
+  logo: sigcse2005_logo.png
+
+- year: 2006
+  title: 37th SIGCSE TS 2006
+  edition: 37th
+  location: Houston, TX, USA
+  dates: March 1-5, 2006
+  venue: Hilton Americas
+  attendance: 1245
+  old-proceedings: http://dl.acm.org/citation.cfm?id=1121341&picked=prox&CFID=49859842&CFTOKEN=46882798
+  publication-date: 2006-03-03
+  proceedings:
+    - title: "SIGCSE '06: Proceedings of the 37th SIGCSE technical symposium on Computer science education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/1121341"
+  acceptance: 35%
+  proceedings-cover: SIGCSE06.jpg
+  logo: sigcse2006_logo.png
+
+- year: 2007
+  title: 38th SIGCSE TS 2007
+  edition: 38th
+  location: Covington, KY, USA
+  dates: March 7-10, 2007
+  venue: Northern Kentucky Convention Center
+  attendance: 1,250
+  old-proceedings: http://dl.acm.org/citation.cfm?id=1227310&picked=prox&CFID=49859842&CFTOKEN=46882798
+  publication-date: 2007-03-07
+  proceedings:
+    - title: "SIGCSE '07: Proceedings of the 38th SIGCSE technical symposium on Computer science education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/1227310"
+  acceptance: 34%
+  logo: sigcse2007_logo.png
+
+- year: 2008
+  title: 39th SIGCSE TS 2008
+  edition: 39th
+  location: Portland, OR, USA
+  theme: Diversity through Accessibility
+  dates: March 12-15, 2008
+  venue: Oregon Convention Center
+  attendance: 1229
+  old-proceedings: http://dl.acm.org/citation.cfm?id=1352135&picked=prox&CFID=49859842&CFTOKEN=46882798
+  publication-date: 2008-03-12
+  proceedings:
+    - title: "SIGCSE '08: Proceedings of the 39th SIGCSE technical symposium on Computer science education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/1352135"
+  acceptance: 31%
+  proceedings-cover: SIGCSE08.jpg
+  logo: sigcse2008_logo.png
+
+- year: 2009
+  title: 40th SIGCSE TS 2009
+  edition: 40th
+  location: Chattanooga, TN, USA
+  theme: Engaging Computer Science Education
+  dates: March 4-7, 2009
+  venue: The Chattanooga Convention Center
+  attendance: 1176
+  old-proceedings: http://dl.acm.org/citation.cfm?id=1508865&picked=prox&CFID=49859842&CFTOKEN=46882798
+  publication-date: 2009-03-04
+  proceedings:
+    - title: "SIGCSE '09: Proceedings of the 40th ACM technical symposium on Computer science education"
+      doi: https://doi.org/10.1145/1508865
+  acceptance: 33%
+  proceedings-cover: SIGCSE09.jpg
+  logo: sigcse2009_logo.png
+
+- year: 2010
+  title: 41st SIGCSE TS 2010
+  edition: 41st
+  location: Milwaukee, WI, USA
+  theme: Making Contact
+  dates: March 10-13, 2010
+  venue: Midwest Airlines Center
+  attendance: 1176
+  old-proceedings: http://dl.acm.org/citation.cfm?id=1734263&coll=DL&dl=GUIDE&CFID=442502926&CFTOKEN=81515461
+  publication-date: 2010-03-10
+  proceedings:
+    - title: "SIGCSE '10: Proceedings of the 41st ACM technical symposium on Computer science education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/1734263"
+  acceptance: 34%
+  proceedings-cover: SIGCSE10.jpg
+  logo: sigcse2010_logo.png
+
+- year: 2011
+  title: 42nd SIGCSE TS 2011
+  edition: 42nd
+  location: Dallas, TX, USA
+  theme: Reaching Out
+  dates: March 9-12, 2011
+  venue: Sheraton Dallas Hotel and Conference Center
+  attendance: 1187
+  old-proceedings: http://dl.acm.org/citation.cfm?id=1953163&picked=prox&CFID=49859842&CFTOKEN=46882798
+  publication-date: 2011-03-09
+  proceedings:
+    - title: "SIGCSE '11: Proceedings of the 42nd ACM Technical Symposium on Computer Science Education"
+      doi: https://doi.org/10.1145/1953163
+  acceptance: 34%
+  proceedings-cover: SIGCSE11.jpg
+  logo: sigcse2011_logo.png
+- year: 2012
+  title: 43rd SIGCSE TS 2012
+  edition: 43rd
+  location: Raleigh, NC, USA
+  theme: Teaching, Learning, and Collaborating
+  dates: February 29 - March 3, 2012
+  venue: Raleigh Convention Center
+  attendance: 1286
+  old-proceedings: http://dl.acm.org/citation.cfm?id=2157136&coll=DL&dl=GUIDE&CFID=442502926&CFTOKEN=81515461
+  publication-date: 2012-02-29
+  proceedings:
+    - title: "SIGCSE '12: Proceedings of the 43rd ACM Technical Symposium on Computer Science Education"
+      doi: https://doi.org/10.1145/2157136
+  acceptance: 35%
+  proceedings-cover: SIGCSE12.jpg
+  logo: sigcse2012_logo.png
+- year: 2013
+  title: 44th SIGCSE TS 2013
+  edition: 44th
+  location: Denver, CO, USA
+  theme: The Changing Face of Computing
+  dates: March 6-9, 2013
+  venue: Sheraton Denver Downtown
+  attendance: 1,304
+  old-proceedings: http://dl.acm.org/citation.cfm?id=2445196&coll=DL&dl=GUIDE&CFID=442642152&CFTOKEN=40656014
+  publication-date: 2013-03-06
+  proceedings:
+    - title: "SIGCSE '13: Proceeding of the 44th ACM technical symposium on Computer science education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/2445196"
+  acceptance: 38%
+  proceedings-cover: SIGCSE13.jpg
+  logo: sigcse2013_logo.png
+
+- year: 2014
+  title: 45th SIGCSE TS 2014
+  edition: 45th
+  location: Atlanta, GA, USA
+  theme: Leveraging Computing to Change Education
+  dates: March 5-8, 2014
+  venue: Hyatt Regency Atlanta
+  attendance: 1285
+  old-proceedings: http://dl.acm.org/citation.cfm?id=2538862&coll=DL&dl=GUIDE&CFID=442642152&CFTOKEN=40656014
+  publication-date: 2014-03-05
+  proceedings:
+    - title: "SIGCSE '14: Proceedings of the 45th ACM technical symposium on Computer science education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/2538862"
+  website: http://sigcse2014.sigcse.org/
+  acceptance: 39%
+  proceedings-cover: SIGCSE14.jpg
+  logo: sigcse2014_logo.png
+
+- year: 2015
+  title: 46th SIGCSE TS 2015
+  edition: 46th
+  location: Kansas City, MO, USA
+  theme: Keep Connected, Keep Committed, Keep Computing
+  dates: March 4-7, 2015
+  venue: KC Convention Center/Marriott Downtown
+  attendance: 1318
+  old-proceedings: http://dl.acm.org/citation.cfm?id=2676723&coll=DL&dl=ACM&CFID=555481875&CFTOKEN=81471608
+  publication-date: 2015-02-24
+  proceedings:
+    - title: "SIGCSE '15: Proceedings of the 46th ACM Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/2676723"
+  website: http://sigcse2015.sigcse.org/
+  acceptance: 36%
+  proceedings-cover: SIGCSE15.jpg
+  logo: sigcse2015_logo.png
+
+- year: 2016
+  title: 47th SIGCSE TS 2016
+  edition: 47th
+  location: "Memphis, TN, USA"
+  dates: March 2-5, 2016
+  website: "http://sigcse.org/sigcse2016"
+  publication-date: 2016-02-17
+  proceedings:
+    - title: "SIGCSE '16: Proceedings of the 47th ACM Technical Symposium on Computing Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/2839509"
+  website: http://sigcse2016.sigcse.org/
+  acceptance: 35%
+  proceedings-cover: SIGCSE16.jpg
+
+- year: 2017
+  title: 48th SIGCSE TS 2017
+  edition: 48th
+  location: "Seattle, WA, USA"
+  dates: March 8-11, 2017
+  old-proceedings: https://doi.org/10.1145/3017680.3022454
+  publication-date: 2017-03-08
+  proceedings:
+    - title: "SIGCSE '17: Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/3017680"
+  website: http://sigcse2017.sigcse.org/
+  acceptance: 30%
+  proceedings-cover: SIGCSE17.jpg
+
+- year: 2018
+  title: 49th SIGCSE TS 2018
+  edition: 49th
+  location: "Baltimore, MD, USA"
+  theme: "CS For All"
+  dates: February 21-24, 2018
+  publication-date: 2018-02-21
+  old-proceedings: "https://doi.org/10.1145/3159450.3159620"
+  proceedings:
+    - title: "SIGCSE '18: Proceedings of the 49th ACM Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/3159450"
+  website: http://sigcse2018.sigcse.org/
+  acceptance: 35%
+  proceedings-cover: SIGCSE18.jpg
+
+- year: 2019
+  title: 50th SIGCSE TS 2019
+  edition: 50th
+  location: "Minneapolis, MN, USA"
+  theme: "50th Celebration"
+  dates: "February 27th - March 2nd, 2019"
+  website: "http://sigcse2019.sigcse.org/"
+  proceedings:
+    - title: "SIGCSE '19: Proceedings of the 50th ACM Technical Symposium on Computer Science Education"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/3287324"
+  logo: sigcse2019_logo.jpg
+  proceedings-cover: SIGCSE19.jpg
+
+- year: 2020
+  title: 51st SIGCSE TS 2020
+  edition: 51st
+  location: "Portland, OR, USA"
+  theme: "A Vision for the Next 50 Years"
+  dates: "March 11-14, 2020"
+  website: "http://sigcse2020.sigcse.org/"
+  proceedings:
+    - title: "SIGCSE '20: Proceedings of the 51st ACM Technical Symposium on Computer Science Education"
+      doi: https://dl.acm.org/doi/proceedings/10.1145/3328778
+  logo: sigcse2020_logo.png
+  proceedings-cover: SIGCSE20.png
+
+- year: 2021
+  title: 52nd SIGCSE TS 2021
+  edition: 52nd
+  location: "Virtual"
+  theme: "Expanding Opportunities"
+  dates: "March 13-20, 2021"
+  website: "http://sigcse2021.sigcse.org/"
+  proceedings:
+    - title: "SIGCSE '21: Proceedings of the 52nd ACM Technical Symposium on Computer Science Education"
+      doi: https://dl.acm.org/doi/proceedings/10.1145/3408877
+  logo: sigcse2021_logo.png
+  proceedings-cover: SIGCSE21.png
+
+- year: 2022
+  title: 53rd SIGCSE TS 2022
+  edition: 53rd
+  location: "Providence, RI, USA"
+  dates: "March 2-5, 2022"
+  website: "http://sigcse2022.sigcse.org/"
+  proceedings:
+    - title: "SIGCSE '22: Proceedings of the 53rd ACM Technical Symposium on Computer Science Education v1"
+      doi: https://dl.acm.org/doi/proceedings/10.1145/3478431
+    - title: "SIGCSE '22: Proceedings of the 53rd ACM Technical Symposium on Computer Science Education v2"
+      doi: https://dl.acm.org/doi/proceedings/10.1145/3478432
+
+  logo: sigcse2022_logo.png
+  proceedings-cover: SIGCSE22.png
+
+- year: 2023
+  title: 54th SIGCSE TS 2023
+  edition: 54th
+  location: "Toronto, Ontario, CA"
+  dates: "March 15-18, 2023"
+  website: "http://sigcse2023.sigcse.org/"
+  logo: sigcse2023_logo.png
+  proceedings-cover: SIGCSE23.png
+
+  proceedings:
+    - title: "SIGCSE '23: Proceedings of the 54th ACM Technical Symposium on Computer Science Education v1"
+      doi: https://dl.acm.org/doi/proceedings/10.1145/3545945
+    - title: "SIGCSE '23: Proceedings of the 54th ACM Technical Symposium on Computer Science Education v2"
+      doi: https://dl.acm.org/doi/proceedings/10.1145/3545947
+

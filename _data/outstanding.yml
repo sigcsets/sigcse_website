@@ -77,6 +77,19 @@
 - name: Curriculum '68 Committee
   year: 1990
   awarded: TS
+  group:
+    - names: William F. Atchison, Chair
+    - names: Samuel D. Conte
+    - names: John W. Hamblen
+    - names: Thomas E. Hull
+    - names: Thomas A. Keenan
+    - names: William B. Kehl
+    - names: Edward j. McCluskey
+    - names: Silvio O. Navarro
+    - names: Werner C. Rheinboldt
+    - names: Earl J. Schweppe
+    - names: William Viavant
+    - names: David M. Young, Jr.
   desc: "For their work on the seminal document leading the way for the founding of a multitude of computer science departments and providing guidance to the formation of courses and production of textbooks."
 
 - name: David Gries

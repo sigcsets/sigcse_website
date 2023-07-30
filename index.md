@@ -16,7 +16,8 @@ layout: home
 {:.mt-4 .border-bottom}
 {% assign items = site.data.symposia.conferences | sort: 'year' | reverse %}
 {% for c in items limit:3 -%}
-    {% include item-symposia.md home=true -%}
+    {% assign fn = '/events/symposia/' | append: c.year | append: '.html' -%}
+    {% include item.md home=true path=fn -%}
 {% endfor -%}
 - [*view all*](events/symposia/conferences.html)
 
@@ -24,7 +25,8 @@ layout: home
 {:.mt-4 .border-bottom}
 {% assign items = site.data.iticse.conferences | sort: 'year' | reverse %}
 {% for c in items limit:3 -%}
-    {% include item-iticse.md home=true -%}
+    {% assign fn = '/events/iticse/' | append: c.year | append: '.html' -%}
+    {% include item.md home=true path=fn -%}
 {% endfor -%}
 - [*view all*](events/iticse/conferences.html)
 
@@ -32,7 +34,8 @@ layout: home
 {:.mt-4 .border-bottom}
 {% assign items = site.data.icer.conferences | sort: 'year' | reverse %}
 {% for c in items limit:3 -%}
-    {% include item-icer.md home=true -%}
+    {% assign fn = '/events/icer/' | append: c.year | append: '.html' -%}
+    {% include item.md home=true path=fn -%}
 {% endfor -%}
 - [*view all*](events/icer/conferences.html)
 
@@ -40,6 +43,7 @@ layout: home
 {:.mt-4 .border-bottom}
 {% assign items = site.data.comped.conferences | sort: 'year' | reverse %}
 {% for c in items limit:3 -%}
-    {% include item-comped.md home=true -%}
+    {% assign fn = '/events/comped/' | append: c.year | append: '.html' -%}
+    {% include item.md home=true path=fn -%}
 {% endfor -%}
 - [*view all*](events/comped/conferences.html)

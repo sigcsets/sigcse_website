@@ -17,6 +17,7 @@ The SIGCSE organization annually sponsors the following events:
     conjunction with ICER, with approximately 20 attendees.
 -   [Working Groups](workinggroups/index.html), held in conjunction
     with ITiCSE and CompEd
+-   [Best Papers](bestpapers.html) awarded by our conferences.
 
 ##### 50 Years
 We recently celebrated 50 Years of the SIGCSE organization. **[Follow this link](50years.html)** for a timeline of SIGCSE events and milestones built during 2018 by Briana Morrison.

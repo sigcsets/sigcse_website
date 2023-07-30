@@ -7,13 +7,13 @@ layout: blank
 This is all of the data used in the site, displayed in one long page. The purpose is to have members of the community use this as a "cheat sheet" to double check the quality of the information included in the site. Items are numbered for each of identifying items that might need updating.
 
 **Menu**: [ <a href="#BoardMembers">Board Members</a> |
-<a href="#TSSteeringcommittee">TS Steering committee</a> |
+<a href="#TSSteeringcommittee">Technical Symposium Steering committee</a> |
 <a href="#ITiCSESteeringcommittee">ITiCSE Steering committee</a> |
 <a href="#ICERSteeringcommittee">ICER Steering committee</a> |
 <a href="#CompEdSteeringcommittee">CompEd Steering committee</a> |
 <a href="#UpcomingConferenceDates">Upcoming Conference Dates</a> |
 <a href="#PastConferences">Past Conferences</a> |
-<a href="#TSConferences">TS Conferences</a> |
+<a href="#TSConferences">Technical Symposium Conferences</a> |
 <a href="#ITiCSEConferences">ITiCSE Conferences</a> |
 <a href="#ICERConferences">ICER Conferences</a> |
 <a href="#CompEdConferences">CompEd Conferences</a> |
@@ -86,27 +86,40 @@ This is all of the data used in the site, displayed in one long page. The purpos
 {:.mt-4 .border-bottom}
 
 <a name="TSConferences" id="TSConferences"></a>
-#### TS Conferences
+#### Technical Symposium Conferences
 {% assign items = site.data.symposia.conferences | sort: 'year' | reverse %}
-{% for c in items %}{% include item-symposia.md yaml=true %}{% endfor %}
+{% for c in items -%}
+    {% assign fn = '/events/symposia/' | append: c.year | append: '.html' -%}
+    {% include item.md yaml=true path=fn -%}
+{% endfor %}
+
 <p><a href="#Top">↑ Back to top</a></p>
 
 <a name="ITiCSEConferences" id="ITiCSEConferences"></a>
 #### ITiCSE Conferences
 {% assign items = site.data.iticse.conferences | sort: 'year' | reverse %}
-{% for c in items %}{% include item-iticse.md yaml=true %}{% endfor %}
+{% for c in items -%}
+    {% assign fn = '/events/iticse/' | append: c.year | append: '.html' -%}
+    {% include item.md yaml=true path=fn -%}
+{% endfor -%}
 <p><a href="#Top">↑ Back to top</a></p>
 
 <a name="ICERConferences" id="ICERConferences"></a>
 #### ICER Conferences
 {% assign items = site.data.icer.conferences | sort: 'year' | reverse %}
-{% for c in items %}{% include item-icer.md yaml=true %}{% endfor %}
+{% for c in items -%}
+    {% assign fn = '/events/icer/' | append: c.year | append: '.html' -%}
+    {% include item.md yaml=true path=fn %}
+{% endfor -%}
 <p><a href="#Top">↑ Back to top</a></p>
 
 <a name="CompEdConferences" id="CompEdConferences"></a>
 #### CompEd Conferences
 {% assign items = site.data.comped.conferences | sort: 'year' | reverse %}
-{% for c in items %}{% include item-comped.md yaml=true %}{% endfor %}
+{% for c in items -%}
+    {% assign fn = '/events/comped/' | append: c.year | append: '.html' -%}
+    {% include item.md yaml=true path=fn %}
+{% endfor %}
 <p><a href="#Top">↑ Back to top</a></p>
 
 <a name="Incooperationconferences" id="Incooperationconferences"></a>

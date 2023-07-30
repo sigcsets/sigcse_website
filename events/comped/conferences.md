@@ -1,18 +1,14 @@
 ---
-title: All CompEd Conference
+title: All CompEd Conferences
 layout: page
-
-conferences:
-- title: CompEd 202x
-  year: 202x
-  location: "Hyderabad, India"
-  url: https://comped.acm.org/
-
 ---
 
 Follow the links to conference web sites and proceedings in the ACM DL.
 
 {% assign items = site.data.comped.conferences | sort: 'year' | reverse %}
-{% for c in items %}{% include item-comped.md %}{% endfor %}
+{% for c in items %}
+  {% assign fn = '/events/comped/' | append: c.year | append: '.html' -%}
+  {% include item.md path=fn %}
+{% endfor %}
 
 

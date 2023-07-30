@@ -1,3 +1,33 @@
+- year: 2011
+  awarded: TS
+  type: Best Paper
+  citation: "Guillaume Marceau, Kathi Fisler, and Shriram Krishnamurthi. 2011. Measuring the effectiveness of error messages designed for novice programmers. In <i>Proceedings of the 42nd ACM technical symposium on Computer science education (SIGCSE '11)</i>. Association for Computing Machinery, New York, NY, USA, 499–504."
+  doi: https://doi.org/10.1145/1953163.1953308
+
+- year: 2012
+  awarded: TS
+  type: Best Paper
+  citation: "Jeremy Andrus and Jason Nieh. 2012. Teaching operating systems using android. In <i>Proceedings of the 43rd ACM technical symposium on Computer Science Education (SIGCSE '12)</i>. Association for Computing Machinery, New York, NY, USA, 613–618."
+  doi: https://doi.org/10.1145/2157136.2157312
+
+- year: 2013
+  awarded: TS
+  type: Best Paper
+  citation: "Leo Porter and Beth Simon. 2013. Retaining nearly one-third more majors with a trio of instructional best practices in CS1. In <i>Proceeding of the 44th ACM technical symposium on Computer science education (SIGCSE '13)</i>. Association for Computing Machinery, New York, NY, USA, 165–170."
+  doi: https://doi.org/10.1145/2445196.2445248
+
+- year: 2014
+  awarded: TS
+  type: Best Paper
+  citation: "Claudia Szabo. 2014. Student projects are not throwaways: teaching practical software maintenance in a software engineering course. In <i>Proceedings of the 45th ACM technical symposium on Computer science education (SIGCSE '14)</i>. Association for Computing Machinery, New York, NY, USA, 55–60."
+  doi: https://doi.org/10.1145/2538862.2538965
+
+- year: 2015
+  awarded: TS
+  type: Best Paper
+  citation: "Celine Latulipe, N. Bruce Long, and Carlos E. Seminario. 2015. Structuring Flipped Classes with Lightweight Teams and Gamification. In <i>Proceedings of the 46th ACM Technical Symposium on Computer Science Education (SIGCSE '15)</i>. Association for Computing Machinery, New York, NY, USA, 392–397."
+  doi: https://doi.org/10.1145/2676723.2677240
+
 - year: 2019
   awarded: TS
   type: Computing Education Research

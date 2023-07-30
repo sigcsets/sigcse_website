@@ -1,4 +1,3 @@
-{% assign fn = '/events/symposia/' | append: c.year | append: '.html' -%}
 {% if include.yaml == true -%}
 - **{{c.title}}**<br>
 **Year**: {{c.year}}<br>
@@ -11,11 +10,13 @@
         **Doi-{{forloop.index}}**: [{{p.doi}}]({{p.doi}})<br>
     {% endfor %}
 {% elsif include.home -%}
-- [**{{c.title}}**]({{fn|absolute_url}}): {{c.location}}{%if c.proceedings2-title %}, [Proceedings v1]({{c.doi}}), [Proceedings v2]({{c.doi2}}){%elsif c.proceedings-title %}, [Proceedings]({{c.doi}}){%endif%}.
+- [**{{c.title}}**]({{include.path|absolute_url}}): {{c.location}}, {{c.dates}}.
 {% else -%}
-- [**{{c.title}}**]({{fn|absolute_url}}): {{c.location}}.{% if c.website %} [{{c.website}}]({{c.website}}).{% endif %}<br>
+{% comment %} FULL LISTING {% endcomment %}
+- [**{{c.title}}**]({{include.path|absolute_url}}): {{c.location}}, {{c.dates}}.<br>
+{%if c.website %}<a href="{{c.website}}" target="_blank">{{c.website}}</a><br>{%endif-%}
 Proceedings:
     {%for p in c.proceedings -%}
-        - [{{p.title}}]({{p.doi}})<br>
-    {% endfor %}
+        - <a href="{{p.doi}}" target="_blank">{{p.title}}</a>{% if forloop.last == true %}<br>&nbsp;{%endif%}
+    {% endfor %}<br>
 {% endif -%}

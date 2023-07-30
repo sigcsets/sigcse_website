@@ -42,7 +42,9 @@ Fill out the form below if you are interested in volunteering as a Program Co-Ch
 Follow the links to conference web sites and proceedings in the ACM DL.
 
 {% assign items = site.data.comped.conferences | sort: 'year' | reverse %}
-{% for c in items limit:5 %}{% include item-comped.md %}{% endfor %}
-
-<a href="conferences.html"><i>View all...</i></a>
+{% for c in items limit:3 %}
+    {% assign fn = '/events/comped/' | append: c.year | append: '.html' -%}
+    {% include item.md path=fn %}
+{% endfor %}
+- <a href="conferences.html"><i>View all CompEd Conferences</i></a>
 

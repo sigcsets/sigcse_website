@@ -46,12 +46,12 @@ Events](https://users.cs.duke.edu/~rodger/sigcseconferences.html) - maintained b
 
 ##### Latest Technical Symposium
 
-Follow the links to Technical Symposium summary pages and proceedings in the ACM DL:
+Follow the links to Technical Symposium summary pages and proceedings in the ACM DL. Browse by the <a href="covers.html">proceeding covers</a>. 
 
 {% assign items = site.data.symposia.conferences | sort: 'year' | reverse %}
-{% for c in items limit:5 -%}
-    {% include item-symposia.md -%}
-{% endfor %}
-
-<a href="conferences.html"><i>View all...</i></a>
+{% for c in items limit:3 -%}
+    {% assign fn = '/events/symposia/' | append: c.year | append: '.html' -%}
+    {% include item.md path=fn -%}
+{% endfor -%}
+- <a href="conferences.html"><i>View all Technical Symposium</i></a>
 

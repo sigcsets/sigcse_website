@@ -18,18 +18,20 @@ steering:
 next-conference:
 - title: "ICER '23"
   comment: DC and WIP Monday 7th.
+  start-date: 2023-08-08
   dates: "8-10 August 2023"
   year: 2023
   location: "Chicago, IL, USA"
-  url: https://conf.researchr.org/home/icer-2023
+  website: https://conf.researchr.org/home/icer-2023
 
 conferences:
 - title: "ICER '22"
   edition: 18
   year: 2022
-  url: https://icer2022.acm.org
+  website: https://icer2022.acm.org
   dates: "7-11 August 2022"
   location: "Hybrid - Lugano, Switzerland"
+  proceedings-cover: icer2022.png
   proceedings:
   - title: "ICER '22: Proceedings of the 2022 ACM Conference on International Computing Education Research - Volume 1"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/3501385"
@@ -41,8 +43,9 @@ conferences:
   edition: 17
   year: 2021
   dates: "16-19 August 2021"
-  url: https://icer2021.acm.org
+  website: https://icer2021.acm.org
   location: "Online - (was originally scheduled for Charleston, SC, USA)"
+  proceedings-cover: icer2021.png
   proceedings:
   - title: "ICER '2021: Proceedings of the 17th ACM Conference on International Computing Education Research"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/3446871"
@@ -51,8 +54,9 @@ conferences:
   edition: 16
   year: 2020
   dates: "August 8-13, 2020"
-  url: https://icer2020.acm.org
+  website: https://icer2020.acm.org
   location: "Online - (was originally scheduled for Dunedin, New Zealand)"
+  proceedings-cover: icer2020.png
   proceedings:
   - title: "ICER '20: Proceedings of the 2020 ACM Conference on International Computing Education Research"
     doi: https://dl.acm.org/doi/proceedings/10.1145/3372782
@@ -61,8 +65,9 @@ conferences:
   edition: 15
   year: 2019
   dates: "12-14 August, 2019"
-  url: https://icer.acm.org/icer-2019/
+  website: https://icer.acm.org/icer-2019/
   location: "Toronto, Canada"
+  proceedings-cover: icer2019.png
   proceedings:
   - title: "ICER '19: Proceedings of the 2019 ACM Conference on International Computing Education Research"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/3291279"
@@ -70,9 +75,10 @@ conferences:
 - title: "ICER '18"
   edition: 14
   year: 2018
-  url: https://icer.acm.org/icer-2018/
+  website: https://icer.acm.org/icer-2018/
   location: "Helsinki, Finland"
   dates: "13-15 August 2018"
+  proceedings-cover: icer2018.png
   proceedings:
   - title: "ICER '18: Proceedings of the 2018 ACM Conference on International Computing Education Research"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/3230977"
@@ -81,8 +87,9 @@ conferences:
   edition: 13
   year: 2017
   dates: "18-20 August 2017"
-  url: https://icer.acm.org/icer-2017/
+  website: https://icer.acm.org/icer-2017/
   location: "Tacoma, WA, USA"
+  proceedings-cover: icer2017.png
   proceedings:
   - title: "ICER '17: Proceedings of the 2017 ACM Conference on International Computing Education Research"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/3105726"
@@ -91,8 +98,9 @@ conferences:
   edition: 12
   year: 2016
   dates: "9-11 September 2016"
-  url: https://icer.acm.org/icer-2016/
+  website: https://icer.acm.org/icer-2016/
   location: "Melbourne, Australia"
+  proceedings-cover: icer2016.png
   proceedings:
   - title: "ICER '16: Proceedings of the 2016 ACM Conference on International Computing Education Research"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/2960310"
@@ -101,8 +109,9 @@ conferences:
   edition: 11
   year: 2015
   dates: "August 9-13, 2015"
-  url: https://icer.acm.org/icer-2015/
+  website: https://icer.acm.org/icer-2015/
   location: "Omaha, NE, USA"
+  proceedings-cover: icer2015.png
   proceedings:
   - title: "ICER '15: Proceedings of the eleventh annual International Conference on International Computing Education Research"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/2787622"
@@ -111,8 +120,9 @@ conferences:
   edition: 10
   year: 2014
   dates: "11-13 August 2014"
-  url: https://icer.acm.org/icer-2014/
+  website: https://icer.acm.org/icer-2014/
   location: "Glasgow, UK"
+  proceedings-cover: icer2014.png
   proceedings:
   - title: "ICER '14: Proceedings of the tenth annual conference on International computing education research"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/2632320"
@@ -121,8 +131,9 @@ conferences:
   edition: 9
   year: 2013
   dates: "August 12-14 2013"
-  url: https://icer.acm.org/icer-2013/
+  website: https://icer.acm.org/icer-2013/
   location: "San Diego, CA, USA"
+  proceedings-cover: icer2013.png
   proceedings:
   - title: "ICER '13: Proceedings of the ninth annual international ACM conference on International computing education research"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/2493394"
@@ -131,8 +142,9 @@ conferences:
   edition: 8
   year: 2012
   dates: "10-12 September 2012"
-  url: https://icer.acm.org/icer2012/
+  website: https://icer.acm.org/icer2012/
   location: "New Zealand"
+  proceedings-cover: icer2012.png
   proceedings:
   - title: "ICER '12: Proceedings of the ninth annual international conference on International computing education research"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/2361276"
@@ -141,8 +153,9 @@ conferences:
   edition: 7
   year: 2011
   dates: "8-9 August 2011"
-  url: https://icer.acm.org/icer2011/
+  website: https://icer.acm.org/icer2011/
   location: "Providence, RI, USA"
+  proceedings-cover: icer2011.png
   proceedings:
   - title: "ICER '11: Proceedings of the seventh international workshop on Computing education research"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/2016911"
@@ -151,8 +164,9 @@ conferences:
   edition: 6
   year: 2010
   dates: "8-11 August 2010"
-  url: https://icer.acm.org/icer2010/
+  website: https://icer.acm.org/icer2010/
   location: "Aarhus, Denmark"
+  proceedings-cover: icer2010.png
   proceedings:
   - title: "ICER '10: Proceedings of the Sixth international workshop on Computing education research"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/1839594"
@@ -161,8 +175,9 @@ conferences:
   edition: 5
   year: 2009
   dates: "10-11 August 2009"
-  url: https://icer.acm.org/icer-2009/
+  website: https://icer.acm.org/icer-2009/
   location: "Berkeley, CA, USA"
+  proceedings-cover: icer2009.png
   proceedings:
   - title: "ICER '09: Proceedings of the fifth international workshop on Computing education research workshop"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/1584322"
@@ -171,8 +186,9 @@ conferences:
   edition: 4
   year: 2008
   dates: "6-7 September 2008"
-  url: https://icer.acm.org/icer-2008/
+  website: https://icer.acm.org/icer-2008/
   location: "Sydney, Australia"
+  proceedings-cover: icer2008.png
   proceedings:
   - title: "ICER '08: Proceedings of the Fourth international Workshop on Computing Education Research"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/1404520"
@@ -181,8 +197,9 @@ conferences:
   edition: 3
   year: 2007
   dates: "15-16 September 2007"
-  url: http://www.cc.gatech.edu/conferences/icer2007/
+  website: http://www.cc.gatech.edu/conferences/icer2007/
   location: "Atlanta, GA, USA"
+  proceedings-cover: icer2007.png
   proceedings:
   - title: "ICER '07: Proceedings of the third international workshop on Computing education research"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/1288580"
@@ -191,7 +208,7 @@ conferences:
   edition: 2
   year: 2006
   dates: "9-10 September 2006"
-  url: http://www.cs.kent.ac.uk/events/conf/2006/icer/
+  website: http://www.cs.kent.ac.uk/events/conf/2006/icer/
   location: "Canterbury, UK"
   proceedings:
   - title: "ICER '06: Proceedings of the second international workshop on Computing education research"
@@ -201,7 +218,7 @@ conferences:
   edition: 1
   year: 2005
   dates: "1-2 October 2005"
-  url: http://icer2005.cs.washington.edu/
+  website: http://icer2005.cs.washington.edu/
   location: "Seattle, WA, USA"
   proceedings:
   - title: "ICER '05: Proceedings of the first international workshop on Computing education research"

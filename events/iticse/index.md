@@ -69,12 +69,14 @@ the different positions.
 
 ##### Latest ITiCSE conferences
 
-Follow the links to conference web sites and proceedings in the ACM DL.
+Follow the links to conference web sites and proceedings in the ACM DL. Browse by the <a href="covers.html">proceeding covers</a>.
 
 {% assign items = site.data.iticse.conferences | sort: 'year' | reverse %}
-{% for c in items limit:5 %}{% include item-iticse.md %}{% endfor %}
-
-<a href="conferences.html"><i>View all...</i></a>
+{% for c in items limit:3 %}
+    {% assign fn = '/events/iticse/' | append: c.year | append: '.html' -%}
+    {% include item.md path=fn %}
+{% endfor %}
+- <a href="conferences.html"><i>View all ITiCSE conferences</i></a>
 
 ###### ITiCSE History
 

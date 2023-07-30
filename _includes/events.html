@@ -1,11 +1,26 @@
 <h5 class="font-italic">Upcoming SIGCSE Events</h5>
 <ol class="list-unstyled mb-0">
 
-  {% for conf in site.data.events %}
+  {% comment %}There is probably a better way to do this, but
+  for now, here it is. Each conference has a next-conference
+  entry that points to the upcoming conference. This code
+  creates a collection of all upcoming conferences, that is the
+  next one for each of our four conferences. Then is sorts those
+  upcoming conferences by start-date and displays them in the side
+  bar.{% endcomment %}
 
-    <li><strong>
-      {% if conf.url %}
-        <a href="{{conf.url}}">{{conf.title}}</a>
+  {% assign meta = "comped, symposia, iticse, icer" | split: ", " %}
+  {% assign collections = "" | split: ',' %}
+  {% for name in meta %}
+    {% assign conf = site.data.[name].next-conference | first %}
+    {% assign collections = collections | push: conf %}
+  {% endfor %}
+
+  {% assign collections = collections | sort: 'start-date' %}
+  {% for conf in collections %}
+     <li><strong>
+      {% if conf.website %}
+        <a href="{{conf.website}}">{{conf.title}}</a>
       {% else %}
         {{conf.title}}
       {% endif %}
@@ -13,9 +28,7 @@
       {{conf.dates}}<br />
       {{conf.location}}<br />&nbsp;
     </li>
-
   {% endfor %}
+
 </ol>
 <p>Many conferences across the world are held <strong><a href={{ "events/incoop.html" | absolute_url }}>in-cooperation with SIGCSE</a></strong>.</p>
-
-

@@ -25,17 +25,20 @@ database:
 
 next-conference:
 - title: ITiCSE 2023
+  start-date: 2023-07-10
   dates: "July 10-12, 2023"
   location: "Turku, Finland"
-  url: https://iticse.acm.org/2023/
+  website: https://iticse.acm.org/2023/
+  proceedings-cover: iticse2023.png
 
 conferences:
 - title: "27th ITiCSE 2022"
   edition: 27
-  url: "https://iticse.acm.org/2022/"
+  website: "https://iticse.acm.org/2022/"
   year: 2022
   dates: "July 8 - 13, 2022"
   location: "Dublin Ireland"
+  proceedings-cover: iticse2022.png
   proceedings:
   - title: "ITiCSE ’22: Proceedings of the 27th ACM Conference on on Innovation and Technology in Computer Science Education v1"
     doi: https://dl.acm.org/doi/proceedings/10.1145/3502718
@@ -46,10 +49,11 @@ conferences:
 
 - title: "26th ITiCSE 2021"
   edition: 26
-  url: "https://iticse.acm.org/2021/"
+  website: "https://iticse.acm.org/2021/"
   year: 2021
   dates: "June 26-July 1, 2022"
   location: "Virtual Event (scheduled for Paderborn, Germany)"
+  proceedings-cover: iticse2021.png
   proceedings:
   - title: "ITiCSE '21: Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Science Education v1"
     doi: https://dl.acm.org/doi/proceedings/10.1145/3430665
@@ -60,10 +64,11 @@ conferences:
 
 - title: "25th ITiCSE 2020"
   edition: 25
-  url: "https://iticse.acm.org/ITiCSE2020/"
+  website: "https://iticse.acm.org/ITiCSE2020/"
   year: 2020
   dates: "June 17-19, 2020"
   location: "Online (was originally scheduled for Trondheim, Norway)"
+  proceedings-cover: iticse2020.png
   proceedings:
   - title: "ITiCSE '20: Proceedings of the 2020 ACM Conference on Innovation and Technology in Computer Science Education"
     doi: https://dl.acm.org/doi/proceedings/10.1145/3341525
@@ -73,10 +78,11 @@ conferences:
 
 - title: "24th ITiCSE 2019"
   edition: 24
-  url: "https://iticse.acm.org/ITiCSE2019/"
+  website: "https://iticse.acm.org/ITiCSE2019/"
   year: 2019
   dates: "July 5-8, 2019"
   location: "Aberdeen, Scotland-UK"
+  proceedings-cover: iticse2019.png
   proceedings:
   - title: "ITiCSE '19: Proceedings of the 2019 ACM Conference on Innovation and Technology in Computer Science Education"
     doi: https://dl.acm.org/doi/proceedings/10.1145/3304221
@@ -85,10 +91,11 @@ conferences:
 
 - title: "23rd ITiCSE 2018"
   edition: 23
-  url: "http://iticse.acm.org/ITiCSE2018/"
+  website: "http://iticse.acm.org/ITiCSE2018/"
   year: 2018
   dates: "July 1-3, 2018"
   location: "Larnaca, Cyprus"
+  proceedings-cover: iticse2018.png
   proceedings:
   - title: "ITiCSE '18: Proceedings of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/3197091"
@@ -97,10 +104,11 @@ conferences:
 
 - title: "22nd ITiCSE 2017"
   edition: 22
-  url: "https://iticse.acm.org/ITiCSE2017/"
+  website: "https://iticse.acm.org/ITiCSE2017/"
   year: 2017
   dates: "July 3-5, 2017"
   location: "Università di Bologna, Italy"
+  proceedings-cover: iticse2017.png
   proceedings:
   - title: "ITiCSE '17: Proceedings of the 2017 ACM Conference on Innovation and Technology in Computer Science Education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/3059009"
@@ -109,10 +117,11 @@ conferences:
 
 - title: "21st ITiCSE 2016"
   edition: 21
-  url: "http://ucsp.edu.pe/iticse2016/"
+  website: "http://ucsp.edu.pe/iticse2016/"
   year: 2016
   dates: "July 11-13, 2016"
   location: "Universidad Católica San Pablo, Peru"
+  proceedings-cover: iticse2016.png
   proceedings:
   - title: "ITiCSE '16: Proceedings of the 2016 ACM Conference on Innovation and Technology in Computer Science Education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/2899415"
@@ -121,10 +130,11 @@ conferences:
 
 - title: "20th ITiCSE 2015"
   edition: 20
-  url: "http://iticse2015.mii.vu.lt/"
+  website: "http://iticse2015.mii.vu.lt/"
   year: 2015
   dates: "July 6-8, 2015"
   location: "Vilnius University, Lithuania"
+  proceedings-cover: iticse2015.png
   proceedings:
   - title: "ITiCSE '15: Proceedings of the 2015 ACM Conference on Innovation and Technology in Computer Science Education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/2729094"
@@ -133,10 +143,11 @@ conferences:
 
 - title: "19th ITiCSE 2014"
   edition: 19
-  url: "http://iticse2014.it.uu.se/"
+  website: "http://iticse2014.it.uu.se/"
   year: 2014
   dates: "June 23-25, 2014"
   location: "Uppsala University,Sweden"
+  proceedings-cover: iticse2014.png
   proceedings:
   - title: "ITiCSE '14: Proceedings of the 2014 conference on Innovation & technology in computer science education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/2591708"
@@ -145,10 +156,11 @@ conferences:
 
 - title: "18th ITiCSE 2013"
   edition: 18
-  url: "http://www.cs.kent.ac.uk/events/iticse201"
+  website: "http://www.cs.kent.ac.uk/events/iticse201"
   year: 2013
   dates: "July 1-3, 2013"
   location: "University of Kent at Canterbury, United Kingdom"
+  proceedings-cover: iticse2013.png
   proceedings:
   - title: "ITiCSE '13: Proceedings of the 18th ACM conference on Innovation and technology in computer science education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/2462476"
@@ -157,10 +169,11 @@ conferences:
 
 - title: "17th ITiCSE 2012"
   edition: 17
-  url: "http://cse.proj.ac.il/iticse/www.iticse12.org.il/HTMLs/home-2.html"
+  website: "http://cse.proj.ac.il/iticse/www.iticse12.org.il/HTMLs/home-2.html"
   year: 2012
   dates: "July 3-5, 2012"
   location: "Haifa, Israel"
+  proceedings-cover: iticse2012.png
   proceedings:
   - title: "ITiCSE '12: Proceedings of the 17th ACM annual conference on Innovation and technology in computer science education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/2325296"
@@ -169,10 +182,11 @@ conferences:
 
 - title: "16th ITiCSE 2011"
   edition: 16
-  url: "http://www.iticse2011.tu-darmstadt.de/"
+  website: "http://www.iticse2011.tu-darmstadt.de/"
   year: 2011
   dates: "June 25-29, 2011"
   location: "Darmstadt, Germany"
+  proceedings-cover: iticse2011.png
   proceedings:
   - title: "ITiCSE '11: Proceedings of the 16th annual joint conference on Innovation and technology in computer science education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/1999747"
@@ -181,10 +195,11 @@ conferences:
 
 - title: "15th ITiCSE 2010"
   edition: 15
-  url: "http://iticse2010.bilkent.edu.tr/"
+  website: "http://iticse2010.bilkent.edu.tr/"
   year: 2010
   dates: "June 26-30, 2010"
   location: "Bilkent, Ankara, Turkey"
+  proceedings-cover: iticse2010.png
   proceedings:
   - title: "ITiCSE '10: Proceedings of the 15th annual conference on Innovation and technology in computer science education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/1822090"
@@ -193,10 +208,11 @@ conferences:
 
 - title: "14th ITiCSE 2009"
   edition: 14
-  url: "http://iticse09.lrde.org/"
+  website: "http://iticse09.lrde.org/"
   year: 2009
   dates: "July 3-8, 2009"
   location: "Université Pierre et Marie Curie, Paris, France"
+  proceedings-cover: iticse2009.png
   proceedings:
   - title: "ITiCSE '09: Proceedings of the 14th annual ACM SIGCSE conference on Innovation and technology in computer science education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/1562877"
@@ -204,20 +220,22 @@ conferences:
 
 - title: "13th ITiCSE 2008"
   edition: 13
-  url: "http://www.iticse08.fi.upm.es/"
+  website: "http://www.iticse08.fi.upm.es/"
   year: 2008
   dates: "June 30-July 2, 2008"
   location: "Universidad Politecnica de Madrid, Madrid, Spain"
+  proceedings-cover: iticse2008.png
   proceedings:
   - title: "ITiCSE '08: Proceedings of the 13th annual conference on Innovation and technology in computer science education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/1384271"
 
 - title: "12th ITiCSE 2007"
   edition: 12
-  url: "http://iticse2007.computing.dundee.ac.uk/"
+  website: "http://iticse2007.computing.dundee.ac.uk/"
   year: 2007
   dates: "June 25-27, 2007"
   location: "University of Dundee, Dundee, Scotland"
+  proceedings-cover: iticse2007.png
   proceedings:
   - title: "ITiCSE '07: Proceedings of the 12th annual SIGCSE conference on Innovation and technology in computer science education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/1268784"
@@ -226,7 +244,7 @@ conferences:
 
 - title: "11th ITiCSE 2006"
   edition: 11
-  url: "http://www.iticse06.cs.unibo.it/cfp.html"
+  website: "http://www.iticse06.cs.unibo.it/cfp.html"
   year: 2006
   dates: "June 26-28, 2006"
   location: "University of Bologna, Italy"
@@ -238,20 +256,22 @@ conferences:
 
 - title: "10th ITiCSE 2005"
   edition: 10
-  url: "http://iticse05.di.fct.unl.pt/"
+  website: "http://iticse05.di.fct.unl.pt/"
   year: 2005
   dates: "June 27-29, 2005"
   location: "Universidade Nova de Lisboa, Lisbon, Portugal"
+  proceedings-cover: iticse2005.png
   proceedings:
   - title: "ITiCSE '05: Proceedings of the 10th annual SIGCSE conference on Innovation and technology in computer science education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/1067445"
 
 - title: "9th ITiCSE 2004"
   edition: 9
-  url: "http://www.iticse04.leeds.ac.uk/"
+  website: "http://www.iticse04.leeds.ac.uk/"
   year: 2004
   dates: "June 28-30, 2004"
   location: "The University Of Leeds, United Kingdom"
+  proceedings-cover: iticse2004.png
   proceedings:
   - title: "ITiCSE '04: Proceedings of the 9th annual SIGCSE conference on Innovation and technology in computer science education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/1007996"
@@ -260,7 +280,7 @@ conferences:
 
 - title: "8th ITiCSE 2003"
   edition: 8
-  url: "http://iticse2003.uom.gr/"
+  website: "http://iticse2003.uom.gr/"
   year: 2003
   dates: "June 30-July 2, 2003"
   location: "University of Macedonia, Thessaloniki, Greece"
@@ -272,10 +292,11 @@ conferences:
 
 - title: "7th ITiCSE 2002"
   edition: 7
-  url: "http://www.iticse2002.dk/"
+  website: "http://www.iticse2002.dk/"
   year: 2002
   dates: "June 24-26, 2002"
   location: "Aarhus Universitet, Aarhus, Denmark"
+  proceedings-cover: iticse2002.png
   proceedings:
   - title: "ITiCSE '02: Proceedings of the 7th annual conference on Innovation and technology in computer science education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/544414"
@@ -284,10 +305,11 @@ conferences:
 
 - title: "6th ITiCSE 2001"
   edition: 6
-  url: "http://www.cs.ukc.ac.uk/events/iticse2001/index.html"
+  website: "http://www.cs.ukc.ac.uk/events/iticse2001/index.html"
   year: 2001
   dates: "June 24-30, 2001"
   location: "City University of Kent at Canterbury, Canterbury, Kent, United Kingdom"
+  proceedings-cover: iticse2001.png
   proceedings:
   - title: "ITiCSE '01: Proceedings of the 6th annual conference on Innovation and technology in computer science education"
     doi: https://dl.acm.org/doi/proceedings/10.1145/377435
@@ -296,10 +318,11 @@ conferences:
 
 - title: "5th ITiCSE 2000"
   edition: 5
-  url: "http://www.cs.helsinki.fi/events/iticse/"
+  website: "http://www.cs.helsinki.fi/events/iticse/"
   year: 2000
   dates: "July 10-14, 2000"
   location: "Helsinki, Finland"
+  proceedings-cover: iticse2000.png
   proceedings:
   - title: "ITiCSE '00: Proceedings of the 5th annual SIGCSE/SIGCUE ITiCSE conference on Innovation and technology in computer science education"
     doi: https://dl.acm.org/doi/proceedings/10.1145/343048
@@ -311,6 +334,7 @@ conferences:
   year: 1999
   dates: "June 27-July 1 1999"
   location: "Cracow, Poland"
+  proceedings-cover: iticse1999.png
   proceedings:
   - title: "ITiCSE '99: Proceedings of the 4th annual SIGCSE/SIGCUE ITiCSE conference on Innovation and technology in computer science education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/305786"
@@ -333,6 +357,7 @@ conferences:
   year: 1997
   dates: "June 2-4, 1997"
   location: "Uppsala, Sweden"
+  proceedings-cover: iticse1997.png
   proceedings:
   - title: "ITiCSE '97: Proceedings of the 2nd conference on Integrating technology into computer science education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/268819"
@@ -344,6 +369,7 @@ conferences:
   year: 1996
   dates: "June 2-5, 1996"
   location: "Barcelona, Spain"
+  proceedings-cover: iticse1996.png
   proceedings:
   - title: "ITiCSE '96: Proceedings of the 1st conference on Integrating technology into computer science education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/237466"

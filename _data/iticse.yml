@@ -24,14 +24,26 @@ database:
     dates: 2020 – 2023
 
 next-conference:
-- title: ITiCSE 2023
-  start-date: 2023-07-10
-  dates: "July 10-12, 2023"
-  location: "Turku, Finland"
-  website: https://iticse.acm.org/2023/
-  proceedings-cover: iticse2023.png
+- title: ITiCSE 2024
+  start-date: 2024-07-08
+  dates: "July 8-10, 2024"
+  location: "Milan, Italy"
+  website: https://iticse.acm.org/2024/
 
 conferences:
+- title: "28th ITiCSE 2023"
+  year: 2023
+  edition: 28
+  dates: "July 10-12, 2023"
+  location: "Turku, Finland"
+  website: "https://iticse.acm.org/2023/"
+  proceedings-cover: iticse2023.png
+  proceedings:
+  - title: "ITiCSE 2023: Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 1"
+    doi: "https://dl.acm.org/doi/proceedings/10.1145/3587102"
+  - title: "ITiCSE 2023: Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 2"
+    doi: "https://dl.acm.org/doi/proceedings/10.1145/3587103"
+
 - title: "27th ITiCSE 2022"
   edition: 27
   website: "https://iticse.acm.org/2022/"

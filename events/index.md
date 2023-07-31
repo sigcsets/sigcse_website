@@ -20,7 +20,7 @@ The SIGCSE organization annually sponsors the following events:
 -   [Best Papers](bestpapers.html) awarded by our conferences.
 
 ##### 50 Years
-We recently celebrated 50 Years of the SIGCSE organization. **[Follow this link](50years.html)** for a timeline of SIGCSE events and milestones built during 2018 by Briana Morrison.
+We recently celebrated 50 Years of the SIGCSE organization. [Follow this link](50years.html) for a timeline of SIGCSE events and milestones built during 2018 by Briana Morrison.
 
 ##### In cooperation
 Additionally, many conferences across the world are held [in-cooperation with SIGCSE]({{"policies/incooperation.html" | absolute_url}}). You may view a [list of recent and future SIGCSE in-cooperation

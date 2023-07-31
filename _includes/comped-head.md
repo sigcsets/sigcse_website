@@ -11,9 +11,13 @@
 {% assign conf = site.data.comped.conferences | where: "year", year | first %}
 {% assign items = site.data.comped.conferences | sort: 'year' %}
 {% for c in items %}
+  {% comments %}They can both be true, first and last when the
+  conference has only 1 instance... so this is true until dec/2024
+  once CompEd has 2{% endcomments %}
   {% if forloop.first == true %}
     {% assign first_yr = c.year %}
-  {% elsif forloop.last == true %}
+  {%endif%}
+  {% if forloop.last == true %}
     {% assign last_yr = c.year %}
   {%endif%}
 

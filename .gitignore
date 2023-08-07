@@ -1,3 +1,4 @@
+_development
 _site
 _documentation
 _pending
@@ -5,6 +6,7 @@ _unused
 .DS_Store
 .jekyll-cache
 .jekyll-metadata
+Gemfile.lock
 bin
 pending
 SIGCSE.sublime-project

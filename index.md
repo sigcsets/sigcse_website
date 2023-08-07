@@ -47,3 +47,4 @@ layout: home
     {% include item.md home=true path=fn -%}
 {% endfor -%}
 - [*view all*](events/comped/conferences.html)
+

@@ -25,6 +25,7 @@ conferences:
   location: "Chengdu, Sichuan China"
   dates:  "May 9 - 19, 2019"
   website: https://comped.acm.org/2019/
+  proceedings-cover: comped2019.png
   proceedings:
   - title: "CompEd '19: Proceedings of the ACM Conference on Global Computing Education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/3300115"

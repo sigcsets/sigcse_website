@@ -13,7 +13,7 @@ The SIGCSE organization has recognized a total of {{site.data.bestpapers.size}} 
 {% assign group = p.items | sort: "year" | reverse %}
 {% for paper in group %}
 1. {{paper.citation}}<br>
-DOI:&lt;[{{paper.doi}}]({{paper.doi}})&gt;<br>
+DOI: [{{paper.doi}}]({{paper.doi}})<br>
 Presented: {%if paper.awarded == "TS" -%}
 {% assign pagelink = "/events/symposia/" | append: paper.year | append: ".html" -%}
 [{{paper.year}} Technical Symposium]({{pagelink|absolute_url}})

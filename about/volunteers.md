@@ -6,7 +6,8 @@ layout: page
 There are many ways that you can contribute to SIGCSE through a range of volunteer positions. Most have specified term limits and we regularly seek new people to fill these roles.
 
 This page shows all the volunteer positions. To see a which of these requires Board Approval and their term limits, [visit this page](../policies/approval.html). The people currently in these roles are listed below. Some more information about volunteering for SIGCSE can be found in this [presentation](../files/documents/pdfs/How%20to%20Volunteer%20with%20SIGCSE%202019.pdf).
-##### Technical Symposium
+
+#### Technical Symposium
 {:.mt-4 .border-bottom}
 
 ###### Steering committee
@@ -46,7 +47,7 @@ We have three members in the registration team, approved by the SIGCSE Board. Pa
 
 -   Adam Blank, Caltech, USA (2020 - end of 2022 Symposium)
 
-##### ITiCSE Conference
+#### ITiCSE Conference
 {:.mt-4 .border-bottom}
 
 ###### Steering committee
@@ -69,7 +70,7 @@ We have three members in the registration team, approved by the SIGCSE Board. Pa
 - {{c.name}}, {{c.affiliation}} ({{c.dates}}){% endfor %}
 
 
-##### CompEd Conference
+#### CompEd Conference
 {:.mt-4 .border-bottom}
 
 ###### Steering committee
@@ -78,7 +79,7 @@ We have three members in the registration team, approved by the SIGCSE Board. Pa
 - {{c.name}}, {{c.affiliation-}}
 {% endfor %}
 
-##### ICER Conference
+#### ICER Conference
 {:.mt-4 .border-bottom}
 
 ###### Submissions/database administrator
@@ -92,57 +93,16 @@ We have three members in the registration team, approved by the SIGCSE Board. Pa
 - {{c.name}}, {{c.affiliation}} ({{c.dates}}){% endfor %}
 
 
-##### SIGCSE Organization
+#### SIGCSE Organization
 {:.mt-4 .border-bottom}
+{% comment %}All the info comes from a data file,
+just update the file in the _data directory {% endcomment %}
+{%for c in site.data.organization.committees %}
+###### {{c.name}}
+{% if c.info %}{{c.info}}{% endif %}
+{% for m in c.members -%}
+- {{m.name}}, {{m.affiliation}} ({{m.year}})
+{% endfor %}
+{% endfor %}
 
-###### Doctoral consortium coordinators
-2019
--   Amy Ko, University of Washington, USA (senior)
--   Katrina Falkner, University of Adelaide, Australia (junior)
-
-###### New Educators' Roundtable organizers
-2020
--   Zachary Dodds, Harvey Mudd College, USA (senior)
--   Diane Horton, University of Toronto, Canada (junior)
-
-###### Chairs' Roundtable organizers
-2021
--   Ran Libeskind-Hadas, Harvey Mudd College, USA (senior)
--   Cynthia Lester, Georgia State University, USA (junior)
-
-
-###### Bulletin editors
-
--   Charles Wallace, Michigan Technological University, Houghton, MI, USA (May 1 2021 -- April 30 2024)
--   Jeffrey Miller, University of Southern California, USA (May 1 2019
-    -- April 30 2022)
-
-###### Information Directors
-
-We have three information directors, approved by the SIGCSE Board. The participation as information director is a 3 year term, renewable once. This renewal is upon mutual interest from the information director and approval of the board.
-
-<!-- - Samuel A. Rebelsky, Grinnell College, USA (until March 31 2021) -->
- - Haris Skiadas, Hanover College, USA (until March 31 2022)
-<!-- Newly elected members (Feb 2021). -->
-- David Zabnar, Cornell College, USA (until March 31 2023)
-- Joshua Adams, St. Leo University, USA (until March 31 2024)
-
-
-###### Social Media Coordinator
-
--   Zahra Atiq, Ohio State University, USA (2020-2023)
-
-###### Special Projects/Speaker's Fund/Travel Grant reviewers
-
-- Mary Anne Egan, Siena College, USA (2019 – 2022)
-- Andrew Luxton-Reilly, University of Auckland, New Zealand (2019 – 2022)
-- Laurie Murphy, Pacific Lutheran University, USA (2019 – 2022)
-- Amber Settle, DePaul University, USA (2019 – 2022)
-- Aleata Hubbard Cheuoua, WestEd, USA (2022 – 2025)
-- Kalpathi Subramanian, University of North Carolina, Charlotte, USA (2022 – 2025)
-- Michael C. Robbeloth, Mount Vernon Nazarene University, USA (2022 – 2025)
-
-###### Website administrator
-
--   Manuel A. Pérez-Quiñones sigcse.org administrator (July 1 2019 -- June 30 2022)
 

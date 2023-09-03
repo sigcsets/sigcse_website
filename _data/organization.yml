@@ -1,0 +1,134 @@
+committees:
+
+
+- name: Doctoral consortium coordinators
+  info: 2019
+  members:
+  - name: Amy Ko
+    affiliation: University of Washington, USA
+    year: senior
+  - name: Katrina Falkner
+    affiliation: University of Adelaide, Australia
+    year: junior
+
+- name: New Educators' Roundtable organizers
+  info: 2020
+  members:
+  - name: Zachary Dodds
+    affiliation: Harvey Mudd College, USA
+    year: senior
+  - name: Diane Horton
+    affiliation: University of Toronto, Canada
+    year: junior
+
+- name: Chairs' Roundtable organizers
+  info: 2021
+  members:
+  - name: Ran Libeskind-Hadas
+    affiliation: Harvey Mudd College, USA
+    year: senior
+  - name: Cynthia Lester
+    affiliation: Georgia State University, USA
+    year: junior
+
+
+- name: Bulletin editors
+  members:
+  - name: Charles Wallace
+    affiliation: Michigan Technological University, Houghton, MI, USA
+    year: May 1 2021 -- April 30 2024
+  - name: Jeffrey Miller
+    affiliation: University of Southern California, USA
+    year: May 1 2019 -- April 30 2022
+
+
+
+
+- name: "Information Directors"
+  info: "We have three information directors, approved by the SIGCSE Board. The participation as information director is a 3 year term, renewable once. This renewal is upon mutual interest from the information director and approval of the board."
+  members:
+  - name: Haris Skiadas
+    affiliation: "Hanover College, USA"
+    year: "until March 31 2022"
+  - name: David Zabnar
+    affiliation: "Cornell College, USA"
+    year: until March 31 2023
+  - name: Joshua Adams
+    affiliation: "St. Leo University, USA"
+    year: until March 31 2024
+
+- name: "Social Media Coordinator"
+  members:
+  - name: Zahra Atiq
+    affiliation: Ohio State University, USA
+    year: 2020 -- 2023
+
+
+- name: "Special Projects/Speaker's Fund/Travel Grant reviewers"
+  members:
+  - name: Mary Anne Egan
+    affiliation: "Siena College, USA"
+    year: 2019 -- 2022
+  - name: Andrew Luxton-Reilly
+    affiliation: University of Auckland, New Zealand 
+    year: 2019 -- 2022
+  - name: Laurie Murphy
+    affiliation: Pacific Lutheran University, USA 
+    year: 2019 -- 2022
+  - name: Amber Settle
+    affiliation: DePaul University, USA 
+    year: 2019 -- 2022
+  - name: Aleata Hubbard Cheuoua
+    affiliation: WestEd, USA 
+    year: 2022 -- 2025
+  - name: Kalpathi Subramanian
+    affiliation: University of North Carolina, Charlotte, USA 
+    year: 2022 -- 2025
+  - name: Michael C. Robbeloth
+    affiliation: Mount Vernon Nazarene University, USA 
+    year: 2022 -- 2025
+
+
+- name: "SIGCSE Broadening Participation in Computing Education award committee"
+  members:
+  - name: Mona Ali
+    affiliation: "Northeastern University"
+    year: "2024 -- 2026"
+  - name: Rebecca Dovi
+    affiliation: "CodeVA"
+    year: "2024 -- 2026"
+  - name: Diane Levitt
+    affiliation: "Cornell Tech"
+    year: "2024 -- 2026"
+  - name: Christian Servin
+    affiliation: "El Paso Community College"
+    year: "2024 -- 2026"
+  - name: Andreas Stefik
+    affiliation: "University of Nevada, Las Vegas"
+    year: "2024 -- 2026"
+
+- name: "SIGCSE Outstanding Contribution/Lifetime Service award committee"
+  members:
+  - name: Renée McCauley
+    affiliation: "College of Charleston"
+    year: "2024 -- 2026"
+  - name: Robert McCartney
+    affiliation: "University of Connecticut (Emeritus)"
+    year: "2024 -- 2026"
+  - name: Guido Rößling
+    affiliation: "TU Darmstadt"
+    year: "2024 -- 2026"
+  - name: Henry Walker
+    affiliation: "Grinnell College"
+    year: "2024 -- 2026"
+  - name: Jacqueline Whalley
+    affiliation: "AucklanD University of Technology"
+    year: "2024 -- 2026"
+
+
+- name: Website administrator
+  info: sigcse.org administrator
+  members:
+    - name: "Manuel A. Pérez-Quiñones"
+      affiliation: University of North Carolina, Charlotte, USA 
+      year: July 1 2019 -- present

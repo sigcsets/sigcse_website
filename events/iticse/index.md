@@ -17,14 +17,15 @@ The ITiCSE conference has been held annually since 1996, in late June or early J
 
 ##### Typical ITiCSE Schedule
 
--   Saturday Working groups arrive and meet
--   Sunday Working groups meet, delegates arrive, opening reception
--   Monday Conference opening, Keynote speech, followed by a full day of sessions
--   Tuesday A.M.: Plenary meeting followed by sessions
--   Tuesday P.M.: Tourist excursion(s)
--   Tuesday Evening: Conference Dinner
--   Wednesday Plenary meeting followed by a full day of sessions
--   Poster sessions at coffee breaks Monday through Wednesday.
+- Friday Working groups arrive and meet
+- Saturday Working groups meet, doctoral consortium
+- Sunday Working groups meet, doctorcal consortium continues, delegates arrive, opening reception
+- Monday Conference opening, Keynote speech, followed by a full day of sessions
+- Tuesday A.M.: Plenary meeting followed by sessions
+- Tuesday P.M.: Tourist excursion(s)
+- Tuesday Evening: Conference banquet
+- Wednesday Plenary meeting followed by a full day of sessions
+- Poster sessions at coffee breaks Monday through Wednesday.
 
 ##### Policies
 ###### ITiCSE Specific
@@ -51,25 +52,19 @@ faculty interested in hosting an ITiCSE conference at their institution
 or those interested in serving as program chairs. [Here is the call for
 Expressing Interest in the leadership for future ITiCSE.](interesthosting.html)
 
-For further information about hosting ITiCSE, [here are some
-guidelines](host.html).
+For further information about see the [ITiCSE FAQ](https://iticse.acm.org/faq/) or for additional information about hosting ITiCSE, [here are some guidelines](host.html).
 
 ###### Application for Membership of the Conference Committee
 
-Prospective ITiCSE Conference Committee members are expected to have
-previous ITiCSE involvement including previous conference attendance.
-Working group participation and previous conference organizing
-experience are, while not strictly required, highly recommended.
+Prospective ITiCSE Conference Committee members are expected to have previous ITiCSE involvement including previous conference attendance. Working group participation and previous conference organizing experience are, while not strictly required, highly recommended.
 
-If interested, apply to be a member of the conference committee by
-filling out [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSfskKUSpxSeUQxXvbEi-Q7L0St8_w04U0HhoZJcyT03WeeXGA/viewform).
-See the section on Policies (below) for details on responsibilities for
-the different positions.
-
+If interested, apply to be a member of the conference committee by filling out [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSfskKUSpxSeUQxXvbEi-Q7L0St8_w04U0HhoZJcyT03WeeXGA/viewform).
+See the section on Policies (below) for details on responsibilities for the different positions.
+Also feel free to consult the [ITiCSE FAQ](https://iticse.acm.org/faq/) for additional information about the conference.
 
 ##### Latest ITiCSE conferences
 
-Follow the links to conference web sites and proceedings in the ACM DL. Browse by the <a href="covers.html">proceeding covers</a>.
+Follow these links for the [current ITiCSE Conference](https://iticse.acm.org) or the previous ITiCSE conference web sites and proceedings in the ACM DL. You can even browse by the <a href="covers.html">proceeding covers</a>.
 
 {% assign items = site.data.iticse.conferences | sort: 'year' | reverse %}
 {% for c in items limit:3 %}

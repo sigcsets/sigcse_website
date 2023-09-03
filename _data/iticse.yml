@@ -3,17 +3,17 @@ steering:
     affiliation: "The University of Newcastle, Australia"
     dates: 2021 – 2024
   - name: Michael Caspersen
-    affiliation: It-vest Networking Universities (Informatics Europe)
+    affiliation: "It-vest Networking Universities (Informatics Europe)"
     dates: 2021 – 2024
   - name: Guido Röβling
-    affiliation: TU Darmstadt, Germany
-    dates: 2020 – 2023
+    affiliation: "TU Darmstadt, Germany"
+    dates: 2020 – 2026
   - name: Michael Kӧlling
-    affiliation: King’s College London (ACM Europe)
-    dates: 2018 – 2022
-  - name: Amber Settle
-    affiliation: DePaul University (SIGCSE Board)
-    dates: 2019 – 2022 
+    affiliation: "King’s College London (ACM Europe)"
+    dates: 2018 – 2025
+  - name: Brett A. Becker
+    affiliation: "University College Dublin (SIGCSE Board)"
+    dates: 2022 – 2025
 
 database:
   - name: Stan Kurkovsky

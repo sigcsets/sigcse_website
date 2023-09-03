@@ -5,6 +5,9 @@ reports:
   - board:
     chair: Adrienne Decker (2019 to 2022)
     reports:
+      - year: 2021
+        title: Chair's Report 2021
+        url: "annualReport2021.pdf"
       - year: 2020
         title: Chair's Report 2020
         url: "annualReport2020.pdf"

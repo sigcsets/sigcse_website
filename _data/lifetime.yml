@@ -3,7 +3,6 @@
   awarded: TS
   desc: 'Editor on several curriculum recommendation documents in almost every area of computer science, including Curriculum ''78, 2-year Task Force Report. Service as registrar for many SIGCSE conferences both before and after computerized registration. SIGCSE Technical Symposium chair. Founding ACM Fellow."'
  
- 
 - name: Della Bonnette
   year: 1998
   awarded: TS
@@ -135,6 +134,9 @@
 - name: Renée McCauley
   year: 2023
   awarded: TS
-  affiliation: Professor, Department of Computer Science, College of Charleston, USA
+  rm-affiliation: Professor, Department of Computer Science, College of Charleston, USA
   desc: "For more than two decades of exemplary service to SIGCSE, the computing education community and ACM; her mentoring and encouragement to others; and her leadership in increasing the global impact of SIGCSE."
  
+- name: Chris Stephenson
+  year: 2024
+  desc: "For outstanding lifelong service to K-16+ computing education, making indelible contributions to support computer science educators, establishing computing education standards, and developing computing curricula that will continue to impact generations of children to come."

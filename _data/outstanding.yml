@@ -1,7 +1,11 @@
+- name: Michael Caspersen
+  year: 2024
+  desc: "For far-reaching and long-lasting contributions in computing education research in areas including curriculum development and teacher education; pioneering efforts in establishing computing curricula in Europe and globally; and high-level and impactful policy work on developing and expanding computing programs in schools."
+
 - name: Susan Rodger
   year: 2023
   awarded: TS
-  affiliation: Professor, Department of Computer Science, Duke University, USA
+  rm-affiliation: Professor, Department of Computer Science, Duke University, USA
   desc: "For creating JFLAP, changing how the automata course is taught; and for helping to bring computing to primary and secondary schools through her work with the Alice environment."
 
 - name: Barbara Ericson

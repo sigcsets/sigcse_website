@@ -89,45 +89,9 @@ committees:
     year: 2022 -- 2025
 
 
-- name: "SIGCSE Broadening Participation in Computing Education award committee"
-  members:
-  - name: Mona Ali
-    affiliation: "Northeastern University"
-    year: "2024 -- 2026"
-  - name: Rebecca Dovi
-    affiliation: "CodeVA"
-    year: "2024 -- 2026"
-  - name: Diane Levitt
-    affiliation: "Cornell Tech"
-    year: "2024 -- 2026"
-  - name: Christian Servin
-    affiliation: "El Paso Community College"
-    year: "2024 -- 2026"
-  - name: Andreas Stefik
-    affiliation: "University of Nevada, Las Vegas"
-    year: "2024 -- 2026"
-
-- name: "SIGCSE Outstanding Contribution/Lifetime Service award committee"
-  members:
-  - name: Renée McCauley
-    affiliation: "College of Charleston"
-    year: "2024 -- 2026"
-  - name: Robert McCartney
-    affiliation: "University of Connecticut (Emeritus)"
-    year: "2024 -- 2026"
-  - name: Guido Rößling
-    affiliation: "TU Darmstadt"
-    year: "2024 -- 2026"
-  - name: Henry Walker
-    affiliation: "Grinnell College"
-    year: "2024 -- 2026"
-  - name: Jacqueline Whalley
-    affiliation: "AucklanD University of Technology"
-    year: "2024 -- 2026"
-
 
 - name: Website administrator
-  info: sigcse.org administrator
+  info: sigcse.org administrator.
   members:
     - name: "Manuel A. Pérez-Quiñones"
       affiliation: University of North Carolina, Charlotte, USA 

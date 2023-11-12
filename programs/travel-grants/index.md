@@ -2,9 +2,9 @@
 title: Travel Grant Program
 layout: page
 
-conferenceyear: 2023
-due: December 1, 2022
-notification: January 9, 2023
+conferenceyear: 2024
+due: December 1, 2023
+notification: January 9, 2024
 form: https://docs.google.com/forms/d/e/1FAIpQLSdAz-45JePvreQL5VoYqSE3PXH87UlS4iEamqu5QZnP_clkmQ/viewform?usp=sf_link
 
 comment-image: "/images/people/Henry_Walker.jpg"
@@ -18,7 +18,7 @@ The [list of travel grant winners](awards.html) shows the individuals who have b
 {:.mt4 .border-bottom}
 
 **Travel Grant for:** SIGCSE {{page.conferenceyear}} Technical Symposium<br>
-**Application:** [Travel grant form]({{page.form}})<br>
+**Application:** [Travel grant form]({{page.form}}){:target="_blank"}<br>
 **Apply by:** {{page.due}}<br>
 **Notification by:** {{page.notification}}<br>
 <a href="#more">More details below</a>.

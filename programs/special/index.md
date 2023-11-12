@@ -22,15 +22,7 @@ The application process is relatively informal. Proposal submissions will be con
 
 #### Application Guidelines
 
-To apply for a Special Projects grant:
-
-1. Describe within 1,200 words a narrative (general overview) of the project for which you seek SIGCSE support.
-1. Within the 1,200 word narrative, include a project description (purpose, how the project will be conducted, expected outcome, start date and duration), how the project will provide benefit to the disciplinary community, the plan for sharing the results and encouraging adoption by others, a budget and a brief justification for the budget.
-1. Organize the proposal into sections with headers.
-1. Include references. The reference section will not count toward the 1,200 word limit.
-1. If this proposal was previously submitted, copies of the reviews for previous submissions must be appended to a statement of how the reviewers’ comments have been addressed.  This clearly labeled section will be submitted separately and will not count toward the 1,200 word limit.
-1. The entire proposal, excepting the references, is strictly limited to 1,200 words.
-1. Complete the online [Special Projects Application]({{page.form}}) form.
+To apply for a Special Projects grant [complete the online Special Projects Application form](https://forms.gle/LMPnAjAMtPmJQ96RA){:target="_blank"}.
 
 
 Please note that:

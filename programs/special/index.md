@@ -22,8 +22,7 @@ The application process is relatively informal. Proposal submissions will be con
 
 #### Application Guidelines
 
-To apply for a Special Projects grant [complete the online Special Projects Application form](https://forms.gle/LMPnAjAMtPmJQ96RA){:target="_blank"}.
-
+Complete the online [Special Projects Application](https://forms.gle/4PSvsxUGYreEzGj89){:target="_blank"} form by the November 15th or May 15th deadline.
 
 Please note that:
 

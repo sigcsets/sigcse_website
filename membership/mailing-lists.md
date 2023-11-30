@@ -52,7 +52,9 @@ To be added to or removed from the SIGCSE-members, SIGCSE-volunteers, or SIGCSE-
 
 - Haris Skiadas, Associate Professor of Mathematics and Computer Science - Hanover College, Hanover, IN 47243 USA
 - David Zabner, Ph.D. Student, Education Department - Tufts University, Medford, MA, USA
+{% comment %}
 - Joshua Adams, Assistant Professor of Computer Information Systems - Saint Leo University, St. Leo, FL 33574 USA
+{% endcomment %}
 
 #### <a name="#guidelines">Guidelines for Posting to the SIGCSE-members List</a>
 {:.mt4 .border-bottom}

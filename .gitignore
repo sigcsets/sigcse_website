@@ -3,6 +3,7 @@ _site
 _documentation
 _pending
 _unused
+new
 .DS_Store
 .jekyll-cache
 .jekyll-metadata

@@ -9,7 +9,7 @@ RESPECT, recognized for its dedication to explore and promote diversity, equity,
 
 This integration underscores the commitment of both organizations to drive positive change and create an inclusive environment within the realm of computing education. By combining resources, expertise, and networks, ACM SIGCSE and the RESPECT Conference aim to elevate their collective impact on shaping the future of computer science education.
 
-The RESPECT Conference, now an integral part of ACM SIGCSE's conference series, will continue to provide a platform for researchers, educators, and practitioners to engage in meaningful discussions, present cutting-edge research, and share best practices that contribute to creating a more equitable and inclusive computing education landscape.
+The RESPECT Conference will continue to provide a platform for researchers, educators, and practitioners to engage in meaningful discussions, present cutting-edge research, and share best practices that contribute to creating a more equitable and inclusive computing education landscape.
 
 
 ##### Latest RESPECT conferences

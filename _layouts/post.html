@@ -1,10 +1,12 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-bs-theme="auto">
   <head>
+    <script src='{{"/assets/js/color-modes.js"|absolute_url}}'></script>
+
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="ACM SIGCSE based on Blog Template · Bootstrap v5.3 by Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="author" content="MAPQ">
     <title>ACM SIGCSE</title>
 
     {% include favicon.html %}
@@ -12,35 +14,40 @@
 
   </head>
   <body>
+    {% include svg-light.html %}
 
     <div class="container">
       {% include page-header.html %}
-      {% include breadcrumbs.html %} <!--capitalize=1-->
-    </div>
+      {% include breadcrumbs.html %}
+    </div><!-- container -->
 
-    <main role="main" class="container mt-2">
-      <div class="row">
-        <div class="col-md-8 blog-main">
 
-          <div class="blog-post">
-            <h2 class="blog-post-title pt-2 border-bottom">{{page.title}}</h2>
+
+    <main class="container">
+      <div class="row g-5">
+        <div class="col-md-8">
+            <h4 class="fst-italic border-bottom">{{page.title}}</h4>
             <p class="blog-post-meta">{{page.date | date: '%B %d, %Y' }}
                {% if page.author == true %}by {{page.author}}{% endif %}</p>
             {{content}}
-          </div><!-- /.blog-post -->
-        </div><!-- /.blog-main -->
+        </div>
 
-        {% include sidebar.html %}
-      </div><!-- /.row -->
+        <div class="col-md-4">
+          <div class="position-sticky" style="top: 2rem;">
+            {% include sidebar.html %}
+          </div>
+        </div> <!-- col-md-4 -->
 
-    </main><!-- /.container -->
+      </div> <!-- row g-5 -->
+    </main>
 
-    <footer class="blog-footer">
-      <p><small><i>Based on Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.&nbsp;•&nbsp;
-      This site was last updated on {{ "now" | date: "%Y-%m-%d" }}.</i></small></p>
 
-      <p><a href="#Top">Back to top</a></p>
+    <footer class="py-3 text-center text-body-secondary bg-body-tertiary">
+      <p class="mb-0"><a href="#Top">Back to top</a>&nbsp;•&nbsp;<i>Site last updated on {{ "now" | date: "%Y-%m-%d" }}</i>&nbsp;•&nbsp;Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a></p>
     </footer>
+
+    <script src='{{"/assets/js/bootstrap.bundle.min.js"|absolute_url}}'>
+    </script>
 
     {% include javascript.html %}
     <script>

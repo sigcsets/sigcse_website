@@ -26,7 +26,7 @@ database:
 next-conference:
 - title: ITiCSE 2024
   start-date: 2024-07-08
-  dates: "July 8-10, 2024"
+  dates: "8-10 July 2024"
   location: "Milan, Italy"
   website: https://iticse.acm.org/2024/
 

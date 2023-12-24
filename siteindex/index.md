@@ -46,7 +46,7 @@ the individual pages in the conferences folder, those like these
 {% endcomment %}
 {%- if node.title -%}
 * <a href="{{ node.url | absolute_url }}">{{ node.title }}</a>
-{%- endif -%}
+{% endif -%}
 {% assign last = first %}
 {%- endif -%}
 {% endfor -%}

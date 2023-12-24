@@ -2,7 +2,8 @@
 title: Home Page
 layout: home
 ---
-##### Latest Content
+#### Latest Content
+{:.fst-italic}
 
 ###### News stories
 {:.mt-4 .border-bottom}

@@ -1,10 +1,12 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-bs-theme="auto">
   <head>
+    <script src='{{"/assets/js/color-modes.js"|absolute_url}}'></script>
+
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="ACM SIGCSE based on Blog Template · Bootstrap v5.3 by Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="author" content="MAPQ">
     <title>ACM SIGCSE</title>
 
     {% include favicon.html %}
@@ -12,43 +14,49 @@
 
   </head>
   <body>
-
+    {% include svg-light.html %}
 
     <div class="container">
       {% include page-header.html %}
+    </div><!-- container -->
 
-      <div class="card-group">
+    <main class="container">
+      <div class="row mb-2">
         {% for banner in site.data.banners %}
-          <div class="card">
-            <!-- 239 x 180 -->
-            <img class="card-img-top" src="{{banner.image|absolute_url}}" alt="{{banner.imagealt}}">
-            <div class="card-body">
-              <h5 class="card-title">{{banner.title}}</h5>
-              <p class="card-text">{{banner.byline}}<br>
-                <small class="text-muted"><a href="{{banner.url}}">More...</a></small></p>
+          <div class="col-md-4">
+            <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-350 position-relative">
+              <div class="col p-4 d-flex flex-column position-static">
+                <img class="card-img-top" src="{{banner.image|absolute_url}}" alt="{{banner.imagealt}}">
+                <h4 class="mb-0">{{banner.title}}</h4>
+                <small class="fw-light">{{banner.byline}}<br>
+                <a href="{{banner.url}}" class="fw-light">
+                  More...
+                </a></small>
+              </div>
             </div>
           </div>
         {% endfor %}
-      </div>
+      </div> <!-- row mb-2 -->
 
-      <main role="main" class="container mt-2">
-        <div class="row">
-          <div class="col-md-8 blog-main">
-            {{content}}
-          </div><!-- /.blog-main -->
+      <div class="row g-5">
+        <div class="col-md-8">
+          {{content}}
+        </div>
 
-          {% include sidebar-home.html %}
+        <div class="col-md-4">
+          <div class="position-sticky" style="top: 2rem;">
+            {% include sidebar-home.html %}
+          </div>
+        </div> <!-- col-md-4 -->
+      </div> <!-- row g-5 -->
+    </main>
 
-        </div><!-- /.row -->
-      </main>
-    </div><!-- /.container -->
-
-    <footer class="blog-footer">
-      <p><small><i>Based on Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.&nbsp;•&nbsp;
-      This site was last updated on {{ "now" | date: "%Y-%m-%d" }}.</i></small></p>
-
-      <p><a href="#Top">Back to top</a></p>
+    <footer class="py-3 text-center text-body-secondary bg-body-tertiary">
+      <p class="mb-0"><a href="#Top">Back to top</a>&nbsp;•&nbsp;<i>Site last updated on {{ "now" | date: "%Y-%m-%d" }}</i>&nbsp;•&nbsp;Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a></p>
     </footer>
+
+    <script src='{{"/assets/js/bootstrap.bundle.min.js"|absolute_url}}'>
+    </script>
 
     {% include javascript.html %}
     <script>

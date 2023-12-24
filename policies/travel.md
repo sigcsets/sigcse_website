@@ -41,13 +41,6 @@ non-Board member volunteers. However, volunteers should inquire with the
 SIGCSE Treasurer regarding informal approval by the Board before the
 volunteers submit their Travel Approval Form.
 
-##### SIGCSE Bulletin Editor(s)
-Full travel support is provided for one editor to attend each Board
-meeting, typically held twice a year. If a Board meeting is held in
-conjunction with a SIGCSE conference, the editor will receive
-reimbursement for travel costs to and from the meeting site and up to
-two nights of hotel accommodation to attend the meeting.
-
 ##### ACM Inroads Editor(s)
 Full travel support is provided for one editor to attend the
 February/March Board meeting, usually held in conjunction with the

@@ -1,5 +1,5 @@
 ---
-title: Travel Grant Program
+title: Henry Walker Travel Grant Program
 layout: page
 
 conferenceyear: 2024
@@ -10,7 +10,7 @@ form: https://docs.google.com/forms/d/e/1FAIpQLSdAz-45JePvreQL5VoYqSE3PXH87UlS4i
 comment-image: "/images/people/Henry_Walker.jpg"
 ---
 
-SIGCSE will award up to five grants per year to defray travel expenses of faculty attending the annual SIGCSE Symposium. Travel Grant award winners will receive complimentary Symposium registration plus up to $500 towards travel expenses. We are particularly interested in encouraging attendance by new faculty and/or faculty who have never been able to attend previously.
+SIGCSE will award up to five grants per year to defray travel expenses of faculty attending the annual SIGCSE Symposium. The Henry Walker Travel Grant Program award winners will receive complimentary Symposium registration plus up to $500 towards travel expenses. We are particularly interested in encouraging attendance by new faculty and/or faculty who have never been able to attend previously.
 
 The [list of travel grant winners](awards.html) shows the individuals who have benefited from this fund.
 

@@ -8,6 +8,10 @@ comment: name as bulletin.vol.num.pdf, we append the vol and num
 comment: from the entry
 bulletin_path: "bulletin/bulletin."
 bulletin:
+    - month: "January 2024"
+      vol: 56
+      num: 1
+
     - month: "October 2023"
       vol: 55
       num: 4

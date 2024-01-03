@@ -1,6 +1,7 @@
 ---
 title: Technical Symposium Steering Committee Membership and Terms of Reference
 layout: page
+todo: include ts-feedback-sc@sigcse.org e-mail address
 ---
 
 
@@ -52,7 +53,7 @@ Steering committee members are expected to attend the conference at their own ex
 
 
 ##### Proposal of initial membership
-[Initial members and terms]
+Initial members and terms:
 
 * Member 1 — 2022-2023 [could renew for one additional 3-year term]
 * Member 2 — 2022-2024 [could renew for one additional 3-year term]

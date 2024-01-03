@@ -59,8 +59,14 @@ For further information about see the [ITiCSE FAQ](https://iticse.acm.org/faq/) 
 Prospective ITiCSE Conference Committee members are expected to have previous ITiCSE involvement including previous conference attendance. Working group participation and previous conference organizing experience are, while not strictly required, highly recommended.
 
 If interested, apply to be a member of the conference committee by filling out [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSfskKUSpxSeUQxXvbEi-Q7L0St8_w04U0HhoZJcyT03WeeXGA/viewform).
-See the section on Policies (below) for details on responsibilities for the different positions.
+See the ITICSE section on Policies (above) for details on responsibilities for the different positions.
 Also feel free to consult the [ITiCSE FAQ](https://iticse.acm.org/faq/) for additional information about the conference.
+
+
+###### ITiCSE History
+
+[A History of SIGCSE Events](https://users.cs.duke.edu/~rodger/sigcseconferences.html)
+(maintained by Susan Rodger)
 
 ##### Latest ITiCSE conferences
 
@@ -72,8 +78,3 @@ Follow these links for the [current ITiCSE Conference](https://iticse.acm.org) o
     {% include item.md path=fn %}
 {% endfor %}
 - <a href="conferences.html"><i>View all ITiCSE conferences</i></a>
-
-###### ITiCSE History
-
-[A History of SIGCSE Events](https://users.cs.duke.edu/~rodger/sigcseconferences.html)
-(maintained by Susan Rodger)

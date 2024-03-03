@@ -1,13 +1,18 @@
-date: "February 2022"
-members: "2,741"
-countries: 63
+date: "January 2023"
+members: "2,559"
+countries: 66
 
 categories:
   - name: ACM Professional Members
-    percent: "62%"
-  - name: ACM Student Members
-    percent: "4%"
-  - name: SIG-Only Student Members
-    percent: "10%"
+    count: 1649
+    percent: "64%"
   - name: SIG-Only Members
-    percent: "25%"
+    count: 597
+    percent: "23%"
+  - name: ACM Student Members
+    count: 87
+    percent: "3%"
+  - name: SIG-Only Student Members
+    count: 226
+    percent: "9%"
+

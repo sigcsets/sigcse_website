@@ -1,18 +1,13 @@
 <h4 class="fst-italic">Upcoming SIGCSE Events</h4>
 <ul class="list-unstyled">
 
-  {% comment %}There is probably a better way to do this, but
-  for now, here it is. Each conference has a next-conference
-  entry that points to the upcoming conference. This code
-  creates a collection of all upcoming conferences, that is the
-  next one for each of our conferences. Then is sorts those
-  upcoming conferences by start-date and displays them in the side
-  bar.{% endcomment %}
+  {% comment %}
+  There is probably a better way to do this, but for now, here it is. Each conference has a next-conference entry that points to the upcoming conference. This code creates a collection of all upcoming conferences, that is the next one for each of our conferences. Then is sorts those upcoming conferences by start-date and displays them in the side bar.
+  {% endcomment %}
 
-  {% assign meta = "comped, symposia, iticse, icer, respect" | split: ", " %}
   {% assign collections = "" | split: ',' %}
-  {% for name in meta %}
-    {% assign conf = site.data.[name].next-conference | first %}
+  {% for evt in site.data.events %}
+    {% assign conf = site.data.[evt.name].next-conference | first %}
     {% assign collections = collections | push: conf %}
   {% endfor %}
 

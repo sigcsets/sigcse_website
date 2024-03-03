@@ -3,6 +3,13 @@ title: Chair's Annual Report
 layout: page
 reports:
   - board:
+    chair: Alison Clear (2022 to 2025)
+    reports:
+      - year: 2023
+        title: Chair's Report 2023
+        url: "annualReport2023.pdf"
+
+  - board:
     chair: Adrienne Decker (2019 to 2022)
     reports:
       - year: 2021

@@ -5,14 +5,7 @@ layout: page
 
 The Technical Symposium on Computer Science Education is organized by the ACM Special Interest Group on Computer Science Education (SIGCSE) and is the organization’s flagship conference. It has been held annually in February or March in North America since 1970. The SIGCSE organization provides a forum for educators to discuss issues related to the development, implementation, and/or evaluation of computing programs, curricula, and courses, as well as syllabi, laboratories, and other elements of teaching and pedagogy.
 
-The Technical Symposium addresses problems common among educators
-working to develop, implement and/or evaluate computing programs,
-curricula, and courses. The symposium provides a forum for sharing new
-ideas for syllabi, laboratories, and other elements of teaching and
-pedagogy, at all levels of instruction. The symposium provides a diverse
-selection of technical sessions and opportunities for learning and
-interaction. If you have never been to one, do yourself a favor and go.
-You will not regret it!
+The Technical Symposium addresses problems common among educators working to develop, implement and/or evaluate computing programs, curricula, and courses. The symposium provides a forum for sharing new ideas for syllabi, laboratories, and other elements of teaching and pedagogy, at all levels of instruction. The symposium provides a diverse selection of technical sessions and opportunities for learning and interaction. If you have never been to one, do yourself a favor and go. You will not regret it!
 
 ###### Travel Grants
 SIGCSE will award up to five travel grants per year to defray expenses

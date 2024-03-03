@@ -13,7 +13,7 @@ The SIGCSE organization annually sponsors the following events:
     around Europe, with approximately 200 attendees.
 - [CompEd - ACM Global Computing Education Conference](comped/index.html), a new conference held outside of
     North America and Europe, starting in 2019.
-- (new!) [RESPECT - ACM Conference for Research on Equitable and Sustained Participation in Engineering, Computing, and Technology](respect/index.html), usually held in May with approximately 150 attendees.
+- **(new!)** [RESPECT - ACM Conference for Research on Equitable and Sustained Participation in Engineering, Computing, and Technology](respect/index.html), usually held in May with approximately 150 attendees.
 - [Doctoral Consortium (DC)](dc.html), usually held in
     conjunction with ICER, with approximately 20 attendees.
 - [Working Groups](workinggroups/index.html), held in conjunction

@@ -5,7 +5,7 @@ layout: page
 
 #### Mission Statement
 
-The scope of SIGCSE is to provide a global forum for educators to discuss research and practice related to the learning, and teaching of computing, the development, implementation, and evaluation of computing programs, curricula, and courses at all education levels, as well as broad participation, educational technology, instructional spaces, and other elements of teaching and pedagogy related to computing.
+ACM SIGCSE is the leading global community of professionals, researchers, educators, teachers, and students interested in understanding and improving computing education. We provide opportunities and resources to advance educational research and practice related to designing, developing, and implementing pedagogy, curricula, programs, and tools at all levels in all types of educational settings. SIGCSE values diverse perspectives. We welcome and work to include the participation of all societies, people, and demographics in computing education.
 
 #### Demographics
 

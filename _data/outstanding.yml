@@ -11,11 +11,13 @@
 - name: Barbara Ericson
   year: 2022
   awarded: TS
+  rm-affiliation: University of Michigan
   desc: "For developing, evaluating, and disseminating methods to make computing education more effective, efficient, and accessible, and for national leadership in computing education measurement and public policy."
 
 - name: Stephen Edwards
   year: 2021
   awarded: TS
+  rm-affiliation: Virginia Tech
   desc: "For innovating automated feedback systems with Web-CAT, transforming software testing within computer science curricula, and exemplifying leadership in the computer science education research community."
 
 - name: Lauri Malmi
@@ -26,6 +28,7 @@
 - name: Mark Guzdial
   year: 2019
   awarded: TS
+  rm-affiliation: University of Michigan
   desc: "For helping to create the field of computing education research, designing and evaluating innovative curricula and pedagogical methods, mentoring the field, and promoting computing as a literacy for all."
 
 - name: Tim Bell

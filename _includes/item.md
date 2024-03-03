@@ -10,10 +10,10 @@
         **Doi-{{forloop.index}}**: [{{p.doi}}]({{p.doi}})<br>
     {% endfor %}
 {% elsif include.home -%}
-- [**{{c.title}}**]({{include.path|absolute_url}}): {{c.location}}, {{c.dates}}.
+- [{{c.title}}]({{include.path|absolute_url}}): {{c.location}}, {{c.dates}}.
 {% else -%}
 {% comment %} FULL LISTING {% endcomment %}
-- [**{{c.title}}**]({{include.path|absolute_url}}): {{c.location}}, {{c.dates}}.<br>
+- [{{c.title}}]({{include.path|absolute_url}}): {{c.location}}, {{c.dates}}.<br>
 {%if c.website %}<a href="{{c.website}}" target="_blank">{{c.website}}</a><br>{%endif-%}
 Proceedings:
     {%for p in c.proceedings -%}

@@ -18,17 +18,17 @@ This page shows all the volunteer positions. To see a which of these requires Bo
 
 ###### Site selection committee chairs
 
--   Tracy Camp, Computing Research Association, USA (senior chair: 2019-2023)
--	Laurie Smith King, College of the Holy Cross, USA (junior chair: 2020-2023)
+- Laurie Smith King, College of the Holy Cross, USA (senior chair: 2023-2026)
+- Jodi Tims, Northeastern University, USA (junior chair: 2023-2026)
 
 ###### Site selection pool members
 
-- Steve Wolfman, The University of British Columbia
+- Tracy Camp, Computing Research Association, USA
 - Adrienne Decker, University at Buffalo, USA
 - John Dougherty, Haverford College, USA
 - Scott McElfresh, Christopher Newport University, USA
 - Kristine Nagel, Georgia Tech, USA
-- Jodi Tims, Northeastern University, USA
+- Steve Wolfman, The University of British Columbia
 
 ###### Exhibitor liaisons
 
@@ -95,13 +95,15 @@ We have three members in the registration team, approved by the SIGCSE Board. Pa
 
 #### SIGCSE Organization
 {:.mt-4 .border-bottom}
-{% comment %}All the info comes from a data file,
-just update the file in the _data directory {% endcomment %}
+{% comment %}
+All the info comes from a data file,
+just update the file in the _data directory 
+{% endcomment %}
 {%for c in site.data.organization.committees %}
 ###### {{c.name}}
 {% if c.info %}{{c.info}}{% endif %}
 {% for m in c.members -%}
-- {{m.name}}, {{m.affiliation}} ({{m.year}})
+- {{m.name}}{% if m.affiliation%}, {{m.affiliation}}{% endif %}{%if m.year %} ({{m.year}}){% endif %}
 {% endfor %}
 {% endfor %}
 

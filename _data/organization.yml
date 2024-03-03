@@ -85,6 +85,23 @@ committees:
     affiliation: Mount Vernon Nazarene University, USA 
     year: 2022 -- 2025
 
+- name: Awards committee
+  members:
+  - name: Mona Ali
+  - name: Lina Battestilli
+  - name: Dennis J Bouvier
+  - name: Tony Clear
+  - name: Michelle Craig
+  - name: Becca Dovi
+  - name: Dianne Levitt
+  - name: Robert McCartney
+  - name: Leo Porter
+  - name: Guido Rößling
+  - name: Christian Servin
+  - name: Andreas Stefik
+  - name: Henry Walker
+  - name: Jacqueline Whalley
+  - name: 1 Anonymous
 
 
 - name: Website administrator

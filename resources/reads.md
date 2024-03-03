@@ -8,11 +8,11 @@ SIGCSE Reads is a community-led project that allows a growing community of SIGCS
 
 ### 2024
 
-By popular vote, the novella The Lifecycle of Software Objects by Ted Chiang.
+By popular vote, the novella _The Lifecycle of Software Objects_ by Ted Chiang.
 
-For our non-fiction option, a dive into what we can do individually to make our community more inclusive Sister Resisters: Mentoring Black Women on Campus <https://www.hepg.org/hep-home/books/sister-resisters> by Janie Ward and Tracy Robinson-Wood
+For our non-fiction option, a dive into what we can do individually to make our community more inclusive _Sister Resisters: Mentoring Black Women on Campus_ by Janie Ward and Tracy Robinson-Wood <https://www.hepg.org/hep-home/books/sister-resisters>.
 
-And for a quicker read, the short story "Dolly" by Elizabeth Bear (available online <https://apex-magazine.com/short-fiction/dolly/>)
+And for a quicker read, the short story _Dolly_ by Elizabeth Bear (available online <https://apex-magazine.com/short-fiction/dolly/>).
 
 
 ### 2023

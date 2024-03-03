@@ -3,12 +3,15 @@ steering:
   affiliation: University College Dublin, Ireland (Chair)
 - name: Susan Rodger
   affiliation: Duke University, USA
-- name: Ming Zhang
-  affiliation: Peking University, China
-- name: Lillian (Boots) Cassel
-  affiliation: Villanova, USA
 - name: Alison Clear
-  affiliation: Eastern Institute of Technology, USA
+  affiliation: Eastern Institute of Technology, NZ
+- name: Dan Garcia
+  affiliation: UC Berkeley
+- name: Venkatesh Choppella
+  affiliation: IIIT Hyderabad
+- name: Ethel Tshukudu
+  affiliation: University of Botswana
+
 
 next-conference:
 - title: CompEd 2025

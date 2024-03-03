@@ -4,17 +4,63 @@ comment:
     location: "Pittsburgh, PA"
     dates: "February 26 to March 01, 2025"
 
-steering:
-- name: Sarah Heckman
-  affiliation: NC State University, NC (chair)
-- name: Steve Wolfman
-  affiliation: The University of British Columbia (secretary)
-- name: Leen-Kiat Soh
-  affiliation: University of Nebraska-Lincoln
-- name: Kurt Eiselt
-  affiliation: UC Davis
-- name: Adrienne Decker
-  affiliation: University at Buffalo, NY (SIGCSE board liaison)
+committees:
+- name: Steering committee
+  members:
+  - name: Sarah Heckman
+    affiliation: NC State University, NC (chair)
+  - name: Steve Wolfman
+    affiliation: The University of British Columbia (secretary)
+  - name: Leen-Kiat Soh
+    affiliation: University of Nebraska-Lincoln
+  - name: Kurt Eiselt
+    affiliation: UC Davis
+  - name: Adrienne Decker
+    affiliation: University at Buffalo, NY (SIGCSE board liaison)
+
+- name: Site selection committee chairs
+  members:
+  - name: Laurie Smith King
+    affiliation: "College of the Holy Cross, USA (senior chair: 2023-2026)"
+  - name: Jodi Tims
+    affiliation: "Northeastern University, USA (junior chair: 2023-2026)"
+
+- name: Site selection pool members
+  members:
+  - name: Tracy Camp
+    affiliation: "Computing Research Association, USA"
+  - name: Adrienne Decker
+    affiliation: "University at Buffalo, USA"
+  - name: John Dougherty
+    affiliation: "Haverford College, USA"
+  - name: Scott McElfresh
+    affiliation: "Christopher Newport University, USA"
+  - name: Kristine Nagel
+    affiliation: "Georgia Tech, USA"
+  - name: Steve Wolfman
+    affiliation: "The University of British Columbia"
+
+- name: Exhibitor liaisons
+  members:
+  - name: Beth Hawthorne
+    affiliation: "Rider University, USA (2021-2023, term 1)"
+  - name: Jodi Tims
+    affiliation: "Northeastern University, USA (2021-2023, term 2)"
+
+- name: Registration team
+  info: We have three members in the registration team, approved by the SIGCSE Board. Participation in the registration team is a 3 year term, renewable once. This renewal is upon mutual interest from the team member and approval of the board.
+  members:
+  - name: Rachelle Kristof Hippler
+    affiliation: "Baldwin Wallace University, USA (2020-2022, term 1)"
+  - name: Sarah Heckman
+    affiliation: "North Carolina State University, USA (2021-2023, term 1)"
+  - name: Briana Morrison
+    affiliation: "University of Nebraska Omaha, Omaha, NE (2022-2024, term 1)"
+
+- name: Web/Data administrator
+  members:
+  - name: Adam Blank
+    affiliation: "Caltech, USA (2020 - end of 2022 Symposium)"
 
 next-conference:
 - title: Technical Symposium 2024

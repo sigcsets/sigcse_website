@@ -12,7 +12,7 @@ Below is the list of the SIGCSE Test of Time Award  winners.
 {% assign awards = site.data.testoftime | sort: 'year' | reverse %}
 {% for paper in awards %}
 ##### {{paper.year}}: {{paper.title}}
-> {{paper.reference}} DOI: <a href="{{paper.doi}}">{{paper.doi}}</a>
+> {{paper.citation}} DOI: <a href="{{paper.doi}}">{{paper.doi}}</a>
 {% endfor %}
 
 

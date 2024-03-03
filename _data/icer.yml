@@ -1,4 +1,7 @@
-steering:
+committees:
+
+- name: Steering committee
+  members:
   - name: Sally Fincher
     affiliation: University of Kent, UK
     dates: 2020 – 2021
@@ -14,6 +17,13 @@ steering:
   - name: Leo Porter
     affiliation: UC San Diego, USA (SIGCSE Board)
     dates: 2020 – 2022
+
+- name: Submissions/database administrator
+  members:
+  - name: Ray Pettit
+    affiliation: "University of Virginia , USA (2019-2021)"
+  - name: Simon
+    affiliation: "University of Newcastle, Australia (- 2019)"
 
 next-conference:
 - title: "ICER '24"

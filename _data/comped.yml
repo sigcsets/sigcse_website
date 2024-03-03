@@ -1,16 +1,19 @@
-steering:
-- name: Brett Becker
-  affiliation: University College Dublin, Ireland (Chair)
-- name: Susan Rodger
-  affiliation: Duke University, USA
-- name: Alison Clear
-  affiliation: Eastern Institute of Technology, NZ
-- name: Dan Garcia
-  affiliation: UC Berkeley
-- name: Venkatesh Choppella
-  affiliation: IIIT Hyderabad
-- name: Ethel Tshukudu
-  affiliation: University of Botswana
+committees:
+
+- name: Steering Committee
+  members:
+  - name: Brett Becker
+    affiliation: University College Dublin, Ireland (Chair)
+  - name: Susan Rodger
+    affiliation: Duke University, USA
+  - name: Alison Clear
+    affiliation: Eastern Institute of Technology, NZ
+  - name: Dan Garcia
+    affiliation: UC Berkeley
+  - name: Venkatesh Choppella
+    affiliation: IIIT Hyderabad
+  - name: Ethel Tshukudu
+    affiliation: University of Botswana
 
 
 next-conference:

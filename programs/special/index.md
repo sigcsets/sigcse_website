@@ -4,13 +4,14 @@ layout: page
 form: https://forms.gle/Zf2XV5kSaMxSQgsTA
 ---
 
+
 **Deadlines: May 15th and November 15th**
 
 Since {{site.special_first_yr}} SIGCSE has awarded a limited number of Special Projects Grants each year. These grants help SIGCSE members investigate and introduce new ideas in the learning and teaching of computing. Projects must provide some clear benefit to the wider disciplinary community in the form of new knowledge, developing or sharing of a resource, or good practice in learning, teaching, or assessment.
 
 The list of Special Project Awards displays an amazing depth and breadth of productive work performed for the computing education community through the work of the investigators and the support of SIGCSE. Click on the year below to see the awards made in that year.
 
-{% assign items = site.pages | where: "event","special-award" | sort: 'year' %}
+{% assign items = site.pages | where: "page","special-project" | sort: 'year' %}
 **Awards made on:** [&nbsp;{% for idx in items %}
 {% if forloop.last == true %}[{{idx.year}}]({{idx.year}}.html)&nbsp;]{% else %}[{{idx.year}}]({{idx.year}}.html)&nbsp;|&nbsp;{%endif%}{% endfor %}
 

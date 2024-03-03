@@ -1,6 +1,5 @@
 committees:
 
-
 - name: Doctoral consortium coordinators
   info: 2019
   members:
@@ -104,8 +103,7 @@ committees:
   - name: 1 Anonymous
 
 
-- name: Website administrator
-  info: sigcse.org administrator.
+- name: Website (sigcse.org) administrator
   members:
     - name: "Manuel A. Pérez-Quiñones"
       affiliation: University of North Carolina, Charlotte, USA 

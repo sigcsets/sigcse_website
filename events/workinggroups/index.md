@@ -25,7 +25,7 @@ Signing up to a Working Group is a commitment to hard work ... but rewarding and
 {% assign first = node.year %}
 {% if last != first %}
 {% if forloop.first == true %}{%else%}
-[↑ Back to top](#Index)
+[↑ Back to index](#Index) or [top](#Top)
 {% endif %}
 <a name="{{first}}"></a>
 ##### {{first}}
@@ -34,6 +34,6 @@ Signing up to a Working Group is a commitment to hard work ... but rewarding and
 - {{node.authors}}. {{node.year}}. _{{node.title}}_. In {{node.proceedings}}\
 [{{node.doi}}]({{node.doi}})
 {% endfor %}
-[↑ Back to top](#Index)
+[↑ Back to index](#Index) or [top](#Top)
 
 

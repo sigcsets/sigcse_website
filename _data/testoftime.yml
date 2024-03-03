@@ -1,20 +1,20 @@
 - year: 2020
   title: An object-oriented program development environment for the first programming course
-  reference: "Michael Kölling and John Rosenberg. 1996. An object-oriented program development environment for the first programming course. In Proceedings of the twenty-seventh SIGCSE technical symposium on Computer science education (SIGCSE ‘96), Karl J. Klee (Ed.). ACM, New York, NY, USA, 83-87."
+  citation: "Michael Kölling and John Rosenberg. 1996. An object-oriented program development environment for the first programming course. In <i>Proceedings of the twenty-seventh SIGCSE technical symposium on Computer science education (SIGCSE ‘96)</i>, Karl J. Klee (Ed.). ACM, New York, NY, USA, 83-87."
   doi: https://doi.org/10.1145/236452.236514
 
 - year: 2021
   title: The incredible shrinking pipeline
-  reference: "Tracy Camp. 1997. The incredible shrinking pipeline. Commun. ACM 40, 10 (Oct. 1997), 103–110."
+  citation: "Tracy Camp. 1997. The incredible shrinking pipeline. <i>Communications of the ACM</i>. 40, 10 (Oct. 1997), 103–110."
   doi: https://doi.org/10.1145/262793.262813
 
 - year: 2022
   title: "Connecting K-16 Curriculum & Policy: Making Computer Science Engaging, Accessible, and Hospitable for Underrepresented Students"
-  reference: "Joanna Goode. 2010. Connecting K-16 Curriculum & Policy: Making Computer Science Engaging, Accessible, and Hospitable for Underrepresented Students. In Proceedings of the 41st ACM technical symposium on Computer science education (SIGCSE '10). Association for Computing Machinery, New York, NY, USA, 22–26."
+  citation: "Joanna Goode. 2010. Connecting K-16 Curriculum & Policy: Making Computer Science Engaging, Accessible, and Hospitable for Underrepresented Students. In <i>Proceedings of the 41st ACM technical symposium on Computer science education (SIGCSE '10)</i>. Association for Computing Machinery, New York, NY, USA, 22–26."
   doi: https://doi.org/10.1145/1734263.1734272
 
 - year: 2024
   title: "Evaluating a new exam question: Parsons problems"
-  reference: "Paul Denny, Andrew Luxton-Reilly, and Beth Simon. 2008. Evaluating a new exam question: Parsons problems. In Proceedings of the Fourth international Workshop on Computing Education Research (ICER '08). Association for Computing Machinery, New York, NY, USA, 113–124."
+  citation: "Paul Denny, Andrew Luxton-Reilly, and Beth Simon. 2008. Evaluating a new exam question: Parsons problems. In <i>Proceedings of the Fourth international Workshop on Computing Education Research (ICER '08)</i>. Association for Computing Machinery, New York, NY, USA, 113–124."
   doi: https://doi.org/10.1145/1404520.1404532
 

@@ -6,7 +6,7 @@
 {% assign first_yr = 0 %}
 {% assign last_yr = 0 %}
 
-{% assign items = site.pages | where: "event","special-award" | sort: 'year' %}
+{% assign items = site.pages | where: "page","special-project" | sort: 'year' %}
 {% for c in items %}
     {% if forloop.first == true %}
         {% assign first_yr = c.year %}
@@ -35,7 +35,8 @@
 
 <p>Here is a list of the awards given in {{page.year}}.</p>
 
-{% for aw in page.special-awards %}
+{% assign awards = site.data.specialprojects | where:'year', page.year %}
+{% for aw in awards %}
   <h5>{{aw.title}}</h5>
   <p>{% for au in aw.authors %}
     {{au.name}}{% if au.affiliation %}, {{au.affiliation}}{% endif %}{% if au.email %} &lt;<a href="mailto:{{au.email}}">{{au.email}}</a>&gt;{% endif %}<br/>

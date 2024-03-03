@@ -2,7 +2,6 @@
 title: SIGCSE Data Update
 layout: blank 
 ---
-<a name="top" id="top"></a>
 
 This is all of the data used in the site, displayed in one long page. The purpose is to have members of the community use this as a "cheat sheet" to double check the quality of the information included in the site. Items are numbered for each of identifying items that might need updating.
 
@@ -195,7 +194,7 @@ This is all of the data used in the site, displayed in one long page. The purpos
 #### Test of Time
 {% assign awards = site.data.testoftime | sort: 'year' | reverse %}
 {% for paper in awards %}
-1. {{paper.year}}: {{paper.title}}, {{paper.reference}} DOI: <a href="{{paper.doi}}">{{paper.doi}}</a>
+1. {{paper.year}}: {{paper.title}}, {{paper.citation}} DOI: <a href="{{paper.doi}}">{{paper.doi}}</a>
 {% endfor %}
 <p><a href="#Top">↑ Back to top</a></p>
 

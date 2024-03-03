@@ -16,8 +16,10 @@ As of {{site.data.membership.date}}, SIGCSE has a total of {{site.data.membershi
 {{k.name}} ({{k.percent}}),
 {%- endif -%}
 {%- endfor -%}. The pie chart below shows these groups.
+{% capture path %}{{"/assets/images/"|absolute_url}}{{site.data.membership.image}}{% endcapture %}
 
-<img width="60%" src='{{"/assets/images/2023-membership.png"|absolute_url}}' alt="Membership: {{site.data.membership.categories[0].name}} {{site.data.membership.categories[0].percent}}; {{site.data.membership.categories[1].name}} {{site.data.membership.categories[1].percent}}; {{site.data.membership.categories[2].name}} {{site.data.membership.categories[2].percent}}; {{site.data.membership.categories[3].name}} {{site.data.membership.categories[3].percent}}">
+<img width="60%" src='{{path}}' alt="Membership: 
+{% for cat in site.data.membership.categories -%} {{cat.name}} ({{cat.percent}}); {%- endfor -%}">
 
 ##### Interested in Joining?
 

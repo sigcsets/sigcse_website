@@ -1,7 +1,8 @@
 <!doctype html>
 <html lang="en" data-bs-theme="auto">
   <head>
-    <script src='{{"/assets/js/color-modes.js"|absolute_url}}'></script>
+    <script src='{{"/assets/js/color-modes.js"|absolute_url}}'>
+    </script>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -36,10 +37,8 @@
       <p class="mb-0"><a href="#Top">Back to top</a>&nbsp;•&nbsp;<i>Site last updated on {{ "now" | date: "%Y-%m-%d" }}</i>&nbsp;•&nbsp;Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a></p>
     </footer>
 
-    <script src='{{"/assets/js/bootstrap.bundle.min.js"|absolute_url}}'>
-    </script>
-
     {% include javascript.html %}
+
     <script>
       Holder.addTheme('thumb', {
         bg: '#55595c',

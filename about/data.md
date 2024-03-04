@@ -5,58 +5,67 @@ layout: blank
 
 This is all of the data used in the site, displayed in one long page. The purpose is to have members of the community use this as a "cheat sheet" to double check the quality of the information included in the site. Items are numbered for each of identifying items that might need updating.
 
-**Menu**: [ <a href="#BoardMembers">Board Members</a> |
-<a href="#ORGCommittees">SIGCSE Committees</a> |
-<a href="#TSCommittees">Technical Symposium Committees</a> |
-<a href="#ITiCSECommittees">ITiCSE Committees</a> |
-<a href="#ICERCommittees">ICER Committees</a> |
-<a href="#CompEdCommittees">CompEd Committees</a> |
+**Menu**: [ <a href="#BoardMembers">board.yml</a> |
+<a href="#ORGCommittees">organization.yml</a> |
+<a href="#TSCommittees">symposia.yml</a> |
+<a href="#ITiCSECommittees">iticse.yml</a> |
+<a href="#ICERCommittees">icer.yml</a> |
+<a href="#CompEdCommittees">comped.yml</a> |
 <a href="#UpcomingConferenceDates">Upcoming Conference Dates</a> |
-<a href="#PastConferences">Past Conferences</a> |
-<a href="#TSConferences">Technical Symposium Conferences</a> |
 <a href="#ITiCSEConferences">ITiCSE Conferences</a> |
 <a href="#ICERConferences">ICER Conferences</a> |
 <a href="#CompEdConferences">CompEd Conferences</a> |
 <a href="#RESPECTConferences">RESPECT Conferences</a> |
-<a href="#Incooperationconferences">In cooperation conferences</a> |
-<a href="#Publications">Publications</a> |
-<a href="#WorkingGroupReports">Working Group Reports</a> |
-<a href="#BestPapers">Best Papers</a> |
-<a href="#Awards">Awards</a> |
-<a href="#OutstandingContribution">Outstanding Contribution</a> |
-<a href="#LifetimeContribution">Lifetime Contribution</a> |
-<a href="#BroadeningParticipation">Broadening Participation</a> |
-<a href="#TestofTime">Test of Time</a> |
-<a href="#TravelGrantAwardees">Travel Grant Awardees</a> |
-<a href="#SpecialProjectGrants">Special Project Grants</a>
+<a href="#Incooperationconferences">incoop.yml</a> |
+<a href="#WorkingGroupReports">workinggroups.yml</a> |
+<a href="#BestPapers">bestpaper.yml</a> |
+<a href="#OutstandingContribution">outstanding.yml</a> |
+<a href="#LifetimeContribution">lifetime.yml</a> |
+<a href="#BroadeningParticipation">broadening.yml</a> |
+<a href="#TestofTime">testoftime.yml</a> |
+<a href="#TravelGrantAwardees">travelgrants.yml</a> |
+<a href="#SpecialProjectGrants">specialprojects.yml</a>
 ]
 
 
 <a name="BoardMembers" id="BoardMembers"></a>
-## Board Members {{site.data.board.year}}
+## <code>board.yml</code> [(↑ top)](#Top)
 {:.mt-4 .border-bottom}
 
+~~~
+year: {{site.data.board.year}}
+members:
 {%for member in site.data.board.members %}
-1. {{member.name}}, {{member.position}}, {{member.affiliation}}, {{member.country}},<br>{{member.email-}}
+  - name: {{member.name}}
+    image: {{member.image}}
+    position: {{member.position}}
+    affiliation: {{member.affiliation}}
+    country: {{member.country}}
+    email: {{member.email}}
 {% endfor %}
+~~~
 [↑ Back to top](#Top)
 
 
 <a name="ORGCommittees" id="ORGCommittees"></a>
-## Organization Committees
+## <code>organization.yml</code> [(↑ top)](#Top)
 {:.mt-4 .border-bottom}
 
-{%for c in site.data.organization.committees %}
-#### {{c.name}}
-{% if c.info %}{{c.info}}{% endif %}
-{% for m in c.members -%}
-1. {{m.name}}{% if m.affiliation%}, {{m.affiliation}}{% endif %}{%if m.year %} ({{m.year}}){% endif %}
+~~~
+committees:{%for c in site.data.organization.committees %}
+- name: {{c.name}}
+{% if c.info %}  info: {{c.info}}{% endif %}
+  members:{% for m in c.members %}
+    - name: {{m.name}}
+{% if m.affiliation%}      affiliation: {{m.affiliation}}{% endif %}
+{% if m.year %}      year: {{m.year}}{% endif %}
+{% endfor -%}
 {% endfor %}
-{% endfor %}
+~~~
 [↑ Back to top](#Top)
 
 <a name="TSCommittees" id="TSCommittees"></a>
-## Technical Symposium Committees
+## <code>symposia.yml</code> [(↑ top)](#Top)
 {:.mt-4 .border-bottom}
 
 {%for c in site.data.symposia.committees %}
@@ -66,10 +75,19 @@ This is all of the data used in the site, displayed in one long page. The purpos
 1. {{m.name}}{% if m.affiliation%}, {{m.affiliation}}{% endif %}{%if m.year %} ({{m.year}}){% endif %}
 {% endfor %}
 {% endfor %}
+
+#### Technical Symposium Conferences
+{% assign items = site.data.symposia.conferences | sort: 'year' | reverse %}
+{% for c in items -%}
+    {% assign fn = '/events/symposia/' | append: c.year | append: '.html' -%}
+    {% include item.md yaml=true path=fn -%}
+{% endfor %}
+[↑ Back to top](#Top)
+
 [↑ Back to top](#Top)
 
 <a name="ITiCSECommittees" id="ITiCSECommittees"></a>
-## ITiCSE Committees
+## <code>iticse.yml</code> [(↑ top)](#Top)
 {:.mt-4 .border-bottom}
 
 {%for c in site.data.iticse.committees %}
@@ -81,8 +99,18 @@ This is all of the data used in the site, displayed in one long page. The purpos
 {% endfor %}
 [↑ Back to top](#Top)
 
+#### ITiCSE Conferences
+{:.mt-4 .border-bottom}
+
+{% assign items = site.data.iticse.conferences | sort: 'year' | reverse %}
+{% for c in items -%}
+    {% assign fn = '/events/iticse/' | append: c.year | append: '.html' -%}
+    {% include item.md yaml=true path=fn -%}
+{% endfor -%}
+[↑ Back to top](#Top)
+
 <a name="ICERCommittees" id="ICERCommittees"></a>
-## ICER Committees
+## <code>icer.yml</code> [(↑ top)](#Top)
 {:.mt-4 .border-bottom}
 
 {%for c in site.data.icer.committees %}
@@ -94,8 +122,19 @@ This is all of the data used in the site, displayed in one long page. The purpos
 {% endfor %}
 [↑ Back to top](#Top)
 
+#### ICER Conferences
+{:.mt-4 .border-bottom}
+
+{% assign items = site.data.icer.conferences | sort: 'year' | reverse %}
+{% for c in items -%}
+    {% assign fn = '/events/icer/' | append: c.year | append: '.html' -%}
+    {% include item.md yaml=true path=fn %}
+{% endfor -%}
+[↑ Back to top](#Top)
+
+
 <a name="CompEdCommittees" id="CompEdCommittees"></a>
-## CompEd Committees
+## <code>comped.yml</code> [(↑ top)](#Top)
 {:.mt-4 .border-bottom}
 
 {%for c in site.data.comped.committees %}
@@ -107,8 +146,19 @@ This is all of the data used in the site, displayed in one long page. The purpos
 {% endfor %}
 [↑ Back to top](#Top)
 
+#### CompEd Conferences
+{:.mt-4 .border-bottom}
+
+{% assign items = site.data.comped.conferences | sort: 'year' | reverse %}
+{% for c in items -%}
+    {% assign fn = '/events/comped/' | append: c.year | append: '.html' -%}
+    {% include item.md yaml=true path=fn %}
+{% endfor %}
+[↑ Back to top](#Top)
+
+
 <a name="UpcomingConferenceDates" id="UpcomingConferenceDates"></a>
-## Upcoming Conference Dates
+## <code>events.yml</code> [(↑ top)](#Top)
 {:.mt-4 .border-bottom}
 
 {% assign collections = "" | split: ',' %}
@@ -121,52 +171,6 @@ This is all of the data used in the site, displayed in one long page. The purpos
 {% for conf in collections -%}
 * {% if conf.website -%}[{{conf.title}}]({{conf.website}})
 {% else %}{{conf.title}}{% endif %} {% if conf.dates -%}{{conf.dates}}, {% endif -%}{{conf.location}}
-{% endfor %}
-[↑ Back to top](#Top)
-
-<a name="PastConferences" id="PastConferences"></a>
-## Past Conferences
-{:.mt-4 .border-bottom}
-
-<a name="TSConferences" id="TSConferences"></a>
-#### Technical Symposium Conferences
-{% assign items = site.data.symposia.conferences | sort: 'year' | reverse %}
-{% for c in items -%}
-    {% assign fn = '/events/symposia/' | append: c.year | append: '.html' -%}
-    {% include item.md yaml=true path=fn -%}
-{% endfor %}
-[↑ Back to top](#Top)
-
-<a name="ITiCSEConferences" id="ITiCSEConferences"></a>
-#### ITiCSE Conferences
-{:.mt-4 .border-bottom}
-
-{% assign items = site.data.iticse.conferences | sort: 'year' | reverse %}
-{% for c in items -%}
-    {% assign fn = '/events/iticse/' | append: c.year | append: '.html' -%}
-    {% include item.md yaml=true path=fn -%}
-{% endfor -%}
-[↑ Back to top](#Top)
-
-<a name="ICERConferences" id="ICERConferences"></a>
-#### ICER Conferences
-{:.mt-4 .border-bottom}
-
-{% assign items = site.data.icer.conferences | sort: 'year' | reverse %}
-{% for c in items -%}
-    {% assign fn = '/events/icer/' | append: c.year | append: '.html' -%}
-    {% include item.md yaml=true path=fn %}
-{% endfor -%}
-[↑ Back to top](#Top)
-
-<a name="CompEdConferences" id="CompEdConferences"></a>
-#### CompEd Conferences
-{:.mt-4 .border-bottom}
-
-{% assign items = site.data.comped.conferences | sort: 'year' | reverse %}
-{% for c in items -%}
-    {% assign fn = '/events/comped/' | append: c.year | append: '.html' -%}
-    {% include item.md yaml=true path=fn %}
 {% endfor %}
 [↑ Back to top](#Top)
 
@@ -184,7 +188,7 @@ This is all of the data used in the site, displayed in one long page. The purpos
 
 
 <a name="Incooperationconferences" id="Incooperationconferences"></a>
-#### In cooperation conferences
+#### <code>incoop.yml</code> [(↑ top)](#Top)
 {:.mt-4 .border-bottom}
 
 {% assign inYearOrder = site.data.incoop | group_by: 'year' | sort: 'name' | reverse %}
@@ -196,12 +200,8 @@ This is all of the data used in the site, displayed in one long page. The purpos
 {% endfor %}
 [↑ Back to top](#Top)
 
-<a name="Publications" id="Publications"></a>
-## Publications
-{:.mt-4 .border-bottom}
-
 <a name="WorkingGroupReports" id="WorkingGroupReports"></a>
-## Working Group Reports
+## <code>workinggroups</code> [(↑ top)](#Top)
 {:.mt-4 .border-bottom}
 
 {% assign items = site.data.workinggroups | sort: 'year' | reverse %}
@@ -213,6 +213,7 @@ This is all of the data used in the site, displayed in one long page. The purpos
 
 
 <a name="BestPapers" id="BestPapers"></a>
+## <code>bestpaper.yml</code> [(↑ top)](#Top)
 {% assign categories = site.data.bestpapers | group_by: "type" %}
 {% assign last = "" %}
 {% for p in categories %}
@@ -226,12 +227,9 @@ This is all of the data used in the site, displayed in one long page. The purpos
 {% endfor %}
 [↑ Back to top](#Top)
 
-<a name="Awards" id="Awards"></a>
-## Awards
-{:.mt-4 .border-bottom}
 
 <a name="OutstandingContribution" id="OutstandingContribution"></a>
-#### Outstanding Contribution
+#### <code>outstanding.yml</code> [(↑ top)](#Top)
 {% assign items = site.data.outstanding | sort: 'year' | reverse -%}
 
 {% for person in items %}
@@ -241,7 +239,7 @@ This is all of the data used in the site, displayed in one long page. The purpos
 
 
 <a name="LifetimeContribution" id="LifetimeContribution"></a>
-#### Lifetime Contribution
+#### <code>lifetime.yml</code> [(↑ top)](#Top)
 {% assign lifetime = site.data.lifetime | sort: "year" | reverse -%}
 {% for person in lifetime %}
 1. {{person.year}}: {{person.name}}, {% if person.affiliation %}{{person.affiliation}}, {% endif %}{{person.desc-}}
@@ -249,7 +247,7 @@ This is all of the data used in the site, displayed in one long page. The purpos
 [↑ Back to top](#Top)
 
 <a name="BroadeningParticipation" id="BroadeningParticipation"></a>
-#### Broadening Participation
+#### <code>broadening.yml</code> [(↑ top)](#Top)
 {% assign items = site.data.broadening | sort: 'year' | reverse -%}
 {% for person in items %}
 1. {{person.year}}: {{person.name}}, {% if person.affiliation %}{{person.affiliation}}, {% endif %}{{person.desc-}}
@@ -258,7 +256,7 @@ This is all of the data used in the site, displayed in one long page. The purpos
 
 
 <a name="TestofTime" id="TestofTime"></a>
-#### Test of Time
+#### <code>testoftime.yml</code> [(↑ top)](#Top)
 {% assign awards = site.data.testoftime | sort: 'year' | reverse %}
 {% for paper in awards %}
 1. {{paper.year}}: {{paper.title}}, {{paper.citation}} DOI: <a href="{{paper.doi}}">{{paper.doi}}</a>
@@ -266,7 +264,7 @@ This is all of the data used in the site, displayed in one long page. The purpos
 [↑ Back to top](#Top)
 
 <a name="TravelGrantAwardees" id="TravelGrantAwardees"></a>
-#### Travel Grant Awardees
+#### <code>travelgrants.yml</code> [(↑ top)](#Top)
 
 {% assign awards = site.data.travelgrants | sort: 'year' | reverse %}
 {% for person in site.data.travelgrants %}
@@ -275,7 +273,7 @@ This is all of the data used in the site, displayed in one long page. The purpos
 [↑ Back to top](#Top)
 
 <a name="SpecialProjectGrants" id="SpecialProjectGrants"></a>
-#### Special Project Grants
+#### <code>specialprojects.yml</code> [(↑ top)](#Top)
 {% assign projects = site.data.specialprojects | sort: 'year' | reverse %}
 {% for project in projects %}
 1. **Title**: {{project.title}} ({{project.year}})<br>

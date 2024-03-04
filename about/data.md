@@ -45,6 +45,7 @@ members:
 {% endfor %}
 ~~~
 [↑ Back to top](#Top)
+</span>
 
 
 <a name="ORGCommittees" id="ORGCommittees"></a>

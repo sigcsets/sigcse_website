@@ -669,6 +669,7 @@ conferences:
       doi: "https://dl.acm.org/doi/proceedings/10.1145/2445196"
   acceptance: 38%
   proceedings-cover: SIGCSE2013.jpg
+  attendance: 1304
   logo: sigcse2013_logo.png
 
 - year: 2014
@@ -719,6 +720,7 @@ conferences:
       doi: "https://dl.acm.org/doi/proceedings/10.1145/2839509"
   website: http://sigcse2016.sigcse.org/
   acceptance: 35%
+  attendance: 1253
   proceedings-cover: SIGCSE2016.jpg
 
 - year: 2017
@@ -733,6 +735,7 @@ conferences:
       doi: "https://dl.acm.org/doi/proceedings/10.1145/3017680"
   website: http://sigcse2017.sigcse.org/
   acceptance: 30%
+  attendance: 1414
   proceedings-cover: SIGCSE2017.jpg
 
 - year: 2018
@@ -748,6 +751,7 @@ conferences:
       doi: "https://dl.acm.org/doi/proceedings/10.1145/3159450"
   website: http://sigcse2018.sigcse.org/
   acceptance: 35%
+  attendance: 1735
   proceedings-cover: SIGCSE2018.jpg
 
 - year: 2019
@@ -761,6 +765,7 @@ conferences:
     - title: "SIGCSE '19: Proceedings of the 50th ACM Technical Symposium on Computer Science Education"
       doi: "https://dl.acm.org/doi/proceedings/10.1145/3287324"
   logo: sigcse2019_logo.jpg
+  attendance: 1809
   proceedings-cover: SIGCSE2019.jpg
 
 - year: 2020

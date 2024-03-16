@@ -36,6 +36,19 @@ All the info comes from the data files in the \_data directory
 {% endfor %}
 
 
+#### ICER Conference
+{:.mt-4 .border-bottom}
+
+{%for c in site.data.icer.committees %}
+###### {{c.name}}
+{% if c.info %}{{c.info}}{% endif %}
+{% for m in c.members -%}
+- {{m.name}}{% if m.affiliation%}, {{m.affiliation}}{% endif %}{%if m.year %} ({{m.year}}){% endif %}
+{% endfor %}
+{% endfor %}
+
+
+
 #### CompEd Conference
 {:.mt-4 .border-bottom}
 
@@ -47,17 +60,17 @@ All the info comes from the data files in the \_data directory
 {% endfor %}
 {% endfor %}
 
-
-#### ICER Conference
+#### Virtual Conference
 {:.mt-4 .border-bottom}
 
-{%for c in site.data.icer.committees %}
+{%for c in site.data.virtual.committees %}
 ###### {{c.name}}
 {% if c.info %}{{c.info}}{% endif %}
 {% for m in c.members -%}
 - {{m.name}}{% if m.affiliation%}, {{m.affiliation}}{% endif %}{%if m.year %} ({{m.year}}){% endif %}
 {% endfor %}
 {% endfor %}
+
 
 
 #### SIGCSE Organization

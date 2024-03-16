@@ -2,8 +2,22 @@ committees:
 
 - name: Steering Committee
   members:
+  - name: Judith Gal-Ezer
+    affiliation: The Open University of Israel, Israel (Chair)
+  - name: Rodrigo Silva Duran
+    affiliation: Federal Institute of Mato Grosso do Sul, Brazil
+  - name: Kate Lockwood
+    affiliation: St. Paul Academy, United States
   - name: Dan Garcia
-    affiliation: UC Berkeley
+    affiliation: UC Berkeley, United States
+  - name: James McGufee
+    affiliation: Christian Brothers University, United States
+  - name: Ming Zhang
+    affiliation: Peking University, China
+  - name: Stephen Cooper
+    affiliation: University of Nebraska, Lincoln, United States
+  - name: Mohsen Dorodchi
+    affiliation: University of North Carolina at Charlotte, United States
 
 
 next-conference:

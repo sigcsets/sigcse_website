@@ -1,0 +1,14 @@
+committees:
+
+- name: Steering Committee
+  members:
+  - name: Dan Garcia
+    affiliation: UC Berkeley
+
+
+next-conference:
+- title: SIGCSE Virtual 2024
+  start-date: 2024-12-05
+  dates: "05-07 December 2024"
+  location: "Virtual"
+  website: http://sigcsevirtual.acm.org/

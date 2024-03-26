@@ -1,9 +1,12 @@
 ---
-title: Lifetime Service to Computer Science Education
+title: Distinguished Service to Computer Science Education
 layout: page
+comment: as of 2024, award was renamed to Distinguished Service from Lifetime service.
 ---
 
-The **ACM SIGCSE Award for Lifetime Service to the Computer Science Education Community** honors an individual who has a long history of volunteer service to the computer science education community. This service, which is not limited to service to SIGCSE, may take many forms, such as professional society leadership, conference organization, outreach efforts, editorial board participation, or any of a number of other types of service to the computer science education community. Awards may recognize service at any level, for example: K-12, college, graduate, or continuing post-college. This award was initiated in 1997.
+The **ACM SIGCSE Award for Distinguished Service to the Computer Science Education Community** honors an individual who has a history of volunteer service to the computer science education community. This service, which is not limited to service to SIGCSE, may take many forms, such as professional society leadership, conference organization, outreach efforts, editorial board participation, or any of a number of other types of service to the computer science education community. Awards may recognize service at any level, for example: K-12, college, graduate, or continuing post-college. This award was initiated in 1997. This award was previously called Lifetime Service. As of 2024, it has been renamed as Distinguished Service.
+
+Information about the nomination processes for this award is available here: [Outstanding Contribution and Distinguished Service awards](outstanding-and-lifetime-nomination.html).
 
 
 {% assign lifetime = site.data.lifetime | sort: "year" | reverse -%}

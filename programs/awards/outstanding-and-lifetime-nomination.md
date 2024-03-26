@@ -1,14 +1,14 @@
 ---
-title: Nomination Process for Outstanding Contribution and Lifetime Service Awards
+title: Nomination Process for Outstanding Contribution and Distinguished Service Awards
 layout: page
 ---
 *Revised and approved by the SIGCSE Board: 14/June/2023.*
 
-Each year, the ACM Special Interest Group on Computer Science Education (SIGCSE) selects recipients for its Outstanding Contribution and Lifetime Service awards.
+Each year, the ACM Special Interest Group on Computer Science Education (SIGCSE) selects recipients for its Outstanding Contribution and Distinguished Service awards.
 
 The **ACM SIGCSE Award for Outstanding Contribution to Computer Science Education** honors an individual or group in recognition of a significant contribution to computer science education. The contribution may take many forms, such as: curriculum design, innovating teaching methods, textbook authorship, development of new teaching tools, or any of a number of other significant contributions to computer science education. The contribution should have had a long lasting impact on, and made a significant difference in, computing education. This award was initiated in 1981.
 
-The **ACM SIGCSE Award for Lifetime Service to the Computer Science Education Community** honors an individual who has a long history of volunteer service to the computer science education community. This service, which is not limited to service to SIGCSE, may take many forms, such as professional society leadership, conference organization, outreach efforts, editorial board participation, or any of a number of other types of service to the computer science education community. Awards may recognize service at any level, for example: K-12, college, graduate, or continuing post-college. This award was initiated in 1997.
+The **ACM SIGCSE Award for Distinguished Service to the Computer Science Education Community** honors an individual who has a long history of volunteer service to the computer science education community. This service, which is not limited to service to SIGCSE, may take many forms, such as professional society leadership, conference organization, outreach efforts, editorial board participation, or any of a number of other types of service to the computer science education community. Awards may recognize service at any level, for example: K-12, college, graduate, or continuing post-college. This award was initiated in 1997.
 
 ##### Conflict of Interest 
 All nominations are subject to the [SIGCSE Awards Conflict of Interest and Eligibility Policy]({{"/policies/awards/index.html"|absolute_url}})
@@ -35,7 +35,7 @@ All nominations are subject to the [SIGCSE Awards Conflict of Interest and Eligi
 
 ##### Selection Process
 
-* **Who reviews the letters and makes the decision?** The SIGCSE Board appoints an Outstanding Contribution / Lifetime Service Award Committee that reviews the materials after the nomination deadline. Committee members who have submitted a nomination for one or more of the current set of nominees before their appointment to the committee will recuse themselves from the selection process.
+* **Who reviews the letters and makes the decision?** The SIGCSE Board appoints an Outstanding Contribution / Distinguished Service Award Committee that reviews the materials after the nomination deadline. Committee members who have submitted a nomination for one or more of the current set of nominees before their appointment to the committee will recuse themselves from the selection process.
 
 * **How do I find out the results?** After the committee has selected the winners, they will be contacted by the SIGCSE Vice Chair and told that they have been selected to receive the award. The nominators will also be contacted.
 
@@ -44,7 +44,7 @@ All nominations are subject to the [SIGCSE Awards Conflict of Interest and Eligi
 
 ##### How to make a strong nomination
 
-* **What is in a strong nomination letter?**  The letters should explicitly address the description of the award. The Outstanding Contribution Award is given for a contribution that should have had a long lasting impact on, and made a significant difference in, computing education. If someone is most notable for something they did recently, that does not show long lasting impact. Awardees are likely to have started having impact 15-20 years ago or longer. The Lifetime Service Award is given to an individual who has a long history of volunteer service to the computer science education community. Again, they should probably have a history of 15-20 years or more of such service.
+* **What is in a strong nomination letter?**  The letters should explicitly address the description of the award. The Outstanding Contribution Award is given for a contribution that should have had a long lasting impact on, and made a significant difference in, computing education. If someone is most notable for something they did recently, that does not show long lasting impact. Awardees are likely to have started having impact 15-20 years ago or longer. The Distinguished Service Award is given to an individual who has a long history of volunteer service to the computer science education community. Again, they should probably have a history of 15-20 years or more of such service.
 
 * **How many support letters are needed?** A nomination must have 3-5 support letters (strict). A single letter signed by multiple people is still a single letter. Remember it is not the quantity (3, 4 or 5) that is most important - it is the content of the letters that is important. When selecting letter writers, make sure they add value to the nomination. You may want to consider a mix of letters from SIGCSE members, those notable in computing education, previous award winners (only if they know the candidate’s work), and/or those who are faculty adopters of the nominee’s work. If all the letter writers are notable SIGCSE members who are adopters, fewer letters will be needed.
 

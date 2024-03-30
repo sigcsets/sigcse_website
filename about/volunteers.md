@@ -17,7 +17,7 @@ All the info comes from the data files in the \_data directory
 {:.mt-4 .border-bottom}
 
 {%for c in site.data.symposia.committees %}
-###### {{c.name}}
+###### {{c.name}}{% if c.email %}: ({{c.email}}){% endif %}
 {% if c.info %}{{c.info}}{% endif %}
 {% for m in c.members -%}
 - {{m.name}}{% if m.affiliation%}, {{m.affiliation}}{% endif %}{%if m.year %} ({{m.year}}){% endif %}
@@ -28,7 +28,7 @@ All the info comes from the data files in the \_data directory
 {:.mt-4 .border-bottom}
 
 {%for c in site.data.iticse.committees %}
-###### {{c.name}}
+###### {{c.name}}{% if c.email %}: ({{c.email}}){% endif %}
 {% if c.info %}{{c.info}}{% endif %}
 {% for m in c.members -%}
 - {{m.name}}{% if m.affiliation%}, {{m.affiliation}}{% endif %}{%if m.year %} ({{m.year}}){% endif %}
@@ -40,7 +40,7 @@ All the info comes from the data files in the \_data directory
 {:.mt-4 .border-bottom}
 
 {%for c in site.data.icer.committees %}
-###### {{c.name}}
+###### {{c.name}}{% if c.email %}: ({{c.email}}){% endif %}
 {% if c.info %}{{c.info}}{% endif %}
 {% for m in c.members -%}
 - {{m.name}}{% if m.affiliation%}, {{m.affiliation}}{% endif %}{%if m.year %} ({{m.year}}){% endif %}
@@ -53,7 +53,7 @@ All the info comes from the data files in the \_data directory
 {:.mt-4 .border-bottom}
 
 {%for c in site.data.comped.committees %}
-###### {{c.name}}
+###### {{c.name}}{% if c.email %}: ({{c.email}}){% endif %}
 {% if c.info %}{{c.info}}{% endif %}
 {% for m in c.members -%}
 - {{m.name}}{% if m.affiliation%}, {{m.affiliation}}{% endif %}{%if m.year %} ({{m.year}}){% endif %}
@@ -64,7 +64,7 @@ All the info comes from the data files in the \_data directory
 {:.mt-4 .border-bottom}
 
 {%for c in site.data.virtual.committees %}
-###### {{c.name}}
+###### {{c.name}}{% if c.email %}: ({{c.email}}){% endif %}
 {% if c.info %}{{c.info}}{% endif %}
 {% for m in c.members -%}
 - {{m.name}}{% if m.affiliation%}, {{m.affiliation}}{% endif %}{%if m.year %} ({{m.year}}){% endif %}
@@ -77,7 +77,7 @@ All the info comes from the data files in the \_data directory
 {:.mt-4 .border-bottom}
 
 {%for c in site.data.organization.committees %}
-###### {{c.name}}
+###### {{c.name}}{% if c.email %}: ({{c.email}}){% endif %}
 {% if c.info %}{{c.info}}{% endif %}
 {% for m in c.members -%}
 - {{m.name}}{% if m.affiliation%}, {{m.affiliation}}{% endif %}{%if m.year %} ({{m.year}}){% endif %}

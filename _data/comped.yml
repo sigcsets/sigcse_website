@@ -19,10 +19,11 @@ committees:
 next-conference:
 - title: CompEd 2025
   year: 2025
-  start-date: 2025-12-01
-  location: "TBD"
+  start-date: 2025-10-21
+  dates: "21-25 October 2025"
+  location: "Gaborone, Botswana"
   website: https://comped.acm.org/
-  comment: where/when will it be?
+  comment: 1st ACM conference in Africa
 
 conferences:
 - title: CompEd 2023

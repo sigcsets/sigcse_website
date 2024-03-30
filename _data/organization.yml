@@ -103,7 +103,8 @@ committees:
   - name: 1 Anonymous
 
 
-- name: Website (sigcse.org) administrator
+- name: SIGCSE.org Website Administrator
+  email: "webmaster (at) sigcse.org"
   members:
     - name: "Manuel A. Pérez-Quiñones"
       affiliation: University of North Carolina, Charlotte, USA 

@@ -6,6 +6,7 @@ comment:
 
 committees:
 - name: Steering committee
+  email: "ts-feedback-sc (at) sigcse.org"
   members:
   - name: Sarah Heckman
     affiliation: NC State University, NC (chair)

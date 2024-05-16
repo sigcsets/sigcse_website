@@ -4,7 +4,14 @@ layout: page
 ---
 
 
-SIGCSE Reads is a community-led project that allows a growing community of SIGCSE members connect to each other through science fiction. Becky Bates, Judy Goldsmith, Valerie Summet, and Nanette Veilleux organize a get together to discuss that year's reading selections. The group often meets at a Birds of a Feather session at the Technical Symposium. The stories are selected via popular vote and email discussions in the SIGCSE listerv.
+SIGCSE Reads has been around for a decade! SIGCSE Reads is a community-led project that allows a growing community of SIGCSE members connect to each other through science fiction. Becky Bates, Judy Goldsmith, Valerie Summet, and Nanette Veilleux organize a get together to discuss that year's reading selections. The group often meets at a Birds of a Feather session at the Technical Symposium. The stories are selected via popular vote and email discussions in the SIGCSE listerv.
+
+### 2025
+For our non-fiction option, we hope to continue the conversation started this year with _The New Science of Learning, 3rd Ed._, by Todd D. Zakrajsek <https://www.routledge.com/The-New-Science-of-Learning-How-to-Learn-in-Harmony-With-Your-Brain/Zakrajsek/p/book/9781642675016>.
+
+By popular vote, the novel _Light from Uncommon Stars_ by Ryka Aoki <https://us.macmillan.com/books/9781250789075/lightfromuncommonstars>.
+
+And a short story with a long title by Pittsburgh author Timons Esaias, _Exerpts from the Text of an Explanatory Stele Erected for our Edification by the Scholars of the Outer Orion Tendril_ (available online <https://clarkesworldmagazine.com/esaias_09_21/>).
 
 ### 2024
 

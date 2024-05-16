@@ -29,10 +29,15 @@ conferences:
 - title: CompEd 2023
   year: 2023
   start-date: 2023-12-07
-  dates: "7-9 December 2023"
+  dates: "5-9 December 2023"
   location: "Hyderabad, India"
   website: https://comped.acm.org/2023/
   comment: ACM CompEd took place at IIIT in Hyderabad, India on December 7-9, 2023. Working Groups will take place December 5-6. ACM CompEd will be co-located with the India COMPUTE conference.
+  proceedings:
+  - title: "CompEd 2023: Proceedings of the ACM Conference on Global Computing Education Vol 1"
+    doi: "https://dl.acm.org/doi/proceedings/10.1145/3576882"
+  - title: "CompEd 2023: Proceedings of the ACM Conference on Global Computing Education Vol 2"
+    doi: "https://dl.acm.org/doi/proceedings/10.1145/3617650"
 
 - title: "CompEd 19"
   year: 2019

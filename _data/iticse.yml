@@ -42,7 +42,7 @@ committees:
 next-conference:
 - title: ITiCSE 2024
   start-date: 2024-07-08
-  dates: "11-13 July 2024 (WG: 8-10 July)"
+  dates: "8-10 July 2024 (WG: 5-7 July)"
   location: "Milan, Italy"
   website: https://iticse.acm.org/2024/
 
@@ -59,6 +59,8 @@ conferences:
     doi: "https://dl.acm.org/doi/proceedings/10.1145/3587102"
   - title: "ITiCSE 2023: Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 2"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/3587103"
+  - title: "ITiCSE-WGR '23: Proceedings of the 2023 Working Group Reports on Innovation and Technology in Computer Science Education"
+    doi: https://dl.acm.org/doi/proceedings/10.1145/3623762
 
 - title: "27th ITiCSE 2022"
   edition: 27

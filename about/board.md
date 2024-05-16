@@ -14,7 +14,7 @@ image-path: "/assets/images/board/current/"
 	<div style="float: left; width: 300px;">
 		<strong>{{member.name}}</strong><br />
 		<em>{{member.position}}</em><br />
-		{{member.affiliation}}<br />
+		{%if member.affiliation %}{{member.affiliation}}<br />{%endif%}
 		{{member.country}}<br /><a href="mailto:{{member.email}}">{{member.email}}</a>
 	</div>
 	<p><br style="clear: left;" /></p>

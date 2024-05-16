@@ -40,6 +40,16 @@ layout: home
 {% endfor -%}
 - [*view all*](events/icer/conferences.html)
 
+###### RESPECT
+{:.mt-4 .border-bottom}
+{% assign items = site.data.respect.conferences | sort: 'year' | reverse %}
+{% for c in items limit:3 -%}
+    {% assign fn = '/events/respect/' | append: c.year | append: '.html' -%}
+    {% include item.md home=true path=fn -%}
+{% endfor -%}
+- [*view all*](events/respect/conferences.html)
+
+
 ###### CompEd
 {:.mt-4 .border-bottom}
 {% assign items = site.data.comped.conferences | sort: 'year' | reverse %}

@@ -1,13 +1,22 @@
 
 next-conference:
+- title: RESPECT 2025
+  year: 2025
+  location: "To be announced"
+  start-date: 2025-05-01
+
+conferences:
 - title: RESPECT 2024
   year: 2024
   start-date: 2024-05-15
   dates: "15-16 May 2024"
   location: "Georgia Tech Conference Center &amp; Hotel, Atlanta GA"
   website: https://www.respect2024.starscomputingcorps.org
+  proceedings:
+    - title: "RESPECT 2024: Proceedings of the 2024 on RESPECT Annual Conference"
+      doi: https://dl.acm.org/doi/proceedings/10.1145/3653666
+  proceedings-cover: respect2024.png
 
-conferences:
 - title: RESPECT 2023
   year: 2023
   start-date: 2023-06-20

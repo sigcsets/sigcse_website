@@ -8,8 +8,8 @@
 {% assign first_yr = 0 %}
 {% assign last_yr = 0 %}
 
-{% assign conf = site.data.comped.conferences | where: "year", year | first %}
-{% assign items = site.data.comped.conferences | sort: 'year' %}
+{% assign conf = site.data.respect.conferences | where: "year", year | first %}
+{% assign items = site.data.respect.conferences | sort: 'year' %}
 {% for c in items %}
   {% comment %}They can both be true, first and last when the
   conference has only 1 instance... so this is true until dec/2024
@@ -37,7 +37,7 @@
 #### {{conf.title}}
 {:.border-bottom}
 
-> <a name="top" id="top"></a> {% if conf.year <= first_yr %}{% else %} <a href="{{prev}}.html">← {{prev}}</a> &#124; {% endif %}<a href="conferences.html">CompEd Index</a> {% if conf.year == last_yr %}{% else %} &#124; <a href="{{next}}.html">{{next}} →</a>{% endif %}
+> <a name="top" id="top"></a> {% if conf.year <= first_yr %}{% else %} <a href="{{prev}}.html">← {{prev}}</a> &#124; {% endif %}<a href="conferences.html">Respect Index</a> {% if conf.year == last_yr %}{% else %} &#124; <a href="{{next}}.html">{{next}} →</a>{% endif %}
 
 <table class="table table-sm">
   <tbody>

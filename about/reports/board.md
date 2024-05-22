@@ -8,6 +8,9 @@ minutes:
     folder: "BoardMinutes/2022-2025/"
     approved:
       - description: "Minutes of a SIGCSE Board meeting"
+        date: 2024-04-24
+
+      - description: "Minutes of a SIGCSE Board meeting"
         date: 2024-03-20
 
       - description: "Minutes of a SIGCSE Board meeting"

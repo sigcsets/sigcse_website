@@ -3,12 +3,12 @@ title: SIGCSE Awards
 layout: page
 ---
 
-Each year, the ACM Special Interest Group on Computer Science Education (SIGCSE) selects recipients for its four awards: [Outstanding Contribution](outstanding.html), [Distinguished Service](lifetime.html), [Broadening Participation](broadening.html), and [Test of Time award](test-of-time.html).
+Each year, the ACM Special Interest Group on Computer Science Education (SIGCSE) selects recipients for its four awards: [Outstanding Contribution](outstanding.html), [Distinguished Service](distinguished.html), [Broadening Participation](broadening.html), and [Test of Time award](test-of-time.html).
 
 * The [ACM SIGCSE Award for Outstanding Contribution to Computer Science Education](outstanding.html) honors an individual or group in recognition of a significant contribution to computer science education. The contribution may take many forms, such as: curriculum design, innovative teaching methods, textbook authorship, development of new teaching tools, or any of a number of other significant contributions to computer science education. The contribution should have had long lasting impact on, and made a significant difference in, computing education. This award was initiated in 1981.
 
 
-* The [ACM SIGCSE Award for Distinguished Service to the Computer Science Education Community](lifetime.html) honors an individual who has a long history of volunteer service to the computer science education community. This service, which is not limited to service to SIGCSE, may take many forms, such as professional society leadership, conference organization, outreach efforts, editorial board participation, or any of a number of other types of service to the computer science education community. Awards may recognize service at any level, for example: K-12, college, graduate, or continuing post-college. This award was initiated in 1997.
+* The [ACM SIGCSE Award for Distinguished Service to the Computer Science Education Community](distinguished.html) honors an individual who has a long history of volunteer service to the computer science education community. This service, which is not limited to service to SIGCSE, may take many forms, such as professional society leadership, conference organization, outreach efforts, editorial board participation, or any of a number of other types of service to the computer science education community. Awards may recognize service at any level, for example: K-12, college, graduate, or continuing post-college. This award was initiated in 1997.
 
 * The [ACM SIGCSE Award for Broadening Participation in Computing Education](broadening.html) recognizes an early career SIGCSE Member that has made a fundamental and innovative contribution to broadening participation in computing education. The contribution may take many forms, such as: curriculum design, outreach to underserved communities, creation of programs, policies or initiatives that increase representation in computing, publishing work that helps the community understand underrepresentation issues, or any of a number of other significant contributions toward broadening participation in computing education. In addition, contributions can span any sector in computing education, including primary or secondary education (e.g., in the US this includes, K-12, community college, four year institutions), or even community-based educational organizations. Similarly, the award is open to individuals that work in education or industry, as long as their contribution has had an impact in broadening participation in computing education. This award was initiated in 2024.
 
@@ -31,7 +31,7 @@ The awards for all four awards are presented at one of the annual ACM SIGCSE-spo
 ##### Nomination Process
 Here is information about the nomination processes for these awards:
 
-* [Outstanding Contribution and Distinguished Service awards](outstanding-and-lifetime-nomination.html)
+* [Outstanding Contribution and Distinguished Service awards](outstanding-and-distinguished-nomination.html)
 * [Broadening Participation award](broadening-nomination.html)
 * [Test of Time award](test-of-time-nomination.html)
 

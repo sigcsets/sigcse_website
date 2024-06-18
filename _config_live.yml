@@ -12,7 +12,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # The base hostname & protocol for your site
 url: "https://sigcse.org" 
 
-exclude: ["Gemfile", "Gemfile.lock", "_documentation", "_pending", "_unused", "_development", "bin"]
+exclude: ["Gemfile", "Gemfile.lock", "_documentation", "_pending", "_unused", "_development", "README.md", "bin"]
 keep_files: ["assets"]
 
 defaults:

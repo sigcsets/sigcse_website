@@ -22,7 +22,7 @@ All nominations are subject to the [SIGCSE Awards Conflict of Interest and Eligi
 * **Who can be nominated?** Anyone except a [SIGCSE Board member]({{"/about/board.html"|absolute_url}}) or a current Award Committee member can be nominated for a SIGCSE award. Note the immediate past SIGCSE Chair is an automatic member of the SIGCSE Board. Deceased persons cannot be nominated; however, an award may be presented posthumously if the recipient’s death occurs after the SIGCSE Board approves the award nomination. Nominees currently in the ACM sanctions database will be disqualified.
 
 
-* **Who can nominate?** A nominator must be a SIGCSE member. SIGCSE Board members cannot nominate or endorse any candidates.
+* **Who can nominate?** A nominator must be a SIGCSE member. SIGCSE Board members cannot nominate or endorse any candidates. Self nominations are not allowed.
 
 
 * **When must a nomination be submitted?**  The deadline for nominations is September 1st. Please notify the SIGCSE Vice Chair of your plans to submit a nomination by August 15th if possible or as soon as you decide to nominate. The Vice Chair can also answer questions you have with the nomination process.

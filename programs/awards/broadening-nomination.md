@@ -14,13 +14,13 @@ The **ACM SIGCSE Broadening Participation in Computing Education Award** recogni
 
 ### Nomination Process
 
-* **Who can receive this award?** Recipients are selected from individuals nominated by SIGCSE members. Any SIGCSE member can nominate anyone they feel is deserving of this award and fits the criteria.
+* **Who can receive this award?** Recipients are selected from individuals nominated by SIGCSE members. Any SIGCSE member can nominate anyone they feel is deserving of this award and fits the criteria. 
 
 * **What information is needed for a nomination?** The name of the individual being nominated, the award they are being nominated for, a 1-2 page (maximum) description of why the nominee deserves the award, and 3-5 (strict) letters of support on behalf of the nominee. A single letter signed by multiple people is still a single letter. Letters of support should be sent by the nominator with the other materials above. All materials are necessary for the candidate to be considered. Applications not meeting these criteria will not be considered. 
 
 * **Who can be nominated?** Any SIGCSE member except a [SIGCSE Board member]({{"/about/board.html"|absolute_url}}) or a current Award Committee member can be nominated for a SIGCSE award. Note the immediate past SIGCSE Chair is an automatic member of the SIGCSE Board. Deceased persons cannot be nominated; however, an award may be presented posthumously if the recipient’s death occurs after the SIGCSE Board approves the award nomination. Nominees currently in the ACM sanctions database will be disqualified.
 
-* **Who can nominate?** A nominator must be a SIGCSE member. SIGCSE Board members and Award Committee members cannot nominate or endorse any candidates.
+* **Who can nominate?** A nominator must be a SIGCSE member. SIGCSE Board members and Award Committee members cannot nominate or endorse any candidates. Self nominations are not allowed.
 
 * **When must a nomination be submitted?** The deadline for nominations is September 1st. Please notify the SIGCSE Vice Chair of your plans to submit a nomination by August 15th if possible or as soon as you decide to nominate. The Vice Chair can also answer questions you have with the nomination process.
 

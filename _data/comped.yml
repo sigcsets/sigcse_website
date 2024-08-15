@@ -6,14 +6,19 @@ committees:
     affiliation: University College Dublin, Ireland (Chair)
   - name: Susan Rodger
     affiliation: Duke University, USA
-  - name: Alison Clear
-    affiliation: Eastern Institute of Technology, NZ
+  - name: Mark Zarb
+    affiliation: Robert Gordon University, Scotland
   - name: Dan Garcia
     affiliation: UC Berkeley
   - name: Venkatesh Choppella
     affiliation: IIIT Hyderabad
   - name: Ethel Tshukudu
     affiliation: University of Botswana
+
+- name: Past Steering Committee Members
+  members:
+  - name: Alison Clear
+    affiliation: Eastern Institute of Technology, NZ
 
 
 next-conference:

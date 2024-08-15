@@ -2,21 +2,41 @@ committees:
 
 - name: Steering committee
   members:
-  - name: Simon
-    affiliation: "The University of Newcastle, Australia"
-    dates: 2021 – 2024
-  - name: Michael Caspersen
-    affiliation: "It-vest Networking Universities (Informatics Europe)"
-    dates: 2021 – 2024
-  - name: Guido Röβling
-    affiliation: "TU Darmstadt, Germany"
-    dates: 2020 – 2026
-  - name: Michael Kӧlling
+  - name: Michael Kӧlling (chair)
     affiliation: "King’s College London (ACM Europe)"
-    dates: 2018 – 2025
+    dates: 2018 –
+  - name: Guido Röβling (Secretary)
+    affiliation: "TU Darmstadt, Germany"
+    dates: 2020 – 
+  - name: Susan Rodger
+    affiliation: Duke University
+    dates: 2024 -
+  - name: Violetta Lonati
+    affiliation: Informatics Europe representative
+    dates: 2024 -
   - name: Brett A. Becker
     affiliation: "University College Dublin (SIGCSE Board)"
-    dates: 2022 – 2025
+    dates: 2022 –
+
+- name: Past Steering Committee Members
+  members:
+  - name: Michael E. Caspersen 
+    dates: 2018-2024
+    affiliation: Informatics Europe representative
+  - name: Simon 
+    dates: 2021-2024
+  - name: Amber Settle 
+    dates: 2019-2022
+    affiliation: ACM SIGCSE Board liaison
+  - name: Ari (Archie) Korhonen 
+    dates: 2019-2021
+  - name: Anna Eckerdal 
+    dates: 2018-2020
+  - name: Michelle Craig 
+    dates: 2018-2019
+    affiliation: ACM SIGCSE Board liaison
+  - name: Michael (Mikey) Goldweber 
+    dates: 2018-2019
 
 - name: Doctoral consortium
   members:

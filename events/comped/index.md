@@ -29,7 +29,7 @@ More information on the structure of the conference is available here: [Informat
 
 ###### Proposing an ACM Global Computing Education Conference Location
 
-CompEd will be hosted by universities whose computing faculty are committed to the improvement of computing education. SIGCSE seeks proposals from universities interested in hosting CompEd. The conference takes place any time during the year, but at least 6 weeks away from one of SIGCSE's other conference. [More information](https://comped.acm.org/host/).
+CompEd will be hosted by universities whose computing faculty are committed to the improvement of computing education. SIGCSE seeks proposals from universities interested in hosting CompEd. The conferences take place any time during the year, but at least 6 weeks away from one of SIGCSE's other conference. [More information](https://comped.acm.org/host/).
 
 
 ###### Call for volunteers for Program Chair and other committee positions

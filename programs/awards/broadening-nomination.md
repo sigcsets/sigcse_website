@@ -14,7 +14,7 @@ The **ACM SIGCSE Broadening Participation in Computing Education Award** recogni
 
 ### Nomination Process
 
-* **Who can receive this award?** Recipients are selected from individuals nominated by SIGCSE members. Any SIGCSE member can nominate anyone they feel is deserving of this award and fits the criteria. 
+* **Who can receive this award?** Recipients are selected from individuals nominated by SIGCSE members. Any SIGCSE member can nominate any SIGCSE member they feel is deserving of this award and fits the criteria. 
 
 * **What information is needed for a nomination?** The name of the individual being nominated, the award they are being nominated for, a 1-2 page (maximum) description of why the nominee deserves the award, and 3-5 (strict) letters of support on behalf of the nominee. A single letter signed by multiple people is still a single letter. Letters of support should be sent by the nominator with the other materials above. All materials are necessary for the candidate to be considered. Applications not meeting these criteria will not be considered. 
 

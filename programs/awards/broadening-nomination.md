@@ -70,5 +70,5 @@ The **ACM SIGCSE Broadening Participation in Computing Education Award** recogni
 
 ##### Additional Questions
 For any additional questions or guidance send email to:
-[{{site.data.board.members[1].name}}](mailto:{{site.data.board.members[1].email}}), SIGCSE Board {{site.data.board.members[1].position}}.
-
+[{{site.data.board.members[3].name}}](mailto:{{site.data.board.members[3].email}}), SIGCSE Board {{site.data.board.members[3].position}} or
+[{{site.data.board.members[6].name}}](mailto:{{site.data.board.members[6].email}}), SIGCSE Board {{site.data.board.members[6].position}}.

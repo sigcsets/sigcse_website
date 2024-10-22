@@ -9,7 +9,7 @@ Conflict of interest (COI) is generally recognized as a situation where there is
 
 *Note 1: In the case of the ACM SIGCSE Test of Time Award, any and all co-authors of the paper nominated are considered **nominees** in this policy.*
 
-*Note 2: The ACM SIGCSE Outstanding Contribution to Computer Science Education Award, the ACM SIGCSE Lifetime Service to the Computer Science Education Community Award, and the ASM SIGCSE Broadening Participation in Computing Award, are collectively referred to as **Candidate Awards**.*
+*Note 2: The ACM SIGCSE Outstanding Contribution to Computer Science Education Award, the ACM SIGCSE Lifetime Service to the Computer Science Education Community Award, and the ACM SIGCSE Broadening Participation in Computing Award, are collectively referred to as **Candidate Awards**.*
 
 **Scope: This policy applies to the Test of Time Award and all three Candidate Awards.**
 

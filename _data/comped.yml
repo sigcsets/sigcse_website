@@ -2,8 +2,10 @@ committees:
 
 - name: Steering Committee
   members:
-  - name: Brett Becker
-    affiliation: University College Dublin, Ireland (Chair)
+  - name: Alison Clear
+    affiliation: Eastern Institute of Technology, Auckland (Chair)
+  - name: Sue Sentence
+    affiliation: University of Cambridge
   - name: Susan Rodger
     affiliation: Duke University, USA
   - name: Mark Zarb

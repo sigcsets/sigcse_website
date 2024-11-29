@@ -46,12 +46,12 @@ committees:
 - name: Registration team
   info: We have three members in the registration team, approved by the SIGCSE Board. Participation in the registration team is a 3 year term, renewable once. This renewal is upon mutual interest from the team member and approval of the board.
   members:
-  - name: Rachelle Kristof Hippler
-    affiliation: "Baldwin Wallace University, USA (2020-2022, term 1)"
-  - name: Sarah Heckman
-    affiliation: "North Carolina State University, USA (2021-2023, term 1)"
-  - name: Briana Morrison
-    affiliation: "University of Nebraska Omaha, Omaha, NE (2022-2024, term 1)"
+  - name: Albert Chan
+    x-affiliation: "Fayetteville State University"
+  - name: Craig Miller
+    x-affiliation: "DePaul"
+  - name: Joslene Peña
+    affiliation: "Macalester College"
 
 - name: Web/Data administrator
   members:

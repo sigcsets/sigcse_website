@@ -14,9 +14,6 @@ committees:
   - name: Violetta Lonati
     affiliation: Informatics Europe representative
     dates: 2024 -
-  - name: Brett A. Becker
-    affiliation: "University College Dublin (SIGCSE Board)"
-    dates: 2022 –
 
 - name: Past Steering Committee Members
   members:
@@ -37,13 +34,6 @@ committees:
     affiliation: ACM SIGCSE Board liaison
   - name: Michael (Mikey) Goldweber 
     dates: 2018-2019
-
-- name: Doctoral consortium
-  members:
-  - name: Neena Thota
-    affiliation: "University of Massachusetts Amherst, USA (2019 – 2021)"
-  - name: Andreas Mühling
-    affiliation: "Kiel University, Germany (2021 – 2022)"
 
 - name: Supporter liaison
   members:

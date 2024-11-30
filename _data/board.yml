@@ -7,21 +7,11 @@ members:
     country: New Zealand
     email: aclear@eit.ac.nz
 
-
-  - name: Brett A. Becker
-    image: becker.png
-    position: Vice Chair
-    affiliation: University College Dublin
-    country: Ireland
-    oldemail: brett.becker+sigcse-vice-chair@ucd.ie
-
-
   - name: Jill Denner
     image: denner.jpg
     position: Treasurer
     country: USA
     email: jillxdenner@gmail.com
-
 
   - name: Dan Garcia
     image: d_garcia.jpg
@@ -30,14 +20,12 @@ members:
     country: USA
     email: ddgarcia.SIGCSE.Secretary@gmail.com
 
-
   - name: Rodrigo Duran
     image: rodrigo-duran.jpg
-    position: At Large Member
+    position: Vice Chair
     affiliation: Federal Institute of Mato Grosso do Sul
     country: Brazil
     email: rodrigo.duran@ifms.edu.br
-
 
   - name: Yolanda A. Rankin
     image: ranking.jpg
@@ -46,15 +34,12 @@ members:
     country: USA
     email: yrankin@gmail.com
 
-
-
   - name: Judy Sheard
     image: judy-sheard.jpg
     position: At Large Member
     affiliation: Monash University
     country: Australia
     email: judy.sheard@monash.edu
-
 
   - name: Adrienne Decker
     image: adrianne2022.jpg

@@ -7,6 +7,13 @@ members:
     country: New Zealand
     email: aclear@eit.ac.nz
 
+  - name: Rodrigo Duran
+    image: rodrigo-duran.jpg
+    position: Vice Chair
+    affiliation: Federal Institute of Mato Grosso do Sul
+    country: Brazil
+    email: rodrigo.duran@ifms.edu.br
+
   - name: Jill Denner
     image: denner.jpg
     position: Treasurer
@@ -19,13 +26,6 @@ members:
     affiliation: University of California Berkeley
     country: USA
     email: ddgarcia.SIGCSE.Secretary@gmail.com
-
-  - name: Rodrigo Duran
-    image: rodrigo-duran.jpg
-    position: Vice Chair
-    affiliation: Federal Institute of Mato Grosso do Sul
-    country: Brazil
-    email: rodrigo.duran@ifms.edu.br
 
   - name: Yolanda A. Rankin
     image: ranking.jpg

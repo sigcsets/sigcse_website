@@ -46,11 +46,11 @@ committees:
 - name: Registration team
   info: We have three members in the registration team, approved by the SIGCSE Board. Participation in the registration team is a 3 year term, renewable once. This renewal is upon mutual interest from the team member and approval of the board.
   members:
-  - name: Albert Chan
+  - name: Albert Chan (2026-2028)
     x-affiliation: "Fayetteville State University"
-  - name: Craig Miller
+  - name: Craig Miller (2024-2026)
     x-affiliation: "DePaul"
-  - name: Joslene Peña
+  - name: Joslene Peña (2025-2027)
     affiliation: "Macalester College"
 
 - name: Web/Data administrator

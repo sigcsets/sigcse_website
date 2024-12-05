@@ -59,6 +59,12 @@ committees:
     affiliation: Ohio State University, USA
     year: 2020 -- 2023
 
+- name: SIGCSE.org Website Administrator
+  email: "webmaster (at) sigcse.org"
+  members:
+    - name: "Manuel A. Pérez-Quiñones"
+      affiliation: University of North Carolina, Charlotte, USA 
+      year: July 1 2019 -- present
 
 - name: "Special Projects/Speaker's Fund/Travel Grant reviewers"
   members:
@@ -84,28 +90,39 @@ committees:
     affiliation: Mount Vernon Nazarene University, USA 
     year: 2022 -- 2025
 
-- name: Awards committee
+- name: "Awards Committee: Outstanding Contribution to Computer Science Education and Distinguished Service to the Computer Science Education Community"
   members:
-  - name: Mona Ali
-  - name: Lina Battestilli
-  - name: Dennis J Bouvier
-  - name: Tony Clear
-  - name: Michelle Craig
-  - name: Becca Dovi
-  - name: Dianne Levitt
-  - name: Robert McCartney
-  - name: Leo Porter
-  - name: Guido Rößling
-  - name: Christian Servin
-  - name: Andreas Stefik
+  - name: Renée McCauley
+    year: 2025
   - name: Henry Walker
+    year: 2025
+  - name: Guido Rößling
+    year: 2025
   - name: Jacqueline Whalley
-  - name: 1 Anonymous
+    year: 2025
+  - name: Robert McCartney
+    year: 2025
 
-
-- name: SIGCSE.org Website Administrator
-  email: "webmaster (at) sigcse.org"
+- name: "Awards Committee: Broadening Participation in Computing Education"
   members:
-    - name: "Manuel A. Pérez-Quiñones"
-      affiliation: University of North Carolina, Charlotte, USA 
-      year: July 1 2019 -- present
+  - name: Andreas Stefik
+    year: 2025
+  - name: Christian Servin
+    year: 2025
+  - name: Rebecca Dovi
+    year: 2025
+  - name: Sara Hooshangi
+    year: 2025
+
+- name: "Awards Committee: Test of Time"
+  members:
+  - name: Jim Paterson
+    year: 2025
+  - name: Andrew Luxton-Reilly
+    year: 2025
+  - name: Samuel Rebelsky
+    year: 2025
+  - name: Tony Clear
+    year: 2025
+
+

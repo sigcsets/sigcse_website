@@ -21,8 +21,16 @@ committees:
     year: junior
 
 - name: Chairs' Roundtable organizers
-  info: 2021
+  info: 2025
   members:
+
+  - name: Krishnendu Roy
+    affiliation: "Valdosta University, USA"
+    year: senior
+  - name: John Barr
+    affiliation: "Ithaca College, USA"
+    year: junior
+
   - name: Ran Libeskind-Hadas
     affiliation: Harvey Mudd College, USA
     year: senior
@@ -68,18 +76,9 @@ committees:
 
 - name: "Special Projects/Speaker's Fund/Travel Grant reviewers"
   members:
-  - name: Mary Anne Egan
-    affiliation: "Siena College, USA"
-    year: 2019 -- 2022
-  - name: Andrew Luxton-Reilly
-    affiliation: University of Auckland, New Zealand 
-    year: 2019 -- 2022
-  - name: Laurie Murphy
-    affiliation: Pacific Lutheran University, USA 
-    year: 2019 -- 2022
-  - name: Amber Settle
-    affiliation: DePaul University, USA 
-    year: 2019 -- 2022
+  - name: Yolanda Rankin
+    affiliation: (Chair)
+    year: 2022 -- 2025
   - name: Aleata Hubbard Cheuoua
     affiliation: WestEd, USA 
     year: 2022 -- 2025
@@ -88,6 +87,9 @@ committees:
     year: 2022 -- 2025
   - name: Michael C. Robbeloth
     affiliation: Mount Vernon Nazarene University, USA 
+    year: 2022 -- 2025
+  - name: Judy Sheard
+    affiliation: "Monash University, Australia"
     year: 2022 -- 2025
 
 - name: "Awards Committee: Outstanding Contribution to Computer Science Education and Distinguished Service to the Computer Science Education Community"

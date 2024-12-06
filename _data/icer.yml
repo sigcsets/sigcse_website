@@ -2,6 +2,19 @@ committees:
 
 - name: Steering committee
   members:
+  - name: Quintin Cutts
+    affiliation: "University of Glasgow, UK"
+  - name: Claudia Szabo
+    affiliation: "University of Adelaide, Australia"
+  - name: Andrew Petersen
+    affiliation: "University of Toronto, Canada"
+  - name: Ben Shapiro
+    affiliation: "University of Washington, USA"
+  - name: Judy Sheard
+    affiliation: "Monash University, Australia (SIGCSE board liaison)"
+
+- name: Past Steering Committee Members
+  members:
   - name: Sally Fincher
     affiliation: University of Kent, UK
     dates: 2020 – 2021

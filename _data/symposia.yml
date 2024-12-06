@@ -4,22 +4,22 @@ committees:
   email: "ts-feedback-sc (at) sigcse.org"
   members:
   - name: Sarah Heckman
-    affiliation: NC State University, NC (chair)
+    affiliation: NC State University, USA (chair)
   - name: Steve Wolfman
-    affiliation: The University of British Columbia (secretary)
+    affiliation: The University of British Columbia, Canada (secretary)
   - name: Leen-Kiat Soh
-    affiliation: University of Nebraska-Lincoln
+    affiliation: University of Nebraska-Lincoln, USA
   - name: Kurt Eiselt
-    affiliation: UC Davis
+    affiliation: UC Davis, USA
   - name: Adrienne Decker
-    affiliation: University at Buffalo, NY (SIGCSE board liaison)
+    affiliation: University at Buffalo, USA (SIGCSE board liaison)
 
 - name: Site selection committee chairs
   members:
   - name: Laurie Smith King
-    affiliation: "College of the Holy Cross, USA (senior chair: 2023-2026)"
+    affiliation: "College of the Holy Cross, USA (senior chair: 2023-2025)"
   - name: Jodi Tims
-    affiliation: "Northeastern University, USA (junior chair: 2023-2026)"
+    affiliation: "Northeastern University, USA (junior chair: 2023-2025, senior chair: 2025-2027)"
 
 - name: Site selection pool members
   members:
@@ -34,29 +34,31 @@ committees:
   - name: Kristine Nagel
     affiliation: "Georgia Tech, USA"
   - name: Steve Wolfman
-    affiliation: "The University of British Columbia"
+    affiliation: "The University of British Columbia, Canada"
 
 - name: Exhibitor liaisons
   members:
-  - name: Beth Hawthorne
-    affiliation: "Rider University, USA (2021-2023, term 1)"
-  - name: Jodi Tims
-    affiliation: "Northeastern University, USA (2021-2023, term 2)"
+  - name: Jian Zhang
+    affiliation: "Texas Women’s University, USA (2023-2025, term 1)"
+  - name: Kristine Nagel
+    affiliation: "Georgia Tech, USA (2024-2026, term 1)"
 
 - name: Registration team
   info: We have three members in the registration team, approved by the SIGCSE Board. Participation in the registration team is a 3 year term, renewable once. This renewal is upon mutual interest from the team member and approval of the board.
   members:
-  - name: Albert Chan (2026-2028)
-    x-affiliation: "Fayetteville State University"
-  - name: Craig Miller (2024-2026)
-    x-affiliation: "DePaul"
-  - name: Joslene Peña (2025-2027)
-    affiliation: "Macalester College"
+  - name: Albert Chan 
+    affiliation: "Fayetteville State University, USA (2023-2028)"
+  - name: Craig S. Miller
+    affiliation: "DePaul University, USA (2024-2026)"
+  - name: Joslene Peña
+    affiliation: "Macalester College, USA (2025-2027)"
 
 - name: Web/Data administrator
   members:
-  - name: Adam Blank
-    affiliation: "Caltech, USA (2020 - end of 2022 Symposium)"
+  - name: "Jérémie Lumbroso"
+    affiliation: "University of Pennsylvania, USA (2024-2026)"
+  - name: "William McBurney"
+    affiliation: "University of Virginia, USA (2025-2027)"
 
 next-conference:
 - title: Technical Symposium 2025

@@ -2,8 +2,10 @@
 next-conference:
 - title: RESPECT 2025
   year: 2025
-  location: "To be announced"
-  start-date: 2025-05-01
+  location: "Raleigh, North Carolina"
+  start-date: 2025-07-14
+  dates: "14-16 July 2025"
+  website: https://2025.respectconference.org
 
 conferences:
 - title: RESPECT 2024

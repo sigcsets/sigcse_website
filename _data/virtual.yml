@@ -7,22 +7,37 @@ committees:
   - name: Rodrigo Silva Duran
     affiliation: Federal Institute of Mato Grosso do Sul, Brazil
   - name: Kate Lockwood
-    affiliation: St. Paul Academy, United States
+    affiliation: St. Paul Academy, USA
   - name: Dan Garcia
-    affiliation: UC Berkeley, United States
+    affiliation: UC Berkeley, USA
   - name: James McGufee
-    affiliation: Christian Brothers University, United States
+    affiliation: Christian Brothers University, USA
   - name: Ming Zhang
     affiliation: Peking University, China
   - name: Stephen Cooper
-    affiliation: University of Nebraska, Lincoln, United States
+    affiliation: University of Nebraska, Lincoln, USA
   - name: Mohsen Dorodchi
-    affiliation: University of North Carolina at Charlotte, United States
+    affiliation: University of North Carolina at Charlotte, USA
 
 
 next-conference:
-- title: SIGCSE Virtual 2024
-  start-date: 2024-12-05
-  dates: "05-07 December 2024"
+- title: SIGCSE Virtual 2026
+  dates: "Dec 2026"
+  start-date: 2026-12-01
+  year: 2026
   location: "Online"
   website: http://sigcsevirtual.acm.org/
+
+conferences:
+- title: SIGCSE Virtual 2024
+  year: 2024
+  start-date: 2024-12-05
+  dates: "05-07 December 2024"
+  location: "online"
+  website: http://sigcsevirtual.acm.org/
+  proceedings-cover: virtual2024.png
+  proceedings:
+  - title: "SIGCSE Virtual 2024: Proceedings of the 2024 on ACM Virtual Global Computing Education Conference V. 1"
+    doi: "https://dl.acm.org/doi/proceedings/10.1145/3649165"
+  - title: "SIGCSE Virtual 2024: Proceedings of the 2024 on ACM Virtual Global Computing Education Conference V. 2"
+    doi: "https://dl.acm.org/doi/proceedings/10.1145/3649409"

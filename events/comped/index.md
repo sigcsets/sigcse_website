@@ -19,12 +19,12 @@ More information on the structure of the conference is available here: [Informat
 
 ###### CompEd Specific Policies
 
-{% for policy in site.data.policies.comped %}
+{% for policy in site.data.policies.comped.policies %}
 - [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
 
 ###### All Conference Policies
 
-{% for policy in site.data.policies.conferences %}
+{% for policy in site.data.policies.conferences.policies %}
 - [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
 
 ###### Proposing an ACM Global Computing Education Conference Location
@@ -34,7 +34,7 @@ CompEd will be hosted by universities whose computing faculty are committed to t
 
 ###### Call for volunteers for Program Chair and other committee positions
 
-Fill out the form below if you are interested in volunteering as a Program Co-Chair or other position for CompEd 202x (to be held in India) or a future CompEd: [Program Chair and other committee positions volunteer form.](https://forms.gle/JHJoaSsSUPEK9Lfj9)
+Fill out the form below if you are interested in volunteering as a Program Co-Chair or other position for a future CompEd: [Program Chair and other committee positions volunteer form.](https://forms.gle/JHJoaSsSUPEK9Lfj9)
 
 
 ##### Latest CompEd conferences

@@ -3,24 +3,28 @@ committees:
 - name: Steering Committee
   members:
   - name: Alison Clear
-    affiliation: Eastern Institute of Technology, Auckland (Chair)
+    affiliation: Eastern Institute of Technology, Auckland, NZ (Chair)
   - name: Sue Sentence
-    affiliation: University of Cambridge
-  - name: Susan Rodger
-    affiliation: Duke University, USA
+    affiliation: University of Cambridge, UK
   - name: Mark Zarb
-    affiliation: Robert Gordon University, Scotland
+    affiliation: Robert Gordon University, UK
   - name: Dan Garcia
-    affiliation: UC Berkeley
+    affiliation: UC Berkeley, USA
   - name: Venkatesh Choppella
-    affiliation: IIIT Hyderabad
+    affiliation: IIIT Hyderabad, India
   - name: Ethel Tshukudu
-    affiliation: University of Botswana
+    affiliation: University of Botswana, Botswana
 
 - name: Past Steering Committee Members
   members:
   - name: Alison Clear
-    affiliation: Eastern Institute of Technology, NZ
+    affiliation: Eastern Institute of Technology, Auckland, NZ
+  - name: Susan Rodger
+    affiliation: Duke University, USA
+  - name: Boots Cassell
+    affiliation: Villanova University, USA
+  - name: Ming Zhang
+    affiliation: Peking University, China
 
 
 next-conference:

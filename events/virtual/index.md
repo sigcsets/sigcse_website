@@ -98,3 +98,14 @@ Interested reviewers should fill in the form at: <https://tinyurl.com/SIGCSE-VIR
 
 **AUTHORS TAKE NOTE**: The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to two weeks prior to the first day of the conference. The official publication date affects the deadline for any patent filings related to published work.
 
+
+##### Latest Virtual conferences
+
+Follow the links to conference web sites and proceedings in the ACM DL.
+
+{% assign items = site.data.virtual.conferences | sort: 'year' | reverse %}
+{% for c in items limit:3 %}
+    {% assign fn = '/events/virtual/' | append: c.year | append: '.html' -%}
+    {% include item.md path=fn %}
+{% endfor %}
+- <a href="conferences.html"><i>View all Virtual Conferences</i></a>

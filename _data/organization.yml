@@ -1,5 +1,4 @@
-committees:
-
+removed:
 - name: Doctoral consortium coordinators
   info: 2019
   members:
@@ -9,6 +8,8 @@ committees:
   - name: Katrina Falkner
     affiliation: University of Adelaide, Australia
     year: junior
+
+committees:
 
 - name: New Educators' Roundtable organizers
   info: 2020
@@ -43,9 +44,9 @@ committees:
   members:
   - name: Charles Wallace
     affiliation: Michigan Technological University, Houghton, MI, USA
-    year: May 1 2021 -- April 30 2024
-  - name: Jeffrey Miller
-    affiliation: University of Southern California, USA
+    year: May 2021 -- June 2027
+  - name: Julie M. Smith
+    affiliation: Institute for Advancing Computing Education, USA
     year: May 1 2019 -- April 30 2022
 
 

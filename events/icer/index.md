@@ -22,12 +22,12 @@ computing education researchers.
 
 ###### ICER Specific Policies
 
-{% for policy in site.data.policies.icer %}
+{% for policy in site.data.policies.icer.policies %}
 - [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
 
 ###### All Conference Policies
 
-{% for policy in site.data.policies.conferences %}
+{% for policy in site.data.policies.conferences.policies %}
 - [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
 
 

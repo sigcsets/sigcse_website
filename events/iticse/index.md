@@ -30,7 +30,7 @@ The ITiCSE conference has been held annually since 1996, in late June or early J
 ##### Policies
 ###### ITiCSE Specific
 
-{% for policy in site.data.policies.iticse %}
+{% for policy in site.data.policies.iticse.policies %}
 - [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
 
 ###### Current Steering committee
@@ -41,7 +41,7 @@ The ITiCSE conference has been held annually since 1996, in late June or early J
 
 ###### Policies that apply to all conferences
 
-{% for policy in site.data.policies.conferences %}
+{% for policy in site.data.policies.conferences.policies %}
 - [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
 
 ##### Get Involved

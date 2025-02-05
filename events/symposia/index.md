@@ -23,12 +23,12 @@ support for the Symposium. For more information please contact:
 
 ###### Technical Symposium Specific Policies
 
-{% for policy in site.data.policies.symposium %}
+{% for policy in site.data.policies.symposia.policies %}
 - [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
 
 ###### All Conference Policies
 
-{% for policy in site.data.policies.conferences %}
+{% for policy in site.data.policies.conferences.policies %}
 - [{{policy.title}}]({{policy.url | absolute_url}}){% if policy.description %} - {{policy.description}}{%endif%}{% endfor %}
 
 ###### Technical Symposium History

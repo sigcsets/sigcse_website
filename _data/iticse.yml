@@ -1,22 +1,20 @@
+steering:
+- name: Michael Kӧlling (chair)
+  affiliation: "King’s College London (ACM Europe)"
+  dates: 2018 –
+- name: Guido Röβling (Secretary)
+  affiliation: "TU Darmstadt, Germany"
+  dates: 2020 – 
+- name: Susan Rodger
+  affiliation: Duke University
+  dates: 2024 -
+- name: Violetta Lonati
+  affiliation: Informatics Europe representative
+  dates: 2024 -
+- name: Judy Sheard
+  affiliation: "Monash University, Australia (SIGCSE board liaison)"
+
 committees:
-
-- name: Steering committee
-  members:
-  - name: Michael Kӧlling (chair)
-    affiliation: "King’s College London (ACM Europe)"
-    dates: 2018 –
-  - name: Guido Röβling (Secretary)
-    affiliation: "TU Darmstadt, Germany"
-    dates: 2020 – 
-  - name: Susan Rodger
-    affiliation: Duke University
-    dates: 2024 -
-  - name: Violetta Lonati
-    affiliation: Informatics Europe representative
-    dates: 2024 -
-  - name: Judy Sheard
-    affiliation: "Monash University, Australia (SIGCSE board liaison)"
-
 - name: Past Steering Committee Members
   members:
   - name: Michael E. Caspersen 
@@ -52,13 +50,29 @@ committees:
     dates: 2020 – 2023
 
 next-conference:
-- title: ITiCSE 2024
-  start-date: 2024-07-08
-  dates: "8-10 July 2024 (WG: 5-7 July)"
-  location: "Milan, Italy"
-  website: https://iticse.acm.org/2024/
+- title: ITiCSE 2025
+  start-date: 2025-06-30
+  dates: "30th June - 2nd July (WG: 27-29 June)"
+  location: "Nijmegen, The Netherlands"
+  website: https://iticse.acm.org/2025/
 
 conferences:
+- title: "29th ITiCSE 2024"
+  year: 2024
+  edition: 29
+  dates: "8-10 July 2024 (WG: 5-7 July)"
+  location: "Milan, Italy"
+  website: "https://iticse.acm.org/2024/"
+  proceedings-cover: iticse2024.png
+  proceedings:
+  - title: "ITiCSE 2024: Proceedings of the 2024 on Innovation and Technology in Computer Science Education V. 1"
+    doi: https://dl.acm.org/doi/proceedings/10.1145/3649217
+  - title: "ITiCSE 2024: Proceedings of the 2024 on Innovation and Technology in Computer Science Education V. 2"
+    doi: https://dl.acm.org/doi/proceedings/10.1145/3649405
+  - title: "ITiCSE 2024: 2024 Working Group Reports on Innovation and Technology in Computer Science Education"
+    doi: https://dl.acm.org/doi/proceedings/10.1145/3689187
+
+
 - title: "28th ITiCSE 2023"
   year: 2023
   edition: 28

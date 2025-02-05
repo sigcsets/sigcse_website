@@ -1,10 +1,11 @@
-section:
-- title: ACM SIGCSE Bylaws
+bylaws:
+  title: ACM SIGCSE Bylaws
   policies:
   - title: Official Bylaws of ACM SIGCSE
     url: policies/bylaws.html
 
-- title: Policies and guidelines approved by the SIGCSE Board
+board:
+  title: Policies and guidelines approved by the SIGCSE Board
   policies:
   - title: Volunteer Travel Policy
     url: policies/travel.html
@@ -19,7 +20,15 @@ section:
     url: policies/awards/index.html
     description: Conflict of interest rules as related to the SIGCSE Awards.
 
-- title: SIGCSE related policies for all conferences
+others:
+  title: Others
+  policies:
+  - title: Sustainability Education
+    url: policies/sustain.html
+    description: Education for a Sustainable Future
+
+conferences:
+  title: SIGCSE related policies for all conferences
   policies:
   - title: Conference Chair Selection
     url: policies/chairs.html
@@ -43,7 +52,9 @@ section:
     url: policies/travel.html
     description: Applies to travel by the SIGCSE Board and its representatives.
 
-- title: Technical Symposium
+
+symposia:
+  title: Technical Symposium
   policies:
   - title: Technical Symposium Steering Committee Membership and Terms of Reference
     url: policies/tssteering.html
@@ -51,28 +62,28 @@ section:
     url: policies/site_visit_team.html
     description: Structure of the SIGCSE Technical Symposium Site Visit Team and rotation of positions.
 
-- title: ICER
+icer:
+  title: ICER
   policies:
   - title: ICER Steering Committee Membership and Terms of Reference
     url: policies/icersteering.html
   - title: Policy on Replacement of Program and Site Chairs
     url: policies/icer-chair-replacement.html
 
-- title: ITiCSE
+iticse:
+  title: ITiCSE
   policies:
   - title: ITiCSE Organisation and Governance
     url: policies/itcseorganization.html
   - title: ITiCSE Steering Committee
     url: policies/iticsesteering.html
 
-- title: CompEd
+comped:
+  title: CompEd
   policies:
   - title: CompEd Organization and Governance
     url: policies/globalstructure.html
 
-- title: Others
+virtual:
+  title: Virtual
   policies:
-  - title: Sustainability Education
-    url: policies/sustain.html
-    description: Education for a Sustainable Future
-

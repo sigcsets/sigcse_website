@@ -61,12 +61,12 @@ committees:
     affiliation: "University of Virginia, USA (2025-2027)"
 
 next-conference:
-- title: Technical Symposium 2025
-  year: 2025
-  start-date: 2025-02-26
-  dates: "Feb-26 to Mar-01, 2025"
-  location: "Pittsburgh, PA"
-  website: https://sigcse2025.sigcse.org/
+- title: Technical Symposium 2026
+  year: 2026
+  start-date: 2026-02-18
+  dates: "Feb-18-21, 2026"
+  location: "St. Louis, MO"
+  waiting-website: https://sigcse2026.sigcse.org/
 
 conferences:
 - year: 1970
@@ -837,5 +837,21 @@ conferences:
       doi: https://dl.acm.org/doi/proceedings/10.1145/3626252
     - title: "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2"
       doi: https://dl.acm.org/doi/proceedings/10.1145/3626253
+
+
+- year: 2025
+  title: 56th SIGCSE TS 2025
+  edition: 56th
+  location: "Pittsburgh, PA"
+  dates: "Feb-26 to Mar-01, 2025"
+  start-date: 2025-02-26
+  website: "https://sigcse2025.sigcse.org/"
+  logo: sigcse2025_logo.png
+  proceedings-cover: SIGCSE2025.png
+  proceedings:
+    - title: "SIGCSE 2025: Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1"
+      doi: https://dl.acm.org/doi/proceedings/10.1145/3641554
+    - title: "SIGCSE 2025: Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 2"
+      doi: https://dl.acm.org/doi/proceedings/10.1145/3641555
 
 

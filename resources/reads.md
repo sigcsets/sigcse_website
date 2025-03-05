@@ -6,6 +6,20 @@ layout: page
 
 SIGCSE Reads has been around for a decade! SIGCSE Reads is a community-led project that allows a growing community of SIGCSE members connect to each other through science fiction. Becky Bates, Judy Goldsmith, Valerie Summet, and Nanette Veilleux organize a get together to discuss that year's reading selections. The group often meets at a Birds of a Feather session at the Technical Symposium. The stories are selected via popular vote and email discussions in the SIGCSE listerv.
 
+### 2026
+For this year’s selections, we are looking at ways to empower our students to be positive change agents in our communities.
+
+For non-fiction, we have <i>Whistleblower</i> by Susan Fowler.
+
+New this year, a podcast: check out Modern Figures, especially episode #4 (<https://modernfigurespodcast.com/computer-science-is-for-everyone-episode-004-video/>).
+
+We have a great novel to enjoy: <i>Service Model</i> by Adrian Tchaikovsky.
+
+And for a quicker read, a short story set in Saint Louis by Annalee Newitz “When Robot and Crow Saved East Saint Louis” (<a href="https://slate.com/technology/2018/12/annalee-newitz-short-story-when-robot-and-crow-saved-east-st-louis.html">available online</a>).
+
+Please enjoy the selections and join us for conversations about them in St. Louis in 2026!
+
+
 ### 2025
 For our non-fiction option, we hope to continue the conversation started this year with _The New Science of Learning, 3rd Ed._, by Todd D. Zakrajsek <https://www.routledge.com/The-New-Science-of-Learning-How-to-Learn-in-Harmony-With-Your-Brain/Zakrajsek/p/book/9781642675016>.
 

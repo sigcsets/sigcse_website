@@ -57,10 +57,16 @@ committees:
   members:
   - name: Haris Skiadas
     affiliation: "Hanover College, USA"
-    year: "until March 31 2022"
+    year: "until Summer 2025"
   - name: David Zabnar
     affiliation: "Cornell College, USA"
-    year: until March 31 2023
+    year: "until Summer 2026"
+  - name: Bob Edmison
+    affiliation: "Virginia Tech, USA"
+    year: "until Summer 2028"
+  - name: Yesenia Velasco
+    affiliation: "Duke University, USA"
+    year: "until Summer 2028"
 
 - name: "Social Media Coordinator"
   members:

@@ -1,19 +1,19 @@
-date: "January 2024"
-members: "2,559"
+date: "January 2025"
+members: "2,315"
 countries: 66
-image: "2023-membership.png"
+image: "2025-membership.png"
 
 categories:
   - name: ACM Professional Members
-    count: 1649
-    percent: "64%"
+    count: 1597
+    percent: "69%"
   - name: SIG-Only Members
-    count: 597
-    percent: "23%"
+    count: 556
+    percent: "24%"
   - name: ACM Student Members
-    count: 87
-    percent: "3%"
+    count: 93
+    percent: "4%"
   - name: SIG-Only Student Members
-    count: 226
-    percent: "9%"
+    count: 69
+    percent: "3%"
 

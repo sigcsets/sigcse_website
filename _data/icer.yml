@@ -38,6 +38,8 @@ committees:
   - name: Simon
     affiliation: "University of Newcastle, Australia (- 2019)"
 
+acmdl: https://dl.acm.org/conference/icer/proceedings
+
 next-conference:
 - title: "ICER '26"
   year: 2026

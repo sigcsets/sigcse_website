@@ -1,5 +1,4 @@
 committees:
-
 - name: Steering Committee
   members:
   - name: Alison Clear
@@ -26,6 +25,7 @@ committees:
   - name: Ming Zhang
     affiliation: Peking University, China
 
+acmdl: https://dl.acm.org/conference/comped/proceedings
 
 next-conference:
 - title: CompEd 2025

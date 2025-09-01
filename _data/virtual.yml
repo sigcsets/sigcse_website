@@ -19,6 +19,7 @@ committees:
   - name: Mohsen Dorodchi
     affiliation: University of North Carolina at Charlotte, USA
 
+acmdl: https://dl.acm.org/conference/sigcse/proceedings
 
 next-conference:
 - title: SIGCSE Virtual 2026

@@ -60,6 +60,8 @@ committees:
   - name: "William McBurney"
     affiliation: "University of Virginia, USA (2025-2027)"
 
+acmdl: https://dl.acm.org/conference/sigcse/proceedings
+
 future-conferences:
 - title: Technical Symposium 2027
   year: 2027

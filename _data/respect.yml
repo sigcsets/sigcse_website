@@ -14,6 +14,8 @@ committees:
   - name: Yolanda Rankin
     affiliation: Emory University, USA (SIGCSE board liaison)
 
+acmdl: https://dl.acm.org/conference/respect/proceedings
+ieeedl: https://ieeexplore.ieee.org/xpl/conhome/1809604/all-proceedings
 
 next-conference:
 - title: RESPECT 2026

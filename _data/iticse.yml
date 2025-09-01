@@ -51,6 +51,9 @@ committees:
     affiliation: University of Applied Sciences and Arts
     dates: 2020 – 2023
 
+acmdl: https://dl.acm.org/conference/iticse/proceedings
+
+
 next-conference:
 - title: "ITiCSE 2026"
   start-date: 2026-07-13

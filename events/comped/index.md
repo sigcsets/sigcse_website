@@ -39,7 +39,7 @@ Fill out the form below if you are interested in volunteering as a Program Co-Ch
 
 ##### Latest CompEd conferences
 
-Follow the links to conference web sites and proceedings in the ACM DL.
+Follow the links to conference web sites and proceedings in the ACM DL. Browse by the <a href="covers.html">proceeding covers</a>.
 
 {% assign items = site.data.comped.conferences | sort: 'year' | reverse %}
 {% for c in items limit:3 %}

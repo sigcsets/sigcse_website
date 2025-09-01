@@ -1,0 +1,84 @@
+chapters:
+  - name: Australasian ACM SIGCSE Chapter
+    group_id: 65504
+    status: Active
+    charter_date: 16-APR-2009
+    city: Wadalba
+    state:  NSW
+    country:  Australia
+    email:  austacmsigcse@gmail.com
+    chapter_type: Professional
+    officers:
+      - name: Chair - Claudia Szabo - claudia.szabo@adelaide.edu.au
+      - name: Vice Chair - Nicole Herbert - Nicole.herbert@utas.edu.au
+      - name: Treasurer - Trina Myers - trina.myers@deakin.edu.au
+      - name: Secretary - Dr Carolyn Seton - carolyn.seton@scu.edu.au
+
+  - name: CCSE ACM Chapter
+    group_id: 150242
+    status: Active
+    charter_date: 12-SEP-2016
+    city: BEIJING
+    state:  
+    country:  China
+    email:  sigcsechina@163.com
+    url:  https://china.acm.org/SIGCSE/home.html
+    chapter_type: Professional
+    officers:
+      - name: Chair - Yang Bo - yangbo@ujn.edu.cn
+      - name: Vice Chair - Dr. Junlin Lu - ljl@pku.edu.cn
+      - name: Treasurer - Xiaochun Yang - janeyungxc@hotmail.com
+      - name: Secretary - Ying Qian - yqian@cs.ecnu.edu.cn
+      - name: Web Master - Ke Zhang - zhangke@ict.ac.cn
+      - name: Membership Chair - Xi Wu - wuxi@cuit.edu.cn
+
+  - name: Ireland ACM SIGCSE Chapter
+    group_id: 182114
+    status: Active
+    charter_date: 12-AUG-2019
+    city: Belfield
+    state:  
+    country:  Ireland
+    email:  SIGCSEire@gmail.com
+    url:  https://SIGCSEire.acm.org
+    chapter_type: Professional
+    officers:
+      - name: Chair - Keith Nolan - keith.nolan@tudublin.ie
+      - name: Vice Chair - Dr Sean Russell - sean.russell@ucd.ie
+      - name: Treasurer - Rosemary Monahan - rosemary.monahan@mu.ie
+      - name: Secretary - John Dunnion - John.Dunnion@ucd.ie
+
+
+  - name: iSIGCSE ACM Chapter
+    group_id: 131354
+    status: Active
+    charter_date: 15-NOV-2016
+    city: Erandwana, Pune
+    state:  
+    country:  India
+    email:  isigcse@gmail.com
+    url:  https://isigcse.acm.org
+    chapter_type: Professional
+    officers:
+      - name: Chair - Neeraj Goel - neeraj@iitrpr.ac.in
+      - name: Vice Chair - Mrityunjay Kumar - mrityunjay.kumar@pilani.bits-pilani.ac.in
+      - name: Treasurer - Ritwik Murali - ritwik.academics@gmail.com
+      - name: Secretary - Dr. Bhumika Shah - bhumikagshah@gmail.com
+      - name: Membership Chair - Dr. Ruchika Gupta - rgupt009@gmail.com
+
+
+  - name: UK ACM SIGCSE Chapter
+    group_id: 171285
+    status: Active
+    charter_date: 21-FEB-2018
+    city: Glasgow
+    state:  
+    country:  United Kingdom
+    email:  joseph.maguire@glasgow.ac.uk
+    url:  https://uki-sigcse.acm.org/
+    chapter_type: Professional
+    officers:
+      - name: Chair - Joseph Maguire - joseph.maguire@glasgow.ac.uk
+      - name: Vice Chair - Dr Rosanne English - rosanne.english@strath.ac.uk
+      - name: Treasurer - Duncan Hull - Duncan.Hull@manchester.ac.uk
+      - name: Secretary - Steven Bradley - s.p.bradley@durham.ac.uk

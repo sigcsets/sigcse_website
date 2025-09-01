@@ -60,6 +60,18 @@ All the info comes from the data files in the \_data directory
 {% endfor %}
 {% endfor %}
 
+#### RESPECT Conference
+{:.mt-4 .border-bottom}
+
+{%for c in site.data.respect.committees %}
+###### {{c.name}}{% if c.email %}: ({{c.email}}){% endif %}
+{% if c.info %}{{c.info}}{% endif %}
+{% for m in c.members -%}
+- {{m.name}}{% if m.affiliation%}, {{m.affiliation}}{% endif %}{%if m.year %} ({{m.year}}){% endif %}
+{% endfor %}
+{% endfor %}
+
+
 #### Virtual Conference
 {:.mt-4 .border-bottom}
 

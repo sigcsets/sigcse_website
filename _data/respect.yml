@@ -1,16 +1,38 @@
+committees:
+- name: Steering committee
+  members:
+  - name: Jamie Payton
+    affiliation: New Jersey Institute of Technology, USA
+  - name: Christina Gardner-McCune
+    affiliation: University of Florida, USA
+  - name: George K. Thiruvathukal
+    affiliation: Loyola University-Chicago, USA
+  - name: Kinnis Gosha
+    affiliation: Morehouse College, USA
+  - name: Tiffany Barnes
+    affiliation: North Carolina State University, USA
+  - name: Yolanda Rankin
+    affiliation: Emory University, USA (SIGCSE board liaison)
+
 
 next-conference:
+- title: RESPECT 2026
+  year: 2026
+  start-date: 2026-07-01
+  dates: "TBA"
+
+
+conferences:
 - title: RESPECT 2025
   year: 2025
   location: "Newark, New Jersey"
   start-date: 2025-07-14
   dates: "14-16 July 2025"
   website: https://2025.respectconference.org
+  proceedings:
+  - title: "RESPECT 2025: Proceedings of the 2025 Conference on Research on Equitable and Sustained Participation in Engineering, Computing, and Technology"
+    doi: https://dl.acm.org/doi/proceedings/10.1145/3704637
 
-
-
-
-conferences:
 - title: RESPECT 2024
   year: 2024
   start-date: 2024-05-15
@@ -22,9 +44,68 @@ conferences:
       doi: https://dl.acm.org/doi/proceedings/10.1145/3653666
   proceedings-cover: respect2024.png
 
-- title: RESPECT 2023
+- title: RESPECT 2023 (IEEE)
   year: 2023
   start-date: 2023-06-20
   dates: "20-21 June 2023"
   location: "Georgia Tech Conference Center &amp; Hotel, Atlanta GA"
   website: https://respect2023.stcbp.org
+  proceedings:
+    - title: "2023 Conference on Research in Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT)"
+      doi:  https://doi.org/10.1109/RESPECT60069.2023
+
+- title: RESPECT 2022 (IEEE)
+  year: 2022
+  dates: "23-24 May 2022"
+  location: Baltimore, MD, USA
+  proceedings:
+    - title: "2022 Conference on Research in Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT)"
+      doi: https://ieeexplore.ieee.org/xpl/conhome/10343442/proceeding
+
+- title: RESPECT 2021 (IEEE)
+  year: 2021
+  dates: "23-27 May 2021"
+  location: Philadelphia, PA, USA
+  proceedings:
+    - title: "2021 Conference on Research in Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT)"
+      doi: https://ieeexplore.ieee.org/xpl/conhome/9620205/proceeding
+
+- title: RESPECT 2020 (IEEE)
+  year: 2020
+  dates: "10-11 March 2020"
+  location: Portland, OR, USA
+  proceedings:
+    - title: "2020 Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)"
+      doi: https://ieeexplore.ieee.org/xpl/conhome/9272398/proceeding
+
+- title: RESPECT 2019 (IEEE)
+  year: 2019
+  dates: "27-27 February 2019"
+  location: Minneapolis, MN, USA
+  proceedings:
+    - title: "2019 Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)"
+      doi: https://ieeexplore.ieee.org/xpl/conhome/8975895/proceeding
+
+- title: RESPECT 2018 (IEEE)
+  year: 2018
+  dates: "21-21 February 2018"
+  location: Baltimore, MD, USA
+  proceedings:
+    - title: "2018 Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)"
+      doi: https://ieeexplore.ieee.org/xpl/conhome/8479536/proceeding
+
+- title: RESPECT 2016 (IEEE)
+  year: 2016
+  dates: "11-13 August 2016"
+  location: Atlanta, GA, USA
+  proceedings:
+    - title: "2016 Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)"
+      doi: https://ieeexplore.ieee.org/xpl/conhome/7829188/proceeding
+
+- title: RESPECT 2015 (IEEE)
+  year: 2015
+  dates: "13-14 August 2015"
+  location: Charlotte, NC, USA
+  proceedings:
+    - title: "2015 Research in Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT)"
+      doi: https://ieeexplore.ieee.org/xpl/conhome/7279854/proceeding

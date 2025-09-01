@@ -1,37 +1,85 @@
+
+- year: 2025
+  awarded: TS
+  type: Computing Education Research
+  citation: "Masoumeh Rahimi, Lauren E. Margulieux, and Erin Anderson. 2025. CS Concepts and Contextual Factors in Integrated Computing Activities in U.S. Schools. In <i>Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2025.html\">SIGCSETS 2025</a>)</i>. Association for Computing Machinery, New York, NY, USA, 931–937."
+  doi: https://doi.org/10.1145/3641554.3701817
+
+- year: 2025
+  awarded: TS
+  type: Computing Education Research
+  citation: "Ahsun Tariq, Phillip Conrad, Christopher Hundhausen, Andrew Yu, and Olusola Adesope. 2025. Improving Agile Retrospectives through Metacognitive Scaffolding. In <i>Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2025.html\">SIGCSETS 2025</a>)</i>. Association for Computing Machinery, New York, NY, USA, 1106–1112."
+  doi: https://doi.org/10.1145/3641554.3701927
+
+- year: 2025
+  awarded: TS
+  type: Computing Education Research
+  citation: "Yolanda A. Rankin and Nyshia Baker. 2025. Sister Circles: An Intersectional Method in Computing Education. In <i>Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2025.html\">SIGCSETS 2025</a>)</i>. Association for Computing Machinery, New York, NY, USA, 966–972."
+  doi: https://doi.org/10.1145/3641554.3701944
+
+
+- year: 2025
+  awarded: TS
+  type: Experience Reports and Tools
+  citation: "Fatima Abu Deeb, Ella Tuson, and Timothy J Hickey. 2025. Grading for Equity in a Hyflex Compiler Design Course. In <i>Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2025.html\">SIGCSETS 2025</a>)</i>. Association for Computing Machinery, New York, NY, USA, 4–10."
+  doi: https://doi.org/10.1145/3641554.3701835
+- year: 2025
+  awarded: TS
+  type: Experience Reports and Tools
+  citation: "James Matthews, Robin Flatland, Kathryn Schiller, Jesse Moya, and Pauline White. 2025. How a Small College Can Make a Big Impact on High School CS. In <i>Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2025.html\">SIGCSETS 2025</a>)</i>. Association for Computing Machinery, New York, NY, USA, 749–755."
+  doi: https://doi.org/10.1145/3641554.3701860
+- year: 2025
+  awarded: TS
+  type: Experience Reports and Tools
+  citation: "Logan W. Schmidt, Caitlin J. Kidder, Ildar Akhmetov, Megan Bebis, Alan C. Jamieson, Albert Lionelle, Sarah Maravetz, Sami Rollins, and Ethan Selinger. 2025. An MS in CS for non-CS Majors: A Ten Year Retrospective. In <i>Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2025.html\">SIGCSETS 2025</a>)</i>. Association for Computing Machinery, New York, NY, USA, 1036–1042."
+  doi: https://doi.org/10.1145/3641554.3701928
+
+- year: 2025
+  awarded: TS
+  type: Position and Curricula Initiatives
+  citation: "Sverrir Thorgeirsson, Tracy Ewen, and Zhendong Su. 2025. What Can Computer Science Educators Learn From the Failures of Top-Down Pedagogy? In <i>Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2025.html\">SIGCSETS 2025</a>)</i>. Association for Computing Machinery, New York, NY, USA, 1127–1133."
+  doi: https://doi.org/10.1145/3641554.3701873
+
+- year: 2025
+  awarded: TS
+  type: Position and Curricula Initiatives
+  citation: "Claudia Szabo, Miranda C. Parker, Michelle Friend, Johan Jeuring, Tobias Kohn, Lauri Malmi, and Judithe Sheard. 2025. Models of Mastery Learning for Computing Education. In <i>Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2025.html\">SIGCSETS 2025</a>)</i>. Association for Computing Machinery, New York, NY, USA, 1092–1098."
+  doi: https://doi.org/10.1145/3641554.3701868
+
 - year: 2011
   awarded: TS
   type: Best Paper
-  citation: "Guillaume Marceau, Kathi Fisler, and Shriram Krishnamurthi. 2011. Measuring the effectiveness of error messages designed for novice programmers. In <i>Proceedings of the 42nd ACM technical symposium on Computer science education (SIGCSE '11)</i>. Association for Computing Machinery, New York, NY, USA, 499–504."
+  citation: "Guillaume Marceau, Kathi Fisler, and Shriram Krishnamurthi. 2011. Measuring the effectiveness of error messages designed for novice programmers. In <i>Proceedings of the 42nd ACM technical symposium on Computer science education (<a href=\"/events/symposia/11.html\">SIGCSE '11</a>)</i>. Association for Computing Machinery, New York, NY, USA, 499–504."
   doi: https://doi.org/10.1145/1953163.1953308
 
 - year: 2012
   awarded: TS
   type: Best Paper
-  citation: "Jeremy Andrus and Jason Nieh. 2012. Teaching operating systems using android. In <i>Proceedings of the 43rd ACM technical symposium on Computer Science Education (SIGCSE '12)</i>. Association for Computing Machinery, New York, NY, USA, 613–618."
+  citation: "Jeremy Andrus and Jason Nieh. 2012. Teaching operating systems using android. In <i>Proceedings of the 43rd ACM technical symposium on Computer Science Education (<a href=\"/events/symposia/12.html\">SIGCSE '12</a>)</i>. Association for Computing Machinery, New York, NY, USA, 613–618."
   doi: https://doi.org/10.1145/2157136.2157312
 
 - year: 2013
   awarded: TS
   type: Best Paper
-  citation: "Leo Porter and Beth Simon. 2013. Retaining nearly one-third more majors with a trio of instructional best practices in CS1. In <i>Proceeding of the 44th ACM technical symposium on Computer science education (SIGCSE '13)</i>. Association for Computing Machinery, New York, NY, USA, 165–170."
+  citation: "Leo Porter and Beth Simon. 2013. Retaining nearly one-third more majors with a trio of instructional best practices in CS1. In Proceeding of the 44th ACM technical symposium on Computer science education (<a href=\"/events/symposia/13.html\">SIGCSE '13</a>). Association for Computing Machinery, New York, NY, USA, 165–170."
   doi: https://doi.org/10.1145/2445196.2445248
 
 - year: 2014
   awarded: TS
   type: Best Paper
-  citation: "Claudia Szabo. 2014. Student projects are not throwaways: teaching practical software maintenance in a software engineering course. In <i>Proceedings of the 45th ACM technical symposium on Computer science education (SIGCSE '14)</i>. Association for Computing Machinery, New York, NY, USA, 55–60."
+  citation: "Claudia Szabo. 2014. Student projects are not throwaways: teaching practical software maintenance in a software engineering course. In <i>Proceedings of the 45th ACM technical symposium on Computer science education (<a href=\"/events/symposia/14.html\">SIGCSE '14</a>)</i>. Association for Computing Machinery, New York, NY, USA, 55–60."
   doi: https://doi.org/10.1145/2538862.2538965
 
 - year: 2015
   awarded: TS
   type: Best Paper
-  citation: "Celine Latulipe, N. Bruce Long, and Carlos E. Seminario. 2015. Structuring Flipped Classes with Lightweight Teams and Gamification. In <i>Proceedings of the 46th ACM Technical Symposium on Computer Science Education (SIGCSE '15)</i>. Association for Computing Machinery, New York, NY, USA, 392–397."
+  citation: "Celine Latulipe, N. Bruce Long, and Carlos E. Seminario. 2015. Structuring Flipped Classes with Lightweight Teams and Gamification. In <i>Proceedings of the 46th ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/15.html\">SIGCSE '15</a>)</i>. Association for Computing Machinery, New York, NY, USA, 392–397."
   doi: https://doi.org/10.1145/2676723.2677240
 
 - year: 2019
   awarded: TS
   type: Computing Education Research
-  citation: "James Prather, Raymond Pettit, Brett A. Becker, Paul Denny, Dastyni Loksa, Alani Peters, Zachary Albrecht, and Krista Masci. 2019. First Things First: Providing Metacognitive Scaffolding for Interpreting Problem Prompts. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (SIGCSE '19)</i>. Association for Computing Machinery, New York, NY, USA, 531–537."
+  citation: "James Prather, Raymond Pettit, Brett A. Becker, Paul Denny, Dastyni Loksa, Alani Peters, Zachary Albrecht, and Krista Masci. 2019. First Things First: Providing Metacognitive Scaffolding for Interpreting Problem Prompts. In <i>Proceedings of the 50th ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/19.html\">SIGCSE '19</a>)</i>. Association for Computing Machinery, New York, NY, USA, 531–537."
   doi: https://doi.org/10.1145/3287324.3287374
 
 - year: 2019
@@ -92,55 +140,55 @@
 - year: 2020
   awarded: TS
   type: Computing Education Research
-  citation: "An Nguyen and Colleen M. Lewis. 2020. Competitive Enrollment Policies in Computing Departments Negatively Predict First-Year Students' Sense of Belonging, Self-Efficacy, and Perception of Department. In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE '20)</i>. Association for Computing Machinery, New York, NY, USA, 685–691."
+  citation: "An Nguyen and Colleen M. Lewis. 2020. Competitive Enrollment Policies in Computing Departments Negatively Predict First-Year Students' Sense of Belonging, Self-Efficacy, and Perception of Department. In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/20.html\">SIGCSE '20</a>)</i>. Association for Computing Machinery, New York, NY, USA, 685–691."
   doi: https://doi.org/10.1145/3328778.3366805
 
 - year: 2020
   awarded: TS
   type: Computing Education Research
-  citation: "Jeremiah Blanchard, Christina Gardner-McCune, and Lisa Anthony. 2020. Dual-Modality Instruction and Learning: A Case Study in CS1. In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE '20</i>). Association for Computing Machinery, New York, NY, USA, 818–824."
+  citation: "Jeremiah Blanchard, Christina Gardner-McCune, and Lisa Anthony. 2020. Dual-Modality Instruction and Learning: A Case Study in CS1. In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/20.html\">SIGCSE '20</a>)</i>. Association for Computing Machinery, New York, NY, USA, 818–824."
   doi: https://doi.org/10.1145/3328778.3366865
 
 - year: 2020
   awarded: TS
   type: Computing Education Research
-  citation: "Valdemar Švábenský, Jan Vykopal, and Pavel Čeleda. 2020. What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences. In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE '20)</i>. Association for Computing Machinery, New York, NY, USA, 2–8."
+  citation: "Valdemar Švábenský, Jan Vykopal, and Pavel Čeleda. 2020. What Are Cybersecurity Education Papers About? A Systematic Literature Review of SIGCSE and ITiCSE Conferences. In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/20.html\">SIGCSE '20</a>)</i>. Association for Computing Machinery, New York, NY, USA, 2–8."
   doi: https://doi.org/10.1145/3328778.3366816
 
 - year: 2020
   awarded: TS
   type: Experience Reports and Tools
-  citation: "Tracy Camp, Christine Liebe, and Michelle Slattery. 2020. Applying NCWIT Protocol to Broaden Participation in Computing: A Case Study of CS@Mines. In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE '20)</i>. Association for Computing Machinery, New York, NY, USA, 528–534."
+  citation: "Tracy Camp, Christine Liebe, and Michelle Slattery. 2020. Applying NCWIT Protocol to Broaden Participation in Computing: A Case Study of CS@Mines. In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/20.html\">SIGCSE '20</a>)</i>. Association for Computing Machinery, New York, NY, USA, 528–534."
   doi: https://doi.org/10.1145/3328778.3366958
 
 - year: 2020
   awarded: TS
   type: Experience Reports and Tools
-  citation: "Jennifer Tsan, Jessica Vandenberg, Zarifa Zakaria, Joseph B. Wiggins, Alexander R. Webber, Amanda Bradbury, Collin Lynch, Eric Wiebe, and Kristy Elizabeth Boyer. 2020. A Comparison of Two Pair Programming Configurations for Upper Elementary Students. In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE '20)</i>. Association for Computing Machinery, New York, NY, USA, 346–352."
+  citation: "Jennifer Tsan, Jessica Vandenberg, Zarifa Zakaria, Joseph B. Wiggins, Alexander R. Webber, Amanda Bradbury, Collin Lynch, Eric Wiebe, and Kristy Elizabeth Boyer. 2020. A Comparison of Two Pair Programming Configurations for Upper Elementary Students. In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/20.html\">SIGCSE '20</a>)</i>. Association for Computing Machinery, New York, NY, USA, 346–352."
   doi: https://doi.org/10.1145/3328778.3366941
 
 - year: 2020
   awarded: TS
   type: Experience Reports and Tools
-  citation: "Jessica Young Schmidt. 2020. Reviewing CS1 Materials through a Collaborative Software Engineering Exercise: An Experience Report. In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE '20)</i>. Association for Computing Machinery, New York, NY, USA, 379–385."
+  citation: "Jessica Young Schmidt. 2020. Reviewing CS1 Materials through a Collaborative Software Engineering Exercise: An Experience Report. In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/20.html\">SIGCSE '20</a>)</i>. Association for Computing Machinery, New York, NY, USA, 379–385."
   doi: https://doi.org/10.1145/3328778.3366932
 
 - year: 2020
   awarded: TS
   type: Position Papers and Curriculum Initiatives
-  citation: "Paul Goldenberg, June Mark, Brian Harvey, Al Cuoco, and Mary Fries. 2020. Design Principles behind Beauty and Joy of Computing. In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE '20)</i>. Association for Computing Machinery, New York, NY, USA, 220–226."
+  citation: "Paul Goldenberg, June Mark, Brian Harvey, Al Cuoco, and Mary Fries. 2020. Design Principles behind Beauty and Joy of Computing. In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/20.html\">SIGCSE '20</a>)</i>. Association for Computing Machinery, New York, NY, USA, 220–226."
   doi: https://doi.org/10.1145/3328778.3366794
 
 - year: 2020
   awarded: TS
   type: Position Papers and Curriculum Initiatives
-  citation: "Abhijeet Agnihotri, Matthew O'Kelly, Rahul Mangharam, and Houssam Abbas. 2020. Teaching Autonomous Systems at 1/10th-scale: Design of the F1/10 Racecar, Simulators and Curriculum. In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE '20)</i>. Association for Computing Machinery, New York, NY, USA, 657–663."
+  citation: "Abhijeet Agnihotri, Matthew O'Kelly, Rahul Mangharam, and Houssam Abbas. 2020. Teaching Autonomous Systems at 1/10th-scale: Design of the F1/10 Racecar, Simulators and Curriculum. In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/20.html\">SIGCSE '20</a>)</i>. Association for Computing Machinery, New York, NY, USA, 657–663."
   doi: https://doi.org/10.1145/3328778.3366796
 
 - year: 2020
   awarded: TS
   type: Position Papers and Curriculum Initiatives
-  citation: "Joel C. Adams. 2020. Creating a Balanced Data Science Program. In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE '20)</i>. Association for Computing Machinery, New York, NY, USA, 185–191."
+  citation: "Joel C. Adams. 2020. Creating a Balanced Data Science Program. In <i>Proceedings of the 51st ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/20.html\">SIGCSE '20</a>)</i>. Association for Computing Machinery, New York, NY, USA, 185–191."
   doi: https://doi.org/10.1145/3328778.3366800
 
 
@@ -149,56 +197,56 @@
 - year: 2021
   awarded: TS
   type: Computing Education Research
-  citation: "Yolanda A. Rankin, Jakita O. Thomas, and Sheena Erete. 2021. Real Talk: Saturated Sites of Violence in CS Education. In <i>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE '21)</i>. Association for Computing Machinery, New York, NY, USA, 802–808." 
+  citation: "Yolanda A. Rankin, Jakita O. Thomas, and Sheena Erete. 2021. Real Talk: Saturated Sites of Violence in CS Education. In <i>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/21.html\">SIGCSE '21</a>)</i>. Association for Computing Machinery, New York, NY, USA, 802–808." 
   doi: https://doi.org/10.1145/3408877.3432432
 
 - year: 2021
   awarded: TS
   type: Computing Education Research
-  citation: "Catherine Mooney and Brett A. Becker. 2021. Investigating the Impact of the COVID-19 Pandemic on Computing Students' Sense of Belonging. In <i>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE '21)</i>. Association for Computing Machinery, New York, NY, USA, 612–618."
+  citation: "Catherine Mooney and Brett A. Becker. 2021. Investigating the Impact of the COVID-19 Pandemic on Computing Students' Sense of Belonging. In <i>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/21.html\">SIGCSE '21</a>)</i>. Association for Computing Machinery, New York, NY, USA, 612–618."
   doi: https://doi.org/10.1145/3408877.3432407
 
 - year: 2021
   awarded: TS
   type: Computing Education Research
-  citation: "Max Fowler and Craig Zilles. 2021. Superficial Code-guise: Investigating the Impact of Surface Feature Changes on Students' Programming Question Scores. In <i>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE '21)</i>. Association for Computing Machinery, New York, NY, USA, 3–9."
+  citation: "Max Fowler and Craig Zilles. 2021. Superficial Code-guise: Investigating the Impact of Surface Feature Changes on Students' Programming Question Scores. In <i>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/21.html\">SIGCSE '21</a>)</i>. Association for Computing Machinery, New York, NY, USA, 3–9."
   doi: https://doi.org/10.1145/3408877.3432413
 
 
 - year: 2021
   awarded: TS
   type: Experience Reports and Tools
-  citation: "Andrew Begel, James Dominic, Conner Phillis, Thomas Beeson, and Paige Rodeghero. 2021. How a Remote Video Game Coding Camp Improved Autistic College Students' Self-Efficacy in Communication. In <i>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE '21</i>). Association for Computing Machinery, New York, NY, USA, 142–148."
+  citation: "Andrew Begel, James Dominic, Conner Phillis, Thomas Beeson, and Paige Rodeghero. 2021. How a Remote Video Game Coding Camp Improved Autistic College Students' Self-Efficacy in Communication. In <i>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/21.html\">SIGCSE '21</a>)</i>. Association for Computing Machinery, New York, NY, USA, 142–148."
   doi: https://doi.org/10.1145/3408877.3432516
 
 - year: 2021
   awarded: TS
   type: Experience Reports and Tools
-  citation: "Julia M. Markel and Philip J. Guo. 2021. Inside the Mind of a CS Undergraduate TA: A Firsthand Account of Undergraduate Peer Tutoring in Computer Labs. In <i>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE '21)</i>. Association for Computing Machinery, New York, NY, USA, 502–508."
+  citation: "Julia M. Markel and Philip J. Guo. 2021. Inside the Mind of a CS Undergraduate TA: A Firsthand Account of Undergraduate Peer Tutoring in Computer Labs. In <i>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/21.html\">SIGCSE '21</a>)</i>. Association for Computing Machinery, New York, NY, USA, 502–508."
   doi: https://doi.org/10.1145/3408877.3432533
 
 - year: 2021
   awarded: TS
   type: Experience Reports and Tools
-  citation: "Audrey Rorrer, Breauna Spencer, Sloan Davis, Sepi Hejazi Moghadam, Deborah Holmes, and Cori Grainger. 2021. Understanding Immersive Research Experiences that Build Community, Equity, and Inclusion. In <i>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE '21)</i>. Association for Computing Machinery, New York, NY, USA, 149–155."
+  citation: "Audrey Rorrer, Breauna Spencer, Sloan Davis, Sepi Hejazi Moghadam, Deborah Holmes, and Cori Grainger. 2021. Understanding Immersive Research Experiences that Build Community, Equity, and Inclusion. In <i>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/21.html\">SIGCSE '21</a>)</i>. Association for Computing Machinery, New York, NY, USA, 149–155."
   doi: https://doi.org/10.1145/3408877.3432523
 
 - year: 2021
   awarded: TS
   type: Position Papers and Curriculum Initiatives
-  citation: "Raymond W. Blaine, Jean R. S. Blair, Christa M. Chewar, Rob Harrison, James J. Raftery, and Edward Sobiesk. 2021. Creating a Multifarious Cyber Science Major. In <i>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE '21)</i>. Association for Computing Machinery, New York, NY, USA, 1205–1211."
+  citation: "Raymond W. Blaine, Jean R. S. Blair, Christa M. Chewar, Rob Harrison, James J. Raftery, and Edward Sobiesk. 2021. Creating a Multifarious Cyber Science Major. In <i>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/21.html\">SIGCSE '21</a>)</i>. Association for Computing Machinery, New York, NY, USA, 1205–1211."
   doi: https://doi.org/10.1145/3408877.3432462
 
 - year: 2021
   awarded: TS
   type: Position Papers and Curriculum Initiatives
-  citation: "Aleata Hubbard Cheuoua. 2021. Confronting Inequities in Computer Science Education: A Case for Critical Theory. In <i>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE '21)</i>. Association for Computing Machinery, New York, NY, USA, 425–430."
+  citation: "Aleata Hubbard Cheuoua. 2021. Confronting Inequities in Computer Science Education: A Case for Critical Theory. In <i>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/21.html\">SIGCSE '21</a>)</i>. Association for Computing Machinery, New York, NY, USA, 425–430."
   doi: https://doi.org/10.1145/3408877.3432453
 
 - year: 2021
   awarded: TS
   type: Position Papers and Curriculum Initiatives
-  citation: "Mariam Salloum, Daniel Jeske, Wenxiu Ma, Vagelis Papalexakis, Christian Shelton, Vassilis Tsotras, and Shuheng Zhou. 2021. Developing an Interdisciplinary Data Science Program. In <i>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE '21)</i>. Association for Computing Machinery, New York, NY, USA, 509–515."
+  citation: "Mariam Salloum, Daniel Jeske, Wenxiu Ma, Vagelis Papalexakis, Christian Shelton, Vassilis Tsotras, and Shuheng Zhou. 2021. Developing an Interdisciplinary Data Science Program. In <i>Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/21.html\">SIGCSE '21</a>)</i>. Association for Computing Machinery, New York, NY, USA, 509–515."
   doi: https://doi.org/10.1145/3408877.3432454
 
 
@@ -206,51 +254,51 @@
 - year: 2022
   awarded: TS
   type: Computing Education Research
-  citation: "Jayne Everson, F. Megumi Kivuva, and Amy J. Ko. 2022. A Key to Reducing Inequities in Like, AI, is by Reducing Inequities Everywhere First: Emerging Critical Consciousness in a Co-Constructed Secondary CS Classroom. In <i>Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1</i> (<i>SIGCSE 2022</i>). Association for Computing Machinery, New York, NY, USA, 209–215."
+  citation: "Jayne Everson, F. Megumi Kivuva, and Amy J. Ko. 2022. A Key to Reducing Inequities in Like, AI, is by Reducing Inequities Everywhere First: Emerging Critical Consciousness in a Co-Constructed Secondary CS Classroom. In <i>Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2022.html\">SIGCSE 2022</a>)</i>. Association for Computing Machinery, New York, NY, USA, 209–215."
   doi: https://doi.org/10.1145/3478431.3499395
 
 - year: 2022
   awarded: TS
   type: Computing Education Research
-  citation: "Sophia Krause-Levy, Sander Valstar, Leo Porter, and William G. Griswold. 2022. A Demographic Analysis on Prerequisite Preparation in an Advanced Data Structures Course. In <i>Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1</i> (<i>SIGCSE 2022</i>). Association for Computing Machinery, New York, NY, USA, 661–667."
+  citation: "Sophia Krause-Levy, Sander Valstar, Leo Porter, and William G. Griswold. 2022. A Demographic Analysis on Prerequisite Preparation in an Advanced Data Structures Course. In <i>Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2022.html\">SIGCSE 2022</a>)</i>. Association for Computing Machinery, New York, NY, USA, 661–667."
   doi: https://doi.org/10.1145/3478431.3499337
 
 - year: 2022
   awarded: TS
   type: Computing Education Research
-  citation: "Juho Leinonen, Francisco Enrique Vicente Castro, and Arto Hellas. 2022. Time-on-Task Metrics for Predicting Performance. In <i>Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1</i> (<i>SIGCSE 2022</i>). Association for Computing Machinery, New York, NY, USA, 871–877."
+  citation: "Juho Leinonen, Francisco Enrique Vicente Castro, and Arto Hellas. 2022. Time-on-Task Metrics for Predicting Performance. In <i>Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2022.html\">SIGCSE 2022</a>)</i>. Association for Computing Machinery, New York, NY, USA, 871–877."
   doi: https://doi.org/10.1145/3478431.3499359
 
 
 - year: 2022
   awarded: TS
   type: Experience Reports and Tools
-  citation: "Wengran Wang, Audrey Le Meur, Mahesh Bobbadi, Bita Akram, Tiffany Barnes, Chris Martens, and Thomas Price. 2022. Exploring Design Choices to Support Novices' Example Use During Creative Open-Ended Programming. In <i>Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1</i> (<i>SIGCSE 2022</i>). Association for Computing Machinery, New York, NY, USA, 619–625."
+  citation: "Wengran Wang, Audrey Le Meur, Mahesh Bobbadi, Bita Akram, Tiffany Barnes, Chris Martens, and Thomas Price. 2022. Exploring Design Choices to Support Novices' Example Use During Creative Open-Ended Programming. In <i>Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2022.html\">SIGCSE 2022</a>)</i>. Association for Computing Machinery, New York, NY, USA, 619–625."
   doi: https://doi.org/10.1145/3478431.3499374
 
 - year: 2022
   awarded: TS
   type: Experience Reports and Tools
-  citation: "Jan Vykopal, Valdemar Švábenský, Pavel Seda, and Pavel Čeleda. 2022. Preventing Cheating in Hands-on Lab Assignments. In <i>Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1</i> (<i>SIGCSE 2022</i>). Association for Computing Machinery, New York, NY, USA, 78–84."
+  citation: "Jan Vykopal, Valdemar Švábenský, Pavel Seda, and Pavel Čeleda. 2022. Preventing Cheating in Hands-on Lab Assignments. In <i>Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2022.html\">SIGCSE 2022</a>)</i>. Association for Computing Machinery, New York, NY, USA, 78–84."
   doi: https://doi.org/10.1145/3478431.3499420
 
 - year: 2022
   awarded: TS
   type: Experience Reports and Tools
-  citation: "Jiameng Du, Yifan Song, Mingxiao An, Marshall An, Christopher Bogart, and Majd Sakr. 2022. Cheating Detection in Online Assessments via Timeline Analysis. In <i>Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1</i> (<i>SIGCSE 2022</i>). Association for Computing Machinery, New York, NY, USA, 98–104."
+  citation: "Jiameng Du, Yifan Song, Mingxiao An, Marshall An, Christopher Bogart, and Majd Sakr. 2022. Cheating Detection in Online Assessments via Timeline Analysis. In <i>Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2022.html\">SIGCSE 2022</a>)</i>. Association for Computing Machinery, New York, NY, USA, 98–104."
   doi: https://doi.org/10.1145/3478431.3499368
 
 
 - year: 2022
   awarded: TS
   type: Position Papers and Curriculum Initiatives
-  citation: "Kathryn Cunningham, Yike Qiao, Alex Feng, and Eleanor O'Rourke. 2022. Bringing \"High-level\" Down to Earth: Gaining Clarity in Conversational Programmer Learning Goals. In <i>Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1</i> (<i>SIGCSE 2022</i>). Association for Computing Machinery, New York, NY, USA, 551–557."
+  citation: "Kathryn Cunningham, Yike Qiao, Alex Feng, and Eleanor O'Rourke. 2022. Bringing \"High-level\" Down to Earth: Gaining Clarity in Conversational Programmer Learning Goals. In <i>Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2022.html\">SIGCSE 2022</a>)</i>. Association for Computing Machinery, New York, NY, USA, 551–557."
   doi: https://doi.org/10.1145/3478431.3499370
 
 - year: 2022
   awarded: TS
   type: Position Papers and Curriculum Initiatives
-  citation: "Veronica Catete, Amy Isvik, and Marnie Hill. 2022. A Framework for Socially-Relevant Service-Learning Internship Experiences for High School Students. In <i>Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1</i> (<i>SIGCSE 2022</i>). Association for Computing Machinery, New York, NY, USA, 815–821."
+  citation: "Veronica Catete, Amy Isvik, and Marnie Hill. 2022. A Framework for Socially-Relevant Service-Learning Internship Experiences for High School Students. In <i>Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2022.html\">SIGCSE 2022</a>)</i>. Association for Computing Machinery, New York, NY, USA, 815–821."
   doi: https://doi.org/10.1145/3478431.3499355
 
 
@@ -261,48 +309,512 @@
 - year: 2023
   awarded: TS
   type: Computing Education Research
-  citation: "Geoffrey L. Herman, Shan Huang, Peter A. Peterson, Linda Oliva, Enis Golaszewski, and Alan T. Sherman. 2023. Psychometric Evaluation of the Cybersecurity Curriculum Assessment. In <i>Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023)</i>. Association for Computing Machinery, New York, NY, USA, 228–234."
+  citation: "Geoffrey L. Herman, Shan Huang, Peter A. Peterson, Linda Oliva, Enis Golaszewski, and Alan T. Sherman. 2023. Psychometric Evaluation of the Cybersecurity Curriculum Assessment. In <i>Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2023.html\">SIGCSE 2023</a>)</i>. Association for Computing Machinery, New York, NY, USA, 228–234."
   doi: https://doi.org/10.1145/3545945.3569762
 
 - year: 2023
   awarded: TS
   type: Computing Education Research
-  citation: "Rachel Harred, Tiffany Barnes, Susan R. Fisk, Bita Akram, Thomas W. Price, and Spencer Yoder. 2023. Do Intentions to Persist Predict Short-Term Computing Course Enrollments: A Scale Development, Validation, and Reliability Analysis. In <i>Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023)</i>. Association for Computing Machinery, New York, NY, USA, 1062–1068."
+  citation: "Rachel Harred, Tiffany Barnes, Susan R. Fisk, Bita Akram, Thomas W. Price, and Spencer Yoder. 2023. Do Intentions to Persist Predict Short-Term Computing Course Enrollments: A Scale Development, Validation, and Reliability Analysis. In <i>Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2023.html\">SIGCSE 2023</a>)</i>. Association for Computing Machinery, New York, NY, USA, 1062–1068."
   doi: https://doi.org/10.1145/3545945.3569875
 
 - year: 2023
   awarded: TS
   type: Computing Education Research
-  citation: "Eric J. Mayhew and Elizabeth Patitsas. 2023. Critical Pedagogy in Practice in the Computing Classroom. In <i>Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023)</i>. Association for Computing Machinery, New York, NY, USA, 1076–1082."
+  citation: "Eric J. Mayhew and Elizabeth Patitsas. 2023. Critical Pedagogy in Practice in the Computing Classroom. In <i>Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2023.html\">SIGCSE 2023</a>)</i>. Association for Computing Machinery, New York, NY, USA, 1076–1082."
   doi: https://doi.org/10.1145/3545945.3569840
 
 - year: 2023
   awarded: TS
   type: Experience Reports and Tools
-  citation: "Lisa Zhang, Bogdan Simion, Michael Kaler, Amna Liaqat, Daniel Dick, Andi Bergen, Michael Miljanovic, and Andrew Petersen. 2023. Embedding and Scaling Writing Instruction Across First- and Second-Year Computer Science Courses. In <i>Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023)</i>. Association for Computing Machinery, New York, NY, USA, 610–616."
+  citation: "Lisa Zhang, Bogdan Simion, Michael Kaler, Amna Liaqat, Daniel Dick, Andi Bergen, Michael Miljanovic, and Andrew Petersen. 2023. Embedding and Scaling Writing Instruction Across First- and Second-Year Computer Science Courses. In <i>Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2023.html\">SIGCSE 2023</a>)</i>. Association for Computing Machinery, New York, NY, USA, 610–616."
   doi: https://doi.org/10.1145/3545945.3569729
 
 - year: 2023
   awarded: TS
   type: Experience Reports and Tools
-  citation: "Gloria Ashiya Katuka, Yvonika Auguste, Yukyeong Song, Xiaoyi Tian, Amit Kumar, Mehmet Celepkolu, Kristy Elizabeth Boyer, Joanne Barrett, Maya Israel, and Tom McKlin. 2023. A Summer Camp Experience to Engage Middle School Learners in AI through Conversational App Development. In <i>Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023)</i>. Association for Computing Machinery, New York, NY, USA, 813–819."
+  citation: "Gloria Ashiya Katuka, Yvonika Auguste, Yukyeong Song, Xiaoyi Tian, Amit Kumar, Mehmet Celepkolu, Kristy Elizabeth Boyer, Joanne Barrett, Maya Israel, and Tom McKlin. 2023. A Summer Camp Experience to Engage Middle School Learners in AI through Conversational App Development. In <i>Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2023.html\">SIGCSE 2023</a>)</i>. Association for Computing Machinery, New York, NY, USA, 813–819."
   doi: https://doi.org/10.1145/3545945.3569864
 
 - year: 2023
   awarded: TS
   type: Experience Reports and Tools
-  citation: "Bailey Flanigan, Ananya A. Joshi, Sara McAllister, and Catalina Vajiac. 2023. CS-JEDI: Required DEI Education, by CS PhD Students, for CS PhD Students. In <i>Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023)</i>. Association for Computing Machinery, New York, NY, USA, 87–93."
+  citation: "Bailey Flanigan, Ananya A. Joshi, Sara McAllister, and Catalina Vajiac. 2023. CS-JEDI: Required DEI Education, by CS PhD Students, for CS PhD Students. In <i>Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2023.html\">SIGCSE 2023</a>)</i>. Association for Computing Machinery, New York, NY, USA, 87–93."
   doi: https://doi.org/10.1145/3545945.3569733
 
 - year: 2023
   awarded: TS
   type: Position Papers and Curriculum Initiatives
-  citation: "Brett A. Becker, Paul Denny, James Finnie-Ansley, Andrew Luxton-Reilly, James Prather, and Eddie Antonio Santos. 2023. Programming Is Hard - Or at Least It Used to Be: Educational Opportunities and Challenges of AI Code Generation. In <i>Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023)</i>. Association for Computing Machinery, New York, NY, USA, 500–506."
+  citation: "Brett A. Becker, Paul Denny, James Finnie-Ansley, Andrew Luxton-Reilly, James Prather, and Eddie Antonio Santos. 2023. Programming Is Hard - Or at Least It Used to Be: Educational Opportunities and Challenges of AI Code Generation. In <i>Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2023.html\">SIGCSE 2023</a>)</i>. Association for Computing Machinery, New York, NY, USA, 500–506."
   doi: https://doi.org/10.1145/3545945.3569759
 
 - year: 2023
   awarded: TS
   type: Position Papers and Curriculum Initiatives
-  citation: "Muwei Zheng, Nathan Swearingen, Steven Mills, Croix Gyurek, Matt Bishop, and Xukai Zou. 2023. Case Study: Mapping an E-Voting Based Curriculum to CSEC2017. In <i>Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023)</i>. Association for Computing Machinery, New York, NY, USA, 514–520."
+  citation: "Muwei Zheng, Nathan Swearingen, Steven Mills, Croix Gyurek, Matt Bishop, and Xukai Zou. 2023. Case Study: Mapping an E-Voting Based Curriculum to CSEC2017. In <i>Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2023.html\">SIGCSE 2023</a>)</i>. Association for Computing Machinery, New York, NY, USA, 514–520."
   doi: https://doi.org/10.1145/3545945.3569811
 
+
+- year: 2024
+  awarded: TS
+  type: Best Paper
+  citation: "Adrienne Decker, Stephen H. Edwards, Brian M. McSkimming, Bob Edmison, Audrey Rorrer, and Manuel A. Pérez Quiñones. 2024. Transforming Grading Practices in the Computing Education Community. In <i>Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2024.html\">SIGCSE 2024</a>)</i>. Association for Computing Machinery, New York, NY, USA, 276–282."
+  doi: https://doi.org/10.1145/3626252.3630953
+
+- year: 2024
+  awarded: TS
+  type: Best Paper
+  citation: "Albert Lionelle, Mckenna Quam, Carla Brodley, and Catherine Gill. 2024. Does Curricular Complexity in Computer Science Influence the Representation of Women CS Graduates? In <i>Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2024.html\">SIGCSE 2024</a>)</i>. Association for Computing Machinery, New York, NY, USA, 729–735."
+  doi: https://doi.org/10.1145/3626252.3630835
+
+- year: 2018
+  awarded: ITICSE
+  type: Best Paper
+  citation: "Ali Erkan. 2018. The educational insights and opportunities afforded by the nuances of Prim's and Kruskal's MST algorithms. In <i>Proceedings of the 23rd Annual ACM Conference on Innovation and Technology in Computer Science Education (<a href=\"/events/symposia/2018.html\">ITiCSE 2018</a>)</i>. Association for Computing Machinery, New York, NY, USA, 129–134."
+  doi: https://doi.org/10.1145/3197091.3197129
+
+- year: 2017
+  awarded: ITICSE
+  type: Best Paper
+  citation: "Allison Scott, Alexis Martin, Frieda McAlear, and Sonia Koshy. 2017. Broadening Participation in Computing: Examining Experiences of Girls of Color. In <i>Proceedings of the 2017 ACM Conference on Innovation and Technology in Computer Science Education (<a href=\"/events/symposia/'17.html\">ITiCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 252–256."
+  doi: https://doi.org/10.1145/3059009.3059054
+
+
+- year: 2024
+  awarded: TS
+  type: Best Paper
+  citation: "Andreas Stefik, Willliam Allee, Gabriel Contreras, Timothy Kluthe, Alex Hoffman, Brianna Blaser, and Richard Ladner. 2024. Accessible to Whom? Bringing Accessibility to Blocks. In <i>Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2024.html\">SIGCSE 2024</a>)</i>. Association for Computing Machinery, New York, NY, USA, 1286–1292."
+  doi: https://doi.org/10.1145/3626252.3630770
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Andres Neyem, Juan Diaz-Mosquera, Jorge Munoz-Gama, and Jaime Navon. 2017. Understanding Student Interactions in Capstone Courses to Improve Learning Experiences. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 423–428."
+  doi: https://doi.org/10.1145/3017680.3017716
+
+- year: 2025
+  awarded: ICER
+  type: Best Paper
+  citation: "Anshul Shah, Thomas Rexin, Anya Chernova, Gonzalo Allen-Perez, William G. Griswold, and Adalbert Gerald Soosai Raj. 2025. Needles in a Haystack: Student Struggles with Working on Large Code Bases. In <i>Proceedings of the 2025 ACM Conference on International Computing Education Research V.1 (<a href=\"/events/symposia/25.html\">ICER '25</a>)</i>. Association for Computing Machinery, New York, NY, USA, 27–40."
+  doi: https://doi.org/10.1145/3702652.3744218
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Anthony Papini, Leigh Ann DeLyser, Nathaniel Granor, and Kevin Wang. 2017. Preparing and Supporting Industry Professionals as Volunteer High School Computer Science Co-Instructors. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 441–446."
+  doi: https://doi.org/10.1145/3017680.3017743
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Ashok Basawapatna and Alexander Repenning. 2017. Employing Retention of Flow to Improve Online Tutorials. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 63–68."
+  doi: https://doi.org/10.1145/3017680.3017799
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Austin Cory Bart, Ryan Whitcomb, Dennis Kafura, Clifford A. Shaffer, and Eli Tilevich. 2017. Computing with CORGIS: Diverse, Real-world Datasets for Introductory Computing. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 57–62."
+  doi: https://doi.org/10.1145/3017680.3017708
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Ben Stephenson, Michelle Craig, Daniel Zingaro, Diane Horton, Danny Heap, and Elaine Huynh. 2017. Exam Wrappers: Not a Silver Bullet. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 573–578."
+  doi: https://doi.org/10.1145/3017680.3017701
+
+- year: 2022
+  awarded: ITICSE
+  type: Best Paper
+  citation: "Briana Bettin, Linda Ott, and Julia Hiebel. 2022. Semaphore or Metaphor? Exploring Concurrent Students' Conceptions of and with Analogy. In <i>Proceedings of the 27th ACM Conference on on Innovation and Technology in Computer Science Education Vol. 1 (<a href=\"/events/symposia/'22.html\">ITiCSE '22</a>)</i>. Association for Computing Machinery, New York, NY, USA, 200–206."
+  doi: https://doi.org/10.1145/3502718.3524796
+
+- year: 2023
+  awarded: COMPED
+  type: Best Paper
+  citation: "Bryce Ikeda, Janine Hoelscher, Ron Alterovitz, and Daniel Szafir. 2023. Guiding the Development of Undergraduate Educational Robotics. In <i>Proceedings of the ACM Conference on Global Computing Education Vol 1 (<a href=\"/events/symposia/2023.html\">CompEd 2023</a>)</i>. Association for Computing Machinery, New York, NY, USA, 71–77."
+  doi: https://doi.org/10.1145/3576882.3617928
+
+- year: 2025
+  awarded: ITICSE
+  type: Best Paper
+  citation: "Celine Latulipe, Andrew Rosen, Audrey Rorrer, Sri Yash Tadimalla, Sabrin Nowrin, John Fiore, Marlon Mejias, Gene Kwatny, Jamie Payton, and Mary Lou Maher. 2025. Investigating the Impact of Classroom Structure, Sociality, and Inclusivity on Student Perceptions of Mastery. In <i>Proceedings of the 30th ACM Conference on Innovation and Technology in Computer Science Education V. 1 (<a href=\"/events/symposia/2025.html\">ITiCSE 2025</a>)</i>. Association for Computing Machinery, New York, NY, USA, 625–631."
+  doi: https://doi.org/10.1145/3724363.3729082
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Christian Murphy, Swapneel Sheth, and Sydney Morton. 2017. A Two-Course Sequence of Real Projects for Real Customers. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 417–422."
+  doi: https://doi.org/10.1145/3017680.3017742
+
+- year: 2018
+  awarded: TS
+  type: Best Paper
+  citation: "Christine Alvarado, Gustavo Umbelino, and Mia Minnes. 2018. The Persistent Effect of Pre-College Computing Experience on College CS Course Grades. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/18.html\">SIGCSE '18</a>)</i>. Association for Computing Machinery, New York, NY, USA, 876–881."
+  doi: https://doi.org/10.1145/3159450.3159508
+
+- year: 2023
+  awarded: ITICSE
+  type: Best Paper
+  citation: "Cyril Brom, Tereza Hannemann, Pavel Jezek, Anna Drobná, Kristina Volná, and Katerina Kacerovská. 2023. Principles of Computers and the Internet - Model Lessons for Primary School Children: Experience Report. In <i>Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 1 (<a href=\"/events/symposia/2023.html\">ITiCSE 2023</a>)</i>. Association for Computing Machinery, New York, NY, USA, 215–221."
+  doi: https://doi.org/10.1145/3587102.3588861
+
+- year: 2021
+  awarded: ICER
+  type: Best Paper
+  citation: "Daphne Miedema, Efthimia Aivaloglou, and George Fletcher. 2021. Identifying SQL Misconceptions of Novices: Findings from a Think-Aloud Study. In <i>Proceedings of the 17th ACM Conference on International Computing Education Research (<a href=\"/events/symposia/2021.html\">ICER 2021</a>)</i>. Association for Computing Machinery, New York, NY, USA, 355–367."
+  doi: https://doi.org/10.1145/3446871.3469759
+
+- year: 2020
+  awarded: ICER
+  type: Best Paper
+  citation: "Diana Franklin, Jean Salac, Zachary Crenshaw, Saranya Turimella, Zipporah Klain, Marco Anaya, and Cathy Thomas. 2020. Exploring Student Behavior Using the TIPP&amp;SEE Learning Strategy. In <i>Proceedings of the 2020 ACM Conference on International Computing Education Research (<a href=\"/events/symposia/20.html\">ICER '20</a>)</i>. Association for Computing Machinery, New York, NY, USA, 91–101."
+  doi: https://doi.org/10.1145/3372782.3406257
+
+- year: 2024
+  awarded: TS
+  type: Best Paper
+  citation: "Doga Cambaz and Xiaoling Zhang. 2024. Use of AI-driven Code Generation Models in Teaching and Learning Programming: a Systematic Literature Review. In <i>Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2024.html\">SIGCSE 2024</a>)</i>. Association for Computing Machinery, New York, NY, USA, 172–178."
+  doi: https://doi.org/10.1145/3626252.3630958
+
+- year: 2024
+  awarded: ITICSE
+  type: Best Paper
+  citation: "Dominic Lohr, Natalie Kiesler, Hieke Keuning, and Johan Jeuring. 2024. \"Let Them Try to Figure It Out First\" - Reasons Why Experts (Do Not) Provide Feedback to Novice Programmers. In <i>Proceedings of the 2024 on Innovation and Technology in Computer Science Education V. 1 (<a href=\"/events/symposia/2024.html\">ITiCSE 2024</a>)</i>. Association for Computing Machinery, New York, NY, USA, 38–44."
+  doi: https://doi.org/10.1145/3649217.3653530
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Duane F. Shell, Leen-Kiat Soh, Abraham E. Flanigan, Markeya S. Peteranetz, and Elizabeth Ingraham. 2017. Improving Students' Learning and Achievement in CS Classrooms through Computational Creativity Exercises that Integrate Computational and Creative Thinking. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 543–548."
+  doi: https://doi.org/10.1145/3017680.3017718
+
+- year: 2024
+  awarded: TS
+  type: Best Paper
+  citation: "Eman Abdullah AlOmar, Mohamed Wiem Mkaouer, and Ali Ouni. 2024. Automating Source Code Refactoring in the Classroom. In <i>Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2024.html\">SIGCSE 2024</a>)</i>. Association for Computing Machinery, New York, NY, USA, 60–66."
+  doi: https://doi.org/10.1145/3626252.3630787
+
+- year: 2021
+  awarded: ITICSE
+  type: Best Paper
+  citation: "Emily Winter, Lisa Thomas, and Lynne Blair. 2021.  'It's a Bit Weird, but it's OK'? How Female Computer Science Students Navigate being a Minority. In <i>Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Science Education V. 1 (<a href=\"/events/symposia/'21.html\">ITiCSE '21</a>)</i>. Association for Computing Machinery, New York, NY, USA, 436–442."
+  doi: https://doi.org/10.1145/3430665.3456329
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Erik Brunvand and Nina McCurdy. 2017. Making Noise: Using Sound-Art to Explore Technological Fluency. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 87–92."
+  doi: https://doi.org/10.1145/3017680.3017714
+
+- year: 2024
+  awarded: VIRTUAL
+  type: Best Paper
+  citation: "Erin Anderson and Claire Donehower Paul. 2024. Integrated Computing (Coding + Social Skills) For Elementary Students with Autism Spectrum Disorder. In <i>Proceedings of the 2024 on ACM Virtual Global Computing Education Conference V. 1 (<a href=\"/events/symposia/2024.html\">SIGCSE Virtual 2024</a>)</i>. Association for Computing Machinery, New York, NY, USA, 12–18."
+  doi: https://doi.org/10.1145/3649165.3690120
+
+- year: 2024
+  awarded: TS
+  type: Best Paper
+  citation: "F. Megumi Kivuva, Jayne Everson, Camilo Montes De Haro, and Amy J. Ko. 2024. Cultural-Centric Computational Embroidery. In <i>Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2024.html\">SIGCSE 2024</a>)</i>. Association for Computing Machinery, New York, NY, USA, 673–679."
+  doi: https://doi.org/10.1145/3626252.3630818
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Fernando J. Rodríguez, Kimberly Michelle Price, and Kristy Elizabeth Boyer. 2017. Exploring the Pair Programming Process: Characteristics of Effective Collaboration. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 507–512."
+  doi: https://doi.org/10.1145/3017680.3017748
+
+- year: 2018
+  awarded: TS
+  type: Best Paper
+  citation: "Fredrik Heintz and Linda Mannila. 2018. Computational Thinking for All: An Experience Report on Scaling up Teaching Computational Thinking to All Students in a Major City in Sweden. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/18.html\">SIGCSE '18</a>)</i>. Association for Computing Machinery, New York, NY, USA, 137–142."
+  doi: https://doi.org/10.1145/3159450.3159586
+
+- year: 2024
+  awarded: TS
+  type: Best Paper
+  citation: "Gloria Ashiya Katuka, Srijita Chakraburty, Hyejeong Lee, Sunny Dhama, Toni Earle-Randell, Mehmet Celepkolu, Kristy Elizabeth Boyer, Krista Glazewski, Cindy Hmelo-Silver, and Tom Mcklin. 2024. Integrating Natural Language Processing in Middle School Science Classrooms: An Experience Report. In <i>Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2024.html\">SIGCSE 2024</a>)</i>. Association for Computing Machinery, New York, NY, USA, 639–645."
+  doi: https://doi.org/10.1145/3626252.3630881
+
+- year: 2018
+  awarded: ICER
+  type: Best Paper
+  citation: "Greg L. Nelson and Amy J. Ko. 2018. On Use of Theory in Computing Education Research. In <i>Proceedings of the 2018 ACM Conference on International Computing Education Research (<a href=\"/events/symposia/18.html\">ICER '18</a>)</i>. Association for Computing Machinery, New York, NY, USA, 31–39."
+  doi: https://doi.org/10.1145/3230977.3230992
+
+- year: 2021
+  awarded: ICER
+  type: Best Paper
+  citation: "Gregor Große-Bölting, Dietrich Gerstenberger, Lara Gildehaus, Andreas Mühling, and Carsten Schulte. 2021. Identity in K-12 Computer Education Research: A Systematic Literature Review. In <i>Proceedings of the 17th ACM Conference on International Computing Education Research (<a href=\"/events/symposia/2021.html\">ICER 2021</a>)</i>. Association for Computing Machinery, New York, NY, USA, 169–183."
+  doi: https://doi.org/10.1145/3446871.3469757
+
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Helen H. Hu, Cecily Heiner, Thomas Gagne, and Carl Lyman. 2017. Building a Statewide Computer Science Teacher Pipeline. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 291–296."
+  doi: https://doi.org/10.1145/3017680.3017788
+
+- year: 2019
+  awarded: COMPED
+  type: Best Paper
+  citation: "Ilenia Fronza, Arto Hellas, Petri Ihantola, and Tommi Mikkonen. 2019. An Exploration of Cognitive Shifting in Writing Code. In <i>Proceedings of the ACM Conference on Global Computing Education (<a href=\"/events/symposia/'19.html\">CompEd '19</a>)</i>. Association for Computing Machinery, New York, NY, USA, 65–71."
+  doi: https://doi.org/10.1145/3300115.3309522
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Irene A. Lee, Maureen Psaila Dombrowski, and Ed Angel. 2017. Preparing STEM Teachers to offer New Mexico Computer Science for All. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 363–368."
+  doi: https://doi.org/10.1145/3017680.3017719
+
+- year: 2018
+  awarded: ICER
+  type: Best Paper
+  citation: "Jack Parkinson and Quintin Cutts. 2018. Investigating the Relationship Between Spatial Skills and Computer Science. In <i>Proceedings of the 2018 ACM Conference on International Computing Education Research (<a href=\"/events/symposia/18.html\">ICER '18</a>)</i>. Association for Computing Machinery, New York, NY, USA, 106–114."
+  doi: https://doi.org/10.1145/3230977.3230990
+
+- year: 2020
+  awarded: ICER
+  type: Best Paper
+  citation: "James Prather, Brett A. Becker, Michelle Craig, Paul Denny, Dastyni Loksa, and Lauren Margulieux. 2020. What Do We Think We Think We Are Doing? Metacognition and Self-Regulation in Programming. In <i>Proceedings of the 2020 ACM Conference on International Computing Education Research (<a href=\"/events/symposia/20.html\">ICER '20</a>)</i>. Association for Computing Machinery, New York, NY, USA, 2–13."
+  doi: https://doi.org/10.1145/3372782.3406263
+
+- year: 2023
+  awarded: ICER
+  type: Best Paper
+  citation: "Jean Salac, Alannah Oleson, Lena Armstrong, Audrey Le Meur, and Amy J. Ko. 2023. Funds of Knowledge used by Adolescents of Color in Scaffolded Sensemaking around Algorithmic Fairness. In <i>Proceedings of the 2023 ACM Conference on International Computing Education Research - Volume 1 (<a href=\"/events/symposia/23.html\">ICER '23</a>)</i>, Vol. 1. Association for Computing Machinery, New York, NY, USA, 191–205."
+  doi: https://doi.org/10.1145/3568813.3600110
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Jennifer M. Blaney and Jane G. Stout. 2017. Examining the Relationship Between Introductory Computing Course Experiences, Self-Efficacy, and Belonging Among First-Generation College Women. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 69–74."
+  doi: https://doi.org/10.1145/3017680.3017751
+
+- year: 2018
+  awarded: TS
+  type: Best Paper
+  citation: "Jody Clarke-Midura, Frederick Poole, Katarina Pantic, Megan Hamilton, Chongning Sun, and Vicki Allan. 2018. How Near Peer Mentoring Affects Middle School Mentees. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/18.html\">SIGCSE '18</a>)</i>. Association for Computing Machinery, New York, NY, USA, 664–669."
+  doi: https://doi.org/10.1145/3159450.3159525
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "John Peterson and Greg Haynes. 2017. Integrating Computer Science into Music Education. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 459–464."
+  doi: https://doi.org/10.1145/3017680.3017767
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Josje Lodder, Bastiaan Heeren, and Johan Jeuring. 2017. Generating Hints and Feedback for Hilbert-style Axiomatic Proofs. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 387–392."
+  doi: https://doi.org/10.1145/3017680.3017736
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Karo Castro-Wunsch, Alireza Ahadi, and Andrew Petersen. 2017. Evaluating Neural Networks as a Method for Identifying Students in Need of Assistance. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 111–116."
+  doi: https://doi.org/10.1145/3017680.3017792
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Kathleen Timmerman and Travis Doom. 2017. Infrastructure for Continuous Assessment of Retained Relevant Knowledge. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 579–584."
+  doi: https://doi.org/10.1145/3017680.3017738
+
+- year: 2024
+  awarded: ICER
+  type: Best Paper
+  citation: "Keith Tran, John Bacher, Yang Shi, James Skripchuk, and Thomas Price. 2024. Overcoming Barriers in Scaling Computing Education Research Programming Tools: A Developer's Perspective. In <i>Proceedings of the 2024 ACM Conference on International Computing Education Research - Volume 1 (<a href=\"/events/symposia/24.html\">ICER '24</a>)</i>, Vol. 1. Association for Computing Machinery, New York, NY, USA, 312–325."
+  doi: https://doi.org/10.1145/3632620.3671113
+
+- year: 2020
+  awarded: ITICSE
+  type: Best Paper
+  citation: "Kirsten Mork, John Wilcox, and Zoë Wood. 2020. Creative Choice in Fifth Grade Computing Curriculum. In <i>Proceedings of the 2020 ACM Conference on Innovation and Technology in Computer Science Education (<a href=\"/events/symposia/'20.html\">ITiCSE '20</a>)</i>. Association for Computing Machinery, New York, NY, USA, 252–258."
+  doi: https://doi.org/10.1145/3341525.3387405
+
+- year: 2019
+  awarded: ICER
+  type: Best Paper
+  citation: "Lauri Malmi, Judy Sheard, Päivi Kinnunen, Simon, and Jane Sinclair. 2019. Computing Education Theories: What Are They and How Are They Used? In <i>Proceedings of the 2019 ACM Conference on International Computing Education Research (<a href=\"/events/symposia/19.html\">ICER '19</a>)</i>. Association for Computing Machinery, New York, NY, USA, 187–197."
+  doi: https://doi.org/10.1145/3291279.3339409
+
+- year: 2021
+  awarded: ICER
+  type: Best Paper
+  citation: "Maria Kallia and Quintin Cutts. 2021. Re-Examining Inequalities in Computer Science Participation from a Bourdieusian Sociological Perspective. In <i>Proceedings of the 17th ACM Conference on International Computing Education Research (<a href=\"/events/symposia/2021.html\">ICER 2021</a>)</i>. Association for Computing Machinery, New York, NY, USA, 379–392."
+  doi: https://doi.org/10.1145/3446871.3469763
+
+- year: 2022
+  awarded: ICER
+  type: Best Paper
+  citation: "Maria Kallia, Quintin Cutts, and Nicola Looker. 2022. When Rhetorical Logic Meets Programming: Collective Argumentative Reasoning in Problem-Solving in Programming. In <i>Proceedings of the 2022 ACM Conference on International Computing Education Research - Volume 1 (<a href=\"/events/symposia/22.html\">ICER '22</a>)</i>, Vol. 1. Association for Computing Machinery, New York, NY, USA, 120–134."
+  doi: https://doi.org/10.1145/3501385.3543975
+
+- year: 2018
+  awarded: TS
+  type: Best Paper
+  citation: "Mark Meysenburg, Tessa Durham Brooks, Raychelle Burks, Erin Doyle, and Timothy Frey. 2018. DIVAS: Outreach to the Natural Sciences through Image Processing. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/18.html\">SIGCSE '18</a>)</i>. Association for Computing Machinery, New York, NY, USA, 777–782."
+  doi: https://doi.org/10.1145/3159450.3159537
+
+- year: 2024
+  awarded: ICER
+  type: Best Paper
+  citation: "Melissa Chen, Yinmiao Li, and Eleanor O'Rourke. 2024. Understanding the Reasoning Behind Students' Self-Assessments of Ability in Introductory Computer Science Courses. In <i>Proceedings of the 2024 ACM Conference on International Computing Education Research - Volume 1 (<a href=\"/events/symposia/24.html\">ICER '24</a>)</i>, Vol. 1. Association for Computing Machinery, New York, NY, USA, 1–13."
+  doi: https://doi.org/10.1145/3632620.3671094
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Michael S. Kirkpatrick. 2017. Student Perspectives of Team-Based Learning in a CS Course: Summary of Qualitative Findings. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 327–332."
+  doi: https://doi.org/10.1145/3017680.3017699
+
+- year: 2018
+  awarded: TS
+  type: Best Paper
+  citation: "Michael Skirpan, Nathan Beard, Srinjita Bhaduri, Casey Fiesler, and Tom Yeh. 2018. Ethics Education in Context: A Case Study of Novel Ethics Activities for the CS Classroom. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/18.html\">SIGCSE '18</a>)</i>. Association for Computing Machinery, New York, NY, USA, 940–945."
+  doi: https://doi.org/10.1145/3159450.3159573
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Mickey Vellukunnel, Philip Buffum, Kristy Elizabeth Boyer, Jeffrey Forbes, Sarah Heckman, and Ketan Mayer-Patel. 2017. Deconstructing the Discussion Forum: Student Questions and Computer Science Learning. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 603–608."
+  doi: https://doi.org/10.1145/3017680.3017745
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Mohammed F. Farghally, Kyu Han Koh, Hossameldin Shahin, and Clifford A. Shaffer. 2017. Evaluating the Effectiveness of Algorithm Analysis Visualizations. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 201–206."
+  doi: https://doi.org/10.1145/3017680.3017698
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Nick Cheng and Brian Harrington. 2017. The Code Mangler: Evaluating Coding Ability Without Writing any Code. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 123–128."
+  doi: https://doi.org/10.1145/3017680.3017704
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Nick Senske. 2017. Evaluation and Impact of a Required Computational Thinking Course for Architecture Students. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 525–530."
+  doi: https://doi.org/10.1145/3017680.3017750
+
+- year: 2024
+  awarded: VIRTUAL
+  type: Best Paper
+  citation: "Nicole Herbert. 2024. Breaking Barriers: Overcoming Resistance to Curriculum Indigenisation. In <i>Proceedings of the 2024 on ACM Virtual Global Computing Education Conference V. 1 (<a href=\"/events/symposia/2024.html\">SIGCSE Virtual 2024</a>)</i>. Association for Computing Machinery, New York, NY, USA, 53–59."
+  doi: https://doi.org/10.1145/3649165.3690104
+
+- year: 2023
+  awarded: COMPED
+  type: Best Paper
+  citation: "Nimisha Agarwal, Viraj Kumar, Arun Raman, and Amey Karkare. 2023. A Bug's New Life: Creating Refute Questions from Filtered CS1 Student Code Snapshots. In <i>Proceedings of the ACM Conference on Global Computing Education Vol 1 (<a href=\"/events/symposia/2023.html\">CompEd 2023</a>)</i>. Association for Computing Machinery, New York, NY, USA, 7–14."
+  doi: https://doi.org/10.1145/3576882.3617916
+
+- year: 2018
+  awarded: TS
+  type: Best Paper
+  citation: "Nwannediya Ada Ibe, Rebecca Howsmon, Lauren Penney, Nathaniel Granor, Leigh Ann DeLyser, and Kevin Wang. 2018. Reflections of a Diversity, Equity, and Inclusion Working Group based on Data from a National CS Education Program. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/18.html\">SIGCSE '18</a>)</i>. Association for Computing Machinery, New York, NY, USA, 711–716."
+  doi: https://doi.org/10.1145/3159450.3159594
+
+- year: 2024
+  awarded: ITICSE
+  type: Best Paper
+  citation: "Paul Denny, Stephen MacNeil, Jaromir Savelka, Leo Porter, and Andrew Luxton-Reilly. 2024. Desirable Characteristics for AI Teaching Assistants in Programming Education. In <i>Proceedings of the 2024 on Innovation and Technology in Computer Science Education V. 1 (<a href=\"/events/symposia/2024.html\">ITiCSE 2024</a>)</i>. Association for Computing Machinery, New York, NY, USA, 408–414."
+  doi: https://doi.org/10.1145/3649217.3653574
+
+- year: 2018
+  awarded: TS
+  type: Best Paper
+  citation: "Penny Rheingans, Erica D'Eramo, Crystal Diaz-Espinoza, and Danyelle Ireland. 2018. A Model for Increasing Gender Diversity in Technology. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/18.html\">SIGCSE '18</a>)</i>. Association for Computing Machinery, New York, NY, USA, 459–464."
+  doi: https://doi.org/10.1145/3159450.3159533
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Rachel Harsley, Davide Fossati, Barbara Di Eugenio, and Nick Green. 2017. Interactions of Individual and Pair Programmers with an Intelligent Tutoring System for Computer Science. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 285–290."
+  doi: https://doi.org/10.1145/3017680.3017786
+
+- year: 2024
+  awarded: ICER
+  type: Best Paper
+  citation: "Rotem Landesman, Jean Salac, Jared Ordoña Lim, and Amy J. Ko. 2024. Integrating Philosophy Teaching Perspectives to Foster Adolescents' Ethical Sensemaking of Computing Technologies. In <i>Proceedings of the 2024 ACM Conference on International Computing Education Research - Volume 1 (<a href=\"/events/symposia/24.html\">ICER '24</a>)</i>, Vol. 1. Association for Computing Machinery, New York, NY, USA, 502–516."
+  doi: https://doi.org/10.1145/3632620.3671106
+
+- year: 2019
+  awarded: COMPED
+  type: Best Paper
+  citation: "Sadia Sharmin, Daniel Zingaro, Lisa Zhang, and Clare Brett. 2019. Impact of Open-Ended Assignments on Student Self-Efficacy in CS1. In <i>Proceedings of the ACM Conference on Global Computing Education (<a href=\"/events/symposia/'19.html\">CompEd '19</a>)</i>. Association for Computing Machinery, New York, NY, USA, 215–221."
+  doi: https://doi.org/10.1145/3300115.3309532
+
+- year: 2022
+  awarded: ICER
+  type: Best Paper
+  citation: "Sami Sarsa, Paul Denny, Arto Hellas, and Juho Leinonen. 2022. Automatic Generation of Programming Exercises and Code Explanations Using Large Language Models. In <i>Proceedings of the 2022 ACM Conference on International Computing Education Research - Volume 1 (<a href=\"/events/symposia/22.html\">ICER '22</a>)</i>, Vol. 1. Association for Computing Machinery, New York, NY, USA, 27–43."
+  doi: https://doi.org/10.1145/3501385.3543957
+
+- year: 2018
+  awarded: TS
+  type: Best Paper
+  citation: "Sathya Narayanan, Kathryn Cunningham, Sonia Arteaga, William J. Welch, Leslie Maxwell, Zechariah Chawinga, and Bude Su. 2018. Upward Mobility for Underrepresented Students: A Model for a Cohort-Based Bachelor's Degree in Computer Science. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/18.html\">SIGCSE '18</a>)</i>. Association for Computing Machinery, New York, NY, USA, 705–710."
+  doi: https://doi.org/10.1145/3159450.3159551
+
+- year: 2021
+  awarded: ICER
+  type: Best Paper
+  citation: "Seth Poulsen, Mahesh Viswanathan, Geoffrey L. Herman, and Matthew West. 2021. Evaluating Proof Blocks Problems as Exam Questions. In <i>Proceedings of the 17th ACM Conference on International Computing Education Research (<a href=\"/events/symposia/2021.html\">ICER 2021</a>)</i>. Association for Computing Machinery, New York, NY, USA, 157–168."
+  doi: https://doi.org/10.1145/3446871.3469741
+
+- year: 2024
+  awarded: TS
+  type: Best Paper
+  citation: "Shuchi Grover. 2024. Teaching AI to K-12 Learners: Lessons, Issues, and Guidance. In <i>Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2024.html\">SIGCSE 2024</a>)</i>. Association for Computing Machinery, New York, NY, USA, 422–428."
+  doi: https://doi.org/10.1145/3626252.3630937
+
+- year: 2024
+  awarded: TS
+  type: Best Paper
+  citation: "Sierra Wang, John Mitchell, and Chris Piech. 2024. A Large Scale RCT on Effective Error Messages in CS1. In <i>Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2024.html\">SIGCSE 2024</a>)</i>. Association for Computing Machinery, New York, NY, USA, 1395–1401."
+  doi: https://doi.org/10.1145/3626252.3630764
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Thomas W. Price, Yihuan Dong, and Dragan Lipovac. 2017. ISnap: Towards Intelligent Tutoring in Novice Programming Environments. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 483–488."
+  doi: https://doi.org/10.1145/3017680.3017762
+
+- year: 2017
+  awarded: TS
+  type: Best Paper
+  citation: "Vaibhav Anu, Gursimran Walia, and Gary Bradshaw. 2017. Incorporating Human Error Education into Software Engineering Courses via Error-based Inspections. In <i>Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (<a href=\"/events/symposia/17.html\">SIGCSE '17</a>)</i>. Association for Computing Machinery, New York, NY, USA, 39–44."
+  doi: https://doi.org/10.1145/3017680.3017782
+
+- year: 2024
+  awarded: ICER
+  type: Best Paper
+  citation: "Vidushi Ojha, Andrea Watkins, Christopher Perdriau, Kathleen Isenegger, and Colleen M. Lewis. 2024. Instructional Transparency: Just to Be Clear, It's a Good Thing. In <i>Proceedings of the 2024 ACM Conference on International Computing Education Research - Volume 1 (<a href=\"/events/symposia/24.html\">ICER '24</a>)</i>, Vol. 1. Association for Computing Machinery, New York, NY, USA, 192–205."
+  doi: https://doi.org/10.1145/3632620.3671091
+
+- year: 2024
+  awarded: TS
+  type: Best Paper
+  citation: "Vidushi Ojha, Leah West, and Colleen M. Lewis. 2024. Computing Self-Efficacy in Undergraduate Students: A Multi-Institutional and Intersectional Analysis. In <i>Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2024.html\">SIGCSE 2024</a>)</i>. Association for Computing Machinery, New York, NY, USA, 993–999."
+  doi: https://doi.org/10.1145/3626252.3630811
+
+- year: 2019
+  awarded: ICER
+  type: Best Paper
+  citation: "Yasmin Kafai, Chris Proctor, and Debora Lui. 2019. From Theory Bias to Theory Dialogue: Embracing Cognitive, Situated, and Critical Framings of Computational Thinking in K-12 CS Education. In <i>Proceedings of the 2019 ACM Conference on International Computing Education Research (<a href=\"/events/symposia/19.html\">ICER '19</a>)</i>. Association for Computing Machinery, New York, NY, USA, 101–109."
+  doi: https://doi.org/10.1145/3291279.3339400
+
+- year: 2024
+  awarded: TS
+  type: Best Paper
+  citation: "Yasmine N. Elglaly, Catherine M. Baker, Anne Spencer Ross, and Kristen Shinohara. 2024. Beyond HCI: The Need for Accessibility Across the CS Curriculum. In <i>Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1 (<a href=\"/events/symposia/2024.html\">SIGCSE 2024</a>)</i>. Association for Computing Machinery, New York, NY, USA, 324–330."
+  doi: https://doi.org/10.1145/3626252.3630788
+
+- year: 2018
+  awarded: TS
+  type: Best Paper
+  citation: "Younghee Park, Hongxin Hu, Xiaohong Yuan, and Hongda Li. 2018. Enhancing Security Education Through Designing SDN Security Labs in CloudLab. In <i>Proceedings of the 49th ACM Technical Symposium on Computer Science Education (<a href=\"/events/symposia/18.html\">SIGCSE '18</a>)</i>. Association for Computing Machinery, New York, NY, USA, 185–190."
+  doi: https://doi.org/10.1145/3159450.3159514

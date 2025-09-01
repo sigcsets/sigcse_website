@@ -55,9 +55,6 @@ committees:
 - name: "Information Directors"
   info: "We have three information directors, approved by the SIGCSE Board. The participation as information director is a 3 year term, renewable once. This renewal is upon mutual interest from the information director and approval of the board."
   members:
-  - name: Haris Skiadas
-    affiliation: "Hanover College, USA"
-    year: "until Summer 2025"
   - name: David Zabnar
     affiliation: "Cornell College, USA"
     year: "until Summer 2026"
@@ -67,6 +64,10 @@ committees:
   - name: Yesenia Velasco
     affiliation: "Duke University, USA"
     year: "until Summer 2028"
+  previous:
+    - name: Haris Skiadas
+      affiliation: "Hanover College, USA"
+      year: "until Summer 2025"
 
 - name: "Social Media Coordinator"
   members:

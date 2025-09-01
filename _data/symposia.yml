@@ -60,13 +60,23 @@ committees:
   - name: "William McBurney"
     affiliation: "University of Virginia, USA (2025-2027)"
 
+future-conferences:
+- title: Technical Symposium 2027
+  year: 2027
+  dates: "Feb 17-20, 2027"
+  location: "Sacramento, CA"
+- title: Technical Symposium 2028
+  year: 2028
+  dates: "Feb 23-26, 2028"
+  location: "Cleveland, OH"
+
 next-conference:
 - title: Technical Symposium 2026
   year: 2026
   start-date: 2026-02-18
   dates: "Feb-18-21, 2026"
   location: "St. Louis, MO"
-  waiting-website: https://sigcse2026.sigcse.org/
+  website: https://sigcse2026.sigcse.org/
 
 conferences:
 - year: 1970
@@ -397,7 +407,6 @@ conferences:
     - title: "SIGCSE '95: Proceedings of the twenty-sixth SIGCSE Technical Symposium on Computer Science Education"
       doi: "https://dl.acm.org/doi/proceedings/10.1145/199688"
   old-proceedings: https://dl.acm.org/citation.cfm?id=199688&picked=prox
-  proceedings-cover: SIGCSE1995.jpg
 
 - year: 1996
   title: 27th SIGCSE TS 1996
@@ -422,7 +431,6 @@ conferences:
     - title: "SIGCSE '97: Proceedings of the twenty-eighth SIGCSE Technical Symposium on Computer Science Education"
       doi: "https://dl.acm.org/doi/proceedings/10.1145/268084"
   old-proceedings: https://dl.acm.org/citation.cfm?id=268084&picked=prox
-  proceedings-cover: SIGCSE1997.jpg
 
 - year: 1998
   title: 29th SIGCSE TS 1998
@@ -447,7 +455,6 @@ conferences:
     - title: "SIGCSE '99: The Proceedings of the thirtieth SIGCSE Technical Symposium on Computer Science Education"
       doi: "https://dl.acm.org/doi/proceedings/10.1145/299649"
   old-proceedings: https://dl.acm.org/citation.cfm?id=299649&picked=prox
-  proceedings-cover: SIGCSE1999.jpg
 
 - year: 2000
   title: 31st SIGCSE TS 2000
@@ -463,7 +470,6 @@ conferences:
     - title: "SIGCSE '00: Proceedings of the thirty-first SIGCSE Technical Symposium on Computer Science Education"
       doi: "https://dl.acm.org/doi/proceedings/10.1145/330908"
   acceptance: 35%
-  proceedings-cover: SIGCSE2000.jpg
 
 - year: 2001
   title: 32nd SIGCSE TS 2001
@@ -478,7 +484,6 @@ conferences:
     - title: "SIGCSE '01: Proceedings of the thirty-second SIGCSE Technical Symposium on Computer Science Education"
       doi: "https://dl.acm.org/doi/proceedings/10.1145/364447"
   acceptance: 35%
-  proceedings-cover: SIGCSE2001.jpg
 
 - year: 2002
   title: 33rd SIGCSE TS 2002
@@ -520,7 +525,6 @@ conferences:
     - title: "SIGCSE '04: Proceedings of the 35th SIGCSE technical symposium on Computer Science Education"
       doi: "https://dl.acm.org/doi/proceedings/10.1145/971300"
   acceptance: 28%
-  proceedings-cover: SIGCSE2004.jpg
   logo: sigcse2004_logo.png
 
 - year: 2005
@@ -536,7 +540,6 @@ conferences:
     - title: "SIGCSE '05: Proceedings of the 36th SIGCSE technical symposium on Computer science education"
       doi: "https://dl.acm.org/doi/proceedings/10.1145/1047344"
   acceptance: 32%
-  proceedings-cover: SIGCSE2005.jpg
   logo: sigcse2005_logo.png
 
 - year: 2006
@@ -552,7 +555,6 @@ conferences:
     - title: "SIGCSE '06: Proceedings of the 37th SIGCSE technical symposium on Computer science education"
       doi: "https://dl.acm.org/doi/proceedings/10.1145/1121341"
   acceptance: 35%
-  proceedings-cover: SIGCSE2006.jpg
   logo: sigcse2006_logo.png
 
 - year: 2007
@@ -584,7 +586,6 @@ conferences:
     - title: "SIGCSE '08: Proceedings of the 39th SIGCSE technical symposium on Computer science education"
       doi: "https://dl.acm.org/doi/proceedings/10.1145/1352135"
   acceptance: 31%
-  proceedings-cover: SIGCSE2008.jpg
   logo: sigcse2008_logo.png
 
 - year: 2009
@@ -601,7 +602,6 @@ conferences:
     - title: "SIGCSE '09: Proceedings of the 40th ACM technical symposium on Computer science education"
       doi: https://doi.org/10.1145/1508865
   acceptance: 33%
-  proceedings-cover: SIGCSE2009.jpg
   logo: sigcse2009_logo.png
 
 - year: 2010
@@ -618,7 +618,6 @@ conferences:
     - title: "SIGCSE '10: Proceedings of the 41st ACM technical symposium on Computer science education"
       doi: "https://dl.acm.org/doi/proceedings/10.1145/1734263"
   acceptance: 34%
-  proceedings-cover: SIGCSE2010.jpg
   logo: sigcse2010_logo.png
 
 - year: 2011
@@ -635,7 +634,6 @@ conferences:
     - title: "SIGCSE '11: Proceedings of the 42nd ACM Technical Symposium on Computer Science Education"
       doi: https://doi.org/10.1145/1953163
   acceptance: 34%
-  proceedings-cover: SIGCSE2011.jpg
   logo: sigcse2011_logo.png
 - year: 2012
   title: 43rd SIGCSE TS 2012
@@ -651,7 +649,6 @@ conferences:
     - title: "SIGCSE '12: Proceedings of the 43rd ACM Technical Symposium on Computer Science Education"
       doi: https://doi.org/10.1145/2157136
   acceptance: 35%
-  proceedings-cover: SIGCSE2012.jpg
   logo: sigcse2012_logo.png
 - year: 2013
   title: 44th SIGCSE TS 2013
@@ -667,7 +664,6 @@ conferences:
     - title: "SIGCSE '13: Proceeding of the 44th ACM technical symposium on Computer science education"
       doi: "https://dl.acm.org/doi/proceedings/10.1145/2445196"
   acceptance: 38%
-  proceedings-cover: SIGCSE2013.jpg
   attendance: 1304
   logo: sigcse2013_logo.png
 
@@ -686,7 +682,6 @@ conferences:
       doi: "https://dl.acm.org/doi/proceedings/10.1145/2538862"
   website: http://sigcse2014.sigcse.org/
   acceptance: 39%
-  proceedings-cover: SIGCSE2014.jpg
   logo: sigcse2014_logo.png
 
 - year: 2015
@@ -704,7 +699,6 @@ conferences:
       doi: "https://dl.acm.org/doi/proceedings/10.1145/2676723"
   website: http://sigcse2015.sigcse.org/
   acceptance: 36%
-  proceedings-cover: SIGCSE2015.jpg
   logo: sigcse2015_logo.png
 
 - year: 2016
@@ -720,7 +714,6 @@ conferences:
   website: http://sigcse2016.sigcse.org/
   acceptance: 35%
   attendance: 1253
-  proceedings-cover: SIGCSE2016.jpg
 
 - year: 2017
   title: 48th SIGCSE TS 2017
@@ -735,7 +728,6 @@ conferences:
   website: http://sigcse2017.sigcse.org/
   acceptance: 30%
   attendance: 1414
-  proceedings-cover: SIGCSE2017.jpg
 
 - year: 2018
   title: 49th SIGCSE TS 2018
@@ -751,7 +743,6 @@ conferences:
   website: http://sigcse2018.sigcse.org/
   acceptance: 35%
   attendance: 1735
-  proceedings-cover: SIGCSE2018.jpg
 
 - year: 2019
   title: 50th SIGCSE TS 2019
@@ -765,7 +756,6 @@ conferences:
       doi: "https://dl.acm.org/doi/proceedings/10.1145/3287324"
   logo: sigcse2019_logo.jpg
   attendance: 1809
-  proceedings-cover: SIGCSE2019.jpg
 
 - year: 2020
   title: 51st SIGCSE TS 2020
@@ -778,7 +768,6 @@ conferences:
     - title: "SIGCSE '20: Proceedings of the 51st ACM Technical Symposium on Computer Science Education"
       doi: https://dl.acm.org/doi/proceedings/10.1145/3328778
   logo: sigcse2020_logo.png
-  proceedings-cover: SIGCSE2020.png
 
 - year: 2021
   title: 52nd SIGCSE TS 2021
@@ -791,7 +780,6 @@ conferences:
     - title: "SIGCSE '21: Proceedings of the 52nd ACM Technical Symposium on Computer Science Education"
       doi: https://dl.acm.org/doi/proceedings/10.1145/3408877
   logo: sigcse2021_logo.png
-  proceedings-cover: SIGCSE2021.png
 
 - year: 2022
   title: 53rd SIGCSE TS 2022
@@ -806,7 +794,6 @@ conferences:
       doi: https://dl.acm.org/doi/proceedings/10.1145/3478432
 
   logo: sigcse2022_logo.png
-  proceedings-cover: SIGCSE2022.png
 
 - year: 2023
   title: 54th SIGCSE TS 2023
@@ -815,7 +802,6 @@ conferences:
   dates: "March 15-18, 2023"
   website: "http://sigcse2023.sigcse.org/"
   logo: sigcse2023_logo.png
-  proceedings-cover: SIGCSE2023.png
 
   proceedings:
     - title: "SIGCSE '23: Proceedings of the 54th ACM Technical Symposium on Computer Science Education v1"
@@ -830,7 +816,6 @@ conferences:
   dates: "March 15-18, 2023"
   website: "http://sigcse2024.sigcse.org/"
   logo: sigcse2024_logo.png
-  proceedings-cover: SIGCSE2024.png
 
   proceedings:
     - title: "SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 1"
@@ -847,7 +832,6 @@ conferences:
   start-date: 2025-02-26
   website: "https://sigcse2025.sigcse.org/"
   logo: sigcse2025_logo.png
-  proceedings-cover: SIGCSE2025.png
   proceedings:
     - title: "SIGCSE 2025: Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1"
       doi: https://dl.acm.org/doi/proceedings/10.1145/3641554

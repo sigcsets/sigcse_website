@@ -7,6 +7,18 @@ minutes:
     year: "2022 to 2025 Board"
     folder: "BoardMinutes/2022-2025/"
     approved:
+      - description: "Minutes of a SIGCSE Board meeting May 20, 2025"
+        date: 2025-05-20
+
+      - description: "Minutes of a SIGCSE Board meeting April 4, 2024"
+        date: 2025-04-24
+
+      - description: "Minutes of a SIGCSE Board meeting Mar 27, 2025"
+        date: 2025-03-27
+
+      - description: "Minutes of a SIGCSE Board meeting Jan 26, 2025"
+        date: 2025-02-26
+
       - description: "Minutes of a SIGCSE Board meeting Jan 23, 2025"
         date: 2025-01-23
 

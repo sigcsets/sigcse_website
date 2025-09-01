@@ -16,7 +16,7 @@ A variety of programs that support our mission and serve our members:
 -   [Henry Walker Travel Grant Program](travel-grants/index.html) - A program to help defray the cost of attending a SIGCSE Technical Symposium.
 -   [Speaker\'s Fund](speakers/index.html) - The SIGCSE Speaker\'s Fund supports the dissemination of outstanding Technical Symposium, ITiCSE, ICER or CompEd presentations to other venues.
 
--   [SIGCSE Committees](committees/index.html) - SIGCSE\'s Committee initiative.
+-   [SIGCSE Committees and Task Forces](committees-task-forces/index.html) - SIGCSE\'s Committee initiative.
 -   [Local Chapters](local-chapters/index.html) - A description of how to create SIGCSE local chapters.
 
 -   [In-Cooperation]({{"/policies/incooperation.html" | absolute_url}}) - ACM SIGCSE will lend its name to non-SIGCSE events that are fully sponsored by other non-profit organizations.

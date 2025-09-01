@@ -13,9 +13,30 @@ Information about the nomination processes for this award is available here: [Ou
 
 Here is the list of the {{listsize}} award winners along with a citation that briefly describes why they earned the award:
 
+<div id="accordion">
 {% for person in items -%}
+
+  <div class="card">
+    <div class="card-header" id="heading{{forloop.index}}">
+      <h5 class="mb-0"> {{person.name}} ({{person.year}}) </h5>
+    </div>
+    <div id="collapse{{forloop.index}}" class="collapse show" aria-labelledby="heading{{forloop.index}}" data-parent="#accordion">
+      <div class="card-body">
+		<p style="margin-left: 25px;">
+		{% if person.affiliation %}<i>{{person.affiliation}}.</i><br>
+		{% endif -%}
+		{{person.desc}}</p>
+      </div>
+    </div>
+  </div>
+
+{% endfor %}
+</div>
+
+
+{% comment %}
 ##### {{person.year}}: {{person.name}}
 <p style="margin-left: 25px;">
 {% if person.affiliation %}<i>{{person.affiliation}}.</i><br>{% endif %}
 {{person.desc}}</p>
-{% endfor %}
+{% endcomment %}

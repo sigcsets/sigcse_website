@@ -39,14 +39,25 @@ committees:
     affiliation: "University of Newcastle, Australia (- 2019)"
 
 next-conference:
+- title: "ICER '26"
+  year: 2026
+  start-date: 2026-08-01
+  location: "TBA"
+
+conferences:
 - title: "ICER '25"
   year: 2025
   start-date: 2025-08-03
   dates: "3-6 August 2025"
   location: "Charlottesville, VA, United States"
+  proceedings-cover: icer2025.png
   website: https://icer2025.acm.org
+  proceedings:
+  - title: "ICER '25: Proceedings of the 2025 ACM Conference on International Computing Education Research - Volume 1"
+    doi: https://dl.acm.org/doi/proceedings/10.1145/3702652
+  - title: "ICER '25: Proceedings of the 2025 ACM Conference on International Computing Education Research - Volume 2"
+    doi: https://dl.acm.org/doi/proceedings/10.1145/3702653
 
-conferences:
 - title: "ICER '24"
   dates: "13-15 August 2024"
   year: 2024

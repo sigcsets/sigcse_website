@@ -49,13 +49,14 @@ conferences:
     doi: "https://dl.acm.org/doi/proceedings/10.1145/3576882"
   - title: "CompEd 2023: Proceedings of the ACM Conference on Global Computing Education Vol 2"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/3617650"
+  - title: "CompEd 2023: Working Group Reports on 2023 ACM Conference on Global Computing Education"
+    doi: https://dl.acm.org/doi/proceedings/10.1145/3598579
 
-- title: "CompEd 19"
+- title: CompEd 19
   year: 2019
   location: "Chengdu, Sichuan China"
   dates:  "May 9 - 19, 2019"
   website: https://comped.acm.org/2019/
-  proceedings-cover: comped2019.png
   proceedings:
   - title: "CompEd '19: Proceedings of the ACM Conference on Global Computing Education"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/3300115"

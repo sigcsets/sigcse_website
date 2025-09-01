@@ -50,12 +50,12 @@ Lists\" page.
 
 To be added to or removed from the SIGCSE-members, SIGCSE-volunteers, or SIGCSE-jobs lists send an e-mail with your ACM member number to <infodir@sigcse.org>, which goes to all of the SIGCSE listserv administrators who moderate these lists:
 
-- Haris Skiadas, Associate Professor of Mathematics and Computer Science - Hanover College, Hanover, IN 47243 USA
-- David Zabner, Ph.D. Student, Education Department - Tufts University, Medford, MA, USA
-{% comment %}
-- Joshua Adams, Assistant Professor of Computer Information Systems - Saint Leo University, St. Leo, FL 33574 USA
-{% endcomment %}
-
+{% assign infodir = site.data.organization.committees | where: "name", "Information Directors" %}
+<ul>
+{% for m in infodir[0].members %}
+    <li>{{m.name}}, {{m.affiliation}}, {{m.year}}</li>
+{% endfor %}
+</ul>
 #### <a name="#guidelines">Guidelines for Posting to the SIGCSE-members List</a>
 {:.mt4 .border-bottom}
 
@@ -109,5 +109,7 @@ To be added to or removed from the SIGCSE-members, SIGCSE-volunteers, or SIGCSE-
 
 Thank you for your understanding and assistance.
 
-**Haris, David, Joshua**\
-*SIGCSE Information Co-Directors*
+<p><b>{% for m in infodir[0].members -%}
+{{m.name}}{%unless forloop.last %}, {%endunless-%}
+{% endfor -%}</b><br>
+<i>SIGCSE Information Co-Directors</i></p>

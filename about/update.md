@@ -5,12 +5,15 @@ layout: blank
 
 This is all of the data used in the site, displayed in one long page. The purpose is to have members of the community use this as a "cheat sheet" to double check the quality of the information included in the site. Items are numbered for each of identifying items that might need updating.
 
-**Menu**: [ <a href="#BoardMembers">Board Members</a> |
+**Menu**: [ <a href="#BoardMembers">Current Board</a> |
+<a href="#PreviousBoards">Previous Boards</a> |
 <a href="#ORGCommittees">SIGCSE Committees</a> |
 <a href="#TSCommittees">Technical Symposium Committees</a> |
 <a href="#ITiCSECommittees">ITiCSE Committees</a> |
 <a href="#ICERCommittees">ICER Committees</a> |
 <a href="#CompEdCommittees">CompEd Committees</a> |
+<a href="#RESPECTCommittees">RESPECT Committees</a> |
+<a href="#VirtualCommittees">Virtual Committees</a> |
 <a href="#UpcomingConferenceDates">Upcoming Conference Dates</a> |
 <a href="#PastConferences">Past Conferences</a> |
 <a href="#TSConferences">Technical Symposium Conferences</a> |
@@ -24,7 +27,7 @@ This is all of the data used in the site, displayed in one long page. The purpos
 <a href="#BestPapers">Best Papers</a> |
 <a href="#Awards">Awards</a> |
 <a href="#OutstandingContribution">Outstanding Contribution</a> |
-<a href="#LifetimeContribution">Lifetime Contribution</a> |
+<a href="#DistinguishedContribution">Distinguished Contribution</a> |
 <a href="#BroadeningParticipation">Broadening Participation</a> |
 <a href="#TestofTime">Test of Time</a> |
 <a href="#TravelGrantAwardees">Travel Grant Awardees</a> |
@@ -33,12 +36,33 @@ This is all of the data used in the site, displayed in one long page. The purpos
 
 
 <a name="BoardMembers" id="BoardMembers"></a>
-## Board Members {{site.data.board.year}}
-{:.mt-4 .border-bottom}
+## Current Board Members {{site.data.board.current-board.year}}{:.mt-4 .border-bottom}
+Board term: {{site.data.board.current-board.term}}
 
-{%for member in site.data.board.members %}
+{%for member in site.data.board.current-board.members %}
 1. {{member.name}}, {{member.position}}, {{member.affiliation}}, {{member.country}},<br>{{member.email-}}
 {% endfor %}
+
+[↑ Back to top](#Top)
+
+<a name="PreviousBoards" id="PreviousBoards"></a>
+## Previous Board Members
+{:.mt-4 .border-bottom}
+
+{% for row in site.data.BoardMembers %}
+### Year {{row["Year"]}}
+<ul>
+{% for pair in row %}
+    {% if forloop.first %}{%continue%}{% endif %}
+    {% assign name = pair[1] | strip %}
+    {% if name != blank %}
+        <li>{{pair[1]}} ({{pair[0]}})</li>
+    {% endif %}
+{% endfor %}
+
+</ul>
+{% endfor %}
+
 [↑ Back to top](#Top)
 
 
@@ -99,6 +123,32 @@ This is all of the data used in the site, displayed in one long page. The purpos
 {:.mt-4 .border-bottom}
 
 {%for c in site.data.comped.committees %}
+#### {{c.name}}
+{% if c.info %}{{c.info}}{% endif %}
+{% for m in c.members -%}
+1. {{m.name}}{% if m.affiliation%}, {{m.affiliation}}{% endif %}{%if m.year %} ({{m.year}}){% endif %}
+{% endfor %}
+{% endfor %}
+[↑ Back to top](#Top)
+
+<a name="RESPECTCommittees" id="RESPECTCommittees"></a>
+## RESPECT Committees
+{:.mt-4 .border-bottom}
+
+{%for c in site.data.respect.committees %}
+#### {{c.name}}
+{% if c.info %}{{c.info}}{% endif %}
+{% for m in c.members -%}
+1. {{m.name}}{% if m.affiliation%}, {{m.affiliation}}{% endif %}{%if m.year %} ({{m.year}}){% endif %}
+{% endfor %}
+{% endfor %}
+[↑ Back to top](#Top)
+
+<a name="VirtualCommittees" id="VirtualCommittees"></a>
+## Virtual Committees
+{:.mt-4 .border-bottom}
+
+{%for c in site.data.virtual.committees %}
 #### {{c.name}}
 {% if c.info %}{{c.info}}{% endif %}
 {% for m in c.members -%}
@@ -240,10 +290,10 @@ This is all of the data used in the site, displayed in one long page. The purpos
 [↑ Back to top](#Top)
 
 
-<a name="LifetimeContribution" id="LifetimeContribution"></a>
-#### Lifetime Contribution
-{% assign lifetime = site.data.lifetime | sort: "year" | reverse -%}
-{% for person in lifetime %}
+<a name="DistinguishedContribution" id="DistinguishedContribution"></a>
+#### Distinguished Contribution
+{% assign distinguished = site.data.distinguished | sort: "year" | reverse -%}
+{% for person in distinguished %}
 1. {{person.year}}: {{person.name}}, {% if person.affiliation %}{{person.affiliation}}, {% endif %}{{person.desc-}}
 {% endfor %}
 [↑ Back to top](#Top)

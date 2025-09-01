@@ -1,6 +1,7 @@
 ---
 title: Nomination Process for Outstanding Contribution and Distinguished Service Awards
 layout: page
+form: https://forms.gle/W3wTpmh7u3yHT7ve9
 ---
 *Revised and approved by the SIGCSE Board: 14/June/2023.*
 
@@ -28,7 +29,7 @@ All nominations are subject to the [SIGCSE Awards Conflict of Interest and Eligi
 * **When must a nomination be submitted?**  The deadline for nominations is September 1st. Please notify the SIGCSE Vice Chair of your plans to submit a nomination by August 15th if possible or as soon as you decide to nominate. The Vice Chair can also answer questions you have with the nomination process.
 
 
-* **How do I submit a nomination?**  The Nominator prepares their nomination letter, collects all letters of support, and sends them via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc4rRXMBC83yzIk0CZ5RrCtTbrSn9cXO_cb9BWS8zMEMfopFQ/viewform?usp=sf_link) by September 1st AoE.
+* **How do I submit a nomination?**  The Nominator prepares their nomination letter, collects all letters of support, and sends them via [this Google Form]({{page.form}}) by September 1st AoE.
     * As a file upload is required, Google requires that the nominator has a Google account. If this is a barrier, email the SIGCSE Vice Chair (see bottom of this page).
     * If you are in a location that restricts access to Google Forms, email the SIGCSE Vice Chair (see bottom of this page).
 
@@ -72,6 +73,6 @@ All nominations are subject to the [SIGCSE Awards Conflict of Interest and Eligi
 * **Re-use of material from previous nominations.** An unmodified nomination will be considered in the next two subsequent annual award cycles. However, the nominator of an unsuccessful application will be notified by the Vice Chair, and may elect to resubmit an updated nomination. Modified submissions count as new and will be considered for the next two cycles.
 
 ##### Additional Questions
+
 For any additional questions or guidance send email to:
-[{{site.data.board.members[3].name}}](mailto:{{site.data.board.members[3].email}}), SIGCSE Board {{site.data.board.members[3].position}} or
-[{{site.data.board.members[6].name}}](mailto:{{site.data.board.members[6].email}}), SIGCSE Board {{site.data.board.members[6].position}}.
+[vice-chair@sigcse.org](mailto:vice-chair@sigcse.org).

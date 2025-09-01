@@ -4,8 +4,8 @@ layout: page
 image-path: "/assets/images/board/current/"
 ---
 
-##### {{site.data.board.year}} Board
-{%for member in site.data.board.members %}
+##### {{site.data.board.current-board.year}} Board
+{%for member in site.data.board.current-board.members %}
 <div>
 	<div style="float: left; text-align: center; width: 150px;">
 		{% assign p = page.image-path | append: member.image -%}

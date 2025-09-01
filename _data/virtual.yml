@@ -35,9 +35,10 @@ conferences:
   dates: "05-07 December 2024"
   location: "online"
   website: http://sigcsevirtual.acm.org/
-  proceedings-cover: virtual2024.png
   proceedings:
   - title: "SIGCSE Virtual 2024: Proceedings of the 2024 on ACM Virtual Global Computing Education Conference V. 1"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/3649165"
   - title: "SIGCSE Virtual 2024: Proceedings of the 2024 on ACM Virtual Global Computing Education Conference V. 2"
     doi: "https://dl.acm.org/doi/proceedings/10.1145/3649409"
+  - title: "SIGCSE Virtual--WGR 2024: 2024 Working Group Reports on 1st ACM Virtual Global Computing Education Conference"
+    doi: https://dl.acm.org/doi/proceedings/10.1145/3708550

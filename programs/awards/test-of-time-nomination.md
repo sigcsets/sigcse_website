@@ -1,6 +1,7 @@
 ---
 title: Nomination Process for the Test of Time Award
 layout: page
+form: https://forms.gle/v46u33u5ndS7zoa59
 ---
 *Revised and approved by the SIGCSE Board: 14/June/2023.*
                     
@@ -30,7 +31,7 @@ Each year, the ACM Special Interest Group on Computer Science Education (SIGCSE)
 
 * **When must a nomination be submitted?** The deadline for nominations is September 1st. 
 
-* **How do I submit a nomination?** The nominator prepares the information above, and sends them via [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScW1eSD0C0RWN7iWaxTTB06qx58T5xBB0fnA6Jrwvi4ZqFpsw/viewform?usp=sf_link) by September 1st AoE. 
+* **How do I submit a nomination?** The nominator prepares the information above, and sends them via [this Google Form]({{page.form}}) by September 1st AoE. 
 	* As a file upload is required, Google requires that the nominator has a Google account. If this is a barrier, email the SIGCSE Vice Chair (see bottom of this page).
 	* If you are in a location that restricts access to Google Forms, email the SIGCSE Vice Chair (see bottom of this page).
 
@@ -62,7 +63,6 @@ Each year, the ACM Special Interest Group on Computer Science Education (SIGCSE)
 
 ##### Additional Questions
 For any additional questions or guidance send email to:
-[{{site.data.board.members[3].name}}](mailto:{{site.data.board.members[3].email}}), SIGCSE Board {{site.data.board.members[3].position}} or
-[{{site.data.board.members[6].name}}](mailto:{{site.data.board.members[6].email}}), SIGCSE Board {{site.data.board.members[6].position}}.
+[vice-chair@sigcse.org](mailto:vice-chair@sigcse.org).
   
 

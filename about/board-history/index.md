@@ -2,7 +2,7 @@
 title: SIGCSE Board History
 layout: blank
 ---
-<p>This page contains the list of former Board members. You can download this list as a <a href="BoardMembers.xls">spreadsheet</a>.</p>
+<p>This page contains the list of former Board members. You can download this list as a <a href="BoardMembers.xlsx">spreadsheet</a>.</p>
 
 <table class="table table-striped">
   {% for row in site.data.BoardMembers %}

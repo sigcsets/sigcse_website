@@ -1,6 +1,7 @@
 ---
 title: Nomination Process for Broadening Participation Award
 layout: page
+form: https://forms.gle/W3wTpmh7u3yHT7ve9
 ---
 *Approved by the SIGCSE Board 14/June/2023*
 
@@ -24,7 +25,7 @@ The **ACM SIGCSE Broadening Participation in Computing Education Award** recogni
 
 * **When must a nomination be submitted?** The deadline for nominations is September 1st. Please notify the SIGCSE Vice Chair of your plans to submit a nomination by August 15th if possible or as soon as you decide to nominate. The Vice Chair can also answer questions you have with the nomination process.
 
-* **How do I submit a nomination?** The Nominator prepares their nomination letter, collects all letters of support, and completes [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc4rRXMBC83yzIk0CZ5RrCtTbrSn9cXO_cb9BWS8zMEMfopFQ/viewform?usp=sf_link) by September 1st AoE. 
+* **How do I submit a nomination?** The Nominator prepares their nomination letter, collects all letters of support, and completes [this Google Form]({{page.form}}) by September 1st AoE. 
 
     * As a file upload is required, Google requires that the nominator has a Google account. If this is a barrier, email the SIGCSE Vice Chair (see bottom of this page).
 
@@ -70,5 +71,4 @@ The **ACM SIGCSE Broadening Participation in Computing Education Award** recogni
 
 ##### Additional Questions
 For any additional questions or guidance send email to:
-[{{site.data.board.members[3].name}}](mailto:{{site.data.board.members[3].email}}), SIGCSE Board {{site.data.board.members[3].position}} or
-[{{site.data.board.members[6].name}}](mailto:{{site.data.board.members[6].email}}), SIGCSE Board {{site.data.board.members[6].position}}.
+[vice-chair@sigcse.org](mailto:vice-chair@sigcse.org).

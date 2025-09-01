@@ -1,53 +1,166 @@
-year: "2022-2025"
-members:
-  - name: Alison Clear
-    image: alison2.jpg
-    position: Chair
-    affiliation: Eastern Institute of Technology, Auckland
-    country: New Zealand
-    email: aclear@eit.ac.nz
+current-board:
+  year: "2025-2028"
+  term: 1 July 2025 – 30 June 2028
+  members:
+    - name: Brian Dorn
+      image: dorn.png
+      position: Chair
+      affiliation: University of Nebraska at Omaha
+      country: USA
+      email: bdorn@acm.org 
 
-  - name: Rodrigo Duran
-    image: rodrigo-duran.jpg
-    position: Vice Chair
-    affiliation: Federal Institute of Mato Grosso do Sul
-    country: Brazil
-    email: rodrigo.duran@ifms.edu.br
+    - name: Claudia Szabo
+      image: szabo.png
+      position: Vice-Chair
+      affiliation: University of Adelaide
+      country: Australia
+      email: claudia.szabo@adelaide.edu.au
 
-  - name: Jill Denner
-    image: denner.jpg
-    position: Treasurer
-    country: USA
-    email: jillxdenner@gmail.com
+    - name: Mark Sherriff
+      image: sherriff.png
+      position: Secretary
+      affiliation: University of Virginia
+      country: USA
+      email: sherriff@virginia.edu
 
-  - name: Dan Garcia
-    image: d_garcia.jpg
-    position: Secretary
-    affiliation: University of California Berkeley
-    country: USA
-    email: ddgarcia.SIGCSE.Secretary@gmail.com
+    - name: Michelle Friend
+      image: friend.png
+      position: Treasurer
+      affiliation: University of Nebraska at Omaha
+      country: USA
+      email: mefriend@unomaha.edu
 
-  - name: Yolanda A. Rankin
-    image: ranking.jpg
-    position: At Large Member
-    affiliation: Florida State University
-    country: USA
-    email: yrankin@gmail.com
+    - name: Oluwakemi Ola
+      image: ola.png
+      position: Member At Large
+      affiliation: University of British Columbia
+      country: Canada
+      email: kemiola@cs.ubc.ca
 
-  - name: Judy Sheard
-    image: judy-sheard.jpg
-    position: At Large Member
-    affiliation: Monash University
-    country: Australia
-    email: judy.sheard@monash.edu
+    - name: Ethel Tshukudu
+      image: tshukudu.png
+      position: Member At Large
+      affiliation: San Jose State University
+      country: USA
+      email: ethel.tshukudu@sjsu.edu
 
-  - name: Adrienne Decker
-    image: adrianne2022.jpg
-    position: Past Chair
-    affiliation: University at Buffalo
-    country: USA
-    email: adrienne@buffalo.edu
+    - name: Chris Gregg
+      image: gregg.png
+      position: Member At Large
+      affiliation: Stanford Univeristy
+      country: USA
+      email: cgregg@stanford.edu
 
-  - name: Barbara Boucher Owens
-    image: barbara-boucher-owens.png
-    position: member
+    - name: Alison Clear
+      image: alison2.jpg
+      position: Past Chair
+      affiliation: Eastern Institute of Technology, Auckland
+      country: New Zealand
+      email: aclear@eit.ac.nz
+
+previous-boards:
+  - year: "2022-2025"
+    term: 1 July 2022 – 30 June 2025
+    members:
+      - name: Alison Clear
+        image: alison2.jpg
+        position: Chair
+        affiliation: Eastern Institute of Technology, Auckland
+        country: New Zealand
+        email: aclear@eit.ac.nz
+
+      - name: Rodrigo Duran
+        image: rodrigo-duran.jpg
+        position: Vice Chair
+        affiliation: Federal Institute of Mato Grosso do Sul
+        country: Brazil
+        email: rodrigo.duran@ifms.edu.br
+
+      - name: Jill Denner
+        image: denner.jpg
+        position: Treasurer
+        country: USA
+        email: jillxdenner@gmail.com
+
+      - name: Dan Garcia
+        image: d_garcia.jpg
+        position: Secretary
+        affiliation: University of California Berkeley
+        country: USA
+        email: ddgarcia.SIGCSE.Secretary@gmail.com
+
+      - name: Yolanda A. Rankin
+        image: ranking.jpg
+        position: At Large Member
+        affiliation: Florida State University
+        country: USA
+        email: yrankin@gmail.com
+
+      - name: Judy Sheard
+        image: judy-sheard.jpg
+        position: At Large Member
+        affiliation: Monash University
+        country: Australia
+        email: judy.sheard@monash.edu
+
+      - name: Adrienne Decker
+        image: adrianne2022.jpg
+        position: Past Chair
+        affiliation: University at Buffalo
+        country: USA
+        email: adrienne@buffalo.edu
+
+      - name: Barbara Boucher Owens
+        image: barbara-boucher-owens.png
+        position: member
+
+
+  - year: "2016-2019"
+    term:
+    members:
+      - name: Settle, Amber
+        position: Chair
+      - name: Sheard, Judy
+        position: Vice Chair
+      - name: Fitzgerald, Sue
+        position: Secretary
+      - name: Decker, Addrienne
+        position: Treasurer
+        affiliation: University at Buffalo
+        country: USA
+      - name: Craig, Michelle
+        position: At Large Member
+      - name: Morrison, Briana
+        position: At Large Member
+      - name: Weiss, Mark
+        position: At Large Member
+      - name: Rodger, Susan
+        position: Past Chair
+  - year: "2019-2022"
+    term:
+    members:
+      - name: Decker, Adrienne
+        position: Chair
+        affiliation: University at Buffalo
+        country: USA
+      - name: Garcia, Dan
+        position: Vice Chair
+        affiliation: University of California Berkeley
+        country: USA
+      - name: Porter, Leo
+        position: Secretary
+        country: USA
+      - name: Luxton-Reilly, Andrew
+        position: Treasurer
+      - name: Egan, Mary Anne
+        position: At Large Member
+        country: USA
+      - name: Murphy, Laurie
+        position: At Large Member
+        country: USA
+      - name: Pérez-Quiñones, Manuel
+        position: At Large Member
+        country: USA
+      - name: Settle, Amber
+        position: Past Chair
+        country: USA

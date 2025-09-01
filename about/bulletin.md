@@ -8,6 +8,12 @@ comment: name as bulletin.vol.num.pdf, we append the vol and num
 comment: from the entry
 bulletin_path: "bulletin/bulletin."
 bulletin:
+    - month: "July 2025"
+      vol: 57
+      num: 3
+    - month: "April 2025"
+      vol: 57
+      num: 2
     - month: "January 2025"
       vol: 57
       num: 1
@@ -90,16 +96,9 @@ bulletin:
 
 ---
 
-The SIGCSE Bulletin is a quarterly newsletter that was first published
-in 1969. It evolved from an informal gathering of news and ideas to a
-venue for columns, editor-reviewed articles, research announcements,
-editorials, symposium proceedings, etc.
+The SIGCSE Bulletin is a quarterly newsletter that was first published in 1969. It evolved from an informal gathering of news and ideas to a venue for columns, editor-reviewed articles, research announcements, editorials, symposium proceedings, etc.
 
-In 2010, with the inception of ACM Inroads magazine, the SIGCSE Bulletin
-was transformed into an electronic newsletter sent to all SIGCSE members
-providing communications about SIGCSE: announcing activities,
-publicizing events, and highlighting topics of interest. In other words
-it has returned to its roots.
+In 2010, with the inception of ACM Inroads magazine, the SIGCSE Bulletin was transformed into an electronic newsletter sent to all SIGCSE members providing communications about SIGCSE: announcing activities, publicizing events, and highlighting topics of interest. In other words it has returned to its roots.
 
 The past four issues of the bulletin are available below:
 

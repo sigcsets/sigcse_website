@@ -37,7 +37,7 @@
 #### {{conf.title}}
 {:.border-bottom}
 
-> <a name="top" id="top"></a> {% if conf.year <= first_yr %}{% else %} <a href="{{prev}}.html">← {{prev}}</a> &#124; {% endif %}<a href="conferences.html">CompEd Index</a> {% if conf.year == last_yr %}{% else %} &#124; <a href="{{next}}.html">{{next}} →</a>{% endif %}
+> <a name="top" id="top"></a> {% if conf.year <= first_yr %}{% else %} <a href="{{prev}}.html">← Previous</a> &#124; {% endif %}<a href="conferences.html">CompEd Index</a> {% if conf.year == last_yr %}{% else %} &#124; <a href="{{next}}.html">Next →</a>{% endif %}
 
 <table class="table table-sm">
   <tbody>
@@ -53,8 +53,17 @@
       {% endfor -%}
       {% endif %}
     </td></tr>
+
+{% capture proc_cover_path %}/events/comped/images/covers/comped{{conf.year}}.png{% endcapture %}
+{% assign cover_exists = site.static_files | find: "path", proc_cover_path %}
+{% if cover_exists %}
+{% assign image_path = proc_cover_path %}
+{% else %}
+{% assign image_path = "/assets/images/default-proceeding.png" %}
+{% endif %}
+
 {% if conf.dates %}
-<tr><th>Dates</th><td>{{conf.dates}}</td><td rowspan="4" style="text-align:right">{% if conf.proceedings-cover %}<img style="border: 5px solid #ddd;" src="images/covers/{{conf.proceedings-cover}}">&nbsp;{%else%}<img src="images/covers/default-proceeding.jpg">&nbsp;{%endif%}
+<tr><th>Dates</th><td>{{conf.dates}}</td><td rowspan="4" style="text-align:right"><img width="131" style="border: 5px solid #ddd;" src="{{image_path}}">&nbsp;
 </td></tr>{%endif%}
 {% if conf.theme %}
 <tr><th>Theme</th><td colspan="2">{{conf.theme}}</td></tr>{%endif%}
@@ -71,37 +80,9 @@
   </tbody>
 </table>
 
-{% assign outstanding = site.data.outstanding | where: "awarded", "COMPED" | where: "year", conf.year -%}
-{% assign outsize = outstanding | size -%}
+{% comment %} AWARDS {% endcomment %}
+{% include awards.md event="COMPED" %}
 
-
-{% assign lifetime = site.data.lifetime | where: "awarded", "COMPED" | where: "year", conf.year -%}
-{% assign lifesize = lifetime | size -%}
-
-
-{% if outsize > 0 or lifesize > 0 %}
-#### Awards
-{:.border-bottom}
-
-{% if outsize > 0 %}
-##### {{conf.year}} ACM SIGCSE Award for Outstanding Contribution to Computer Science Education
-{% for person in outstanding -%}
-**{{person.name}}**{% if person.affiliation %}, <i>{{person.affiliation}}</i>.{% endif %}
-<p style="margin-left: 25px;">
-{{person.desc}}</p>
-{% endfor %}
-{% endif %}
-
-{% if lifesize > 0 %}
-{% for person in lifetime -%}
-##### **{{conf.year}} ACM SIGCSE Award for Lifetime Service to the Computer Science Education Community**
-**{{person.name}}**{% if person.affiliation %}, <i>{{person.affiliation}}</i>.{% endif %}
-<p style="margin-left: 25px;">
-{{person.desc}}</p>
-{% endfor %}
-{% endif %}
-
-{% endif %}
 
 
 

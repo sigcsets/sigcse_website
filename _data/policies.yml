@@ -83,6 +83,8 @@ comped:
   policies:
   - title: CompEd Organization and Governance
     url: policies/globalstructure.html
+  - title: Proposing a Global Computing Education Conference Location 
+    url: policies/compedproposal.html
 
 virtual:
   title: Virtual

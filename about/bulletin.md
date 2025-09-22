@@ -6,6 +6,7 @@ comment: Only the most recent four issues are shown on the website
 comment: Bulletin files are stored in the path below with
 comment: name as bulletin.vol.num.pdf, we append the vol and num
 comment: from the entry
+comment: "add tag 'html: true' if the doc is in HTML instead of PDF"
 bulletin_path: "bulletin/bulletin."
 bulletin:
     - month: "July 2025"
@@ -104,8 +105,13 @@ The past four issues of the bulletin are available below:
 
 <ul>
 {% for i in page.bulletin limit: 4 %}
-{% assign the_url = page.bulletin_path | append: i.vol | append: "." | append: i.num | append: ".pdf" %}
-<li><a href="{{the_url}}">{{i.month}} (Volume {{i.vol}} Issue {{i.num}})</a></li>
+{% if i.html -%}
+{% assign the_url = page.bulletin_path | append: i.vol | append: "." | append: i.num | append: "/index.html" %}
+<li><a href="{{the_url}}" target="_blank">{{i.month}} (Volume {{i.vol}} Issue {{i.num}})</a></li>
+{% else -%}
+{% assign the_url = page.bulletin_path | append: i.vol | append: "." | append: i.num | append: ".pdf" -%}
+<li><a href="{{the_url}}" target="_blank">{{i.month}} (Volume {{i.vol}} Issue {{i.num}})</a></li>
+{% endif -%}
 {% endfor %}
 </ul>
 

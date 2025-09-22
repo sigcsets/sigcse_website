@@ -2,10 +2,10 @@
 title: Henry Walker Travel Grant Program
 layout: page
 
-conferenceyear: 2025
-due: December 9, 2024
-notification: January 9, 2025
-form: https://docs.google.com/forms/d/e/1FAIpQLSdAz-45JePvreQL5VoYqSE3PXH87UlS4iEamqu5QZnP_clkmQ/viewform?usp=sf_link
+conferenceyear: 2026
+due: November 15, 2025
+notification: December 15, 2025
+form: https://forms.gle/PicGkqqQE2kUvKg66
 
 comment-image: "/images/people/Henry_Walker.jpg"
 ---

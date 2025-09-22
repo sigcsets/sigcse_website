@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SIGCSE Bulletin</title>
+    <style>
+    /* Universal rule to prevent padding from breaking layouts */
+    * {
+        box-sizing: border-box;
+        max-width: 100%;   /* prevent any element from exceeding viewport width */
+    }
+
+    html, body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; /* final safeguard against horizontal scroll */
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        color: #333;
+    }
+
+    h1 {
+        font-size: 3em;
+    }
+
+    .container {
+        width: 100%;
+        max-width: 800px; /* keeps it centered on desktop */
+        margin: 20px auto;
+        background-color: #fff;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .header {
+        text-align: center;
+        padding-bottom: 20px;
+        border-bottom: 1px solid #eee;
+    }
+
+    .header img {
+        max-width: 70%;
+        height: auto;
+    }
+
+    .table-of-contents {
+        margin-top: 20px;
+        padding: 15px;
+        background-color: #e9e9e9;
+        border-radius: 5px;
+    }
+
+    .table-of-contents h2 {
+        margin-top: 0;
+        color: #555;
+    }
+
+    .table-of-contents ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .table-of-contents ul li a {
+        text-decoration: none;
+        color: #007bff;
+        padding: 5px 0;
+        display: block;
+    }
+
+    .table-of-contents ul li a:hover {
+        text-decoration: underline;
+    }
+    
+    .intro-notes {
+        font-size: 0.8em;
+    }
+
+    .upcoming-events, .board-members {
+        margin-top: 30px;
+        padding: 15px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+
+    .upcoming-events h2, .board-members h2 {
+        margin-top: 0;
+        color: #555;
+        text-align: center;
+    }
+
+    .event-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 15px;
+    }
+
+    .event-table th, .event-table td {
+        border: 1px solid #eee;
+        padding: 8px;
+        text-align: left;
+        word-wrap: break-word;  /* stops long text from forcing wide scroll */
+    }
+
+    .event-table th {
+        background-color: #f2f2f2;
+        color: #666;
+    }
+
+    .board-members ul {
+        list-style: disc inside;
+        padding-left: 20px;
+    }
+
+    .board-members ul li {
+        margin-bottom: 8px;
+    }
+
+    .footer {
+        text-align: center;
+        margin-top: 40px;
+        padding-top: 20px;
+        border-top: 1px solid #eee;
+        color: #777;
+        font-size: 0.9em;
+    }
+
+    /* --- News Article Section --- */
+    .news-article {
+        margin-top: 40px;
+        padding-top: 20px;
+        border-top: 1px solid #eee;
+        overflow: hidden; /* prevents floated elements pushing width */
+    }
+
+    .news-article h3 {
+        color: #333;
+        margin-bottom: 5px;
+    }
+
+    .news-article .byline {
+        font-style: italic;
+        color: #777;
+        margin-bottom: 15px;
+        display: block;
+    }
+
+    .news-article p {
+        line-height: 1.6;
+        margin-bottom: 15px;
+    }
+
+    /* --- FIGURE & IMAGE STYLES --- */
+    .news-article figure {
+        margin: 0 0 15px 0;
+    }
+
+    .news-article figure img {
+        width: 90%;
+        height: auto;
+        display: block;
+    }
+
+    .news-article figure figcaption {
+        font-size: 0.9em;
+        font-style: italic;
+        color: #555;
+        padding-top: 8px;
+    }
+
+    .figure-center {
+        display: block;
+        max-width: 40%;
+        margin: 20px auto;
+    }
+
+    .figure-center figcaption {
+        text-align: center;
+    }
+
+    .figure-left {
+        float: left;
+        max-width: 30%;
+        margin-right: 20px;
+        margin-bottom: 15px;
+    }
+
+    .figure-left figcaption {
+        text-align: left;
+    }
+
+    .figure-right {
+        float: right;
+        max-width: 30%;
+        margin-left: 20px;
+        margin-bottom: 15px;
+    }
+    
+    .figure-right figcaption {
+        text-align: left;
+    }
+
+    /* --- RESPONSIVE STYLES FOR MOBILE --- */
+    @media (max-width: 600px) {
+        .container {
+            width: 95%;
+            padding: 10px;
+        }
+
+        .figure-left,
+        .figure-right,
+        .figure-center {
+            float: none;
+            max-width: 100%;
+            margin: 0 auto 20px auto;
+        }
+    }
+</style>
+
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <img src="ACM%20and%20SIGCSE%20logos.png" alt="Company Logo">
+            <h1>SIGCSE Bulletin</h1>
+            <p>Volume 57, Number 3</p>
+            <p>April 2025</p>
+        </header>
+
+        <section class="table-of-contents">
+            <h2>Table of Contents</h2>
+            <ul>
+                <li><a href="#board-members">Board Members</a></li>
+                <li><a href="#article1">SIGCSE News in Brief</a></li>
+                <li><a href="#upcoming-events">Upcoming Events</a></li>
+                <li><a href="#article2">Article 2 Title</a></li>
+                <li><a href="#article3">Article 3 Title</a></li>
+                <li><a href="#article4">Article 4 Title</a></li>
+                
+                
+            </ul>
+        </section>
+        
+        <section class="intro-notes">
+        <p><strong>Notice to Contributing Authors to SIG Newsletters</strong></p>
+        <p>By submitting your article for distribution in this Special Interest Group publication, you hereby grant to ACM the following non-exclusive, perpetual, worldwide rights:
+            <ul>
+                <li>to publish in print on condition of acceptance by the editor</li>
+                <li>to digitize and post your article in the electronic version of this publication</li>
+                <li>to include the article in the ACM Digital Library and in any Digital Library related services</li>
+                <li>to allow users to make a personal copy of the article for noncommercial, educational, or research purposes</li>
+            </ul>
+        <p> However, as a contributing author, you retain copyright to your article and ACM will refer requests for commercial use directly to you.</p>
+        <br>
+        <p><strong>Newletter Credits</strong></p>
+            <ul>
+                <li>Editors: Julie M. Smith and Charles Wallace</li>
+                <li>Contributors: </li>
+                <li>Photo credits: </li>
+            </ul>
+        </section>
+
+        <section id="board-members" class="board-members">
+            <h2>SIGCSE Board Members</h2>
+            <ul>
+                <li><strong>Chair</strong> - Alison Clear, Eastern Institute of Technology, New Zealand</li>
+                <li><strong>Vice-Chair</strong> - Rodrigo Silva Duran, Federal Institute of Mato Grosso do Sul, Brazil</li>
+                <li><strong>Secretary</strong> - Dan Garcia, University of California, Berkeley, USA</li>
+                <li><strong>Treasurer</strong> - Jill Denner, Digital NEST, USA</li>
+                <li><strong>At Large</strong> - Barbara Owens, Southwestern University, USA</li>
+                <li><strong>At Large</strong> - Yolanda A. Rankin, Florida State University, USA</li>
+                <li><strong>At Large</strong> - Judithe Sheard, Monash University, Australia</li>
+                <li><strong>Immediate Past Chair</strong> - Adrienne Decker, University at Buffalo, USA</li>
+            </ul>
+        </section>
+        
+        <article id="article1" class="news-article">
+            <h3>SIGCSE News in Brief</h3>
+            <span class="byline">By Julie M. Smith and Charles Wallace, Bulletin co-editors</span>
+            <p>Chocolate peanut butter coffee, pistachio cake batter neopolitan mint mint chocolate chip strawberry cookies and cream french vanilla rocky road chocolate chip cookie dough. Vanilla pistachio cake batter vanilla mint chocolate chip. Vanilla peanut butter coffee mint dark chocolate, chocolate chip cookie dough strawberry coffee neopolitan strawberry chocolate chip mint chocolate chip pistachio. Pistachio vanilla pistachio strawberry. Cookies and cream pistachio mint Vanilla.</p>    
+            <p>Chocolate peanut butter coffee, pistachio cake batter neopolitan mint mint chocolate chip strawberry cookies and cream french vanilla rocky road chocolate chip cookie dough. Vanilla pistachio cake batter vanilla mint chocolate chip. Vanilla peanut butter coffee mint dark chocolate, chocolate chip cookie dough strawberry coffee neopolitan strawberry chocolate chip mint chocolate chip pistachio. Pistachio vanilla pistachio strawberry. Cookies and cream pistachio mint Vanilla.</p>
+        </article>
+        
+        <section id="upcoming-events" class="upcoming-events">
+            <h2>Upcoming SIGCSE Events</h2>
+            <table class="event-table">
+                <thead>
+                    <tr>
+                        <th>Conference</th>
+                        <th>Location</th>
+                        <th>Dates</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><a href="https://iticse.acm.org/2025/" target="_blank">ITiCSE</a></td>
+                        <td>Nijmegen, Netherlands</td>
+                        <td>30 June - 2 July, 2025</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://respectconference.org/" target="_blank">RESPECT</a></td>
+                        <td>Raleigh, NC, USA</td>
+                        <td>14 – 16 July, 2025</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://icer2025.acm.org/" target="_blank">ICER</a></td>
+                        <td>Charlottesville VA, US</td>
+                        <td>3 - 6 August, 2025</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://comped.acm.org/2025/" target="_blank">CompEd</a></td>
+                        <td>Gaborone, Botswana</td>
+                        <td>23 - 25 October, 2025</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.kolicalling.fi/" target="_blank">Koli Calling</a></td>
+                        <td>Koli, Finland</td>
+                        <td>11 – 16 November, 2025</td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" class="merged-row">
+                            Other conferences operate in cooperation with SIGCSE and are posted on the <a href="https://sigcse.org/events/incoop.html" target="_blank">SIGCSE web site</a>. 
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <article id="article2" class="news-article">
+            <h3>News Article Title Two</h3>
+            <span class="byline">By [Author Name] </span>
+            <figure class="figure-left">
+                    <img src="Pearson.jpg" alt="Description of Image 3a">
+                    <figcaption>A photo; credit: person who took it.</figcaption>
+                </figure>
+            <p>Chocolate peanut butter coffee, pistachio cake batter neopolitan mint mint chocolate chip strawberry cookies and cream french vanilla rocky road chocolate chip cookie dough. Vanilla pistachio cake batter vanilla mint chocolate chip. Vanilla peanut butter coffee mint dark chocolate, chocolate chip cookie dough strawberry coffee neopolitan strawberry chocolate chip mint chocolate chip pistachio. Pistachio vanilla pistachio strawberry. Cookies and cream pistachio mint Vanilla.</p>    
+            <p>Chocolate peanut butter coffee, pistachio cake batter neopolitan mint mint chocolate chip strawberry cookies and cream french vanilla rocky road chocolate chip cookie dough. Vanilla pistachio cake batter vanilla mint chocolate chip. Vanilla peanut butter coffee mint dark chocolate, chocolate chip cookie dough strawberry coffee neopolitan strawberry chocolate chip mint chocolate chip pistachio. Pistachio vanilla pistachio strawberry. Cookies and cream pistachio mint Vanilla.</p>
+        </article>
+
+        <article id="article3" class="news-article">
+            <h3>News Article Title Three</h3>
+            <span class="byline">By [Author Name] </span>
+            <div class="image-group">
+                <figure class="figure-left">
+                    <img src="Sabin%20photo%20by%20David%20Vogt.jpg" alt="Description of Image 3a">
+                    <figcaption>A photo; credit: person who took it.</figcaption>
+                </figure>
+            </div>
+            <p>Chocolate peanut butter coffee, pistachio cake batter neopolitan mint mint chocolate chip strawberry cookies and cream french vanilla rocky road chocolate chip cookie dough. Vanilla pistachio cake batter vanilla mint chocolate chip. Vanilla peanut butter coffee mint dark chocolate, chocolate chip cookie dough strawberry coffee neopolitan strawberry chocolate chip mint chocolate chip pistachio. Pistachio vanilla pistachio strawberry. Cookies and cream pistachio mint Vanilla.</p>    
+            <p>Chocolate peanut butter coffee, pistachio cake batter neopolitan mint mint chocolate chip strawberry cookies and cream french vanilla rocky road chocolate chip cookie dough. Vanilla pistachio cake batter vanilla mint chocolate chip. Vanilla peanut butter coffee mint dark chocolate, chocolate chip cookie dough strawberry coffee neopolitan strawberry chocolate chip mint chocolate chip pistachio. Pistachio vanilla pistachio strawberry. Cookies and cream pistachio mint Vanilla.</p>
+        </article>
+
+        <article id="article4" class="news-article">
+            <h3>News Article Title Four</h3>
+            <span class="byline">By [Author Name] </span>
+           <figure class="figure-left">
+                    <img src="Pearson.jpg" alt="Description of Image 3a">
+                    <figcaption>A photo; credit: person who took it.</figcaption>
+                </figure>
+            <p>Chocolate peanut butter coffee, pistachio cake batter neopolitan mint mint chocolate chip strawberry cookies and cream french vanilla rocky road chocolate chip cookie dough. Vanilla pistachio cake batter vanilla mint chocolate chip. Vanilla peanut butter coffee mint dark chocolate, chocolate chip cookie dough strawberry coffee neopolitan strawberry chocolate chip mint chocolate chip pistachio. Pistachio vanilla pistachio strawberry. Cookies and cream pistachio mint Vanilla.</p>    
+            <p>Chocolate peanut butter coffee, pistachio cake batter neopolitan mint mint chocolate chip strawberry cookies and cream french vanilla rocky road chocolate chip cookie dough. Vanilla pistachio cake batter vanilla mint chocolate chip. Vanilla peanut butter coffee mint dark chocolate, chocolate chip cookie dough strawberry coffee neopolitan strawberry chocolate chip mint chocolate chip pistachio. Pistachio vanilla pistachio strawberry. Cookies and cream pistachio mint Vanilla.</p>
+        </article>
+
+        
+
+
+
+        <!--
+        <footer class="footer">
+            <p>&copy; 2025 Your Company Name. All rights reserved.</p>
+            <p>123 Main Street, Anytown, USA</p>
+        </footer>
+        -->
+    </div>
+</body>
+</html>

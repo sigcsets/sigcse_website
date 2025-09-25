@@ -23,11 +23,11 @@ acmdl: https://dl.acm.org/conference/sigcse/proceedings
 
 next-conference:
 - title: SIGCSE Virtual 2026
-  dates: "Dec 2026"
-  start-date: 2026-12-01
+  dates: "12-15 November, 2026"
+  start-date: 2026-11-12
   year: 2026
   location: "Online"
-  website: http://sigcsevirtual.acm.org/
+  website: https://sigcsevirtual2026.acm.org/
 
 conferences:
 - title: SIGCSE Virtual 2024

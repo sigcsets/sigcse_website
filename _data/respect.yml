@@ -20,8 +20,13 @@ ieeedl: https://ieeexplore.ieee.org/xpl/conhome/1809604/all-proceedings
 next-conference:
 - title: RESPECT 2026
   year: 2026
-  start-date: 2026-07-01
-  dates: "TBA"
+  start-date: 2026-06-15
+  dates: "15-17 June, 2026"
+  location: "Chicago, IL, USA"
+  website: https://respect.acm.org/2026
+  ConferenceChair: Carla Strickland (NJIT)
+  SeniorProgramCo-Chair: Earl Huff Jr (University of Texas at Austin)
+  JuniorProgramCo-Chair: Yerika Jimenez (Katabasis)
 
 
 conferences:

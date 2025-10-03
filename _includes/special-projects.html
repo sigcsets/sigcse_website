@@ -39,7 +39,7 @@
 {% for aw in awards %}
   <h5>{{aw.title}}</h5>
   <p>{% for au in aw.authors %}
-    {{au.name}}{% if au.affiliation %}, {{au.affiliation}}{% endif %}{% if au.email %} &lt;<a href="mailto:{{au.email}}">{{au.email}}</a>&gt;{% endif %}<br/>
+    {{au.name}}{% if au.affiliation %}, {{au.affiliation}}{% endif %}{% if au.email %} &lt;<a href="mailto:{{au.email}}">{{au.email}}</a>&gt;{% endif %}{% if au.url %} <a href="{{au.url}}" target="_blank">{{au.url}}</a>{% endif %}<br/>
   {% endfor %}
   {% if aw.award %}Award: {{aw.award}}<br />{% endif %}
   {% if aw.date %}Award date: {{aw.date}}{% endif %}</p>

@@ -1237,3 +1237,142 @@
       affiliation: Michigan Tech, USA
   date: May 2022
 
+
+- title: "AI-Generated Discipline-Specific Programming Problems"
+  year: 2022
+  authors: 
+    - name: Carl Haynes-Magyar
+      email: chaynesm@andrew.cmu.edu
+      affiliation: Carnegie Mellon University
+  award: $3,000
+  date: November 2022
+
+- title: "Computing+DEI = Multilingual Computing-Driven Class Material on Diversity, Equity and Inclusion"
+  year: 2022
+  authors: 
+    - name: Mirella Moro
+      email: mirella@dcc.ufmg.br
+      affiliation: Federal University of Minas Gerais in Brazil
+  award: $4,560
+  date: November 2022
+
+- title: "Let's Play Ball: Understanding Neurodiversity and Accessibility"
+  year: 2022
+  authors: 
+    - name: Devorah Kletenik
+      email: kletenik@sci.brooklyn.cuny.edu
+      affiliation: Brooklyn City University of New York
+  award: $5,000
+  date: November 2022
+
+- title: "Evidence-Driven K-5 Computer Science Education Updates for Practitioners"
+  year: 2022
+  authors: 
+    - name: Jordan Williamson
+      email: jordan@csedresearch.org
+      affiliation: CSEd Research.Org
+  award: $5,000
+  date: November 2022
+
+- title: "Jupyter Notebooks: The Hidden Curriculum - An Open Acces Textbook and Workbook"
+  year: 2023
+  authors:
+    - name: Nicole Brewer
+      url: https://www.linkedin.com/in/nicole-brewer/
+      affiliation: Arizona State University, USA
+  award: $2,601
+  date: November 2023
+
+- title: "Developing a Course for Computer Science and Software Engineering Junior and Senior Students Focused on Designing and Developing Accessible and Assistive Computing Systems Concepts and Skills "
+  year: 2023
+  authors:
+    - name: Daniela Marghitu
+      email: marghda@auburn.edu
+      affiliation: Auburn University, USA
+    - name: Dean Hendrix
+      affiliation: Auburn University, USA
+  award: $5,000
+  date: November 2023
+
+- title: "Development and Validation of a Critical Consciousness in Computing Scale"
+  year: 2023
+  authors:
+    - name: Aadarsh Padiyath
+      email: aadarsh@umich.edu
+      affiliation: University of Michigan, USA
+  award: $5,000
+  date: November 2023
+
+- title: "Why Do Students Drop Out of Computer Programs?"
+  year: 2024
+  authors:
+    - name: Alexandre Passito de Queiroz
+      email: passito@icomp.ufam.edu.br 
+      affiliation: Universidade Federal do Amazonas, Brazil
+  award: $4,800
+  date: May 2024
+
+- title: "Fostering Culturally Sensitive IT Curriculum: Case Studies Collaboratively infused with Indigenous Perspectives"
+  year: 2024
+  authors:
+    - name: Nicole Herbert
+      email: Nicole.Herbert@utas.edu.au
+      affiliation: University of Tasmania, Australia
+  award: $5,000
+  date: May 2024
+
+- title: "A time-efficient system for generating human-crafted questions about student code"
+  year: 2024
+  authors:
+    - name: Zachary Kurmasz
+      email: kurmasz@gvsu.edu
+      affiliation: Grand Valley State University, USA
+  award: $3,600
+  date: May 2024
+        
+- title: "AI-Driven Computational Thinking Integration in K-12 Science Classrooms: Insights from Science Teachers"
+  year: 2024
+  authors:
+    - name: Lijun Ni
+      email: lni@albany.edu
+      affiliation: University at Albany, State University of New York
+  award: $3,750
+  date: December 2024
+
+- title: "Building an Inclusive Future: Teaching Accessibility to K-12 Teachers"
+  year: 2024
+  authors:
+    - name: Devorah Kletenik
+      email: kletenik@sci.brooklyn.cuny.edu
+      affiliation: Brooklyn College CUNY
+    - name: Rachel F. Adler
+      email: radler@illinois.edu
+      affiliation: University of Illinois Urbana-Champaign
+  award: $5,000
+  date: December 2024
+
+- title: "Learning Computer Science through Inspirational Biographies"
+  year: 2024
+  authors:
+    - name: Sylvia Amélia Bim
+      email: sabim@professores.utfpr.edu.br  
+      affiliation: Federal University of Technology - Paraná (UTFPR)
+  award: $5,000
+  date: December 2024
+
+- title: "Serious games for teaching accessibility"
+  year: 2024
+  authors:
+    - name: Swaroop Joshi
+      email: swaroopjoshi@ieee.org
+      affiliation: BITS Pilani, KK Birla Goa Campus, Goa India
+  award: $4,960
+  date: December 2024
+
+- title: "Expectations from Entry-Level Computing Professionals"
+  year: 2024
+  authors:
+    - name: Angela Zavaleta Bernuy
+      email: angelazb@cs.toronto.edu
+      affiliation: McMaster University and University of Toronto Industry and Academia
+  award: $5,000

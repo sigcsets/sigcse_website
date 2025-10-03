@@ -1,7 +1,7 @@
 ---
 title: Special Project Grants
 layout: page
-form: https://forms.gle/Zf2XV5kSaMxSQgsTA
+form: https://forms.gle/Gq7QSbjCA6GjTNaU6
 ---
 
 
@@ -23,7 +23,8 @@ The application process is relatively informal. Proposal submissions will be con
 
 #### Application Guidelines
 
-Complete the online [Special Projects Application](https://forms.gle/4PSvsxUGYreEzGj89){:target="_blank"} form by the November 15th or May 15th deadline.
+Complete the online 
+[Special Projects Application]({{page.form}}){:target="_blank"} form by the November 15th or May 15th deadline.
 
 Please note that:
 
@@ -46,7 +47,7 @@ A SIGCSE Special Projects Review Panel will judge the value and timeliness of pr
 #### Application
 
 Use the following online submission form to complete your application.
-- [Special Projects Application]({{page.form}})
+- [Special Projects Application]({{page.form}}){:target="_blank"}
 
 #### Questions?
 

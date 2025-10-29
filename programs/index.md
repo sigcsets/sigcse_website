@@ -10,6 +10,7 @@ A variety of programs that support our mission and serve our members:
     - [SIGCSE Distinguished Service to the Computer Science Education Community](awards/lifetime.html)
     - [SIGCSE Broadening Participation in Computing Education](awards/broadening.html)
     - [SIGCSE Test of Time](awards/test-of-time.html)
+    - [SIGCSE Early Career Researcher Award](awards/early-career.html)
 
 
 -   [Special Projects](special/index.html) - The Special Projects program provides funding for small projects of interest to the SIGCSE community.

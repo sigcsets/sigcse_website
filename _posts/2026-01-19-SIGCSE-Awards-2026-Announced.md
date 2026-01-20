@@ -24,5 +24,5 @@ For more information about these awards, including how to nominate someone, and 
 
 Congratulations again to the 2026 ACM SIGCSE Awardees!
 
-Claudia Szabo\ 
+Claudia Szabo   
 SIGCSE Board Award Chair

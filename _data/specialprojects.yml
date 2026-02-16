@@ -1376,3 +1376,41 @@
       email: angelazb@cs.toronto.edu
       affiliation: McMaster University and University of Toronto Industry and Academia
   award: $5,000
+
+- title: "Exploring How Neurodiverse Students Engage with AI-Assisted Programming"
+  year: 2025
+  authors:
+    - name: Benjamin Xie
+      email: benji.xie@du.edu
+      affiliation: University of Denver, USA
+  award: $5,000
+  funding_note: Funds allocated by a grant from the Consortium for Generative AI in CS Education
+  date: December 2025
+
+- title: "Involving the Authors: Integrating and Validating Research Evidence on Misconceptions"
+  year: 2025
+  authors:
+    - name: Matthias Hauswirth
+      email: matthias.hauswirth@usi.ch
+      affiliation: USI, Lugano, Switzerland
+  award: $5,000
+  date: December 2025
+
+- title: "Design, Analysis, and Implementation of Algorithms and Data Structures"
+  year: 2025
+  authors:
+    - name: Charles Cusack
+      email: cusack@hope.edu
+      affiliation: Hope College, USA
+  award: $5,000
+  date: December 2025
+
+- title: "Designing for Authentic Assessment: A Community Toolkit for Generative AI Integration in Computing Education"
+  year: 2025
+  authors:
+    - name: Akesha M. Horton
+      email: akmhorto@iu.edu
+      affiliation: Indiana University Bloomington, USA
+  award: $5,000
+  funding_note: Funds allocated by a grant from the Consortium for Generative AI in CS Education
+  date: December 2025

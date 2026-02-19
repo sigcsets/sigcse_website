@@ -1378,6 +1378,28 @@
   award: $5,000
   date: December 2024
 
+- title: "Designing a Publicly Accessible, Interactive Repository for Contextualized Computing Education Materials"
+  year: 2024
+  authors:
+    - name: Oluwakemi Ola
+      affiliation: University of British Columbia, Canada
+    - name: Ethel Tshukudu
+      affiliation: San Jose State University, USA
+    - name: Sally Hamouda
+      affiliation: Virginia Tech, USA
+  award: $5,000
+  award_date: May 2024
+
+- title: "Bridging the Gap in GenAI Supported Learning for Neurodiverse CS Students"
+  year: 2024
+  authors:
+    - name: Bedour Alshaigy
+      affiliation: Uppsala University, Sweden
+    - name: Yasmine Elgaly
+      affiliation: Western Washington University, USA
+  award: $5,000
+  award_date: May 2024
+
 - title: "Exploring How Neurodiverse Students Engage with AI-Assisted Programming"
   year: 2025
   authors:

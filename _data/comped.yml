@@ -28,6 +28,12 @@ committees:
 acmdl: https://dl.acm.org/conference/comped/proceedings
 
 next-conference:
+- title: CompEd 2027
+  dates: "October 2027"
+  start-date: 2027-10-23
+  location: São Paolo, Brazil
+
+conferences:
 - title: CompEd 2025
   year: 2025
   start-date: 2025-10-23
@@ -36,7 +42,6 @@ next-conference:
   website: https://comped.acm.org/2025
   comment: 1st ACM conference in Africa
 
-conferences:
 - title: CompEd 2023
   year: 2023
   start-date: 2023-12-07

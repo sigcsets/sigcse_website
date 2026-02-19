@@ -9,6 +9,10 @@ comment: from the entry
 comment: "add tag 'html: true' if the doc is in HTML instead of PDF"
 bulletin_path: "bulletin/bulletin."
 bulletin:
+    - month: "January 2026"
+      vol: 58
+      num: 1
+      html: true
     - month: "October 2025"
       vol: 57
       num: 4

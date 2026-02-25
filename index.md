@@ -59,3 +59,12 @@ layout: home
 {% endfor -%}
 - [*view all*](events/comped/conferences.html)
 
+###### Virtual
+{:.mt-4 .border-bottom}
+{% assign items = site.data.virtual.conferences | sort: 'year' | reverse %}
+{% for c in items limit:3 -%}
+    {% assign fn = '/events/virtual/' | append: c.year | append: '.html' -%}
+    {% include item.md home=true path=fn -%}
+{% endfor -%}
+- [*view all*](events/virtual/conferences.html)
+

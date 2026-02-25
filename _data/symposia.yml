@@ -63,22 +63,18 @@ committees:
 acmdl: https://dl.acm.org/conference/sigcse/proceedings
 
 future-conferences:
-- title: Technical Symposium 2027
-  year: 2027
-  dates: "Feb 17-20, 2027"
-  location: "Sacramento, CA"
 - title: Technical Symposium 2028
   year: 2028
   dates: "Feb 23-26, 2028"
   location: "Cleveland, OH"
 
 next-conference:
-- title: Technical Symposium 2026
-  year: 2026
-  start-date: 2026-02-18
-  dates: "Feb-18-21, 2026"
-  location: "St. Louis, MO"
-  website: https://sigcse2026.sigcse.org/
+- title: Technical Symposium 2027
+  year: 2027
+  start-date: 2027-02-17
+  dates: "Feb 17-20, 2027"
+  location: "Sacramento, CA"
+  website: https://sigcse-ts.acm.org/2027/
 
 conferences:
 - year: 1970
@@ -841,3 +837,16 @@ conferences:
       doi: https://dl.acm.org/doi/proceedings/10.1145/3641555
 
 
+- year: 2026
+  title: 57th SIGCSE TS 2026
+  edition: 57th
+  start-date: 2026-02-18
+  dates: "Feb-18-21, 2026"
+  location: "St. Louis, MO"
+  website: "https://sigcse2026.sigcse.org/"
+  logo: sigcse2026_logo.png
+  proceedings:
+    - title: "SIGCSE TS 2026: Proceedings of the 57th ACM Technical Symposium on Computer Science Education V.1"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/3770762"
+    - title: "SIGCSE TS 2026: Proceedings of the 57th ACM Technical Symposium on Computer Science Education V.2"
+      doi: "https://dl.acm.org/doi/proceedings/10.1145/3770761"

@@ -11,27 +11,27 @@ minutes:
         date: 2026-02-20
 
       - description: "Minutes of the SIGCSE Board TS Retreat Feb 18, 2026"
-        date: 2026-02-20
+        date: 2026-02-18
 
-      - description: "Minutes of the SIGCSE Board TS Meeting Jan 23, 2026"
+      - description: "Minutes of the SIGCSE Board Meeting Jan 23, 2026"
         date: 2026-01-23
 
-      - description: "Minutes of the SIGCSE Board TS Meeting Dec 17, 2025"
+      - description: "Minutes of the SIGCSE Board Meeting Dec 17, 2025"
         date: 2025-12-17
 
-      - description: "Minutes of the SIGCSE Board TS Meeting Nov 11, 2025"
+      - description: "Minutes of the SIGCSE Board Meeting Nov 11, 2025"
         date: 2025-11-19
 
-      - description: "Minutes of the SIGCSE Board TS Meeting Oct 29, 2025"
+      - description: "Minutes of the SIGCSE Board Meeting Oct 29, 2025"
         date: 2025-10-29
 
-      - description: "Minutes of the SIGCSE Board TS Meeting Sep 21, 2025"
+      - description: "Minutes of the SIGCSE Board Retreat Sep 21, 2025"
         date: 2025-09-21
 
-      - description: "Minutes of the SIGCSE Board TS Meeting Aug 12, 2025"
+      - description: "Minutes of the SIGCSE Board Meeting Aug 12, 2025"
         date: 2025-08-12
 
-      - description: "Minutes of the SIGCSE Board TS Meeting Jul 10, 2025"
+      - description: "Minutes of the SIGCSE Board Meeting Jul 10, 2025"
         date: 2025-07-10
 
   - board:

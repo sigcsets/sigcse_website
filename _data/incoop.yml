@@ -1,3 +1,18 @@
+- name: ACE 2026
+  year: 2026 
+  url: https://aceconference2026.github.io/
+- name: COMPUTE 2026
+  year: 2026
+  url: https://isigcse.acm.org/compute/2026/
+- name: CCSC-CP 2026
+  year: 2026
+  url: https://www.ccsc.org/centralplains/2026/ 
+- name: CCSC-SC 2026
+  year: 2026
+  url:  https://www.ccsc.org/southcentral/
+- name: WiPSCE 2026
+  year: 2026
+  url: https://wipsce.org/
 - name: CCSC-MW '22
   year: 2022
 - name: CCSC-NW '22

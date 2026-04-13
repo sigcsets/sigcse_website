@@ -4,6 +4,37 @@ layout: page
 minutes:
 
   - board:
+    year: "2025 to 2028 Board"
+    folder: "BoardMinutes/2025-2028/"
+    approved:
+      - description: "Minutes of the SIGCSE Board Open Business Meeting Feb 20, 2026"
+        date: 2026-02-20
+
+      - description: "Minutes of the SIGCSE Board TS Retreat Feb 18, 2026"
+        date: 2026-02-18
+
+      - description: "Minutes of the SIGCSE Board Meeting Jan 23, 2026"
+        date: 2026-01-23
+
+      - description: "Minutes of the SIGCSE Board Meeting Dec 17, 2025"
+        date: 2025-12-17
+
+      - description: "Minutes of the SIGCSE Board Meeting Nov 11, 2025"
+        date: 2025-11-19
+
+      - description: "Minutes of the SIGCSE Board Meeting Oct 29, 2025"
+        date: 2025-10-29
+
+      - description: "Minutes of the SIGCSE Board Retreat Sep 21, 2025"
+        date: 2025-09-21
+
+      - description: "Minutes of the SIGCSE Board Meeting Aug 12, 2025"
+        date: 2025-08-12
+
+      - description: "Minutes of the SIGCSE Board Meeting Jul 10, 2025"
+        date: 2025-07-10
+
+  - board:
     year: "2022 to 2025 Board"
     folder: "BoardMinutes/2022-2025/"
     approved:

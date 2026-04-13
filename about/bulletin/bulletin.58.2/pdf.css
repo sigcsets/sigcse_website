@@ -1,0 +1,28 @@
+@page {
+  size: A4;
+  margin: 2cm;
+
+  @top-left {
+    content: "SIGCSE Bulletin 58.1";
+    font-size: 12pt;
+    font-weight: bold;
+  }
+
+  @top-right {
+    content: "Page " counter(page) " of " counter(pages);
+    font-size: 10pt;
+  }
+}
+
+body {
+  font-size: 0.9em; /* 90% of the original */
+}
+
+
+
+
+
+
+
+
+

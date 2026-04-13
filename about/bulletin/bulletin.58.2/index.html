@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SIGCSE Bulletin</title>
+    <style>
+    /* Universal rule to prevent padding from breaking layouts */
+    * {
+        box-sizing: border-box;
+        max-width: 100%;   /* prevent any element from exceeding viewport width */
+    }
+
+    html, body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; /* final safeguard against horizontal scroll */
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        color: #333;
+    }
+
+    h1 {
+        font-size: 3em;
+    }
+
+    .container {
+        width: 100%;
+        max-width: 800px; /* keeps it centered on desktop */
+        margin: 20px auto;
+        background-color: #fff;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .header {
+        text-align: center;
+        padding-bottom: 20px;
+        border-bottom: 1px solid #eee;
+    }
+
+    .header img {
+        max-width: 70%;
+        height: auto;
+    }
+
+    .table-of-contents {
+        margin-top: 20px;
+        padding: 15px;
+        background-color: #e9e9e9;
+        border-radius: 5px;
+    }
+
+    .table-of-contents h2 {
+        margin-top: 0;
+        color: #555;
+    }
+
+    .table-of-contents ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .table-of-contents ul li a {
+        text-decoration: none;
+        color: #007bff;
+        padding: 5px 0;
+        display: block;
+    }
+
+    .table-of-contents ul li a:hover {
+        text-decoration: underline;
+    }
+    
+    .intro-notes {
+        font-size: 0.8em;
+    }
+
+    .upcoming-events, .board-members {
+        margin-top: 30px;
+        padding: 15px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+
+    .upcoming-events h2, .board-members h2 {
+        margin-top: 0;
+        color: #555;
+        text-align: center;
+    }
+
+    .event-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 15px;
+    }
+
+    .event-table th, .event-table td {
+        border: 1px solid #eee;
+        padding: 8px;
+        text-align: left;
+        word-wrap: break-word;  /* stops long text from forcing wide scroll */
+    }
+
+    .event-table th {
+        background-color: #f2f2f2;
+        color: #666;
+    }
+
+    .board-members ul {
+        list-style: disc inside;
+        padding-left: 20px;
+    }
+
+    .board-members ul li {
+        margin-bottom: 8px;
+    }
+
+    .footer {
+        text-align: center;
+        margin-top: 40px;
+        padding-top: 20px;
+        border-top: 1px solid #eee;
+        color: #777;
+        font-size: 0.9em;
+    }
+        
+        /* 1. Hide the overlay by default */
+.modal-overlay {
+    display: none; 
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background: rgba(0, 0, 0, 0.9);
+    z-index: 9999;
+    justify-content: center;
+    align-items: center;
+}
+
+/* 2. Show the overlay when the link is clicked (:target) */
+.modal-overlay:target {
+    display: flex;
+}
+
+/* 3. Style the enlarged image area */
+.modal-content {
+    position: relative;
+    max-width: 90%;
+    max-height: 90%;
+    text-align: center;
+    color: white;
+}
+
+.modal-content img {
+    max-width: 100%;
+    max-height: 80vh; /* Keeps image from being taller than screen */
+    border: 3px solid white;
+}
+
+/* 4. The invisible layer that lets you click the background to close */
+.modal-close-layer {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    cursor: default;
+}
+
+/* 5. The visible "X" button */
+.close-button {
+    position: absolute;
+    top: -40px;
+    right: 0;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+    /* --- News Article Section --- */
+    .news-article {
+        margin-top: 40px;
+        padding-top: 20px;
+        border-top: 1px solid #eee;
+        overflow: hidden; /* prevents floated elements pushing width */
+    }
+
+    .news-article h3 {
+        color: #333;
+        margin-bottom: 5px;
+    }
+
+    .news-article .byline {
+        font-style: italic;
+        color: #777;
+        margin-bottom: 15px;
+        display: block;
+    }
+
+    .news-article p {
+        line-height: 1.6;
+        margin-bottom: 15px;
+    }
+
+    /* --- FIGURE & IMAGE STYLES --- */
+    .news-article figure {
+        margin: 0 0 15px 0;
+    }
+
+    .news-article figure img {
+        width: 90%;
+        height: auto;
+        display: block;
+    }
+
+    .news-article figure figcaption {
+        font-size: 0.9em;
+        font-style: italic;
+        color: #555;
+        padding-top: 8px;
+    }
+
+    .figure-center {
+        display: block;
+        max-width: 40%;
+        margin: 20px auto;
+    }
+
+    .figure-center figcaption {
+        text-align: center;
+    }
+
+    .figure-left {
+        float: left;
+        max-width: 40%;
+        min-width: 40%;
+        margin-right: 20px;
+        margin-bottom: 15px;
+        /*new below*/
+        overflow: hidden; 
+    }
+        
+
+    .figure-left figcaption {
+        text-align: left;
+          /*new below*/
+        width: 80%;
+    }
+
+    .figure-right {
+        float: right;
+        max-width: 40%;
+        min-width: 40%;
+        margin-left: 20px;
+        margin-bottom: 15px;
+    }
+    
+    .figure-right figcaption {
+        text-align: left;
+    }
+
+    /* --- RESPONSIVE STYLES FOR MOBILE --- */
+    @media (max-width: 600px) {
+        .container {
+            width: 95%;
+            padding: 10px;
+        }
+
+        .figure-left,
+        .figure-right,
+        .figure-center {
+            float: none;
+            max-width: 100%;
+            margin: 0 auto 20px auto;
+        }
+    }
+        
+        
+</style>
+
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <img src="ACM%20and%20SIGCSE%20logos.png" alt="Company Logo">
+            <h1>SIGCSE Bulletin</h1>
+            <p>Volume 58, Number 2</p>
+            <p>April 2026</p>
+        </header>
+
+        <section class="table-of-contents">
+            <h2>Table of Contents</h2>
+            <ul>
+                <li><a href="#board-members">Board Members</a></li>
+                <li><a href="#news-in-brief">SIGCSE News in Brief</a></li>
+                <li><a href="#upcoming-events">Upcoming Events</a></li>
+                <li><a href="#iticse-cfp">ITiCSE 2026 Call for Participation</a></li>
+                <li><a href="#sv-cfc">SIGCSE Virtual 2026 Call for Contributions</a></li>
+                <li><a href="#sigcsets-recap">SIGCSE Technical Symposium 2026 Recap</a></li>
+                <li><a href="#sigcsets-ss-genai">Report on Special Session at SIGCSE TS 2026 “Teaching with Generative AI: Tools You Can Use Today”</a></li>
+                <li><a href="#sigcsets-ps-sigcse-reads">SIGCSE TS 2026 Panel Summary: “Learning Persistence & Resistance from History and SIGCSE Reads”</a></li>
+                <li><a href="#sigcsets-ps-theory-algorithms">SIGCSE TS 2026 Panel Summary: “Pedagogy in Theory of Computing and Algorithms”</a></li>
+                <li><a href="#member-spotlight">Member Spotlight: Judith Gal-Ezer</a></li>
+            </ul>
+        </section>
+        
+        <section class="intro-notes">
+        <p><strong>Notice to Contributing Authors to SIG Newsletters</strong></p>
+        <p>By submitting your article for distribution in this Special Interest Group publication, you hereby grant to ACM the following non-exclusive, perpetual, worldwide rights:
+            <ul>
+                <li>to publish in print on condition of acceptance by the editor</li>
+                <li>to digitize and post your article in the electronic version of this publication</li>
+                <li>to include the article in the ACM Digital Library and in any Digital Library related services</li>
+                <li>to allow users to make a personal copy of the article for noncommercial, educational, or research purposes</li>
+            </ul>
+        <p> However, as a contributing author, you retain copyright to your article and ACM will refer requests for commercial use directly to you.</p>
+        <br>
+        <p><strong>Newletter Credits</strong></p>
+            <ul>
+                <li>Editors: Julie M. Smith and Charles Wallace</li>
+                <li>Contributors: Becky Bates, Quintin Cutts, Paul Denny, Ryan Dougherty, Jeff Erickson, Eric Fouh, Judith Gal-Ezer, Judy Goldsmith, Steven Gordon, Katie Johnson, Deepthi Joshi, Natalie Kiesler, Michael Littman, Viraj Kumar, Juho Leinonen, Jeremy A. Magruder Waisome, Kyla McMullen, Narges Norouzi, James Prather, Tim Randolph, Samuel A. Rebelsky, Michael Shindler, Valerie Summet, Jaime Urquiza Fuentes, Nanette Veilleux, Ángel Velázquez-Iturbide, Timothy T. Yuen </li>
+                <li>Photo credits: Cole Rodger, Shir Shalgi</li>
+            </ul>
+        </section>
+
+        <section id="board-members" class="board-members">
+            <h2>SIGCSE Board Members</h2>
+            <ul>
+                <li><strong>Chair</strong> - Brian Dorn, Chair, University of Nebraska at Omaha, USA</li>
+                <li><strong>Vice-Chair</strong> - Claudia Szabo, Vice-Chair, University of Adelaide, Australia</li>
+                <li><strong>Secretary</strong> - Mark Sherriff, Secretary, University of Virginia, USA</li>
+                <li><strong>Treasurer</strong> - Michelle Friend, Treasurer, University of Nebraska at Omaha, USA</li>
+                <li><strong>At Large</strong> - Oluwakemi Ola, Member At Large, University of British Columbia, Canada</li>
+                <li><strong>At Large</strong> - Ethel Tshukudu, Member At Large, San Jose State University, USA</li>
+                <li><strong>At Large</strong> - Chris Gregg, Member At Large, Stanford University, USA</li>
+                <li><strong>Immediate Past Chair</strong> - Alison Clear, Past Chair, Eastern Institute of Technology, Auckland, New Zealand</li>
+            </ul>
+        </section>
+        
+        <article id="news-in-brief" class="news-article">
+            <h3>SIGCSE News in Brief</h3>
+            <span class="byline">By Julie M. Smith and Charles Wallace, Bulletin co-editors</span>
+                        
+            <p>Welcome to the April issue of the SIGCSE Bulletin.  We have two notes on upcoming conferences: an overview of ITiCSE 2026, which will be held in Madrid in July, and a call for contributions for the 2026 SIGCSE Virtual Conference taking place in November.  There is a summary of February's Technical Symposium, including a comprehensive list of award winners - Congratulations to all!  We also have reports on three sessions from the Technical Symposium: A special session on teaching with generative AI, a panel discussion of strategies for persistence and resistance inspired by this year‘s SIGCSE Reads selctions, and a panel on teaching theory of computing and algorithms.  More panel summaries from the Technical Symposium will appear in the October issue of the Bulletin. We conclude with our Member Spotlight: Judith Gal-Ezer, co-founder of the Computer Science Department at the Open University of Israel and a leader in developing the high school computer science curriculum in Israel. </p>
+                
+            <p>As always, we encourage you to share results or news of upcoming events through the Bulletin. Please send your
+            submissions or questions to <a href="mailto:SIGCSE-Bulletin-Editors@acm.org">SIGCSE-Bulletin-Editors@acm.org</a>.</p>
+
+        </article>
+        
+        <section id="upcoming-events" class="upcoming-events">
+            <h2>Upcoming SIGCSE Events</h2>
+            <table class="event-table">
+                <thead>
+                    <tr>
+                        <th>Conference</th>
+                        <th>Location</th>
+                        <th>Dates</th>
+                        <th>Submission Deadline</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                    <tr>
+                        <td><a href="https://respect.acm.org/2026/" target="_blank">RESPECT</a></td>
+                        <td>Chicago, IL, USA</td>
+                        <td>8-10 June 2026</td>
+                        <td>(passed)</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://iticse.acm.org/2026/" target="_blank">ITiCSE</a></td>
+                        <td>Madrid, Spain</td>
+                        <td>13-15 July 2026</td>
+                        <td>(passed)</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://icer2026.acm.org/" target="_blank">ICER</a></td>
+                        <td>Uppsala, Sweden</td>
+                        <td>11-14 August 2026</td>
+                        <td>(passed)</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://sigcsevirtual2026.acm.org/" target="_blank">SIGCSE Virtual</a></td>
+                        <td>Online</td>
+                        <td>12-15 November 2026</td>
+                        <td>1 May 2026</td>
+                    </tr>
+                    <!--
+                    <tr>
+                        <td><a href="https://www.kolicalling.fi/" target="_blank">Koli Calling</a></td>
+                        <td>Koli, Finland</td>
+                        <td>11 – 16 November 2025</td>
+                        <td>10 February 2025</td>
+                    </tr>
+                    <!--
+                    <tr>
+                        <td colspan="3" class="merged-row">
+                            Other conferences operate in cooperation with SIGCSE and are posted on the <a href="https://sigcse.org/events/incoop.html" target="_blank">SIGCSE web site</a>. 
+                        </td>
+                    </tr>
+                    -->
+                </tbody>
+            </table>
+        </section>
+
+        <article id="iticse-cfp" class="news-article">
+            <h3>ITiCSE 2026 Call for Participation</h3>
+            <span class="byline">By Ángel Velázquez-Iturbide, Jaime Urquiza Fuentes, and Quintin Cutts, Conference Co-Chairs</span>
+            
+                        <figure class="figure-left" style="max-width: 300px">
+                            <a href="#iticse">
+                                <img src="ITiCSE2026.png" alt="ITiCSE 2026 Madrid logo" />
+                            </a>
+                        </figure>
+
+                        <div id="iticse" class="modal-overlay">
+                            <a href="#" class="modal-close-layer"></a>
+                            <div class="modal-content">
+                                <img src="ITiCSE2026.png" alt="ITiCSE 2026 Madrid logo" />
+                                <a href="#" class="close-button">&times;</a>
+                            </div>
+                        </div>
+  
+            <p>You are cordially invited to the <a href="https://iticse.acm.org/2026/" target="_blank">31st Annual ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE)</a>, which will take place at Universidad Rey Juan Carlos in Madrid, Spain, from July 13–15, 2026. ITiCSE is an annual conference on computing education, traditionally hosted in Europe, sponsored by ACM SIGCSE, and organized in collaboration with the ACM Europe Council and Informatics Europe.</p>
+                
+            <p>Madrid, the capital of Spain, traces its origins to the ninth century as a fortified Muslim settlement known as Magerit. The city was incorporated into the Kingdom of León in 1075 and later became part of the Kingdom of Castile. In the sixteenth century, King Philip II established the permanent royal court in Madrid, marking the beginning of its sustained growth and political centrality.</p>
+        
+            <p>Today, Madrid is a dynamic metropolis that serves as both an industrial and financial hub, while also offering a vibrant cultural and artistic scene. Located in the geographic center of the Iberian Peninsula, the city is well connected to the rest of Spain and Portugal. It anchors the national railway network and the radial system of major highways. Its two central train stations, Chamartín and Atocha, together with Adolfo Suárez Madrid–Barajas Airport—Spain’s largest—ensure efficient national and international travel.</p>
+            
+            <p>ITiCSE 2026 is hosted by Universidad Rey Juan Carlos, founded in 1997 and the newest of Madrid’s six public universities. The institution operates five campuses across the province. The conference organizers are part of the School of Informatics Engineering, based on the Móstoles campus; however, the conference itself will be held at the university’s Madrid campus, located in the historic district of Vicálvaro. This campus is conveniently accessible from the city center, main train stations, and the airport via public transportation.</p>
+            
+            <p>The 2026 conference will maintain the structure of recent editions. Working groups—an essential component of ITiCSE—will meet for three full days prior to the main program, from July 10–12, and the Doctoral Consortium will be held in July 11-12. The primary conference sessions will take place from July 13–15. ITiCSE 2026 will be held exclusively in person. Registration is now open; for details, please visit iticse.acm.org/2026/registration. Early-bird rates are available until about May 14, and attendees may register at any time, including on-site. We look forward to welcoming you to Madrid!</p>
+        </article>
+       
+        <article id="sv-cfc" class="news-article">
+            <h3>SIGCSE Virtual 2026 Call for Contributions</h3>
+            <span class="byline">By Narges Norouzi and Samuel A. Rebelsky, Program Co-Chairs</span>
+
+            <p>We hope you will consider joining us at <a href="https://sigcsevirtual2026.acm.org/" target="_blank">SIGCSE Virtual 2026</a>, the 2nd ACM Virtual Global Computing Education Conference, to be held online November 12–15, 2026, including a Doctoral Consortium on Sunday, November 15. Conference days will be scheduled across multiple time zones (e.g., UTC-7, UTC+1, UTC+9), with sessions distributed primarily according to presenters’ preferences. We anticipate that registration will be $100 ($50 for students).</p>
+                
+            <p>SIGCSE Virtual provides an affordable opportunity for educators and researchers from around the world to present their work and participate in the broader computer science education community. The conference program includes research papers, panels, posters, tutorials, birds-of-a-feather, working groups, a doctoral consortium, keynotes, and more! We are particularly pleased to provide an opportunity to participate in working groups for members of our community who are unable to attend ITiCSE.</p>
+        
+            <p>This year, we’ve added a few new presentation opportunities. Spotlight Talks celebrate voices across the computing education community, including researchers, practitioners, educators, and innovators who want to share a single compelling idea, insight, or call to action in a concise, high-impact format. Special Sessions provide an opportunity to offer a longer (hour or more) session that does not match any current format opportunities. Birds-of-a-Feather sessions permit extended, organized conversations. And Tutorials allow extended (three-hour) sessions to help participants learn new technologies or approaches.</p>
+            
+            <strong>Important Deadlines</strong>
+
+            <ul>
+            <li>Paper abstracts are due Friday, 1 May 2026.</li>
+            <li>Round 1 submissions (Papers, Panels, Special Sessions, and Working Groups) are due Friday, 8 May 2026. Decisions on round 1 submissions will be released by Monday, 22 June 2026.</li>
+            <li>Round 2 submissions (everything else) are due Friday, 17 July 2026.</li>
+            <li>All submission deadlines are 23:59 AoE – Anywhere on Earth (UTC-12).</li>
+            <li>EasyChair (the submission platform) will be available very soon, but is not open for submissions yet, just to note when visiting the website.</li>
+	  </ul>
+
+	  <strong>Important update on ACM’s new open-access publishing model for 2026 ACM Conferences!</strong>
+
+	  <p>Starting January 1, 2026, ACM fully transitioned to <a href="https://www.acm.org/publications/openaccess" target="_blank">Open Access</a>. All ACM publications, including those from ACM-sponsored conferences, will be 100% Open Access. Authors will have two primary options for publishing Open Access articles with ACM: the ACM Open institutional model or by paying Article Processing Charges (APCs). With over 2,600 institutions already part of ACM Open, the majority of ACM-sponsored conference papers will not require APCs from authors or conferences.</p>
+          <p>Authors from institutions not participating in ACM Open will need to pay an APC to publish their papers, unless they qualify for a financial waiver. To find out whether an APC applies to your article, please consult the list of participating institutions in ACM Open and review the page at <a href="https://www.acm.org/publications/policies/policy-on-discretionary-open-access-apc-waivers" target="_blank">https://www.acm.org/publications/policies/policy-on-discretionary-open-access-apc-waivers</a>.  Keep in mind that hardship waivers are rare and are granted based on specific criteria set by ACM.</p>
+          <p>Note that authors from countries covered by ACM’s agreements with EIFL and Research4Life receive a 100% waiver, and authors based in lower-middle-income countries as identified in the World Bank List of Economies receive a 50% discount off applicable APCs, unless one of these countries receives a 100% APC waiver as a result of ACM’s Agreements with EIFL/R4L.</p>
+          <p>Understanding that this change could present financial challenges, ACM has approved a temporary subsidy for 2026 to ease the transition and allow more time for institutions to join ACM Open. The subsidy will offer: $250 APC for ACM/SIG members and $350 for non-members. This represents a 65% discount, funded directly by ACM. Authors are encouraged to help advocate for their institutions to join ACM Open during this transition period. For articles eligible for 50% geographic discounts, the discount will be applied to the applicable subsidized rate. This temporary subsidized pricing will apply to all conferences scheduled for 2026.</p>
+          <p>For SIGCSE Virtual 2026, APCs will apply only to research papers and working group reports.</p>
+
+          <strong>Publication Notes</strong>
+          <p>While ACM policy permits authors to post their work on sites like ArXiV upon submission, we recommend that authors wait until after decisions are made before posting. This helps retain anonymity during the review process.
+The conference proceedings will be published approximately two weeks before the conference.</p>
+
+        </article>
+
+        <article id="sigcsets-recap" class="news-article">
+            <h3>SIGCSE Technical Symposium 2026 Recap</h3>
+<span class="byline">By Timothy T. Yuen and Deepti Joshi, SIGCSE TS 2026 Symposium Co-Chairs; James Prather, Eric Fouh, and Natalie Kiesler, SIGCSE TS 2026 Program Co-Chairs</span>
+
+             <p>The 2026 SIGCSE Technical Symposium (TS 2026) was held in St. Louis, Missouri from February 18-21 2026. This Technical Symposium brought 1466 attendees with 100 of those being virtual attendees. This marked the fifth time that the Technical Symposium was held in the St. Louis! This year’s theme was “Building Gateways for the Future!” to describe the current crossroads that CS education is at given the rapid expansion of AI into CS education and the CS workforce. As always, the program included a variety of papers, panels, special sessions, posters, and other works on the latest trends and innovations in computer science education. This year also offered a hybrid experience for virtual attendees, which included plenaries and keynotes and a selection of papers, panels, special sessions, meetings, and tutorials. Some of the award winning papers were also available online.</p>
+            
+             <figure class="figure-left" style="max-width: 300px">
+                 <a href="#sigcse1">
+                     <img src="SIGCSETS-Ko.png" alt="Image of Dr. Amy J. Ko" />
+                 </a>
+                 <figcaption>Dr. Amy J. Ko, Opening Keynote; photo credit: Cole Rodger.</figcaption>
+             </figure>
+
+             <div id="sigcse1" class="modal-overlay">
+                 <a href="#" class="modal-close-layer"></a>
+                 <div class="modal-content">
+                     <img src="SIGCSETS-Ko.png" alt="Enlarged Image of Dr. Amy J. Ko" />
+                     <p>Dr. Amy J. Ko, Opening Keynote; photo credit: Cole Rodger.</p>
+                     <a href="#" class="close-button">&times;</a>
+                 </div>
+             </div>
+            
+	     <p>We had two amazing keynote presentations, each ending with a standing ovation from a packed classroom. Our opening keynote was delivered by Dr. Amy J Ko of the University of Washington. Dr. Ko’s keynote was entitled “Love, Learning, and Computing Education”, which explored how the CS education community can cultivate more caring, supportive, and intellectually vibrant learning environments.</p>
+
+	     <figure class="figure-right" style="max-width: 300px">
+                 <a href="#sigcse2">
+                     <img src="SIGCSETS-Winters.png" alt="Image of Dr. Titus Winters" />
+                 </a>
+                 <figcaption>Dr. Titus Winters, Closing Keynote; photo credit: Cole Rodger.</figcaption>
+             </figure>
+
+             <div id="sigcse2" class="modal-overlay">
+                 <a href="#" class="modal-close-layer"></a>
+                 <div class="modal-content">
+                     <img src="SIGCSETS-Winters.png" alt="Enlarged Image of Dr. Titus Winters" />
+                     <p>Dr. Titus Winters, Closing Keynote; photo credit: Cole Rodger.</p>
+                     <a href="#" class="close-button">&times;</a>
+                 </div>
+             </div>
+
+	     <p>Our closing keynote was delivered by Dr. Titus Winters from Adobe. Dr. Winters’ keynote, “CS and SE Education, post-AI”, challenged the CS education community to reconsider longstanding assumptions in computing and software-engineering education and to reimagine curricula and teaching in an era shaped by rapid advances in artificial intelligence.</p>
+
+	     <figure class="figure-left" style="max-width: 300px">
+                 <a href="#sigcse3">
+                     <img src="SIGCSETS-first-timers.png" alt="Image of Speakers at the First Timers' Lunch" />
+                 </a>
+                 <figcaption>Jeffrey Stone, Samuel Rebelsky, and Libby Shoop, First Timers’ Lunch; photo credit: Cole Rodger.</figcaption>
+             </figure>
+
+             <div id="sigcse3" class="modal-overlay">
+                 <a href="#" class="modal-close-layer"></a>
+                 <div class="modal-content">
+                     <img src="SIGCSETS-first-timers.png" alt="Enlarged Image of Speakers at the First Timers' Lunch" />
+                     <p>Jeffrey Stone, Samuel Rebelsky, and Libby Shoop, First Timers’ Lunch; photo credit: Cole Rodger.</p>
+                     <a href="#" class="close-button">&times;</a>
+                 </div>
+             </div>
+
+	     <p>On Thursday afternoon, former co-chairs from the 2025 SIGCSE Technical Symposium, Jeffrey Stone (Symposium Co-Chair), Libby Shoop (Program Co-Chair), and Samuel Rebelsky (Program Co-Chair) presented “How to survive SIGCSE TS 2026” at our First Timers’ Lunch. The talk provided first time attendees with useful and important information about navigating the Technical Symposium. Our former co-chairs also shared their own experiences regarding their first time at the Technical Symposium and the impact it has made on their own academic journey and connections to the SIGCSE community.</p>
+
+	     <figure class="figure-left" style="max-width: 300px">
+                 <a href="#sigcse4">
+                     <img src="SIGCSETS-Ladner-Tymann.png" alt="Image of Mark Sherriff, Richard Ladner, and Paul Tymann" />
+                 </a>
+                 <figcaption>Mark Sherriff, Richard Ladner, and Paul Tymann; photo credit: Cole Rodger.</figcaption>
+             </figure>
+
+             <div id="sigcse4" class="modal-overlay">
+                 <a href="#" class="modal-close-layer"></a>
+                 <div class="modal-content">
+                     <img src="SIGCSETS-Ladner-Tymann.png" alt="Enlarged Image of Mark Sherriff, Richard Ladner, and Paul Tymann" />
+                     <p>Mark Sherriff, Richard Ladner, and Paul Tymann; photo credit: Cole Rodger.</p>
+                     <a href="#" class="close-button">&times;</a>
+                 </div>
+             </div>
+
+	     <p>Three SIGCSE award winners were presented their awards at this year’s Technical Symposium on Friday’s Plenary sessions. Dr. Richard E. Ladner received the 2026 ACM SIGCSE Award for Outstanding Contribution to Computer Science Education. Dr. Paul Tymann received the 2026 ACM SIGCSE Award for Distinguished Service to the Computer Science Education Community. The 2026 Test of Time Award was awarded to Philip J. Guo's 2013 paper “Online Python Tutor: Embeddable Web-Based Program Visualization for CS Education”. After the presentation of awards, Dr. Ladner and Dr. Tymann participated in a panel discussion on the “The Future of CS Education” moderated by SIGCSE Board Secretary Dr. Mark Sherriff. The panel discussion also included pre-written responses from Dr. Guo, the author of the Test of Time Award paper.</p>
+	     
+	     <strong>Best Papers</strong>
+
+	     <p>TS 2026 had 174 papers accepted out of 547 submissions. The Program Co-Chairs had the challenging task of identifying the small number of papers from each track as best paper award winners. Congratulations to all the authors of these papers.</p>
+
+	     <ul>
+	       <li>Best Paper Awards: Computing Education Research</li>
+	       <ul>
+                 <li><em>Transforming Confusion into Diffusion: Advancing Machine Learning Education via Bottom-Up Instruction</em> by Carlos Cotrini (ETH Zürich), Sverrir Thorgeirsson (ETH Zürich), Jesus Solano (ETH Zürich) and Zhendong Su (ETH Zürich)</li>
+
+                 <li><em>Mapping Required Ethics Education in Computer Science: Insights from 100 U.S. Programs</em> by Grace Barkhuff (Georgia Institute of Technology) and Ellen Zegura (Georgia Institute of Technology)</li>
+
+                 <li><em>The Impostor Phenomenon and the Confidence Gap</em> by Arto Hellas (Aalto University) and Andrew Petersen (University of Toronto Mississauga)</li>
+               </ul>
+	       <li>Best Paper Awards: Experience Report and Tools</li>
+	       <ul>
+                 <li><em>Learning Linux by Leveraging Lightweight Labs and Ludicrous Lessons</em> by Yan Shoshitaishvili (Arizona State University), Adam Doupe (Arizona State University) and Connor Nelson (Arizona State University)</li>
+                 <li><em>Creating a Second Pathway to Computing Majors</em> by Ashley Pang (University of California, Riverside), Paea LePendu (University of California, Riverside), Mariam Salloum (University of California, Riverside), Neftali Watkinson Medina (University of California, Riverside) and Carla Brodley (Northeastern University)</li>
+                 <li><em>Closing the Loop: An Instructor-in-the-Loop AI Assistance System for Supporting Student Help-Seeking in Programming Education</em> by Tung Phung (MPI-SWS), Heeryung Choi (University of Minnesota), Mengyan Wu (University of Michigan), Christopher Brooks (University of Michigan), Sumit Gulwani (Microsoft) and Adish Singla (MPI-SWS)</li>
+               </ul>
+	       <li>Best Paper Awards: Position and Curricula Initiatives</li>
+	       <ul>
+                 <li><em>Reflecting on Thematic Analysis in Computer Science Education Research: A Field Guide for Researchers and Reviewers</em> by Aadarsh Padiyath (University of Michigan) and Tamara Nelson-Fromm (University of Chicago)</li>
+                 <li><em>Rethinking How We Discuss the Guidance of Student Researchers in Computing</em> by Shomir Wilson (Pennsylvania State University)</li>
+                 <li><em>Like parsley in Greek food: Elementary set theory and the case for DM1</em> by Siddharth Bhaskar (University of Southern Denmark)</li>
+	       </ul>
+	     </ul>
+	     
+             <strong>ACM Student Research Contribution Awards</strong>
+
+             <p>TS 2026 had 23 accepted submissions in the student research contributions categories. The first round of research competition was held on Thursday, where students presented their work using posters. On Friday, the finalists presented their work to the judges in greater detail. Finally, the awards were presented on Saturday morning. The winners, as selected by the SRC co-chairs, are as follows:</p>
+
+	     <ul>
+	       <li>Undergraduate Winners</li>
+	       <ul>
+		 <li>First Place: Anha Khan (Princeton University). <em>Characterizing the Relationship Between Generative AI, Student Behavior, and Learning Outcomes in Upper-Level CS Education: A Case Study in an Undergraduate Machine Learning Course.</em></li>
+                 <li>Second Place: Yuan Garcia, Florence Rui Lin, Jenny Ngo and Edward Donson. (Harvey Mudd College) <em>Adaptable Metrics to Assess and Improve Introductory CS.</em></li>
+		 <li>Third Place: Lusine Hayrapetyan (California State University, San Bernardino). <em>Label-Free Evaluation of Retrieval-Augmented Generation in a University Policy Chatbot.</em></li>
+	       </ul>
+	       <li>Graduate Winners</li>
+	       <ul>
+	         <li>First Place: Hia Ghosh (University of Massachusetts, Amherst). <em>Applying Universal Design for Learning to Undergraduate Computer Science Education.</em></li>
+	         <li>Second Place: Matthew Moloughney (Cardiff University). <em>Automated Assessment Tools: Feedback to and from Students.</em></li>
+	         <li>Third Place: Karanjot Kaur (University of Texas at Austin). <em>Teacher Capacity as a Catalyst: Examining a Research-Practice Partnership’s Impact.</em></li>
+	       </ul>
+	     </ul>
+
+             <strong>Reviewers and Senior Reviewers</strong>
+
+	     <p>We thank all of our 867 reviewers and 121 senior reviewers, formerly known as the Associate Program Chairs, for their service and helping us create the TS 2026 program.</p>
+
+	     <ul>
+	       <li>The Program Co-Chairs’ Service Award for Outstanding Contribution to the Work of the Program Committee: Libby Shoop (Macalester College)</li>
+	       <li>Top Reviewer Award for Excellence in Peer Review: David Wonnacott (Haverford College)</li>
+	       <li>Best Senior Reviewer Awards: Matthew Barr (University of Glasgow), Manuel I. Capel Tuñón (University of Granada), Jason King (North Carolina State University), Michael Nowak (University of Illinois Urbana-Champaign)</li>
+	       <li>Outstanding Senior Reviewers: Andrew Allen (Georgia Southern University), Matthew Barr (University of Glasgow), Lina Battestilli (North Carolina State University), Manuel I. Capel Tuñón (University of Granada), Steve Cooper (University of Nebraska-Lincoln), Kathryn Cunningham (University of Illinois Urbana-Champaign), Paul Denny (The University of Auckland), Maher Elshakankiri (University of Toronto), Mohammed Farghally (Virginia Tech), Christopher Hundhausen (Oregon State University), Jason King (North Carolina State University), Bogdan Ksiezopolski (Kozminski University), Sarah Heckman (North Carolina State University), Juho Leinonen (Aalto University), Suzanne Matthews (United States Military Academy), Michael Nowak (University of Illinois Urbana-Champaign), Rifat Sabbir Mansur (Virginia Tech), Miranda Parker (University of North Carolina, Charlotte), Christian Roberson (Florida Southern College), Guido Rößling (TU Darmstadt), Cliff Shaffer (Virginia Tech), Leen-Kiat Soh (University of Nebraska-Lincoln), Claudia Szabo (The University of Adelaide), Luther Tychonievich (University of Virginia)</li>
+	       <li>Outstanding Reviewers: Savanah Barnes (Michigan State University), Patrice Belleville (The University of British Columbia), Jamie Benario (Google), Briana Bettin (Michigan Technological University), Nathan Brunelle (University of Washington), Liia Butler (Northwestern University), Andrew Cain (Deakin University), Rosiane de Freitas (IComp/UFAM), Hanxiang Du (Western Washington University), Isabela Figueira (University of California, Irvine), Kendrick Hang (Washington State Board for Community, and Technical Colleges), Jinyoung Hur (University of Illinois Urbana-Champaign), Daehee Kim (California State University - Stanislaus), Roxane Koitz-Hristov (Graz University of Technology), Paea Le Pendu (University of California, Riverside), Kyungchan Lim (University of Tennessee), Frank McCown  (Harding University), Greg Nelson (University of Washington), Peter Ohmann (College of St. Benedict / St. John’s University), Zachary J. Oster (University of Wisconsin-Whitewater), Andrew Petersen (University of Toronto Mississauga), Prajwal Pisal (Independent Researcher), Karen Reid (University of Toronto), Polly Ren (Princeton University), Michael Robbeloth (The Ohio State University), Fatemeh Sarshartehrani (Virginia Tech), Libby Shoop (Macalester College), Alex Steiger (Duke University), Filip Strömbäck (Linköping University), Valdemar Švábenský (Masaryk University), Michael Verdicchio (The Citadel), Rebecca Williams (University of Maryland Baltimore County), David Wonnacott (Haverford College), David Zabner (Tufts University)</li>
+	       </ul>
+
+	       <p>TS 2026 was a success due to the contributions from our world-wide network of volunteers. We thank everyone who gave their time, their energies, and their scholarly works to the Technical Symposium and for their dedication to the CS education community. We also thank our supporters and exhibitors for their financial contributions and contributions to the conference program and exhibit hall. Finally, we thank our friends at dlPlan, America’s Center, Explore St. Louis, and all of our service providers.</p>
+
+	       <p>Next year’s SIGCSE Technical Symposium (TS 2027) will be held February 17-20, 2027 in Sacramento, California. We hope to see you there!</p>
+
+            
+        </article>
+
+        <article id="sigcsets-ss-genai" class="news-article">
+            <h3>Report on Special Session at SIGCSE TS 2026 “Teaching with Generative AI: Tools You Can Use Today”</h3>
+            <span class="byline">By Paul Denny, Juho Leinonen, Viraj Kumar, and Steven Gordon</span>
+	       <p>At SIGCSE TS 2026 in St. Louis, the ACM Task Force on Generative Artificial Intelligence and Student Programming Assessment hosted a 80-minute special session to provide practical ideas for computing educators as they try to respond to the changing reality of generative AI in programming education. The session included a hands-on look at six classroom-ready tools and teaching approaches shared by enthusiastic members of the SIGCSE community.</p>
+	       <strong>Why this session, and why now?</strong>
+	       <p> Across computing programs globally, instructors are contending with two related challenges. First, generative AI tools are already shaping how students work – sometimes productively (as tutors, explainers, debuggers), and sometimes problematically (as shortcuts that bypass learning). Second, educators are being asked to adapt quickly, often without clear institutional policies, without time to redesign curricula, and without an agreed set of best practices that can be adopted “next week” rather than “next year.” The <a href="https://acm-education-genai-task-force.github.io/" target="_blank">ACM Generative AI Task Force</a> has been working to document emerging practices and provide guidance for instruction and assessment in this new era. A recurring message from educators, heard through broader community conversations and recent research, has been the need for concrete examples. Not just opinions about whether to ban or embrace tools, but practical demonstrations of what thoughtful integration can look like in real courses. This special session was designed as one direct response to this need.</p>
+               <p>The session was organized around two primary objectives: (1) to create a forum where educators and researchers could showcase novel tools and approaches for teaching in the era of generative AI, and (2) to ensure participants could actively engage with these tools and consider how to adopt them in their own contexts.</p>
+               <p>To support these goals, the session followed a three-part structure:</p>
+            <ol>   
+	      <li>Introduction and framing (10 minutes). Task Force members Denny and Leinonen moderated the session and briefly connected it to broader questions facing programming education. They summarized results from a global survey conducted by the Task Force of over 700 educators on policies, concerns, perceived impacts on students’ skills, and changes to teaching and assessment. Select findings from this survey were used to motivate the upcoming presentations.</li>
+	      <li>Tool showcases (70 minutes). Six invited presenters delivered short, focused demonstrations. Each demonstration highlighted a pedagogical problem, showed the tool or approach in action, and provided access details so attendees could try it. Participants were encouraged to explore the tools on their own devices during the demonstrations, and were able to ask questions of the presenters throughout.</li>
+	      <li>Closing and next steps (5 minutes). The session concluded with an invitation for ongoing community participation. The moderators invited educators to share their own approaches, contribute tools, and stay connected as practices continue to evolve.</li>
+            </ol> 
+          <strong>The featured tools and teaching innovations</strong>
+          
+          <p>The six demonstrations were selected to represent a range of pedagogical goals: supporting code comprehension and critical eval-
+          uation of AI outputs, approaches to avoid over-reliance on AI for completing coursework, and novel ways to use AI as a learning aid.</p>
+          
+          <ul>
+          <li><a href="https://duke.is/ksm-llm-brainstorm-blog" target="_blank">Brainstorming with an LLM2</a> (Kristin Stephens-Martinez). This approach reframes generative AI as a structured thinking partner rather than an answer generator. Students use iterative dialogue with an LLM to generate and refine research questions for longer-term work (such as a semester data science project). The emphasis is on guiding the process of idea formation and refinement—skills that remain valuable regardless of tooling.</li>
+          <li><a href="https://anvil.labs.jb.gg/" target="_blank">ANVIL3</a> (Anastasiia Birillo). ANVIL focuses on explanation and engagement, automatically generating textual and video analogies to help students understand computing concepts. Rather than treating generative AI only as a code generator, this tool highlights the opportunity to scale explanatory support in diverse modalities— particularly useful when students benefit from varied representations of abstract ideas.</li>
+          <li><a href="https://ente.study/" target="_blank">Ente4</a> (Sverrir Thorgeirsson). This demonstration showcased Ente, an online platform for deploying course-specific LLM tutors in introductory contexts. The key idea is teacher control: enabling instructors to shape the tutor’s scope and role, and to adapt it to exercises and learning goals, rather than relying on generic chat assistants that may over-help or misalign with course expectations.</li>
+          <li><a href="https://purplex.org/" target="_blank">Purplex5</a> (David H. Smith IV). Purplex integrates Explain-in-Plain-Language tasks with GenAI-powered grading and scaffolding. It targets a core need in the GenAI era: ensuring students can read, explain, and reason about code, not merely produce it. By supporting scalable feedback on code explanations, the tool also directly addresses a practical constraint many instructors face—limited TA capacity for rich formative feedback.</li>
+          <li><a href="https://codehelp.app/" target="_blank">CodeHelp6</a> “focused tutors” (Mark Liffiton). CodeHelp presents a model for instructor-defined AI assistants aligned with specific learning objectives, modules, or assessment goals. The new “focused tutors” feature provides a way for instructors to set up fine-grained learning goals which the digital tutor will walk through with the student in a dialogue, advancing to the next goal when the student demonstrates understanding.</li>
+          <li><a href="https://www.autosuggestionquiz.com/" target="_blank">Autocompletion Quiz7</a> (Rahad Arman Nabid). Autocompletion Quiz converts coding tasks into step-by-step quizzes with AI-generated distractors, aiming to build “negative expertise” around AI suggestions. This is designed to help students recognise, critique, and recover from plausible-but-wrong outputs. In a world where students increasingly encounter autocompletion and AI-generated code in IDEs, this approach treats critical evaluation as a learnable skill.</li>
+          </ul>
+          
+          <strong>Key themes from discussion</strong>
+          
+          <p>Across demonstrations and Q&A, several themes surfaced repeatedly:</p>
+          
+          <ul>
+              <li>Re-centering learning on comprehension, evaluation, and decision-making. A consistent thread was that generative AI changes what students can produce quickly, but it also raises the value of skills like code reading, debugging, testing, explanation, and judgment. Many showcased tools explicitly aim to strengthen those competencies</li>
+              <li>Designing for responsible use rather than relying on prohibition. While concerns about misconduct and over-reliance remain real, the session largely focused on designs that channel AI use into productive workflows. These support learning outcomes rather than attempt to prevent tool access.</li>
+              <li>Instructor control and alignment matter. Tools that allow instructors to define constraints, align feedback with learning objectives, or tailor an assistant to course materials were especially valuable. Such tools address the frequent concern that generic AI tools often optimise for “helpfulness” in ways that conflict with teaching goals.</li>
+              <li>Implementation realities: access, equity, and workload. Attendees raised practical questions about tool availability, cost, institutional approval, and whether adoption increases or decreases instructor workload. A key value of the session was candid discussion of these constraints alongside the demonstrations.</li>
+          </ul>
+          
+          <strong>Takeaways and next steps</strong>
+
+          <p>The special session reinforced that computing educators are actively moving beyond the mindset of “ban vs. embrace.” Instead, many are experimenting with targeted integrations that develop AI literacy and critical evaluation skills while aligning with traditional learing outcomes. The tools highlighted in this session offered concrete starting points that participants could make use of immediately.</p>
+          <p>The Task Force intends for this kind of community exchange to continue beyond SIGCSE TS 2026. Attendees were encouraged to contribute additional approaches and tools which would be used to continue building a shared repository of practices and enabling the community to keep pace with rapid technical change.</p>
+          <p>Feedback from participants attending the session was very positive, with praise for the format and suggestions to run a similar session next year.</p>
+
+         </article>
+        
+        <article id="sigcsets-ps-sigcse-reads" class="news-article">
+            <h3>SIGCSE TS 2026 Panel Summary: “Learning Persistence & Resistance from History and SIGCSE Reads”</h3>
+            <span class="byline">Panelists: Katie Johnson, Michael Littman, Kyla McMullen, Jeremy A. Magruder Waisome, Valerie Summet;
+                Moderators: Becky Bates, Judy Goldsmith, Nanette Veilleux</span>
+
+        <p>This dynamic panel was brought together and inspired by the 2026 SIGCSE Reads selections, especially Whistleblower by Susan Fowler (represented by Valerie Summet on the panel) and the Modern Figures podcast hosted by panelists Kyla McMullen and Jeremy Magruder Waisome (<a href="https://modernfigurespodcast.com/" target="_blank">https://modernfigurespodcast.com/</a>). The goal was a conversation about how we, as a community of computing educators, could learn from past movements and current examples about persistence and successful resistance in the face of social and financial barriers.</p>
+
+        <p>Panelists brought a range of perspectives, including involvement with a federal funding agency that has invested heavily in the success and diversity of computing education (Michael Littman); with leading a collaborative of institutions invested in the success of STEM students (Katie Johnson); and with a podcast that elevates the voices of Black women and girls in computing as well as computer science and engineering education (McMullen and Magruder Waisome). Additional descriptions of the panelists are available in our panel description (<a href="https://dl.acm.org/doi/10.1145/3770761.3777128" target="_blank">https://dl.acm.org/doi/10.1145/3770761.3777128</a>).</p>
+
+        <p>An engaged audience asked interesting questions, many of which mirrored the interests of the moderators. The responses left the audience and the participants inspired and wanting to continue the conversation. Some quotes from the presenters are included here. We hope the conversation continues in the community.</p>
+
+        <p>Q: When there are big destabilizing high-chaos events, what has been your approach to successful persistence? How do you find hope?</p>
+        <ul>
+        <li>Johnson: It is important to recognize and acknowledge the well-documented response in times of chaos is for people to turn inward and collect resources, even when they are not needed. To counteract this natural response, we have to double down on building relationships, connection, clarity of vision, and action-driven agendas.</li>
+        <li>Magruder Waisome: I keep doing what I’m doing until I cannot. If the activity is something that I feel called to do, I won’t stop until my mission is accomplished. Sometimes we have to do hard things. Our greatest achievements are often those we persevered through difficulty to overcome. So, I press on.</li>
+        </ul>
+
+        <p>Q: How do you balance or handle the tension between prudence, professional boundaries, and needing to speak against injustice or disinformation?</p>
+        <ul>
+        <li>McMullen: I have long believed that the truth should stand for itself. In this case, especially given the scrutiny we academics face, there is a careful balance between silence and making wise choices. In the end, if I get in trouble for telling the truth, that is a hill that I am willing to die on.</li>
+        </ul>
+        
+        <p>Q: In the context of challenging times, which affect an individual’s ability to persist in the field, how do you show care and connection within your community?</p>
+        <ul>
+        <li>Magruder Waisome: I spend a lot of time with my family and community. We find events to attend together in and around town. We also find ways to celebrate each other’s milestones. I love to sing and have dance parties in the living room with my little one. I focus on choosing joy. In the Black community, there’s a saying: “joy as an act of resistance.” I think that’s an appropriate response to challenging times.</li>
+        <li>Johnson: Really listen to the people who need support. Provide what they need, not what you think they need. A lot of this depends on trust, which has to be built way before things get rough. The work you do to connect and build relationships every day is what is going to get you through the biggest challenges.</li>
+        <li>McMullen: Jeremy and I have an S-STEM grant that provides community, professional development, and the missing structure for PhD students in the computer science department.  We also have a community amongst ourselves as faculty. There is a large group of us, our spouses, and children -- who all think they are cousins.</li>
+        </ul>
+
+        <p>Q: Do you have any insights on how to maintain community in the face of big, destabilizing events?</p>
+        <ul>
+        <li>Magruder Waisome: From our podcast, many Black women are often the leaders of community engaged work to protect and support our community. I recently saw a social media post about the wives of several civil rights leaders: Betty Shabazz, Coretta Scott King, and Myrlie Evers-Williams. These women carried the torch and did the work, rather than just being “the widows,” as the news media tried to relegate them to. They remain excellent examples of persistence.</li>
+        <li>Littman discussed the value of listening to members of the community, hearing their concerns and creating openings for that.</li>
+        </ul>
+
+        <p>Q: To Jeremy and Kyla - Do you have any examples of historical resistance that have really inspired you?</p>
+        <ul>
+        <li>Magruder Waisome: I don’t have a specific example of historical resistance that has inspired me. But I have a personal one. My Mom is one of the most inspirational people in my life. She’s truly remarkable; she completed her undergraduate degree in 3 years, then went on to graduate from the University of Mississippi’s Law School at the age of 20. You can imagine what she endured just growing up in rural Mississippi during segregation. But to persist through everything despite those circumstances and be so positive about life was something I did not appreciate until I was much older. Whatever challenge I face, I know that those who came before me overcame so much more.</li>
+        <li>McMullen:  I am extremely inspired by the Montgomery bus boycott. This is especially meaningful to me because it occurred at a time when communication did not have the advantage of the Internet; however, everyone was able to get on the same page and commit to a common cause, bringing attention to unfair segregation on public transit.</li>
+        </ul>
+
+        <p>Q: Persisting, and especially resisting, requires tough decisions and evaluating consequences. What is your advice to junior faculty or even students who may feel they have less protections or security on how to navigate and resist, without becoming a martyr?</p>
+        <ul>
+        <li>McMullen: I was once given the advice that if you are at the “low end” of a power dynamic and need to make waves, find a more senior person to confide in. Get them riled up about the issue and have them bring it forward. This person can lend their power in the situation and help you to get what you need accomplished without you having to sacrifice your position.</li>
+        <li>Magruder Waisome: As a pre-tenure faculty member, the advice I’ll give is to let someone else do it. You don’t always have to be the one to speak, but you can plant the seed, water it, and see what grows. Dr. Valerie Taylor says to “get you a big dog.”In other words, find someone who has the cachet to speak and keep them informed.</li>
+        </ul>
+
+        <p>SIGCSE Reads selections from 2013 to the present are listed at <a href="https://sigcse.org/resources/reads.html" target="_blank">https://sigcse.org/resources/reads.html</a>. All comments here and during the panel are made by the authors/presenters acting as individuals and not as representatives of current or past employers.</p>
+
+        </article>
+        
+        <article id="sigcsets-ps-theory-algorithms" class="news-article">
+            <h3>SIGCSE TS 2026 Panel Summary: “Pedagogy in Theory of Computing and Algorithms”</h3>
+            <span class="byline">Panelists: Jeff Erickson, Tim Randolph, Michael Shindler;
+                Moderator: Ryan Dougherty</span>
+            
+            <p>The SIGCSE TS 2026 panel "Pedagogy in Theory of Computing and Algorithms" centered around how evolving technologies and external pressures can affect how technical upper-division courses are taught, such as Theory of Computing and Algorithms. By “theory”, we refer to a standard definition of automata, computability, and complexity (including any subset of them); and by “algorithms”, we refer to standard algorithms topics: greedy methods, dynamic programming, graph algorithms, etc.</p>
+
+            <p>Dougherty primarily teaches theory courses, and his research focuses on the intersection of Theory of Computing and CS education, particularly why students struggle with that material. He is interested in how Generative AI impacts theory pedagogy, and advocates for balancing pragmatic and philosophical concepts in small-class environments.</p>
+
+            <p>Erickson's teaching focuses on large upper-division undergraduate and graduate-level algorithms courses. He believes that theoretical computer science education should prioritize creative problem-solving, clear communication, and a student's willingness to risk making mistakes over merely evaluating the final product. His presentation highlights his experiences deploying auto-graded scaffolding exercises to manage large theory and algorithms classes. While he is cautiously optimistic about utilizing auto-grading and generative AI, he remains concerned about the negative consequences of overusing or misusing these tools.</p>
+
+            <p>Randolph teaches intermediate and advanced undergraduate algorithms courses within a liberal arts context. He emphasizes that collaborative problem-solving and the clear communication of ideas are foundational to theoretical computer science. Consequently, he is modifying his existing courses to decrease their dependence on written work as the sole metric of student understanding. While he sees the potential of large language models to help students deconstruct complex material, he is cautious about how these tools might negatively impact peer interactions and help-seeking behaviors.</p>
+
+            <p>Shindler teaches large-enrollment courses spanning lower-division data structures to graduate algorithms. His CS education research includes developing a concept inventory for dynamic programming and exploring alternate grading systems for theory courses. He advocates that mastering algorithm design and analysis requires active, regular experiential learning that functions as both an individual and social process. His perspective centers on how to successfully scale these experiential best practices to accommodate very large enrollment environments.</p>
+
+            <p>The panel first discussed the incorporation of Generative AI and Large Language Models into these courses. Specifically, they discussed (1) whether the “proof” will become obsolete and the increased importance of verification of AI-generated proofs, and (2) what aspects of learning theoretical and algorithmic concepts “could” or “should” be offloaded to AI models, similar to how arithmetic originally done by-hand are now largely done by calculators. The panel then discussed usage of autograders with broader implications. More specifically, they discussed (1) how one implements active learning at scale without relying entirely on autograders that may mask student misconception, and (2) how one reconciles the administrative push for automation while simultaneously evaluating a student's creative thought process. Finally, the panel engaged with the audience and covered many related topics related to pedagogy in these two courses.</p>
+
+            <p>Even though the panel was 75 minutes, there was simply not enough time to discuss the myriad dimensions of pedagogy here. For example, the panelists planned on discussing broader learning goals, such as how reducing reliance on written work impacts what the “evidence” of understanding is in these courses, and how to incentivize students to take risks without penalizing their grade. Additionally, there were many audience members, online and in-person, who were not able to ask a question in time.</p>
+
+            <p>Clearly, there is a vibrant community of theory and algorithms educators and researchers within SIGCSE, and there is much more discussion to be had. There still remain critical issues, both within these courses and how they intersect the rest of the computing curriculum. We would encourage those who teach either course to continue the discussion with us and potentially start a research collaboration. Only through trying new ideas and finding new collaborations can we all innovate within this space.</p>
+
+        </article>
+
+        
+        <article id="member-spotlight" class="news-article">
+            <h3>Member Spotlight: Judith Gal-Ezer</h3>
+            <span class="byline">Judith Gal-Ezer is a Professor Emerita at the Open University of Israel.</span>
+            
+            
+                <figure class="figure-left" style="max-width: 300px">
+                 <a href="#galezer">
+                     <img src="Judith%20Gal-Ezer.jpg" alt="image of Judith Gal-Ezer">
+                 </a>
+                 <figcaption>Judith Gal-Ezer; photo credit: Shir Shalgi.</figcaption>
+             </figure>
+
+             <div id="galezer" class="modal-overlay">
+                 <a href="#" class="modal-close-layer"></a>
+                 <div class="modal-content">
+                     <img src="Judith%20Gal-Ezer.jpg" alt="image of Judith Gal-Ezer">
+                     <p>Judith Gal-Ezer; photo credit: Shir Shalgi.</p>
+                     <a href="#" class="close-button">&times;</a>
+                 </div>
+             </div>
+   
+            <strong>How did you first get involved with the CS education community?</strong>
+            <p>While my PhD was in applied mathematics, my real interest was in exploiting the potential of computers to learn mathematics with deeper insight. As I pursued research in this direction, I realized that there must be a coherent discipline underlying the technology. Although I already held a PhD, I undertook further studies toward a certificate in computer science, completing both theoretical and implementation-oriented courses.
+I entered the computer science education community at a time when the field was still searching for its educational identity. In 1985, I was among the designers of the Bachelor’s program in computer science at the Open University of Israel. In the early 1990s, I led the development of Israel’s first national high-school computer science curriculum. This work quickly made it clear that the questions we were asking locally, about the nature of computer science, its core ideas, and its role in general education, were being asked worldwide. Engaging with an international community of educators who shared these concerns shaped my long-term commitment to computer science education as both a scholarly field and a social mission.
+</p>
+            <strong>Can you describe some of the ways you have been involved in developing and enhancing computer science education? </strong>
+            <p>My involvement has spanned curriculum design, policy, research, and community leadership. I have worked on national and international curriculum frameworks, teacher education initiatives, and cross-sector collaborations linking schools, universities, and policy makers. A recurring theme in my work has been the emphasis on conceptual foundations, helping learners understand what computing is rather than focusing narrowly on tools or technologies. I have also been deeply involved in building and sustaining professional communities, mentoring educators and graduate students, and contributing to international efforts that seek shared understanding across diverse educational systems.</p>
+
+            <strong>Where do you think computer science education is headed in the next 5-10 years?</strong>
+            <p>In the next decade, I believe we will see a shift toward flexible, lifelong learning pathways and a deeper integration of computing across disciplines. Artificial intelligence will become an integral part of this landscape, embedded in a natural and scholarly way, as both a subject of study and a tool grounded in fundamental principles rather than driven by short-term trends. At the same time, the importance of strong foundations such as abstraction, algorithms, data, systems, and ethics, will become even more evident. The future of computer science education depends on our ability to balance rapid technological change with deep, principled understanding, and to frame computing as a human-centered discipline with clear societal responsibility.</p>
+            <p>I envision higher education changing dramatically. Instead of a rigid, traditional degree structure, we may move toward modular “packets” of learning, allowing students to choose what they truly need for their future in industry or academia. For each area of computing, such as computer science, software engineering, or systems engineering, these packets might include a foundational theory packet, a practical implementation packet, and an industry-oriented packet that reflects real-world needs.</p>
+            <p>Ultimately, education will become more personalized, helping students understand not only what they are learning, but why it matters for their professional paths, for society, and for their own lives.</p>
+            <strong>What do you think are the biggest challenges facing the community?</strong>
+            <p>One of the biggest challenges is the rapidly changing technological landscape. There is constant pressure to update curricula to reflect new tools, often at the expense of depth and coherence. A critical challenge is encouraging computer science to become teachers and then supporting the teachers through professional development, so they can teach computing with confidence and vision. Finally, the community must continue to articulate the educational value of computer science, beyond workforce arguments, as a discipline that shapes how people think and understand the world.</p>
+            <p>Currently the rapid emergence of AI tools poses a major challenge for education. Meeting this challenge requires dedicated attention to AI literacy in schools and higher education, alongside a thoughtful integration of AI tools into teaching, learning, and assessment, guided by pedagogical goals, academic rigor, and ethical considerations.</p>
+            <strong>What are the biggest challenges for diversity, equity, and inclusion in CS education today? And what can CS educators do to help encourage diversity?</strong>
+            <p>many learners still do not see themselves as belonging in the field. These challenges are cultural as much as structural. CS educators can make a difference by designing inclusive curricula, offering multiple entry points, emphasizing relevance and meaning, and presenting computing as creative, collaborative, and socially impactful. Creating supportive learning environments and ensuring that diverse voices are visible and valued.</p>
+            <strong>What do you enjoy doing when you are not working?</strong>
+            <p>What I enjoy most is my work and the feeling that I am making a meaningful contribution to computing education. Beyond that, I am fortunate to have a large family, and I cherish the time I spend with my children, grandchildren, and their spouses. Traveling together, reading, and watching films are among the simple pleasures that give me great joy.</p>
+         </article>
+        
+
+
+
+        <!--
+        <footer class="footer">
+            <p>&copy; 2025 Your Company Name. All rights reserved.</p>
+            <p>123 Main Street, Anytown, USA</p>
+        </footer>
+        -->
+    </div>
+</body>
+</html>

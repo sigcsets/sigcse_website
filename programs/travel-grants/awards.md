@@ -3,7 +3,6 @@ title: Travel Grant Awards
 layout: page
 currentyear: 2022
 ---
-SIGCSE awards at least five grants per year to defray travel expenses of faculty attending the annual SIGCSE Symposium. Award winners receive complimentary Symposium registration plus up to $500 towards travel expenses.
 
 <h4>The list of Travel Grant award winners for {{page.currentyear}}</h4>
 

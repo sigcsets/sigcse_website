@@ -10,7 +10,7 @@ form: https://forms.gle/hWvwf2ZNBCB219MK6
 comment-image: "/images/people/Henry_Walker.jpg"
 ---
 
-SIGCSE awards travel grants throughout the year to help defray expenses of members attending SIGCSE sponsored conferences. The Henry Walker Travel Grant Program award winners will receive up to $1000 towards travel expenses, not including conference registration. We are particularly interested in encouraging attendance by members who have never been able to attend a SIGCSE sponsored conference previously.
+SIGCSE awards travel grants throughout the year to help defray expenses of members attending SIGCSE-sponsored conferences. The Henry Walker Travel Grant Program award winners will receive up to $1000 towards travel expenses, not including conference registration. We are particularly interested in encouraging attendance by members who have never been able to attend a SIGCSE-sponsored conference previously.
 
 The [list of travel grant winners](awards.html) shows the individuals who have benefited from this fund.
 
@@ -19,7 +19,7 @@ The [list of travel grant winners](awards.html) shows the individuals who have b
 
 ![Henry Walker]({{"assets/images/people/Henry_Walker.jpg"|absolute_url}}){: style="float: left; width: 25%; padding:5px"}
 {: class="figure-img img-fluid" alt="Henry Walker"}
-The SIGCSE Board gratefully acknowledges former Board chair **Henry Walker** for his efforts in establishing this grant program and for his generous donation which served as the impetus to get the program started.  Since its beginning the SIGCSE Board has contributed additional support to expand this program, and further contributions by SIGCSE members have expanded the funding available for additional grants. In 2026, the SIGCSE Board expanded the scope of the Henry Walker Travel Grant program to include support for attendees at the full range of SIGCSE sponsored conference.
+The SIGCSE Board gratefully acknowledges former Board chair **Henry Walker** for his efforts in establishing this grant program and for his generous donation which served as the impetus to get the program started.  Since its beginning the SIGCSE Board has contributed additional support to expand this program, and further contributions by SIGCSE members have expanded the funding available for additional grants. In 2026, the SIGCSE Board expanded the scope of the Henry Walker Travel Grant program to include support for attendees at the full range of SIGCSE-sponsored conference.
 <br><br>&nbsp;
 
 

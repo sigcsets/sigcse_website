@@ -1,0 +1,1083 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>SIGCSE Bulletin</title>
+        <style>
+            /* Universal rule to prevent padding from breaking layouts */
+            * {
+                box-sizing: border-box;
+                max-width: 100%; /* prevent any element from exceeding viewport width */
+            }
+
+            html,
+            body {
+                margin: 0;
+                padding: 0;
+                overflow-x: hidden; /* final safeguard against horizontal scroll */
+                font-family: Arial, sans-serif;
+                background-color: #f4f4f4;
+                color: #333;
+            }
+
+            h1 {
+                font-size: 3em;
+            }
+
+            .container {
+                width: 100%;
+                max-width: 800px; /* keeps it centered on desktop */
+                margin: 20px auto;
+                background-color: #fff;
+                padding: 20px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            }
+
+            .header {
+                text-align: center;
+                padding-bottom: 20px;
+                border-bottom: 1px solid #eee;
+            }
+
+            .header img {
+                max-width: 70%;
+                height: auto;
+            }
+
+            .table-of-contents {
+                margin-top: 20px;
+                padding: 15px;
+                background-color: #e9e9e9;
+                border-radius: 5px;
+            }
+
+            .table-of-contents h2 {
+                margin-top: 0;
+                color: #555;
+            }
+
+            .table-of-contents ul {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            }
+
+            .table-of-contents ul li a {
+                text-decoration: none;
+                color: #007bff;
+                padding: 5px 0;
+                display: block;
+            }
+
+            .table-of-contents ul li a:hover {
+                text-decoration: underline;
+            }
+
+            .intro-notes {
+                font-size: 0.8em;
+            }
+
+            .upcoming-events,
+            .board-members {
+                margin-top: 30px;
+                padding: 15px;
+                border: 1px solid #ddd;
+                border-radius: 5px;
+            }
+
+            .upcoming-events h2,
+            .board-members h2 {
+                margin-top: 0;
+                color: #555;
+                text-align: center;
+            }
+
+            .event-table {
+                width: 100%;
+                border-collapse: collapse;
+                margin-top: 15px;
+            }
+
+            .event-table th,
+            .event-table td {
+                border: 1px solid #eee;
+                padding: 8px;
+                text-align: left;
+                word-wrap: break-word; /* stops long text from forcing wide scroll */
+            }
+
+            .event-table th {
+                background-color: #f2f2f2;
+                color: #666;
+            }
+
+            .board-members ul {
+                list-style: disc inside;
+                padding-left: 20px;
+            }
+
+            .board-members ul li {
+                margin-bottom: 8px;
+            }
+
+            .footer {
+                text-align: center;
+                margin-top: 40px;
+                padding-top: 20px;
+                border-top: 1px solid #eee;
+                color: #777;
+                font-size: 0.9em;
+            }
+
+            /* 1. Hide the overlay by default */
+            .modal-overlay {
+                display: none;
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0, 0, 0, 0.9);
+                z-index: 9999;
+                justify-content: center;
+                align-items: center;
+            }
+
+            /* 2. Show the overlay when the link is clicked (:target) */
+            .modal-overlay:target {
+                display: flex;
+            }
+
+            /* 3. Style the enlarged image area */
+            .modal-content {
+                position: relative;
+                max-width: 90%;
+                max-height: 90%;
+                text-align: center;
+                color: white;
+            }
+
+            .modal-content img {
+                max-width: 100%;
+                max-height: 80vh; /* Keeps image from being taller than screen */
+                border: 3px solid white;
+            }
+
+            /* 4. The invisible layer that lets you click the background to close */
+            .modal-close-layer {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                cursor: default;
+            }
+
+            /* 5. The visible "X" button */
+            .close-button {
+                position: absolute;
+                top: -40px;
+                right: 0;
+                color: white;
+                font-size: 30px;
+                text-decoration: none;
+            }
+
+            /* --- News Article Section --- */
+            .news-article {
+                margin-top: 40px;
+                padding-top: 20px;
+                border-top: 1px solid #eee;
+                overflow: hidden; /* prevents floated elements pushing width */
+            }
+
+            .news-article h3 {
+                color: #333;
+                margin-bottom: 5px;
+            }
+
+            .news-article .byline {
+                font-style: italic;
+                color: #777;
+                margin-bottom: 15px;
+                display: block;
+            }
+
+            .news-article p {
+                line-height: 1.6;
+                margin-bottom: 15px;
+            }
+
+            /* --- FIGURE & IMAGE STYLES --- */
+            .news-article figure {
+                margin: 0 0 15px 0;
+            }
+
+            .news-article figure img {
+                width: 90%;
+                height: auto;
+                display: block;
+            }
+
+            .news-article figure figcaption {
+                font-size: 0.9em;
+                font-style: italic;
+                color: #555;
+                padding-top: 8px;
+            }
+
+            .figure-center {
+                display: block;
+                max-width: 40%;
+                margin: 20px auto;
+            }
+
+            .figure-center figcaption {
+                text-align: center;
+            }
+
+            .figure-left {
+                float: left;
+                max-width: 40%;
+                min-width: 40%;
+                margin-right: 20px;
+                margin-bottom: 15px;
+                /*new below*/
+                overflow: hidden;
+            }
+
+            .figure-left figcaption {
+                text-align: left;
+                /*new below*/
+                width: 80%;
+            }
+
+            .figure-right {
+                float: right;
+                max-width: 40%;
+                min-width: 40%;
+                margin-left: 20px;
+                margin-bottom: 15px;
+            }
+
+            .figure-right figcaption {
+                text-align: left;
+            }
+
+            /* --- RESPONSIVE STYLES FOR MOBILE --- */
+            @media (max-width: 600px) {
+                .container {
+                    width: 95%;
+                    padding: 10px;
+                }
+
+                .figure-left,
+                .figure-right,
+                .figure-center {
+                    float: none;
+                    max-width: 100%;
+                    margin: 0 auto 20px auto;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <header class="header">
+                <img src="ACM%20and%20SIGCSE%20logos.png" alt="Company Logo" />
+                <h1>SIGCSE Bulletin</h1>
+                <p>Volume 58, Number 3</p>
+                <p>July 2026</p>
+            </header>
+
+            <section class="table-of-contents">
+                <h2>Table of Contents</h2>
+                <ul>
+                    <li><a href="#board-members">Board Members</a></li>
+                    <li><a href="#article1">SIGCSE News in Brief</a></li>
+                    <li><a href="#upcoming-events">Upcoming Events</a></li>
+                    <li><a href="#article2">ICER 2026: Call for Attendance</a></li>
+                    <li><a href="#article3">Koli Calling 2026 Call for Papers</a></li>
+                    <li><a href="#article4">GenAI in CS Education Workshop (AICSEPAR) 2026 Recap</a></li>
+                    <li><a href="#article5">Summary of the CRA P2P Survey Special Session at SIGCSE 2026</a></li>
+                    <li><a href="#article7">Member Spotlight: Richard E. Ladner</a></li>
+                </ul>
+            </section>
+
+            <section class="intro-notes">
+                <p><strong>Notice to Contributing Authors to SIG Newsletters</strong></p>
+                <p>
+                    By submitting your article for distribution in this Special Interest Group publication, you hereby
+                    grant to ACM the following non-exclusive, perpetual, worldwide rights:
+                </p>
+                <ul>
+                    <li>to publish in print on condition of acceptance by the editor</li>
+                    <li>to digitize and post your article in the electronic version of this publication</li>
+                    <li>
+                        to include the article in the ACM Digital Library and in any Digital Library related services
+                    </li>
+                    <li>
+                        to allow users to make a personal copy of the article for noncommercial, educational, or
+                        research purposes
+                    </li>
+                </ul>
+                <p>
+                    However, as a contributing author, you retain copyright to your article and ACM will refer requests
+                    for commercial use directly to you.
+                </p>
+                <br />
+                <p><strong>Newletter Credits</strong></p>
+                <ul>
+                    <li>Editors: Julie M. Smith and Charles Wallace</li>
+                    <li>
+                        Contributors: Calkin Suero Montero, Sebastian Dziallas, Neil Brown, Kristin Searle, Rodrigo
+                        Duran, Sonsoles López Pernas, Elizabeth Simon, Leo Porter, Daniel Zingaro, Rajendra K. Raj,
+                        Rahul Simha, Helen Wright, and Richard E. Ladner.
+                    </li>
+                    <li>
+                        Photo credits: Uppsala University Image Bank, Wikimedia Commons, Rodrigo Duran, Karla
+                        Covarrubias, Jodi Roe, and Bruce Hemingway.
+                    </li>
+                </ul>
+            </section>
+
+            <section id="board-members" class="board-members">
+                <h2>SIGCSE Board Members</h2>
+                <ul>
+                    <li><strong>Chair</strong> - Brian Dorn, Chair, University of Nebraska at Omaha, USA</li>
+                    <li><strong>Vice-Chair</strong> - Claudia Szabo, Vice-Chair, University of Adelaide, Australia</li>
+                    <li><strong>Secretary</strong> - Mark Sherriff, Secretary, University of Virginia, USA</li>
+                    <li>
+                        <strong>Treasurer</strong> - Michelle Friend, Treasurer, University of Nebraska at Omaha, USA
+                    </li>
+                    <li>
+                        <strong>At Large</strong> - Oluwakemi Ola, Member At Large, University of British Columbia,
+                        Canada
+                    </li>
+                    <li><strong>At Large</strong> - Ethel Tshukudu, Member At Large, San Jose State University, USA</li>
+                    <li><strong>At Large</strong> - Chris Gregg, Member At Large, Stanford University, USA</li>
+                    <li>
+                        <strong>Immediate Past Chair</strong> - Alison Clear, Past Chair, Eastern Institute of
+                        Technology, Auckland, New Zealand
+                    </li>
+                </ul>
+            </section>
+
+            <article id="article1" class="news-article">
+                <h3>SIGCSE News in Brief</h3>
+                <span class="byline">By Julie M. Smith and Charles Wallace, Bulletin co-editors</span>
+                <p>
+                    Your focus may be on the World Cup, on staying out of inclement weather, on rapidly approaching
+                    deadlines for conference submissions, and many other concerns. But we hope you'll take a few minutes
+                    to stay updated on events in the computer science education research community.
+                </p>
+
+                <p>
+                    We are happy to share calls for attendance at ICER and Koli Calling. We also have a report from a
+                    workshop on generative AI and a SIGCSE special session on a new CRA survey. And we invite you to
+                    learn more about Richard Ladner and his work on making computer science more welcoming and
+                    accessible for disabled students.
+                </p>
+
+                <p>
+                    We invite you to share brief pieces of general interest to the SIGCSE community with us for
+                    inclusion in our next issue.
+                </p>
+            </article>
+
+            <section id="upcoming-events" class="upcoming-events">
+                <h2>Upcoming SIGCSE Events</h2>
+                <table class="event-table">
+                    <thead>
+                        <tr>
+                            <th>Conference</th>
+                            <th>Location</th>
+                            <th>Dates</th>
+                            <th>Submission Deadline</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><a href="https://iticse.acm.org/2026/" target="_blank">ITiCSE</a></td>
+                            <td>Madrid, Spain</td>
+                            <td>13-15 July 2026</td>
+                            <td>passed</td>
+                        </tr>
+                        <tr>
+                            <td><a href="https://icer2026.acm.org/" target="_blank">ICER</a></td>
+                            <td>Uppsala, Sweden</td>
+                            <td>11-14 August 2026</td>
+                            <td>passed</td>
+                        </tr>
+                        <tr>
+                            <td><a href="https://www.kolicalling.fi/" target="_blank">Koli Calling</a></td>
+                            <td>Koli, Finland</td>
+                            <td>5-8 November 2026</td>
+                            <td>12 July 2026</td>
+                        </tr>
+                        <tr>
+                            <td><a href="https://sigcsevirtual2026.acm.org/" target="_blank">SIGCSE Virtual</a></td>
+                            <td>Online</td>
+                            <td>12-15 November 2026</td>
+                            <td>17 July 2026</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a href="https://2027.sigcse-ts.acm.org/" target="_blank">SIGCSE Technical Symposium</a>
+                            </td>
+                            <td>Sacramento, California</td>
+                            <td>17-20 February 2027</td>
+                            <td>30 September (round two)</td>
+                        </tr>
+                        <tr>
+                            <td>CompEd</td>
+                            <td>São Paulo, Brazil</td>
+                            <td>October 2027</td>
+                            <td>TBD</td>
+                        </tr>
+
+                        <tr>
+                            <td colspan="4" class="merged-row">
+                                Other conferences operate in cooperation with SIGCSE and are posted on the
+                                <a href="https://sigcse.org/events/incoop.html" target="_blank">SIGCSE web site</a>.
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+
+            <article id="article2" class="news-article">
+                <h3>ICER 2026: Call for Attendance</h3>
+                <span class="byline"
+                    >By Calkin Suero Montero, Sebastian Dziallas, Neil Brown, Kristin Searle, ICER 2026 Chairs
+                </span>
+
+                <figure class="figure-left" style="max-width: 300px">
+                    <a href="#img1">
+                        <img src="C15722.png" alt="Image of the main building" />
+                    </a>
+                    <figcaption>
+                        Uppsala University Main Building; photo credit: Uppsala University Image Bank
+                    </figcaption>
+                </figure>
+
+                <div id="img1" class="modal-overlay">
+                    <a href="#" class="modal-close-layer"></a>
+                    <div class="modal-content">
+                        <img src="C15722.png" alt="Image of the main building" />
+                        <p>Uppsala University Main Building; photo credit: Uppsala University Image Bank</p>
+                        <a href="#" class="close-button">&times;</a>
+                    </div>
+                </div>
+
+                <p>
+                    Start your August in the best possible way by joining us at the ACM International Computing
+                    Education Research (ICER) Conference in Uppsala, Sweden! The programme begins on Tuesday, 11 August,
+                    with the Doctoral Consortium and Works‑in‑Progress sessions held in the Uppsala University Ångström
+                    Laboratory. All attendees are warmly invited to the opening reception on the terrace of Uppsala
+                    Congress & Concert Hall from 17:30 to 19:30. Over light refreshments, you will have the chance to
+                    reconnect with colleagues and make new acquaintances in a relaxed and welcoming atmosphere.
+                </p>
+                <p>
+                    The main conference opens on Wednesday morning, 12 August, at Uppsala Congress & Concert Hall,
+                    located right in the heart of the city. As is tradition at ICER, the programme promises a rich and
+                    well‑balanced blend of research papers, posters, and lightning talks, offered both online and in
+                    person, alongside opportunities to learn about the work of this year’s Doctoral Consortium
+                    participants.
+                </p>
+                <p>
+                    A particular highlight will be the conference dinner on Thursday evening, hosted at the historic
+                    16th century Uppsala Castle, a short walk from the city centre and the conference venue, and a true
+                    landmark at the heart of Uppsala, overlooking the city and an unforgettable setting for
+                    conversation, celebration, and community.
+                </p>
+
+                <figure class="figure-left" style="max-width: 300px">
+                    <a href="#img2">
+                        <img src="DSC_0983.JPG" alt="Uppsala University Ångström Laboratory" />
+                    </a>
+                    <figcaption>
+                        Uppsala University Ångström Laboratory; photo credit: Uppsala University Image Bank
+                    </figcaption>
+                </figure>
+
+                <div id="img2" class="modal-overlay">
+                    <a href="#" class="modal-close-layer"></a>
+                    <div class="modal-content">
+                        <img src="DSC_0983.JPG" alt="Uppsala University Ångström Laboratory" />
+                        <p>Uppsala University Ångström Laboratory; photo credit: Uppsala University Image Bank</p>
+                        <a href="#" class="close-button">&times;</a>
+                    </div>
+                </div>
+
+                <figure class="figure-right" style="max-width: 300px">
+                    <a href="#img3">
+                        <img src="Screenshot%202026-06-30%20072740.png" alt="Uppsala City, Cathedral view" />
+                    </a>
+                    <figcaption>Uppsala City, Cathedral view; photo credit: Uppsala University Image Bank</figcaption>
+                </figure>
+
+                <div id="img3" class="modal-overlay">
+                    <a href="#" class="modal-close-layer"></a>
+                    <div class="modal-content">
+                        <img src="Screenshot%202026-06-30%20072740.png" alt="Uppsala City, Cathedral view" />
+                        <p>Uppsala City, Cathedral view; photo credit: Uppsala University Image Bank</p>
+                        <a href="#" class="close-button">&times;</a>
+                    </div>
+                </div>
+
+                <figure class="figure-left" style="max-width: 300px">
+                    <a href="#img4">
+                        <img src="Screenshot%202026-06-30%20072837.png" alt="Uppsala Concert & Congress (UKK)" />
+                    </a>
+                    <figcaption>Uppsala Castle, Uppsala University Image Bank</figcaption>
+                </figure>
+
+                <div id="img4" class="modal-overlay">
+                    <a href="#" class="modal-close-layer"></a>
+                    <div class="modal-content">
+                        <img src="Screenshot%202026-06-30%20072837.png" alt="Uppsala Concert & Congress (UKK)" />
+                        <p>Uppsala Castle, Uppsala University Image Bank</p>
+                        <a href="#" class="close-button">&times;</a>
+                    </div>
+                </div>
+
+                <figure class="figure-right" style="max-width: 300px">
+                    <a href="#img5">
+                        <img src="Screenshot%202026-06-30%20072904.png" alt="Uppsala Concert & Congress (UKK)" />
+                    </a>
+                    <figcaption>Uppsala Concert & Congress (UKK); photo credit: Wikimedia Commons</figcaption>
+                </figure>
+
+                <div id="img5" class="modal-overlay">
+                    <a href="#" class="modal-close-layer"></a>
+                    <div class="modal-content">
+                        <img src="Screenshot%202026-06-30%20072904.png" alt="Uppsala Concert & Congress (UKK)" />
+                        <p>Uppsala Concert & Congress (UKK); photo credit: Wikimedia Commons</p>
+                        <a href="#" class="close-button">&times;</a>
+                    </div>
+                </div>
+
+                <p style="clear: both">
+                    To support broad participation, the conference will be held in both face‑to‑face and hybrid formats.
+                    We are planning to use Discord, or another suitable platform, for online attendees. The online
+                    platform will include dedicated channels designed to recreate the lively table discussions that
+                    follow each paper presentation, as well as channels to facilitate social interactions.
+                </p>
+
+                <p>
+                    Registration opens in early May. To take advantage of the early‑bird rate, please be sure to
+                    register by 5 June. Full details about registration, travel, and accommodation will be found on the
+                    conference <a href="https://icer2026.acm.org/">website</a>. As you make your plans, we encourage you
+                    to extend your stay. Uppsala is one of Sweden’s cultural gems, offering a wealth of local
+                    activities, historic sites, and summertime experiences to enjoy. The Destination Uppsala
+                    <a href="https://destinationuppsala.se/en/">website</a> gives an excellent overview of local events
+                    and activities.
+                </p>
+
+                <figure class="figure-right" style="max-width: 300px">
+                    <a href="#img6">
+                        <img src="C11528.jpg" alt="Uppsala City, Fyris River view" />
+                    </a>
+                    <figcaption>Uppsala City, Fyris River view; photo credit: Uppsala University Image Bank</figcaption>
+                </figure>
+
+                <div id="img6" class="modal-overlay">
+                    <a href="#" class="modal-close-layer"></a>
+                    <div class="modal-content">
+                        <img src="C11528.jpg" alt="Uppsala City, Fyris River view" />
+                        <p>Uppsala City, Fyris River view; photo credit: Uppsala University Image Bank</p>
+                        <a href="#" class="close-button">&times;</a>
+                    </div>
+                </div>
+
+                <p>
+                    Additional information about ICER’26 can be found on the
+                    <a href="https://icer2026.acm.org/">conference website</a>, including any updates. If you have
+                    questions, you can email the chairs at chairs@icer.acm.org. We look forward to seeing you soon in
+                    the heart of Sweden!
+                </p>
+            </article>
+
+            <article id="article3" class="news-article">
+                <h3>Koli Calling 2026 Call for Papers</h3>
+                <span class="byline">Rodrigo Duran & Sonsoles López Pernas</span>
+
+                <figure class="figure-left" style="max-width: 300px">
+                    <a href="#img7">
+                        <img src="Koli.png" alt="Image of Koli" />
+                    </a>
+                    <figcaption>Koli; photo credit: Rodrigo Duran</figcaption>
+                </figure>
+
+                <div id="img7" class="modal-overlay">
+                    <a href="#" class="modal-close-layer"></a>
+                    <div class="modal-content">
+                        <img src="Koli.png" alt="Image of Koli" />
+                        <p>Koli; photo credit: Rodrigo Duran</p>
+                        <a href="#" class="close-button">&times;</a>
+                    </div>
+                </div>
+
+                <p>
+                    We warmly invite you to attend the 26th Koli Calling International Conference on Computing Education
+                    Research (Koli Calling 2026), to be held 05-08 November 2026 in the beautiful Koli National Forest
+                    in Eastern Finland. The submission deadline for full papers and discussion papers is
+                    <strong>12 July 2026</strong> (abstracts) and <strong>19 July 2026</strong> (papers).
+                </p>
+
+                <p>
+                    The Koli Calling Doctoral Consortium will be organized before the conference, November 3rd – 4th, as
+                    an in-person event at Joensuu. The conference itself will begin on November 5th. Given the recent
+                    increase in submissions, we might have more time at Koli and could start on the morning of November
+                    5th, or in the afternoon, as in previous years. However, we will only have the final program later
+                    after submissions, so stay tuned!
+                </p>
+
+                <p>
+                    All accepted submissions need to be presented in person at Koli Calling. At least one author has to
+                    attend the conference in person for the paper to be included in the proceedings. The main conference
+                    will be held at the Hotel Koli, located in a scenic national park about 60km north of Joensuu,
+                    Finland.
+                </p>
+
+                <p>
+                    Koli Calling is one of the leading international conferences dedicated to the exchange of research
+                    and practice relevant to the scholarship of teaching and learning and to education research in the
+                    computing disciplines. Koli Calling publishes high-quality papers that combine teaching and learning
+                    experiences with solid, theoretically anchored research. Koli Calling is a single-track conference
+                    for original and novel work with research, practice, and systems presentations as well as a keynote
+                    and invited talks. The conference is known for its moderate size, intimate atmosphere, and lively
+                    discussions
+                </p>
+
+                <p>
+                    We hope that many of you will join us at Koli Calling 2026 and help us make this conference as
+                    enjoyable and memorable as in previous years!
+                </p>
+            </article>
+
+            <article id="article4" class="news-article">
+                <h3>GenAI in CS Education Workshop (AICSEPAR) 2026 Recap</h3>
+                <span class="byline">by Daniel Zingaro, Leo Porter, and Beth Simon</span>
+
+                <figure class="figure-left" style="max-width: 300px">
+                    <a href="#img11">
+                        <img src="IMG_1830.JPG" alt="Bill Pugh speaks at the workshop" />
+                    </a>
+                    <figcaption>Bill Pugh speaks at the workshop; photo credit: Karla Covarrubias and Jodi Roe.</figcaption>
+                </figure>
+
+                <div id="img11" class="modal-overlay">
+                    <a href="#" class="modal-close-layer"></a>
+                    <div class="modal-content">
+                        <img src="IMG_1830.JPG" alt="Bill Pugh speaks at the workshop" />
+                        <p>Bill Pugh speaks at the workshop; photo credit: Karla Covarrubias and Jodi Roe.</p>
+                        <a href="#" class="close-button">&times;</a>
+                    </div>
+                </div>
+
+                <p>The inaugural GenAI in CS Education Workshop: Practice and Research (AICSEPAR; we need a better acronym next time!) was held March 16–17, 2026 at the Scripps Seaside Forum in the La Jolla/San Diego area. The workshop was organized by the GenAI in CS Education Consortium, directed by Leo Porter, Beth Simon, and Daniel Zingaro. We created this workshop to help the computing education community move beyond ad hoc responses to generative AI and toward shared, evidence-informed practice. We thank our industry sponsors GitHub Education, ServiceNow, and Teradata. </p>
+                <p>Our aim was to put researchers, educators, and industry professionals in the same room, to triangulate what is already changing and what should change next. The program reflected this practice-and-research blend: attendees engaged with top recent research on GenAI integration in CS education, saw practical examples of GenAI integration in courses and curricula, and heard from industry experts on how GenAI is reshaping software engineering work.
+</p>
+                <p>Research sessions offered a tour of teaching and learning CS in the GenAI era, including: using probeable problems at scale in CS1; what professional software developers need to succeed in an AI era (hint: they still need skills besides using AI!); GitHub Copilot’s effects on student work in brownfield coding tasks; how GenAI can erode social interactions and learning communities; using LLMs within assessments to support novices’ computational thinking; student perceptions and adoption of GenAI instruction in software engineering courses; and how student help-seeking behaviors with LLMs relates to their motivation and beliefs.
+</p>
+                <p>Curriculum and pedagogy sessions emphasized concise, portable ideas instructors could adapt immediately, including: a mini-course on effective use of AI coding tools; embedded and incremental teaching of GenAI skills across the curriculum; students critically assessing software artifacts in an object-oriented design course; AI-resilient program assessment via demonstrations and conversations; reimagining CS1 goals; and a new upper-division course on generative security application engineering.
+</p>
+                <p>We thank our two keynote speakers: R. Benjamin Shapiro (University of Washington) presented “Computing Education for Human-AI Software Engineering,” reframing computing education around human–AI collaboration; and Titus Winters (Adobe) presented “An Industry Perspective on the Role of Humans in the post-AI Software,” emphasizing our ongoing importance in design, specification, code reading, testing, and tooling. </p>
+                <p>An industry panel featuring Artur Borycki (Teradata), Magaly Drant (ServiceNow), and Cory Gwin (GitHub) connected these themes to workplace realities. That discussion generated so much interest that Gwin also hosted an informal, additional workshop after the scheduled program, sharing more detail on how rapidly GenAI is changing software engineering practices in industry.
+</p>
+                <p>The workshop also included a session on supporting equity in GenAI-integrated CS education (led by Tasha Frankie and Beth Simon), and an optional EngageCSEdu session on submitting a curriculum resource to the ACM Digital Library (led by Brian O’Neil).
+</p>
+                <p>Through attendee votes, we also recognized outstanding workshop contributions. The best research presentation award went to Paul Denny (University of Auckland) for “Probing the Unknown: Exploring Student Interactions with Probeable Problems at Scale in Introductory Programming”. The best curriculum presentation award went to Baker Franke (University of Illinois Chicago) for “What If CS1 Was Never about Writing Code?”, a call for us to reconsider what foundational computing competence should look like in an AI-native era.
+</p>
+                <p>The goal of the GenAI in CS Education Consortium is to support faculty and institutions in integrating GenAI in their courses and curricula in ways that enhance student skills and learning. We offer complete courses for adoption, summaries of the current research, faculty training, and community support.  To learn more about AICSEPAR or the Consortium, please visit teachCSWithAI.org.
+</p>
+                <p>We look forward to continuing this conversation, and we hope to see many of you at a future AICSEPAR!</p>
+                
+                
+                
+            </article>
+
+            <article id="article5" class="news-article">
+                <h3>Summary of the CRA Practitioner-to-Professor (P2P) Survey Special Session at SIGCSE 2026</h3>
+                <span class="byline">by Rajendra K. Raj, Rahul Simha, and Helen Wright</span>
+                <p>
+                    <i>Special Session</i>: The CRA Practitioner-to-Professor (P2P) Survey: How to use the results for
+                    your undergraduate program?
+                </p>
+                <p>
+                    What do computing industry professionals think of undergraduate computer science (CS) education?
+                    What do they value the most based on their own undergraduate experience and what they see in the
+                    graduates they hire? The Computing Research Association (CRA) has launched a new periodic
+                    national-scale survey to address these questions with the intent of providing useful information for
+                    academic computer science programs. Unlike broad all-major surveys, the CRA's
+                    Practitioner-to-Professor (P2P) Survey focuses on computer science, with a level of detail
+                    specifically aimed at providing actionable feedback for CS faculty. This special session at SIGCSE
+                    summarized results from the 2024 P2P Survey administered in 2024, and used a workshop-like format
+                    for attendees to reflect actively on how the P2P survey and its future incarnations could benefit
+                    their CS programs.
+                </p>
+                <p>Some highlights from the 2024 survey include:</p>
+                <ul>
+                    <li>
+                        <strong>Respondent Profile</strong>: A majority held CS degrees (53.5%) and worked in front-line
+                        technical roles (64.4%), primarily in software development (76.4%).
+                    </li>
+                    <li>
+                        <strong>Coursework</strong>: Respondents recommended an average of 18.3 CS courses—about four
+                        more than they themselves actually took—reflecting broad support for "more CS" in the
+                        curriculum. For non-CS foundations, respondents recommended 16.5 courses, prioritizing written
+                        communication, probability/statistics, single-variable calculus, and experiential learning
+                        (co-ops/internships).
+                    </li>
+                    <li>
+                        <strong>Mathematics</strong>: 90% of respondents believe math should be required, citing its
+                        role in training an analytical mind and its necessity for growing areas like AI and Machine
+                        Learning. Among courses in math, <i>Statistics</i>led the field, cited by 56.3% of respondents,
+                        followed by <i>Linear Algebra </i>(40.3%) and <i>Discrete Mathematics</i> (36.7%). Both
+                        <i>Single-Variable Calculus</i> and <i>Logic</i> each also appeared in the top-three selections
+                        for 32.4% of the practitioner pool.
+                    </li>
+                    <li>
+                        <strong>Programming Languages</strong>: Feedback converged on five core assertions: (1)
+                        problem-solving transcends syntax; (2) mastery of a single language is vital; (3) exposure to
+                        multiple paradigms is necessary; (4) self-directed learning of new languages is a required
+                        competency; and (5) object-oriented proficiency remains standard.
+                    </li>
+                    <li>
+                        <strong>Deep-dive into Algorithms, Databases and Architecture</strong>: The last part of the
+                        survey contained detailed questions about sub-topics in the three deep-dive areas selected for
+                        this year’s CRA P2P Survey. This type of feedback is likely to be the most actionable at the
+                        course-level, allowing for individual faculty to adapt in their courses. (1) Data structures are
+                        far and away the most important topic in Algorithms; (2) In Databases, respondents sought a
+                        balance between theory (normal forms, indexing, relational algebra) and practice (SQL); (3)
+                        Interestingly in Architecture, the top few sub-topics were all foundational at the lowest-level:
+                        respondents listed digital logic subtopics as their top priorities.
+                    </li>
+                </ul>
+                <p>
+                    The CRA invites faculty who missed the session to
+                    <a href="https://cra.org/industry/p2psurvey/">learn more</a> about how they can use the P2P results
+                    in their programs.
+                </p>
+                <p>And to watch out for the 2026 survey results coming this summer!</p>
+
+                <p>
+                    The special session also focused on suggestions for using the feedback which included: faculty
+                    discussion, getting deans to be aware of the P2P, and using the results to show students that
+                    fundamentals matter. In addition, participants provided ideas for the next (2026) P2P survey.
+                </p>
+
+                <p>
+                    Background: The CRA P2P survey has developed out of the NSF-funded
+                    <a href="https://www.deapcomp.org">DEAP project</a>, based on a seminal workshop on
+                    industry-to-academia feedback loops that featured a broad swath of industry practitioners and
+                    faculty representing multiple universities. The 2024 P2P Survey objectives were refined through
+                    faculty workshops focused on ensuring the data would be actionable within local institutional
+                    contexts.
+                </p>
+                <p>
+                    Faculty input on future P2P surveys: The CRA welcomes faculty input for future surveys. Prior to
+                    each survey, a “what should be in the next P2P?” faculty survey is sent out to the CRA mailing list.
+                    Alternatively, faculty can contact anyone in the P2P working group - see the P2P webpage above.
+                </p>
+            </article>
+            
+          
+
+            <article id="article7" class="news-article">
+                <h3>Member Spotlight: Richard E. Ladner</h3>
+                <span class="byline"
+                    >Richard E. Ladner is Professor Emeritus at the Paul G. Allen School of Computer Science and
+                    Engineering at the University of Washington</span
+                >
+
+                <figure class="figure-left" style="max-width: 300px">
+                    <a href="#img10">
+                        <img src="Ladner-20120222-_BRH5369%20(1).jpg" alt="image of Richard E. Ladner" />
+                    </a>
+                    <figcaption>Richard E. Ladner; photo credit: Bruce Hemingway.</figcaption>
+                </figure>
+
+             <div id="img10" class="modal-overlay">
+                 <a href="#" class="modal-close-layer"></a>
+                 <div class="modal-content">
+                     <img src="Ladner-20120222-_BRH5369%20(1).jpg" alt="image of Richard E. Ladner">
+                     <p>Richard E. Ladner; photo credit: Bruce Hemingway.</p>
+                     <a href="#" class="close-button">&times;</a>
+                 </div>
+             </div>
+
+                <strong>How did you first get involved with the CS education community?</strong>
+                <p>
+                    I've been a CS educator since 1971 when I joined the Computer Science Group at the University of
+                    Washington. At that time I didn't know about ACM SIGCSE that was formed in 1968 with its first
+                    conference in 1970. It wasn't that I wasn't interested in CS education, but I was busy in my own
+                    research areas in theoretical computer science. I was a regular at the theory conferences: ACM STOC,
+                    IEEE FOCS, and ACM SODA. Over the years I became more aware of SIGCSE and its annual conference, but
+                    I didn't contribute to it until 2008 with a special session titled "Computer science for everyone:
+                    making your computing classes and departments accessible." This was the first of my many
+                    involvements with the CS education community which includes CS education at levels, K-12,
+                    undergraduate and graduate education.
+                </p>
+
+                <strong
+                    >Can you describe some of the ways you have been involved in developing and enhancing computer
+                    science education?
+                </strong>
+                <p>
+                    The primary focus of my work in CS education is in making it more accessible and welcoming for
+                    disabled students. With Sheryl Burgstahler, in 2006, I created AccessComputing which is a NSF funded
+                    Broadening Participation in Computing Alliance. I stepped down as AccessComputing PI in 2024,
+                    passing on the leadership to Professor Maya Cakmak. AccessComputing has the goal of increasing the
+                    participation of people with disabilities in computing careers. This is done through direct
+                    interventions for disabled computing students at all levels and driving institutional change to
+                    benefit those students. Over the years AccessComputing has sponsored its own career development
+                    workshops for students and supported students to attend such workshops and conferences such at the
+                    CRA-WP IDEALS workshops and the Tapia Conference. One of AccessComputing's career development events
+                    for students was the Summer Academy for Advancing Deaf and Hard of Hearing in Computing that ran for
+                    9 weeks each summer from 2007 to 2013. Eighty-five students completed this intensive and rich
+                    educational experience for deaf and hard of hearing students. At this time the highest degrees of
+                    these former students are: 6 PhD, 1 MD, 12 MS, 39 BS, and the rest unknown. In addition to this
+                    workshop, I helped organize at least 15 other shorter workshops, some for deaf and hard of hearing
+                    students, some for blind and low vision students, and some for students with any disability. Some of
+                    the workshops were for college and graduate students, while others were for high school students
+                </p>
+                <p>
+                    There are two AccessComputing foci for institutional change. First is helping computing departments,
+                    organizations, and companies become more accessible and welcoming for people with disabilities.
+                    Second is helping faculty teach about accessibility, so the next generation of computing
+                    professionals can incorporate accessibility into their work. To do the former, AccessComputing
+                    engages with more than 120 partners, academic institutions, organizations, and companies. Partner
+                    representatives, many disabled themselves, get weekly reports on articles and events with disability
+                    focuses, monthly Zoom meetings where partners learn from guest speakers and share their own
+                    experiences. Since 2013 AccessComputing has organized a Birds of a Feather session at SIGCSE TS for
+                    those interested in accessibility and disability. In the beginning we had maybe 5 to 10 people come,
+                    but in the last few years that number has grown to 40 to 50. AccessComputing has organized 7
+                    pre-symposium affiliated events at SIGCSE since 2016. To reach a wider audience, AccessComputing
+                    leaders and partners have authored numerous articles in computing education venues including SIGCSE
+                    TS, Inroads, Transactions on Computing Education, and Communications of the ACM. Two papers that I
+                    was involved in that have received a lot of attention are titled "Who Teaches Accessibility" [1] and
+                    "Why is Data on Disability so Hard to Collect and Understand?” [2].
+                </p>
+                <p>
+                    To help faculty teach about accessibility, Alannah Oleson, Amy Ko, and I created a new online book
+                    "Teaching Accessible Computing" in 2024 which currently (Version 2) has 20 chapters by many authors,
+                    many of whom are AccessComputing partner representatives [3]. After the introductory chapter there
+                    are two foundation chapters that cover foundations of accessibility and disability, and teaching
+                    inclusively. The 17 other chapters focus on individual courses like CS0, CS1, Data Structures,
+                    Operating Systems, Graphics, and others, describing how accessibility can be incorporated into each
+                    course. For example, in the chapter I wrote about Computer Vision, I describe how visual graphics
+                    can be converted into tactile graphics for blind people using various computer vision algorithms.
+                </p>
+                <p>
+                    Although I have engaged with middle and high school students in various CS activities over many
+                    years, K-12 CS education was not a focus of AccessComputing. In 2014, after seeing how inaccessible
+                    most of the programming environments that were used in K-12 and how accessible Andreas Stefik's
+                    Quorum programming environment was, I decided to partner with Stefik to form AccessCSforAll that
+                    would bring accessibility to the forefront of K-12 CS education. We were successful in getting NSF
+                    funding that would provide funding for Quorum development and for teacher professional development
+                    in accessibility. We started attending the Computer Science Teachers Association (CSTA) conferences
+                    to promote accessibility. We held professional development workshops for teachers of deaf students
+                    and teachers of blind students. We created videos for teachers to learn about teaching CS to
+                    students with various disabilities. I joined the Board of Directors of CSTA to help the organization
+                    focus more on accessibility as a core need. In parallel there were others in the K-12 CS community,
+                    including Elissa Hozore, Samantha Dahlby, Mark Barnes, who were also working on promoting
+                    accessibility in K-12 CS education. They created CS Access which is now part of CSTA. I now think of
+                    CS Access as the permanent successor to AccessCSforAll. I am an active member of CS Access.
+                </p>
+
+                <strong>Where do you think computer science education is headed in the next 5-10 years?</strong>
+                <p>
+                    It is always difficult to predict the future in our ever changing discipline. I look at CS education
+                    in three levels, K-12, college level, and graduate level. According to the 2025 State of AI + CS
+                    Education Report, 60% of high schools in the US offer at least one computer science course [4]. That
+                    percentage is 76% in the twelve states with CS graduation requirements, including Arkansas and
+                    Maryland at 100%. Over the years home computers, computer games, the internet, smart phones, and now
+                    gen AI have captured the imagination of youth and have driven their interest in computing.
+                    Transferring that interest to learning coding and more technical aspects of computing has always
+                    been a problem. Creating software applications using vibe coding has the potential to make entry
+                    into the more technical parts of CS easier. Modernization of AP Computer Science Principles and AP
+                    Computer Science A to take into account gen AI, both its power for doing good and its misuses, will
+                    be needed to advance K-12 CS. For the next 5-10 years computer science education will continue to
+                    grow at all levels in K-12, not just at the high school level.
+                </p>
+                <p>
+                    Because of the power of gen AI to increase productivity there is a fear among college applicants and
+                    students that computer science entry level jobs will become scarce. This apparently has caused a
+                    significant drop in applications to computing departments these past few years. A similar drop in
+                    applicants occurred between 2000 and 2008 because of the bursting of the dot-com bubble. Students
+                    feared there wouldn’t be jobs in computing fields. The jobs came back because of the internet,
+                    smartphones, e-commerce, and social computing, all powered by advances in machine learning and other
+                    fundamental computer science advancements. From the CS department point of view, the current
+                    reduction in interest in CS might be a blessing because the recent demand for CS stretched the
+                    resources of CS departments. Like the CS education field has always done before, it will have to
+                    adjust to a new reality, this time the reality of gen AI. Intro computing courses will have to teach
+                    new ways of developing programs at the same time teaching programming principles. Software
+                    engineering courses will have to change with the new way of developing applications. All courses
+                    that have projects will have to change because students will be able to develop more sophisticated
+                    projects with gen AI. There will still be entry level jobs for CS students, but they will be
+                    different from jobs 5 years ago, and there may be fewer of them. The bottom line will likely be that
+                    for the next 5-10 years the rapid growth of CS will slow down, a blessing, and what and how we teach
+                    CS will change, a challenge for educators.
+                </p>
+                <p>
+                    Graduate CS education at the PhD level typically has two parts. The first part is taking advanced
+                    courses in various subfields of CS that provide a solid foundation for doing research in those
+                    subfields. The second part is doing research which includes finding a problem to solve,
+                    investigating what has already been done on the problem, creatively finding new ways to solve the
+                    problem, and finally, publishing the new way for others to learn from. What changes over time is
+                    what are the hot topics that people are studying. It is hard to predict which hot topics will come
+                    up in the next five years. I’m sure that one of them will be gen AI including new algorithms, new
+                    datasets, new applications, new dangers, and others. Gen AI is also useful in the research process,
+                    helping find and understand what has been done on the problem of study, and in helping with the
+                    other steps of the research. Already in 2025, according to Google Scholar, 16,100 papers were
+                    published that contained “gen-AI,” “genAI,” or “generative AI.” Standards on how to do research
+                    using the help of gen AI need to be developed to prevent misuse of the gen AI in the research
+                    process. In the next 5-10 years Gen AI and other unpredictable problem areas will arise for advanced
+                    courses and research. One area that is important to me that should continue to be a priority is
+                    accessibility research, finding new ways to make the activities of life more accessible to disabled
+                    people. If any reader is interested in accessibility research problems that I think are important,
+                    please contact me.
+                </p>
+
+                <strong>What do you think are the biggest challenges facing the community?</strong>
+                <p>
+                    I see two basic challenges facing computer science education. The first is what to teach? What
+                    should the curriculum be? The computing field has become so large and diverse that it is hard to
+                    know what should be taught. Also, computer science education covers K-12, college, and graduate
+                    school. K-12 Computer Science Standards are developed by the Computer Science Teachers Association
+                    (CSTA) with the new standards coming out in summer 2026, with the last standard created in 2017 [5].
+                    The standards include concepts, practices, and grade levels. At the college level, the CS2023:
+                    ACM/IEEE-CS/AAAI Computer Science Curricula divides computer science into 17 knowledge areas and the
+                    core [6]. The core includes what all CS majors should know. Each knowledge area has some topics in
+                    the core, but also has its own core, the basics in that knowledge area. Not every knowledge area
+                    should be completed by a CS major, but hopefully one or two might be completed. Importantly, each
+                    knowledge area includes three components: knowledge, skills, and professional dispositions.
+                    Professional dispositions include things like ethics, social responsibility, and fairness. At the
+                    graduate student level, professional dispositions become even more important, especially about the
+                    use of Gen AI in research.
+                </p>
+                <p>
+                    The second challenge is how to teach. The computing professions are quickly turning to vibe coding
+                    for app development. Vibe coding has proven to be very effective and time saving. How does computer
+                    science education teach coding skills in the era of gen AI? There is also the movement for
+                    competency-based learning where students learn at different paces, rather than in a certain period
+                    of time such as a semester or quarter. This is particularly germane to disabled students who may
+                    need accommodations to keep up in the current time-limited framework that currently exists in
+                    college education. Competency-based learning may make extra time related accommodations for disabled
+                    students obsolete. There are also legal mandates that require the technology we use in CS education
+                    to be accessible [7]. The transition to accessible technology may be difficult but it is necessary.
+                </p>
+                <strong>
+                    What are the biggest challenges for diversity, equity, and inclusion in CS education today? And what
+                    can CS educators do to help encourage diversity?
+                </strong>
+                <p>
+                    The biggest current challenge to DEIA (Diversity, Equity, Inclusion, Accessibility) is the negative
+                    impact of the January 21, 2025 Presidential Executive Order titled “Ending Illegal Discrimination
+                    and Restoring Merit-based Opportunity” [8] and recent decisions by the US Supreme Court nullifying
+                    important provisions of civil rights laws passed in the 1960s. This anti-DEIA executive order had
+                    the effect of terminating or reducing funding to many NSF grants related to CS education, especially
+                    those that related to women, minorities, and disability. The NSF funding for AccessComputing that
+                    was awarded for five years in 2024 was cut to two years of funding as an example. No doubt, there
+                    are many other horror stories from other CS education grant applicants and awardees.
+                </p>
+                <p>
+                    I am also somewhat fearful that the Supreme Court will nullify parts of civil rights laws related to
+                    disability such as the Americans with Disabilities Act (ADA) of 1990, the Individuals with
+                    Disabilities Education Act (IDEA) of 1990, and even older legislation going back to the
+                    Rehabilitation Act of 1973. For example, these laws require universities to provide accommodations
+                    to students with documented disabilities. What if accommodations were deemed to be discriminatory by
+                    the Supreme Court, or by Executive Order by the President. Many argue that this can’t happen because
+                    disability cuts across all other demographics, including liberals, moderates, and conservatives.
+                    Unfortunately, the Supreme Court and President are just 10 people who have enormous power, and only
+                    one is elected.
+                </p>
+                <p>
+                    I would not like to end with the anti-DEIA negative impacts on the current CS education climate.
+                    What can CS educators do? The first thing is, if you are a citizen, vote. If you are a researcher
+                    please continue to collect demographic data related to gender, race, ethnicity, and disability in
+                    your research studies. The US Census does it, and so should you. Even if you can’t work
+                    professionally or get funding on projects in the DEIA space, do something in your private life.
+                    Volunteer at a majority minority school, volunteer at a nonprofit you believe in, find private
+                    funding for a hackathon for young women, take a sign language course, but do something that benefits
+                    you and the groups you care about. When the climate changes, and it will, you’ll not have lost
+                    momentum.
+                </p>
+                <strong>What do you enjoy doing when you are not working?</strong>
+                <p>
+                    I am officially retired from UW. My status is called “retired-active” meaning that I work part time
+                    at the university. I continue to work with AccessComputing, helping the new leadership chart its
+                    course. Outside of that small amount of work, I play golf at least once a week which can be done
+                    almost every week in Seattle weather. I walk the golf course and all I think about is my next shot.
+                    I won’t tell you my average score. My wife and I travel, but not a lot. Every summer we go to a
+                    cabin on a lake in Maine, where my wife’s twin sister and her husband live. Most winters we go to
+                    some place warm for a week or so, Hawaii, Arizona, Florida, South Carolina, or other warmer places.
+                    I have given up all but one governing board where I was a member. However, I serve on several
+                    advisory boards, most of which are for large projects that have a focus on accessibility. One of the
+                    most interesting projects that I advise is the NSF funded Arecibo Center for Science Education,
+                    Computing, and Community Engagement (AC3) that is a STEM education and research center located at
+                    the site of the Arecibo Observatory Historic District, in Puerto Rico. The 1,000 foot diameter radio
+                    telescope at Arecibo was destroyed by Hurricane Maria in 2017. The buildings on the site are being
+                    turned into an accessible science center for the children and scientists of Puerto Rico.
+                    Accessibility is a priority because 37% of children in Puerto Rico are disabled, served by the
+                    Individuals with Disabilities Education Act (IDEA). The average in the 50 states is 15%.
+                </p>
+                <p>
+                    [1] Kristen Shinohara, Saba Kawas, Amy J. Ko, and Richard E. Ladner. 2018. Who Teaches
+                    Accessibility? A Survey of U.S. Computing Faculty. In Proceedings of the 49th ACM Technical
+                    Symposium on Computer Science Education (SIGCSE '18). Association for Computing Machinery, New York,
+                    NY, USA, 197–202.
+                    <a href="https://doi.org/10.1145/3159450.3159484">doi.org/10.1145/3159450.3159484</a>
+                </p>
+                <p>
+                    [2] B. Blaser and R. E. Ladner, "Why is Data on Disability so Hard to Collect and Understand?," 2020
+                    Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT),
+                    Portland, OR, USA, 2020, pp. 1-8,
+                    <a href="https://doi.org/10.1109/RESPECT49803.2020.9272466"
+                        >doi.org/10.1109/RESPECT49803.2020.9272466</a
+                    >
+                </p>
+                <p>
+                    [3] Alannah Oleson, Amy J. Ko, Richard E. Ladner (2026). Teaching Accessible Computing.
+                    <a href="https://bookish.press/tac">bookish.press/tac</a>, retrieved 5/11/2026.
+                </p>
+                <p>
+                    [4] Code.org (2025) State of AI + CS Education.
+                    <a href="https://advocacy.code.org/stateofcs/">advocacy.code.org/stateofcs/</a>, retrieved 5/11/2026
+                </p>
+                <p>
+                    [5] CSTA K-12 Standards.
+                    <a href="https://csteachers.org/k12standards/">csteachers.org/k12standards/</a>, retrieved 5/11/2026
+                </p>
+                <p>
+                    [6] ACM/IEEE-CS/AAAI Joint Task Force. 2024. Computer Science Curricula 2023. ACM Press, IEEE
+                    Computer Society Press, and AAAI Press.
+                    <a href="https://doi.org/10.1145/3664191">doi.org/10.1145/3664191</a>
+                </p>
+                <p>
+                    [7] Richard E. Ladner, Terrill Thompson. 2025. New ADA Title II Rule on Accessibility Impacts
+                    Computing Departments. Computing Research News, Vol. 36, No. 7.
+                    <a
+                        href="https://cra.org/crn/2024/08/new-ada-title-ii-rule-on-accessibility-impacts-computing-departments/"
+                        >cra.org/crn/2024/08/new-ada-title-ii-rule-on-accessibility-impacts-computing-departments/</a
+                    >
+                </p>
+                <p>
+                    [8] Anti-DEIA Executive Order
+                    <a
+                        href="https://www.whitehouse.gov/presidential-actions/2025/01/ending-illegal-discrimination-and-restoring-merit-based-opportunity/"
+                        >www.whitehouse.gov/presidential-actions/2025/01/ending-illegal-discrimination-and-restoring-merit-based-opportunity/</a
+                    >
+                </p>
+            </article>
+
+            <!--
+        <footer class="footer">
+            <p>&copy; 2025 Your Company Name. All rights reserved.</p>
+            <p>123 Main Street, Anytown, USA</p>
+        </footer>
+        </div>
+    </body>
+</html>

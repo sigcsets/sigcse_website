@@ -78,9 +78,13 @@ committees:
 - name: SIGCSE.org Website Administrator
   email: "webmaster (at) sigcse.org"
   members:
+    - name: "Mark Sherriff"
+      affiliation: University of Virginia, Virginia, USA 
+      year: July 1 2026 -- present
+  former-members:
     - name: "Manuel A. Pérez-Quiñones"
       affiliation: University of North Carolina, Charlotte, USA 
-      year: July 1 2019 -- present
+      year: July 1 2019 -- July 1 2026
 
 - name: "Special Projects/Speaker's Fund/Travel Grant reviewers"
   members:

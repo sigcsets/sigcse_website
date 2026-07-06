@@ -11,7 +11,7 @@ Membership in SIGCSE supports the following programs:
 
 - Speaker's Fund, which supports the dissemination of outstanding SIGCSE Symposium, ITiCSE, ICER, CompEd or RESPECT presentations to in-cooperation conferences and benefits computing educators broadly.
 
-- Henry Walker Travel Grant Program, which supports attendance at the SIGCSE Technical Symposium for first-time faculty and teachers by providing reimbursement for travel.
+- Henry Walker Travel Grant Program, which supports attendance at SIGCSE-sponsored conferences for first-time attendees by providing reimbursement for travel.
 
 - SIGCSE awards (Outstanding Contribution to Computer Science Education, Distinguished Service to the Computer Science Education Community, Broadening Participation in Computing, or the Test of Time) which honor  lasting contributions to the computing education community.
 

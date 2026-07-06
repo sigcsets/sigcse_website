@@ -14,7 +14,7 @@ A variety of programs that support our mission and serve our members:
 
 
 -   [Special Projects](special/index.html) - The Special Projects program provides funding for small projects of interest to the SIGCSE community.
--   [Henry Walker Travel Grant Program](travel-grants/index.html) - A program to help defray the cost of attending a SIGCSE Technical Symposium.
+-   [Henry Walker Travel Grant Program](travel-grants/index.html) - A program to help defray the cost of attending a SIGCSE-sponsored conference.
 -   [Speaker\'s Fund](speakers/index.html) - The SIGCSE Speaker\'s Fund supports the dissemination of outstanding Technical Symposium, ITiCSE, ICER or CompEd presentations to other venues.
 
 -   [SIGCSE Committees and Task Forces](committees-task-forces/index.html) - SIGCSE\'s Committee initiative.

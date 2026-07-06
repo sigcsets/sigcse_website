@@ -18,6 +18,15 @@ acmdl: https://dl.acm.org/conference/respect/proceedings
 ieeedl: https://ieeexplore.ieee.org/xpl/conhome/1809604/all-proceedings
 
 next-conference:
+- title: RESPECT 2027
+  year: 2026
+  start-date: 2027-06-01
+  dates: "TBD"
+  location: "TBD, USA"
+  website: https://respect.acm.org/
+
+
+conferences:
 - title: RESPECT 2026
   year: 2026
   start-date: 2026-06-08
@@ -29,7 +38,6 @@ next-conference:
   JuniorProgramCo-Chair: Yerika Jimenez (Katabasis)
 
 
-conferences:
 - title: RESPECT 2025
   year: 2025
   location: "Newark, New Jersey"

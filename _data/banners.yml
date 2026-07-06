@@ -1,17 +1,17 @@
 - title: The Technical Symposium
   url: events/symposia/index.html
-  image: /assets/images/home/ts2026.jpg
-  imagealt: SIGCSE 2026 will be in St. Louis, MO
+  image: /assets/images/home/ts2027.png
+  imagealt: SIGCSE 2027 will be in Sacramento, CA
   byline: "The Technical Symposium is SIGCSE's flagship conference. It has been held annually in February or March in North America since 1970. Attendance regularly exceeds 1,500 and includes computer science educators from around the globe."
 
 - title: Because we Teach
   url: about/profile.html
-  image: /assets/images/home/teaching.jpg
+  image: /assets/images/home/teaching.png
   imagealt: SIGCSE attendees
   byline: "The aim of SIGCSE is to provide an equitable global forum that promotes and advances research, teaching, and practice in computing education at all educational levels across all demographics."
 
 - title: The SIGCSE Board
   url: about/board.html
-  image: /assets/images/home/board 25-28.png
+  image: /assets/images/home/board.png
   imagealt: SIGCSE Board
   byline: 'SIGCSE is managed by an elected Board of volunteers that serve three-year terms. The Board consists of a chair, vice chair, secretary, treasurer, the past chair, and three "at large" members.'

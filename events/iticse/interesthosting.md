@@ -25,7 +25,7 @@ The criteria for appointees:
 * Holds a permanent appointment at a European university that possesses the capacity to host the conference (meeting spaces, lunch facilities, break space, etc), is convenient to an international airport and has sufficient nearby hotel capacity. [See this page](host.html) for a more detailed description the host university and host city requirements.
 * Collaborative and organizational skills sufficient to work on the Conference Committee and to oversee the conference.
 
-To nominate an individual, please include the individual’s CV and a cover letter explaining how the individual meets the criteria for the role. Self-nominations are strongly encouraged. Please send nominations to the ITiCSE Steering Committee <iticse-sc@sigcse.org>.
+To nominate an individual, please include the individual’s CV and a cover letter explaining how the individual meets the criteria for the role. Self-nominations are strongly encouraged. Please send nominations to the ITiCSE Steering Committee [iticse-sc@sigcse.org](mailto:iticse-sc@sigcse.org).
 
 Informal expressions of interest are also welcome. Such inquiries will trigger a dialog with an ITiCSE Steering Committee member who will help with an understanding of the nature and breadth of the obligation and whether a formal nomination is appropriate.
 

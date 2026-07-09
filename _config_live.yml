@@ -1,6 +1,6 @@
-# --destination ~/Development/sigcse.org/_site
+# destination ~/Development/sigcse.org/_site
 # destination: /Users/mapq/Development/sigcse.org/_site
-destination: /Users/mperez19/Development/sigcse.org/_site
+# destination: /Users/mperez19/Development/sigcse.org/_site
 
 title: SIGCSE
 email: webmaster@sigcse.org

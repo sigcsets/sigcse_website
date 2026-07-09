@@ -3,42 +3,52 @@ title: Benefits of Membership
 layout: page
 ---
 
-Membership in SIGCSE supports the following programs:
+SIGCSE membership supports programs and initiatives that benefit the global computing education community, including:
 
-- SIGCSE conferences, which are currently the SIGCSE Technical Symposium, the Conference on Innovation and Technology in Computer Science Education (ITiCSE), the International Computing Education Research (ICER), ACM Global Computing Education (CompEd), and Conference for Research on Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT).
+- Maintaining access to high-quality research and teaching practice through SIGCSE-affiliated conference proceedings and the SIGCSE website.
 
-- Special Projects awards, which support researchers who wish to investigate and introduce new ideas in the learning and teaching of computing.
+- Supporting the growth of computing education worldwide through SIGCSE conferences, local and regional SIG chapters, and numerous in-cooperation conferences.
 
-- Speaker's Fund, which supports the dissemination of outstanding SIGCSE Symposium, ITiCSE, ICER, CompEd or RESPECT presentations to in-cooperation conferences and benefits computing educators broadly.
+- Sponsoring mentoring and professional development opportunities, including the biennial New and Aspiring Educator Workshop and the Department Chairs Roundtable, typically held in conjunction with the SIGCSE Technical Symposium.
 
-- Henry Walker Travel Grant Program, which supports attendance at SIGCSE-sponsored conferences for first-time attendees by providing reimbursement for travel.
+- Publishing reports from SIGCSE committees on topics of broad interest to the computing education community.
 
-- SIGCSE awards (Outstanding Contribution to Computer Science Education, Distinguished Service to the Computer Science Education Community, Broadening Participation in Computing, or the Test of Time) which honor  lasting contributions to the computing education community.
+- Sponsoring doctoral consortia at SIGCSE conferences to support the next generation of computing education researchers through mentoring and partial travel support.
 
-- Each conference has the opportunity to conduct a Doctoral Consortium in which Ph.D. students discuss their work, receive constructive feedback, and are mentored on important issues with the goal of nurturing the next generation of computing education researchers. SIGCSE provides travel support for attendees and organizers of the consortium.
-
-- The biennial New Educator's Workshop which is typically held in conjunction with the SIGCSE Symposium and provides information important to computing educators who are new to academia or who will seek an academic position in the near future. SIGCSE provides travel support for attendees and organizers of the workshop.
-
-- The biennial Chairs' Workshop which is typically held in conjunction with the SIGCSE Symposium and provides a forum for discussing and disseminating information relevant to academics who chair computing departments or hold other academic positions. SIGCSE provides support for organizers of the workshop.
-
-- Kids' Camp held at the SIGCSE Symposium which provides activities and meals for children of attendees.
+- Contributing to major computing curriculum task forces and serving as a thought leader for computing education.
 
 Membership in SIGCSE provides the following direct benefits:
 
-- Four issues of [ACM Inroads](https://inroads.acm.org/) a magazine dedicated to serve "professionals interested in advancing computing education on a global scale." A SIGCSE physical-copy membership provides physical copies of the magazine and all memberships receive electronic access to the magazine.
+### Community and Recognition
 
-- Four issues of the SIGCSE Bulletin, which are available electronically.
+- Voting rights in SIGCSE Board elections.
 
-- Reduced registration rates for all SIGCSE Conferences.
+- Four issues of [ACM Inroads](https://inroads.acm.org/), a magazine dedicated to advancing computing education worldwide. Members receive electronic access, and physical-copy members also receive printed issues.
 
-- Free access to SIGCSE publication archives through the ACM Digital Library.
+- Access to the quarterly SIGCSE Bulletin newsletter.
 
-- Access to the SIGCSE-ANNOUNCE and SIGCSE-MEMBERS mailing lists.
+- Free access to SIGCSE publication archives through the ACM Digital Library, including proceedings from selected in-cooperation conferences.
 
-- Opportunity to participate in SIGCSE committees and Task Forces on topics of current interest.
+- Access to the SIGCSE-ANNOUNCE, SIGCSE-MEMBERS, SIGCSE-JOBS, and SIGCSE-VOLUNTEERS mailing lists.
 
-- Eligibility to apply to SIGCSE programs, including Special Projects and the Henry Walker Travel Grant program.
+- Eligibility to nominate candidates for SIGCSE awards, including the Outstanding Contribution to Computer Science Education, Distinguished Service to the Computer Science Education Community, Broadening Participation in Computing Education, Early Career Researcher, and Test of Time awards.
 
-- Opportunity to network within a community of computing professionals.
+### Leadership Opportunities
+
+- Opportunity to participate in SIGCSE committees and task forces on topics of current interest.
+
+- Eligibility to serve on steering committees that help shape SIGCSE conferences and doctoral consortia.
+
+- Eligibility to stand as a candidate in SIGCSE Board elections.
+
+### Financial Benefits
+
+- Reduced registration rates for all SIGCSE conferences.
+
+- Eligibility to apply for SIGCSE Special Projects grants supporting innovative ideas in computing education.
+
+- Eligibility to apply for the Henry Walker Travel Grant Program to support attendance at SIGCSE-sponsored conferences.
+
+- Access to SIGCSE-supported Financial Hardship Waivers for eligible corresponding authors who cannot otherwise cover ACM Open Article Processing Charges.
 
 Click [here](join.html) to join SIGCSE.

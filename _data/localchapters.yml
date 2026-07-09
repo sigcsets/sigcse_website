@@ -18,15 +18,13 @@ chapters:
     group_id: 210705
     status: Active
     charter_date: 08-JUN-2026
-    city: TBD
-    country:  Canada
-    email:  TBD
+    country: Canada
+    email: can-sigcse-officers@listserv.acm.org
     chapter_type: Professional
     officers:
-      - name: Chair - TBD
-      - name: Vice Chair - TBD
-      - name: Treasurer - TBD
-      - name: Secretary - TBD
+      - name: Chair - Michelle Craig - mcraig@cs.toronto.edu
+      - name: Vice Chair - Steven Wolfman - wolf@mail.ubc.ca
+      - name: Treasurer - Ben Stephenson - bdstephe@ucalgary.ca
 
   - name: CCSE ACM Chapter
     group_id: 150242

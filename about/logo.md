@@ -21,6 +21,6 @@ SIGCSE logo for use on web sites or in publications
 
 {% endcomment %}
 
-- [SIGCSE-logo_horiz_black.jpg]({{"/files/images/logo/SIGCSE-logo_horiz_black.jpg"|absolute_url}})
-- [SIGCSE-logo_horiz_color_no-back.png]({{"/files/images/logo/SIGCSE-logo_horiz_color_no-back.png"|absolute_url}})
-- [SIGCSE-logo_horiz_color.jpg]({{"/files/images/logo/SIGCSE-logo_horiz_color.jpg"|absolute_url}})
+- [SIGCSE-logo_horiz_black.jpg]({{"/assets/images/logo/SIGCSE-logo_horiz_black.jpg"|absolute_url}})
+- [SIGCSE-logo_horiz_color_no-back.png]({{"/assets/images/logo/SIGCSE-logo_horiz_color_no-back.png"|absolute_url}})
+- [SIGCSE-logo_horiz_color.jpg]({{"/files/assets/logo/SIGCSE-logo_horiz_color.jpg"|absolute_url}})

@@ -55,9 +55,9 @@ committees:
 - name: "Information Directors"
   info: "We have three information directors, approved by the SIGCSE Board. The participation as information director is a 3 year term, renewable once. This renewal is upon mutual interest from the information director and approval of the board."
   members:
-  - name: David Zabnar
-    affiliation: "Cornell College, USA"
-    year: "until Summer 2026"
+  - name: Lorenzo Lin Angeli
+    affiliation: "University of Trento, Italy"
+    year: "until Summer 2029"
   - name: Bob Edmison
     affiliation: "Virginia Tech, USA"
     year: "until Summer 2028"
@@ -68,6 +68,9 @@ committees:
     - name: Haris Skiadas
       affiliation: "Hanover College, USA"
       year: "until Summer 2025"
+    - name: David Zabnar
+      affiliation: "Cornell College, USA"
+      year: "until Summer 2026"
 
 - name: "Social Media Coordinator"
   members:

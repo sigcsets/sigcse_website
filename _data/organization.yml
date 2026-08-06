@@ -64,6 +64,9 @@ committees:
   - name: Yesenia Velasco
     affiliation: "Duke University, USA"
     year: "until Summer 2028"
+  - name: David Zabnar
+    affiliation: "Cornell College, USA"
+    year: "until Summer 2026"
   previous:
     - name: Haris Skiadas
       affiliation: "Hanover College, USA"
@@ -71,6 +74,7 @@ committees:
     - name: David Zabnar
       affiliation: "Cornell College, USA"
       year: "until Summer 2026"
+
 
 - name: "Social Media Coordinator"
   members:

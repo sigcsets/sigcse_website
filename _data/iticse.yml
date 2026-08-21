@@ -5,17 +5,19 @@ committees:
   members:
   - name: Susan Rodger
     affiliation: Duke University, USA, (Chair)
-  - name: Guido Roessling
-    affiliation: Techische Universitat Darmstadt, Germany (secretary)
-  - name: Violetta Lonatti
-    affiliation: University of Milan, Italy
   - name: Jim Paterson
-    affiliation: Glasgow Caledonian University, Scotland
+    affiliation: Glasgow Caledonian University, Scotland (Secretary & ACM Europe representative)
+  - name: Violetta Lonatti
+    affiliation: University of Milan, Italy (Informatics Europe representative)
+  - name: Bedour Alshaigy
+    affiliation: Uppsala University, Sweeden
   - name: Alison Clear
     affiliation: (SIGCSE Board Liaison)
 
 - name: Past Steering Committee Members
   members:
+  - name: Guido Roessling
+    affiliation: Techische Universitat Darmstadt, Germany 
   - name: Michael Kӧlling
     affiliation: "King’s College London (ACM Europe)"
     dates: 2018-2024
@@ -55,13 +57,25 @@ acmdl: https://dl.acm.org/conference/iticse/proceedings
 
 
 next-conference:
-- title: "ITiCSE 2026"
-  start-date: 2026-07-13
-  dates: "13-15 July 2026"
-  location: "Madrid, Spain"
-  website: "https://iticse.acm.org/2026"
+- title: "ITiCSE 2027"
+  start-date: 2027-07-12
+  dates: "12-14 July 2027"
+  location: "Glasgow, Scotland"
+  website: "https://iticse.acm.org/2027"
 
 conferences:
+- title: "31st ITiCSE 2026"
+  year: 2026
+  edition: 31
+  dates: "13th July - 15th July (WG: 10-12 July)"
+  location: "Madrid, Spain"
+  website: "https://iticse.acm.org/2026/"
+  proceedings:
+  - title: "ITiCSE 2026: Proceedings of the 31st ACM Conference on Innovation and Technology in Computer Science Education V. 1"
+    doi: https://dl.acm.org/doi/proceedings/10.1145/3803400
+  - title: "ITiCSE 2026: Proceedings of the 31st ACM Conference on Innovation and Technology in Computer Science Education V. 2"
+    doi: https://dl.acm.org/doi/proceedings/10.1145/3803401
+
 - title: "30th ITiCSE 2025"
   year: 2025
   edition: 30

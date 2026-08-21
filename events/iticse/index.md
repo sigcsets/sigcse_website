@@ -38,7 +38,7 @@ The ITiCSE conference has been held annually since 1996, in late June or early J
 {% for c in site.data.iticse.committees %}
 {%if c.name == "Steering committee" -%}
 {% for m in c.members %}
-- {{m.name}}, {{m.affiliation}} ({{m.dates}}){% endfor -%}
+- {{m.name}}, {{m.affiliation}} {% endfor -%}
 {% endif -%}
 {% endfor -%}
 

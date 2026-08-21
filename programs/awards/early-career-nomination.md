@@ -32,7 +32,7 @@ The awards committee will determine if a nominee meets the definition of “Earl
 * **Who can nominate?** A nominator must be a SIGCSE member. SIGCSE Board members cannot nominate or endorse any candidates. Self nominations are not allowed.
 
 
-* **How do I submit a nomination?**  The Nominator prepares their nomination letter, collects all letters of support, and sends them via [this Google Form]({{page.form}}) by September 1st AoE.  _Note: For 2025, the deadline has been extended to November 17th AoE._
+* **How do I submit a nomination?**  The Nominator prepares their nomination letter, collects all letters of support, and sends them via [this Google Form](https://forms.gle/W3wTpmh7u3yHT7ve9) by September 1st AoE.
     * As a file upload is required, Google requires that the nominator has a Google account. If this is a barrier, email the SIGCSE Vice Chair (see bottom of this page).
     * If you are in a location that restricts access to Google Forms, email the SIGCSE Vice Chair (see bottom of this page).
 

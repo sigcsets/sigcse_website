@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SIGCSE Bulletin</title>
+    <style>
+    /* Universal rule to prevent padding from breaking layouts */
+    * {
+        box-sizing: border-box;
+        max-width: 100%;   /* prevent any element from exceeding viewport width */
+    }
+
+    html, body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; /* final safeguard against horizontal scroll */
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        color: #333;
+    }
+
+    h1 {
+        font-size: 3em;
+    }
+
+    .container {
+        width: 100%;
+        max-width: 800px; /* keeps it centered on desktop */
+        margin: 20px auto;
+        background-color: #fff;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .header {
+        text-align: center;
+        padding-bottom: 20px;
+        border-bottom: 1px solid #eee;
+    }
+
+    .header img {
+        max-width: 70%;
+        height: auto;
+    }
+
+    .table-of-contents {
+        margin-top: 20px;
+        padding: 15px;
+        background-color: #e9e9e9;
+        border-radius: 5px;
+    }
+
+    .table-of-contents h2 {
+        margin-top: 0;
+        color: #555;
+    }
+
+    .table-of-contents ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .table-of-contents ul li a {
+        text-decoration: none;
+        color: #007bff;
+        padding: 5px 0;
+        display: block;
+    }
+
+    .table-of-contents ul li a:hover {
+        text-decoration: underline;
+    }
+    
+    .intro-notes {
+        font-size: 0.8em;
+    }
+
+    .upcoming-events, .board-members {
+        margin-top: 30px;
+        padding: 15px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+
+    .upcoming-events h2, .board-members h2 {
+        margin-top: 0;
+        color: #555;
+        text-align: center;
+    }
+
+    .event-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 15px;
+    }
+
+    .event-table th, .event-table td {
+        border: 1px solid #eee;
+        padding: 8px;
+        text-align: left;
+        word-wrap: break-word;  /* stops long text from forcing wide scroll */
+    }
+
+    .event-table th {
+        background-color: #f2f2f2;
+        color: #666;
+    }
+
+    .board-members ul {
+        list-style: disc inside;
+        padding-left: 20px;
+    }
+
+    .board-members ul li {
+        margin-bottom: 8px;
+    }
+
+    .footer {
+        text-align: center;
+        margin-top: 40px;
+        padding-top: 20px;
+        border-top: 1px solid #eee;
+        color: #777;
+        font-size: 0.9em;
+    }
+        
+        /* 1. Hide the overlay by default */
+.modal-overlay {
+    display: none; 
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background: rgba(0, 0, 0, 0.9);
+    z-index: 9999;
+    justify-content: center;
+    align-items: center;
+}
+
+/* 2. Show the overlay when the link is clicked (:target) */
+.modal-overlay:target {
+    display: flex;
+}
+
+/* 3. Style the enlarged image area */
+.modal-content {
+    position: relative;
+    max-width: 90%;
+    max-height: 90%;
+    text-align: center;
+    color: white;
+}
+
+.modal-content img {
+    max-width: 100%;
+    max-height: 80vh; /* Keeps image from being taller than screen */
+    border: 3px solid white;
+}
+
+/* 4. The invisible layer that lets you click the background to close */
+.modal-close-layer {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    cursor: default;
+}
+
+/* 5. The visible "X" button */
+.close-button {
+    position: absolute;
+    top: -40px;
+    right: 0;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+    /* --- News Article Section --- */
+    .news-article {
+        margin-top: 40px;
+        padding-top: 20px;
+        border-top: 1px solid #eee;
+        overflow: hidden; /* prevents floated elements pushing width */
+    }
+
+    .news-article h3 {
+        color: #333;
+        margin-bottom: 5px;
+    }
+
+    .news-article .byline {
+        font-style: italic;
+        color: #777;
+        margin-bottom: 15px;
+        display: block;
+    }
+
+    .news-article p {
+        line-height: 1.6;
+        margin-bottom: 15px;
+    }
+
+    /* --- FIGURE & IMAGE STYLES --- */
+    .news-article figure {
+        margin: 0 0 15px 0;
+    }
+
+    .news-article figure img {
+        width: 90%;
+        height: auto;
+        display: block;
+    }
+
+    .news-article figure figcaption {
+        font-size: 0.9em;
+        font-style: italic;
+        color: #555;
+        padding-top: 8px;
+    }
+
+    .figure-center {
+        display: block;
+        max-width: 40%;
+        margin: 20px auto;
+    }
+
+    .figure-center figcaption {
+        text-align: center;
+    }
+
+    .figure-left {
+        float: left;
+        max-width: 40%;
+        min-width: 40%;
+        margin-right: 20px;
+        margin-bottom: 15px;
+        /*new below*/
+        overflow: hidden; 
+    }
+        
+
+    .figure-left figcaption {
+        text-align: left;
+          /*new below*/
+        width: 80%;
+    }
+
+    .figure-right {
+        float: right;
+        max-width: 40%;
+        min-width: 40%;
+        margin-left: 20px;
+        margin-bottom: 15px;
+    }
+    
+    .figure-right figcaption {
+        text-align: left;
+    }
+
+    /* --- RESPONSIVE STYLES FOR MOBILE --- */
+    @media (max-width: 600px) {
+        .container {
+            width: 95%;
+            padding: 10px;
+        }
+
+        .figure-left,
+        .figure-right,
+        .figure-center {
+            float: none;
+            max-width: 100%;
+            margin: 0 auto 20px auto;
+        }
+    }
+        
+        
+</style>
+
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <img src="ACM%20and%20SIGCSE%20logos.png" alt="Company Logo">
+            <h1>SIGCSE Bulletin</h1>
+            <p>Volume 58, Number 4</p>
+            <p>October 2026</p>
+        </header>
+
+        <section class="table-of-contents">
+            <h2>Table of Contents</h2>
+            <ul>
+                <li><a href="#board-members">Board Members</a></li>
+                <li><a href="#article1">SIGCSE News in Brief</a></li>
+                <li><a href="#upcoming-events">Upcoming Events</a></li>
+                <li><a href="#article2">SIGCSE Board News</a></li>
+                <li><a href="#article3">Koli Calling: Call for Participation</a></li>
+                <li><a href="#article4">SIGCSE Virtual: Call for Participation</a></li>
+                <li><a href="#article5">Guidelines for Responsible Use of AI in Education Research (GRAISER): A New Report</a></li>
+                <li><a href="#article6">Welcome to our Newest SIGCSE Information Director</a></li>
+                <li><a href="#article7">SIGCSE TS 2026 Panel Summary: Adoption of Alternative Grading Practices</a></li>
+                <li><a href="#article8">SIGCSE TS 2026 Panel Summary: Computer Science Curricula CS2023 Revisited in Light of Generative AI</a></li>
+                <li><a href="#article9">ACM Appoints Alison Derbenwick Miller as CEO and Executive Director</a></li>
+                <li><a href="#articleX">Member Spotlight: Bethany Edmunds</a></li>
+            </ul>
+        </section>
+        
+        <section class="intro-notes">
+        <p><strong>Notice to Contributing Authors to SIG Newsletters</strong></p>
+        <p>By submitting your article for distribution in this Special Interest Group publication, you hereby grant to ACM the following non-exclusive, perpetual, worldwide rights:
+            <ul>
+                <li>to publish in print on condition of acceptance by the editor</li>
+                <li>to digitize and post your article in the electronic version of this publication</li>
+                <li>to include the article in the ACM Digital Library and in any Digital Library related services</li>
+                <li>to allow users to make a personal copy of the article for noncommercial, educational, or research purposes</li>
+            </ul>
+        <p> However, as a contributing author, you retain copyright to your article and ACM will refer requests for commercial use directly to you.</p>
+        <br>
+        <p><strong>Newletter Credits</strong></p>
+            <ul>
+                <li>Editors: Julie M. Smith and Charles Wallace</li>
+                <li>Contributors: Adrienne Decker, Rodrigo Duran, Bethany Edmunds, Stephen H. Edwards, Amruth N. Kumar, David L. Largent, Kevin Lin, Lorenzo Lin Angeli, Sonsoles López Pernas, Daniela Marghitu, Monica McGill, James McGuffee, Nadia Najjar, Jim Ormond, Manuel A. Pérez-Quiñones, Mark Sherriff</li>
+                <li>Photo credits: Daniele De Marco, Rodrigo Duran, Khoury College of Computer Sciences, Mark Sherriff, Julie M. Smith</li>
+            </ul>
+        </section>
+
+        <section id="board-members" class="board-members">
+            <h2>SIGCSE Board Members</h2>
+            <ul>
+                <li><strong>Chair</strong> - Brian Dorn, Chair, University of Nebraska at Omaha, USA</li>
+                <li><strong>Vice-Chair</strong> - Claudia Szabo, Vice-Chair, University of Adelaide, Australia</li>
+                <li><strong>Secretary</strong> - Mark Sherriff, Secretary, University of Virginia, USA</li>
+                <li><strong>Treasurer</strong> - Michelle Friend, Treasurer, University of Nebraska at Omaha, USA</li>
+                <li><strong>At Large</strong> - Oluwakemi Ola, Member At Large, University of British Columbia, Canada</li>
+                <li><strong>At Large</strong> - Ethel Tshukudu, Member At Large, San Jose State University, USA</li>
+                <li><strong>At Large</strong> - Chris Gregg, Member At Large, Stanford University, USA</li>
+                <li><strong>Immediate Past Chair</strong> - Alison Clear, Past Chair, Eastern Institute of Technology, Auckland, New Zealand</li>
+            </ul>
+        </section>
+        
+        <article id="article1" class="news-article">
+            <h3>SIGCSE News in Brief</h3>
+            <span class="byline">By Julie M. Smith and Charles Wallace, Bulletin co-editors</span>
+	    <p>Happy October, and welcome to a rather jam-packed issue of the Bulletin!
+	    We start with a message from the SIGCSE Board, describing their efforts to broaden member participation and access to benefits. 
+	    We have calls for participation from the upcoming Koli Calling and SIGCSE Virtual conferences.
+	    The Institute for Advancing Computing Education reports on a broad-based effort among STEM educators and AI experts to craft guidelines for the responsible use of AI in education research.
+	    There are two summaries of panels from SIGCSE TS 2026: one on the practicalities of alternative grading practices, and the other on the consequences of generative AI for the CS2023 curricular guidelines.
+	    We welcome two individuals into their new roles: Lorenzo Lin Angeli as an Information Director for SIGCSE, and Alison Derbenwick Miller and CEO and Executive Director of the ACM.
+	    Finally, our Member Spotlight features Bethany Edmunds from Northeastern University.
+	    </p>
+            
+            <p>As always, we invite you to share items of general interest to the SIGCSE community with us for inclusion in our next issue.</p>
+        </article>
+        
+        <section id="upcoming-events" class="upcoming-events">
+            <h2>Upcoming SIGCSE Events</h2>
+            <table class="event-table">
+                <thead>
+                    <tr>
+                        <th>Conference</th>
+                        <th>Location</th>
+                        <th>Dates</th>
+                        <th>Submission Deadline</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                    <tr>
+                        <td><a href="https://sigcsevirtual2026.acm.org/" target="_blank">SIGCSE Virtual</a></td>
+                        <td>Online</td>
+                        <td>12 - 15 November 2026</td>
+                        <td>---</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://www.kolicalling.fi/" target="_blank">Koli Calling</a></td>
+                        <td>Koli, Finland</td>
+                        <td>5 – 8 November 2026</td>
+                        <td>---</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://2027.sigcse-ts.acm.org/" target="_blank">SIGCSE Technical Symposium</a></td>
+                        <td>Sacramento, CA, USA</td>
+                        <td>17 - 20 February 2027</td>
+                        <td>---</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://iticse.acm.org/2027/" target="_blank">ITiCSE</a></td>
+                        <td>Glasgow, Scotland, UK</td>
+                        <td>12 - 14 July 2027</td>
+                        <td>11 January 2027 (abstract)<br>18 January 2027 (full submission)</td>
+                    </tr>
+                    <!--
+                    <tr>
+                        <td colspan="3" class="merged-row">
+                            Other conferences operate in cooperation with SIGCSE and are posted on the <a href="https://sigcse.org/events/incoop.html" target="_blank">SIGCSE web site</a>. 
+                        </td>
+                    </tr>
+                    -->
+                </tbody>
+            </table>
+        </section>
+
+        <article id="article2" class="news-article">
+            <h3>SIGCSE Board News</h3>
+            <span class="byline">By Mark Sherriff, SIGCSE Board Secretary</span>
+            
+                        <figure class="figure-left" style="max-width: 300px">
+                            <a href="#img2">
+                                <img src="SIGCSE%20Board.jpeg" alt="Photo of SIGCSE Board" />
+                            </a>
+                            <figcaption>
+                                SIGCSE Board Retreat, September 2026 at University of Nebraska-Omaha.  Left to right: Brian Dorn, Kemi Ola, Claudia Szabo, Alison Clear, Michelle Friend, Ethel Tshukudu, Chris Gregg.  Kneeling: Mark Sherriff. Photo credit: Mark Sherriff
+                            </figcaption>
+                        </figure>
+
+                        <div id="img2" class="modal-overlay">
+                            <a href="#" class="modal-close-layer"></a>
+                            <div class="modal-content">
+                                <img src="SIGCSE%20Board.jpeg" alt="Photo of SIGCSE Board" />
+                                <p>SIGCSE Board Retreat, September 2026 at University of Nebraska-Omaha.  Left to right: Brian Dorn, Kemi Ola, Claudia Szabo, Alison Clear, Michelle Friend, Ethel Tshukudu, Chris Gregg.  Kneeling: Mark Sherriff. Photo credit: Mark Sherriff</p>
+                                <a href="#" class="close-button">&times;</a>
+                            </div>
+                        </div>
+
+
+			<p>During its first year, the SIGCSE board has focused on two closely connected goals. First, we strived to enhance accessibility of member benefits and empower the community. Second, we have worked to increase transparency and inclusivity to make it easier for members to participate in the organization’s endeavours. These efforts are intended to broaden access, strengthen consistency across the organization, and create more ways for members to benefit from and contribute to our work.</p>
+			<p>Multiple initiatives have demonstrated our commitment to these goals. We revised the travel grant program, expanding the number of grants from 15 to 30 per year, increasing the amount per grant from $500 to $1000, and ensuring grants are available for all SIGCSE conferences. We also increased our support for students by expanding the doctoral consortiums to all conferences. Doctoral consortiums give students the opportunity to get feedback on their work and to build community with other students and mentors from the community. Through SIGCSE Virtual, we are piloting the idea of differential registration rates with the goal of making registration more affordable to members residing in lower income countries as classified by the World Bank. The board has been able to leverage grant funding through the GenAI Consortium to increase the number of special projects awarded. Based on a member proposal, we have also created the Early Career Researcher Award to recognize the accomplishments and contributions of early career scholars. Behind the scenes, the board has been working with the steering committees of each of the conferences to standardize policies and communicate them to members.</p>
+			<p>Members can look forward to upcoming board efforts. We are working to restructure the website to modernize it and make information easier to find. We are planning new task forces to engage members in setting organizational priorities. The board will also continue to address issues and policies that affect all of our conferences, including AI use, desk rejects, and remote presentations. As this work moves forward, accessibility, transparency, and meaningful member engagement will continue to guide our decisions and help us build a more inclusive and responsive organization.</p>
+                        <p>To that end, please do not hesitate to reach out to us with questions or comments.  You can reach us via email at <a href="mailto:board@sigcse.org">board@sigcse.org</a>. There is also a board member attending every SIGCSE conference, so feel free to find us in person and share your thoughts as well.</p>
+
+        </article>
+       
+        <article id="article3" class="news-article">
+            <h3>Koli Calling: Call for Participation</h3>
+<span class="byline">By Rodrigo Duran and Sonsoles López Pernas, Conference Co-Chairs</span>
+
+                        <figure class="figure-left" style="max-width: 300px">
+                            <a href="#img3">
+                                <img src="Koli.jpg" alt="Image of Koli" />
+                            </a>
+                            <figcaption>
+                               Photo credit: Rodrigo Duran
+                            </figcaption>
+                        </figure>
+
+                        <div id="img3" class="modal-overlay">
+                            <a href="#" class="modal-close-layer"></a>
+                            <div class="modal-content">
+                                <img src="Koli.jpg" alt="Image of Koli" />
+                                <p>Photo credit: Rodrigo Duran</p>
+                                <a href="#" class="close-button">&times;</a>
+                            </div>
+                        </div>
+
+            <p>We warmly invite you to attend the 26th Koli Calling International Conference on Computing Education Research (Koli Calling 2026), to be held 05-08 November 2026 in the beautiful Koli National Forest in Eastern Finland.</p>
+            <p>This year, we have a wonderful program with 50 papers in the research and discussion track and 15 posters and demo presentations. We are very glad to welcome 15 students to our Doctoral Consortium. The papers presented at Koli cover topics such as AI in education, programming education, inclusion, K-12 education, among others.</p> 
+            <p>The Koli Calling Doctoral Consortium will be organized before the conference, November 3rd – 4th, as an in-person event in Joensuu. The conference itself will begin on November 5th early in the morning, with a pre-event welcome on November 4th. Koli will hold a pre-conference workshop on “process analytics in computing education: A hands-on TNA workshop”  on November 4th in Joensuu.</p>  
+            <p>Koli Calling is one of the leading international conferences dedicated to the exchange of research and practice relevant to the scholarship of teaching and learning and to education research in the computing disciplines. Koli Calling publishes high-quality papers that combine teaching and learning experiences with solid, theoretically anchored research. Koli Calling is a single-track conference for original and novel work with research, practice, and systems presentations as well as a keynote and invited talks. The conference is known for its moderate size, intimate atmosphere, and lively discussions.</p>
+            <p>We hope that many of you will join us at Koli Calling 2026 and help us make this conference as enjoyable and memorable as in previous years! For further information, please visit <a href="https://www.kolicalling.fi/" target="_blank">https://www.kolicalling.fi/</a>
+      
+        </article>
+
+        <article id="article4" class="news-article">
+            <h3>SIGCSE Virtual: Call for Participation</h3>
+            <span class="byline">By James McGuffee and Daniela Marghitu, Conference Co-Chairs</span>
+            
+             <figure class="figure-left" style="max-width: 300px">
+                 <a href="#img4">
+                     <img src="SIGCSE%20Virtual.jpg" alt="SIGCSE Virtual 2026" />
+                 </a>
+             </figure>
+
+             <div id="img4" class="modal-overlay">
+                 <a href="#" class="modal-close-layer"></a>
+                 <div class="modal-content">
+                     <img src="SIGCSE%20Virtual.jpg" alt="SIGCSE Virtual 2026" />
+                     <a href="#" class="close-button">&times;</a>
+                 </div>
+             </div>
+            
+            <p>We invite you to join us for SIGCSE Virtual 2026, the 2nd ACM Virtual Global Computing Education Conference, to be held online November 12–15, 2026.</p>
+            <p>SIGCSE Virtual offers an accessible, affordable, and engaging opportunity for educators, researchers, practitioners, and students from around the world to connect with the broader computing education community without the time, cost, and logistical barriers of travel. Conference sessions will be scheduled across multiple time zones, with sessions distributed primarily according to presenters’ preferences, supporting broad participation from our global community.</p>
+            <p>The conference program includes keynotes, research papers, panels, posters, tutorials, Birds-of-a-Feather sessions, working groups, special sessions, Spotlight Talks, and more. Together, these formats provide many ways for attendees to explore current challenges, emerging innovations, and practical approaches in computing education.</p>
+            <p>This year’s program includes several engaging presentations and session formats. Spotlight Talks celebrate voices across the computing education community, including researchers, practitioners, educators, and innovators sharing a single compelling idea, insight, or call to action in a concise, high-impact format. Special Sessions provide opportunities for longer sessions, typically an hour or more, that do not fit existing presentation formats. Birds-of-a-Feather sessions support extended, organized conversations around shared interests and challenges. Tutorials offer three-hour sessions designed to help participants learn new technologies, tools, pedagogical strategies, or approaches.</p>
+            <p>Even if you do not have a paper or presentation on the program, attending SIGCSE Virtual offers tremendous value. Participants will have opportunities to connect with computing educators and researchers from around the world, learn from diverse perspectives, discover practical teaching strategies and resources, and engage with timely conversations shaping the future of computing education.</p>
+            <p>Registration is now open. Rates are as low as $125 for SIGCSE members and $50 for students and K-12 educators. Reduced Tier rates are available for participants residing in low- and middle-income economies in the World Bank. For current pricing and registration details, please visit the conference registration page:
+<a href="https://sigcsevirtual2026.acm.org/attending/Registration" target="_blank">https://sigcsevirtual2026.acm.org/attending/Registration</a></p>
+            <p>We look forward to seeing you online this November!</p>
+        </article>
+
+        <article id="article5" class="news-article">
+            <h3>Guidelines for Responsible Use of AI in Education Research (GRAISER): A New Report</h3>
+            <span class="byline">By Julie M. Smith and Monica McGill</span>
+            <p>Generative AI tools have impacted many fields, including computer science education research. These tools can be applied to virtually every aspect of the research process, from writing research questions to finding relevant literature to analyzing data. They hold promise for efficiency and scaling, but they also present some significant threats to the practice of research itself. For example, many of these tools lack the transparency that is a cornerstone of the research process. As a result, there is a pressing need for guidelines that promote the responsible use of AI in education research to ensure that research teams can harness benefits without exacerbating risks.</p>
+
+            <p>To respond to this need, we gathered experts in STEM education research and in AI to articulate guidelines; several rounds of expert review served to refine the guidelines.</p>
+
+                        <figure class="figure-left" style="max-width: 500px">
+                            <a href="#img5">
+                                <img src="GRAISER%20photo.png" alt="image of GRAISER project team" />
+                            </a>
+                            <figcaption>
+                               The project team met in Chicago, IL, US with experts in education research and in AI to articulate the guidelines. Photo credit: Julie M. Smith.
+                            </figcaption>
+                        </figure>
+
+                        <div id="img5" class="modal-overlay">
+                            <a href="#" class="modal-close-layer"></a>
+                            <div class="modal-content">
+                                <img src="GRAISER%20photo.png" alt="image of GRAISER project team" />
+                                <p>The project team met in Chicago, IL, US with experts in education research and in AI to articulate the guidelines. Photo credit: Julie M. Smith.</p>
+                                <a href="#" class="close-button">&times;</a>
+                            </div>
+                        </div>
+
+
+            <p>These guidelines suggest concerns to be aware of and steps to take as education researchers consider using AI in their research workflows in order to ensure that their AI use comports with best practices for conducting responsible research.<p>
+
+            <p>Thorough human critique of AI input and output is the most important guideline. This AI-in-the-loop (née human-in-the-loop) approach ensures that education researchers’ expertise addresses the fact that AI is an assistive tool for humans. Then, four other guidelines are prioritized: (1) determine holistically if AI is the best option, (2) ensure that data is protected, (3) document AI use, and (4) disclose AI use. These four guidelines serve to recognize and mitigate the biggest risks of AI use and to set the foundation for transparent use. The complete set of guidelines are divided into two categories:preparing to use AI and using AI by research phase; these categories are, in turn, divided into subcategories.</p>
+
+            <p>You can access the full report: <a href="https://iacomputinged.org/wp-content/uploads/2026/04/GuidelinesForResponsibleUseofAIinEdResearch_April2026.pdf" target="_blank">Guidelines for the Responsible Use of AI in STEM Education Research</a>. You can access supplementary materials (such as templates for drafting AI policies and for adding information about AI use to consent forms) at <a href="http://iacomputinged.org/graiser/" target="_blank">iacomputinged.org/graiser</a>.</p>
+
+This material is based upon work supported by the U.S. National Science Foundation Mid-scale Research Infrastructure Program under Award No. 2519885. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+ </p>
+
+         </article>
+        
+        <article id="article6" class="news-article">
+            <h3>Welcome to our Newest SIGCSE Information Director</h3>
+			<span class="byline">Lorenzo Lin Angeli and Julie M. Smith</span>
+
+			<p>Lorenzo Lin Angeli is an Assistant Professor in the Department of Information Engineering and Computer Science at the University of Trento. He recently took on the responsibility of Information Director with SIGCSE. We asked him a few questions about this role.</p>
+
+                        <figure class="figure-left" style="max-width: 300px">
+                            <a href="#img6">
+                                <img src="Lin%20Angeli.jpg" alt="Image of Lorenzo Lin Angeli" />
+                            </a>
+                            <figcaption>
+                               Photo credit: Daniele De Marco
+                            </figcaption>
+                        </figure>
+
+                        <div id="img6" class="modal-overlay">
+                            <a href="#" class="modal-close-layer"></a>
+                            <div class="modal-content">
+                                <img src="Lin%20Angeli.jpg" alt="Image of Lorenzo Lin Angeli" />
+                                <p>Photo credit: Daniele De Marco</p>
+                                <a href="#" class="close-button">&times;</a>
+                            </div>
+                        </div>
+
+
+<p><strong>What exactly is the SIGCSE information director? Is there more than one
+at a time?</strong></p>
+
+<p>SIGCSE Information Directors are our community's mailing lists
+moderators. There's three of us, all appointed by the SIGCSE board for a
+three-years term which can be renewed once, and I'm the newest addition
+to the roster! It's a really collegial activity, and one that benefits
+from having an around-the-clock presence, so three people are definitely
+needed.</p>
+
+
+<p><strong>What does the SIGCSE information director do?</strong></p>
+
+<p>Our main day-to-day is moderating messages on the lists, encouraging
+people to resubmit their posts when we need to reject their messages,
+and managing membership to the SIGCSE mailing lists. Our role is mostly
+quiet and administrative, but I think fundamental to keeping a healthy
+community.</p>
+
+
+<p><strong>What interested you in the role?</strong></p>
+
+<p>I've been part of various mailing lists connected to my activist and
+art-adjacent activities for many years, and I always thought that
+effective moderation goes a long way in nurturing healthy online spaces.
+Mailing lists are also one of the few spaces where slow discourse can
+still happen online, and this lower pace is becoming increasingly scarce
+and precious.</p>
+
+<p>Last but not least, I wanted to support our community! I'm someone who's
+always looking out for opportunities to help out, and this seemed like
+something simple, yet necessary.</p>
+
+
+<p><strong>What do you hope to accomplish in the role?</strong></p>
+
+<p>I see roles such as Information Directors as being a bit like gardeners,
+and thus having two main duties: maintaining things functional on the
+one hand, and finding new possible developments on the other hand. I'm
+giving myself at least one year to figure out what I could do on the
+development part. For now, I'm trying to understand how to best do the
+first duty. I'm someone who's proud of their relatively slower
+communication pace, while mailing list moderation would demand
+as-fast-as-possible reactions.</p>
+
+
+<p><strong>How can SIGCSE members help you succeed in the role?</strong></p>
+
+<p>I think the best way is to keep submitting thoughtful, relevant, and
+provocative content. I'm always curious to see how threads pan out when
+I see interesting messages on the moderation queue.</p>
+
+<p>If you recognise my name at SIGCSE or ITiCSE, come say hi! A bit
+paradoxically, I don't like emailing too much, and much rather enjoy
+in-person conversation. There's still many people I don't know, and I'm
+associating more and more names to faces. I'm sure there's plenty of
+interesting conversations to be had.</p>
+
+        <article id="article7" class="news-article">
+            <h3>SIGCSE TS 2026 Panel Summary: Adoption of Alternative Grading Practices</h3>
+			<span class="byline">By Adrienne Decker, Stephen H. Edwards, David L. Largent, Kevin Lin, Nadia Najjar, and Manuel A. Pérez-Quiñones</span>
+
+<p>During the 2026 SIGCSE Technical Symposium we held a panel on the Adoption of Alternative Grading Practices in CS Classrooms. The presenters have all explored different aspects of alternative grading in a variety of academic contexts. This short writeup expands on the ideas presented and provides a reflection on several of the themes discussed at the symposium.</p>
+
+<p><strong>Kevin Lin</strong>: Many educators are increasingly emphasizing timed, in-person forms of summative assessment in our grading systems to address concerns about the reliability of take-home work as a measure of student proficiency. Alternative grading gives educators tools to experiment with integrating new assignments into their courses without having to fit them into the rigid categories of weighted averages. I’ve integrated in my classes:</p>
+
+<ul>
+<li>Code interviews: oral exams of coding homework learning outcomes</li>
+<li>Two-stage exams: summative exam followed by formative group retake</li>
+<li>Agentic coding projects that teach AI-assisted software development skills</li>
+</ul>
+ 
+<p>Alternative grading also helps us create the conditions to try new ideas without having to perfect them the first time around. By emphasizing to students the value of learning over time, we also normalize the ways that we improve our own courses over time too. Alternative grading might also invite us to consider all the diverse ways that students can demonstrate their learning: through not just their final submitted product, but their labor, process, reflection, or joy. Grading has always mediated our relationship with students, so by considering these questions we can build better relationships with our students that help them imagine the more just worlds that we need.</p>
+
+<p><strong>Nadia Najjar</strong>: When you’re working with hundreds of students in introductory CS courses, the wide range of preparation levels, learning pace, and life circumstances becomes more pronounced. One thing I’ve learned is that rigid policies often amplify inequalities at scale. When policies treat everyone exactly the same, they assume students are operating under identical conditions, but in large courses that assumption breaks down quickly. Because of that I’ve found that building flexibility directly into the course structure works better than handling flexibility through individual exceptions.</p>
+
+<p>In my courses I started introducing a few structural elements:
+<ul>
+<li>built-in grace windows for assignments so students can handle small disruptions without needing to request individual extensions</li>
+<li>clear and predictable policies when it comes to deadlines and revisionsconsistent structure/policies across assignments where deadlines, grace periods, and revision processes follow similar patterns to minimize confusion and ensure consistent enforcement</li>
+<li>retake and makeup policies that transparent and clearly state who is eligible, which assignments qualify, and when those opportunities occur</li>
+</ul>
+
+<p>What we found is that when flexibility is embedded into the course the result is fewer accommodation requests, fewer email negotiations, and more consistent policy application across the instructional team.</p>
+
+<p>Allowing resubmissions can lead to overwhelming TA workload, inconsistent evaluation across graders, and delayed feedback that frustrates students. What has helped in my course is adopting a specification-style grading where assignments are evaluated using pass or revise criteria rather than partial points. To keep this manageable at scale, the process includes a clear pass/revise standards, limited revision window and streamlined feedback using templates or scripts to help graders return feedback efficiently. Our goal is to  design a system that supports student progress while remaining sustainable for the instructional team.</p>
+
+<p><strong>Dave Largent</strong>: I’ve adopted specifications grading for the courses I teach, which uses a complete/incomplete approach when evaluating assignments, rather than assigning points or giving partial credit. For most of the assessable items, I use “Complete,” “Needs revision,” and “Missing.” For larger assignments, where I want to provide a bit of granularity, I use “Master,” “Proficient,” “Starter,”, and “Unassessable.” This has worked well, paired with the learner’s ability to (re-)submit assignments after the due date with no penalty in the grade earned.</p>
+
+<p>Believing that “performance” is not something that should determine the course grade, I do not induce attendance when calculating it. Lastly, I have the learners negotiate some of the course’s grading policies with the other learners. I’ve always reserved the right to overrule what they decide, but have never felt a need to do so.</p>
+
+<p><strong>Manuel Pérez-Quiñones, Adrienne Decker, Steve Edwards</strong>: For the last few years, we have explored a number of variations on flexible deadlines and published a few papers on the topic. The one constant that we keep encountering is the (difficult) balance between flexible deadlines and enabling procrastination. There are many good reasons why flexible deadlines are appropriate, among them they encourage students' continued engagement with the material, rather than making them feel hopeless and giving up. But the flexibility comes at a cost. Deadlines that are too flexible often enable  students to lean heavily on the flexibility. The result of these policies often is to promote procrastination. We have tried open assignments available till the end of the term, late submissions without penalties, deadlines open until the day before the quiz that covers the material, grace periods with small penalties, etc. In almost all cases, we continue to find students that postpone working on the assignment until a few days before the deadline and end up asking for extensions when they run out of time.</p>
+
+<p>One approach that seems to be working well is to have a strict no late submission policy. Period. All work must be submitted on time. However, because life happens, we support a "late submission ticket" policy where students can request a ticket to submit an assignment late. We restrict the late ticket in a variety of ways, either only 1 per week, or only 1 active at a time, or a limited number of tickets per student, or simply limit what the late submission ticket allows, e.g., one retake of a quiz, or a handful of submissions of projects to an auto-grader.This balance allows flexibility for those students who need the extra time but with a very clear message that you must work to the deadline posted for the assignments, encouraging students to stay engaged with the course in a timely manner.<p>
+
+        <article id="article8" class="news-article">
+            <h3>SIGCSE TS 2026 Panel Summary: Computer Science Curricula CS2023 Revisited in Light of Generative AI</h3>
+            <span class="byline">By Amruth N. Kumar</span>
+
+<p>A joint task force of the ACM, IEEE Computer Society and AAAI produced CS2023, the latest version of computer science curricular guidelines. The guidelines cover 17 knowledge areas, each of which can be operationalized into one or more courses. The advent of generative AI (GenAI) has had considerable impact on three knowledge areas in particular: Software Development Fundamentals (SDF), Software Engineering (SE) and Society, Ethics, and the Profession (SEP). This panel examined the effect of GenAI on the courses resulting from these three knowledge areas. The panelists were Richard Blumenthal, Regis University, Boulder, CO, USA, Pankaj Jalote, IIIT Delhi, India, and Titus Winters, Adobe Inc., New York, USA.</p>
+
+<p>Pankaj Jalote spoke about introductory programming courses covered by the Software Development Fundamentals (SDF) knowledge area. He maintained that while GenAI can write programs, it is still necessary for computer science students to learn how to program, since one needs to know how to write code to be able to read, verify and test the code generated by GenAI. The current challenge is to find the right balance between writing, reading and testing code. This is a time for experimentation for educators.</p>
+
+<p>Titus Winters presented about software engineering courses covered by the Software Engineering (SE) knowledge area. He pointed out that programming involves three stages: specifications, writing code and debugging/testing code. In the past, computer science courses focused primarily on writing code, seeing that as the most challenging part of programming. Now that GenAI can write code, the focus has rightfully shifted to helping students learn specifications and debugging/testing code. Furthermore, software engineering is programming + time + people. Time refers to code quality, the ability to maintain code over the long term. People refers to the collaborative nature of large projects, as also the issues of ethics, equity, and inclusion in their design and implementation. Both time and people are aspects where GenAIs need human involvement and point to how computer science education should adapt to the availability of GenAIs.</p>
+
+<p>Rick Blumenthal discussed the cross-cutting theme of Society, Ethics, and the Profession (SEP) knowledge area. He emphasized the need for computer science graduates to be able to assess whether the solutions produced by GenAI also adequately address societal impacts of the solutions. This is a human dimension of computing solutions that GenAIs would not be able to address by themselves.</p>
+
+<p>Some interesting remarks heard at the panel include:</p>
+<ul>
+<li>All this while, as educators, we have been providing perfect GenAI prompts to our students by way of specification of programming assignments. Now, we may have to teach our students how to provide such specifications to GenAI.</li>
+<li>GenAI is yet another layer of abstraction. Elaborating on this theme, GenAI adds to the long line of abstractions from memory locations to variables, data types, abstract data types, classes and components. High-level-programming may follow the fate of Assembly language programming: still useful, but no longer universal.</li>
+<li>The focus of programming should always have been the process of programming, i.e., computational thinking. The process can at best be formatively assessed. On the other hand, the product of programming, i.e., the program itself, was easy to summatively assess, e.g., with unit tests. The availability of GenAI is forcing educators to revisit teaching to promote and assess the process instead of the product.</li>
+</ul>
+
+        <article id="article9" class="news-article">
+            <h3>ACM Appoints Alison Derbenwick Miller as CEO and Executive Director</h3>
+            <span class="byline">By Jim Ormond</span>
+
+                        <figure class="figure-left" style="max-width: 300px">
+                            <a href="#img9">
+                                <img src="Derbenwick%20Miller.jpg" alt="Image of Alison Derbenwick Miller" />
+                            </a>
+                            <figcaption>
+                               ACM CEO and Executive Director Alison Derbenwick Miller. Photo credit: ACM
+                            </figcaption>
+                        </figure>
+
+                        <div id="img9" class="modal-overlay">
+                            <a href="#" class="modal-close-layer"></a>
+                            <div class="modal-content">
+                                <img src="Derbenwick%20Miller.jpg" alt="Image of Alison Derbenwick Miller" />
+                                <p>ACM CEO and Executive Director Alison Derbenwick Miller. Photo credit: ACM</p>
+                                <a href="#" class="close-button">&times;</a>
+                            </div>
+                        </div>
+
+			<p>ACM has announced the appointment of Alison Derbenwick Miller as its Chief Executive Officer and Executive Director, effective August 3, 2026.</p>
+
+<p>Derbenwick Miller brings more than three decades of executive leadership experience spanning research, education, enterprise technology, and global partnerships. A longtime ACM volunteer leader, she most recently served as Co-Chair of the ACM Education Board and as an ACM Council Member-at-Large. Before assuming the role of CEO and Executive Director, Derbenwick Miller served as Chief Research Officer at Elev8Data following more than 30 years at Oracle.</p>
+
+<p>As CEO and Executive Director, Derbenwick Miller will work alongside ACM's volunteer leadership and professional staff to strengthen the Association's role as the global home for the computing community while advancing its mission of research, education, professional development, and scientific collaboration.</p>
+
+<p>“Alison brings an outstanding combination of executive leadership, strategic vision, and a deep understanding of ACM's mission,” said Elisa Bertino, President of ACM. “Throughout her career, she has built global organizations, expanded opportunities in computing education and research, and forged meaningful partnerships across academia, industry, and government. Combined with her longstanding service to ACM, those experiences make her exceptionally well qualified to lead the Association as computing continues to evolve and shape our world. I look forward to working with Alison as we continue to strengthen ACM's role as the global home for the computing community.”</p>
+
+<p>During her tenure at Oracle, Derbenwick Miller founded Oracle for Research, accelerating it into a global organization serving 840 institutions across 41 countries. As Vice President of Oracle Academy, she grew the program's reach from approximately 1.5 million to 6 million+ students annually while building long-term partnerships with universities, governments, and professional societies worldwide. Her leadership also included securing more than $200 million in Oracle funding for research and education initiatives, and representing various organizations in international research, education, and policy forums.</p>
+
+<p>“ACM has long been the place where the computing community comes together to advance ideas, share knowledge, and shape the future of our profession,” said Derbenwick Miller. “As AI, quantum computing, and other emerging technologies reshape nearly every aspect of society, the computing community is expanding across industries and academic disciplines. At this moment, ACM's mission has never been more important. I look forward to working with our members, volunteers, partners, and staff to welcome new computing communities, strengthen ACM's impact, and ensure both current and the next generation of computing professionals continue to lead with technical excellence and a commitment to the public good.”</p>
+
+<p>An active ACM volunteer for more than a decade, Derbenwick Miller has also served as a member of the ACM Presidential Taskforce on Finance and on the Board of the Computer Science Teachers Association (CSTA). Her deep knowledge of the Association, combined with decades of executive leadership experience, uniquely positions her to lead ACM through its next chapter.</p>
+
+<p>A graduate of Stanford University with University Distinction, Derbenwick Miller earned Bachelor's Degrees in History (with honors) and Communication (Journalism). She later earned a Master's Degree in Jurisprudence and Social Policy from the UC Berkeley School of Law. Her interests span computing education, intellectual property law, women in technology, and the intersection of high-performance computing and scientific research. She lives in Castle Pines, Colorado, with her husband and two children.</p>
+
+            
+        <article id="articleX" class="news-article">
+            <h3>Member Spotlight: Bethany Edmunds</h3>
+            <span class="byline">Bethany Edmunds is a Teaching Professor and Associate Dean in the Khoury School of Computer Sciences at Northeastern University.</span>
+            
+            
+                <figure class="figure-left" style="max-width: 300px">
+                 <a href="#imgX">
+                     <img src="Bethany%20Edmunds.jpg" alt="image of Bethany Edmunds">
+                 </a>
+                 <figcaption>Bethany Edmunds. Photo credit: Khoury College of Computer Sciences.</figcaption>
+             </figure>
+
+             <div id="imgX" class="modal-overlay">
+                 <a href="#" class="modal-close-layer"></a>
+                 <div class="modal-content">
+                     <img src="Bethany%20Edmunds.jpg" alt="image of Bethany Edmunds">
+                     <p>Bethany Edmunds.  Photo credit: Khoury College of Computer Sciences.</p>
+                     <a href="#" class="close-button">&times;</a>
+                 </div>
+             </div>
+   
+            <strong>How did you first get involved with the CS education community?</strong>
+            <p>I feel like I was pretty late to it. I was initially introduced to the rich body of research in CS Education when I became Program Head at British Columbia Institute of Technology and was researching inclusive pedagogical methodologies as part of a program revision. However, it wasn’t until I joined Khoury College of Computer Sciences at Northeastern University in 2019 that I learned how vibrant of a field it was. Since then, I’ve really enjoyed meeting so many people across the discipline who have the same passion for quality CS education as I do.</p>
+            <strong>Can you describe some of the ways you have been involved in developing and enhancing computer science education? </strong>
+            <p>I’ve been really fortunate to be part of some program updates and campus creations which have allowed me to do some really fun revisions of curriculum, programming, and infrastructure.  With a focus on maximizing inclusion and engagement, my teams and I have modified course schedules to make sure that there are shared free times across all students to allow for industry speakers, worked with facilities teams to design classrooms and purchase furniture for maximum flexibility for faculty, changed entire programs to use flipped methodology, and created numerous trainings on innovative and inclusive pedagogical practices.
+	     <a href="https://www.khoury.northeastern.edu/bethany-edmunds-has-spent-15-years-asking-who-cs-leaves-out-and-rebuilding-it-accordingly/" target="_blank">(More details are here)</a></p>
+            <strong>Where do you think computer science education is headed in the next 5-10 years?</strong>
+            <p>As mentioned before, I think that the advancement of artificial intelligence will call into question the value of both the study of computer science and the role of professor. However, I have no doubt in either of them.  A more difficult challenge will be the role that the tech industry is taking in shaping society and whether we will change our programming in any way to reflect that.</p>
+            <strong>What do you think are the biggest challenges facing the community?</strong>
+            <p>I think the fact that DEI has become a political issue is a real challenge. Organizations in some countries have to choose between previous DEI practices and funding. However, I think that CS educators can continue encourage and support their students no matter
+ their background. They can talk to their classes about who is not in the classroom and why not. Now that enrolments in the field are down across the board, we may be able to ask ourselves how we can change our recruitment and retention policies to have a more
+ diversified field.</p>
+            <strong>What do you enjoy doing when you are not working?</strong>
+            <p>I enjoy orienteering with my family when I can.  It’s a lesser-known sport where individuals run through the woods navigating with a map and compass.</p>
+         </article>
+        
+    </div>
+</body>
+</html>

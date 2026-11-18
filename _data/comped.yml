@@ -1,12 +1,12 @@
 committees:
 - name: Steering Committee
   members:
-  - name: Alison Clear
-    affiliation: Eastern Institute of Technology, Auckland, NZ (Chair)
   - name: Sue Sentence
-    affiliation: University of Cambridge, UK
+    affiliation: University of Cambridge, UK (Chair)
   - name: Mark Zarb
-    affiliation: Robert Gordon University, UK
+    affiliation: Robert Gordon University, UK (Secretary)
+  - name: Alison Clear
+    affiliation: Eastern Institute of Technology, Auckland, NZ
   - name: Dan Garcia
     affiliation: UC Berkeley, USA
   - name: Venkatesh Choppella
